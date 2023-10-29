@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766415,
+   "id": 312001,
+   "lead_time": 3.331,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ywcIjBnyad",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_beatrice_ver01",
+  "box": [
+   0.6047855553899864,
+   0.08152288162200494,
+   0.9493055629470368,
+   0.4101575189865143
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_beatrice_ver01\/data\/sn99021999\/00206539495\/1899111201\/0566\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_beatrice_ver01%2Fdata%2Fsn99021999%2F00206539495%2F1899111201%2F0566.jp2\/pct:60.47,8.16,34.46,32.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "IN",
+   "TRAINING",
+   "BRITISH",
+   "SOLDICRS."
+  ],
+  "page_seq_num": 566,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_beatrice_ver01\/data\/sn99021999\/00206539495\/1899111201\/0566.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1899-11-12",
+  "publisher": "Edward Rosewater",
+  "score": 0.9848263263702393,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_beatrice_ver01\/data\/sn99021999\/00206539495\/1899111201\/0566\/003_0_98.jpg"
+ },
+ "id": 312
+}

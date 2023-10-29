@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747665,
+   "id": 1935001,
+   "lead_time": 1.043,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lMceJJBiJr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_eustachy_ver01",
+  "box": [
+   0.008386495240114877,
+   0.3546713552167339,
+   0.1406427228462732,
+   0.6181727163968727
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_eustachy_ver01\/data\/sn83030214\/00206532567\/1920101001\/0349\/002_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_eustachy_ver01%2Fdata%2Fsn83030214%2F00206532567%2F1920101001%2F0349.jp2\/pct:0.83,35.47,13.23,26.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 349,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_eustachy_ver01\/data\/sn83030214\/00206532567\/1920101001\/0349.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1920-10-10",
+  "publisher": "New York Tribune",
+  "score": 0.9725638031959534,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_eustachy_ver01\/data\/sn83030214\/00206532567\/1920101001\/0349\/002_0_97.jpg"
+ },
+ "id": 1935
+}

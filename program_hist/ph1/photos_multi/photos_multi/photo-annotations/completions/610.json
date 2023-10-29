@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673474,
+   "id": 610001,
+   "lead_time": 1.996,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XqkCledz5v",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_eight_ver01",
+  "box": [
+   0.1304805081323876,
+   0.2035705662072639,
+   0.2494210147739783,
+   0.3996962783478644
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_eight_ver01\/data\/sn83045555\/00175049794\/1902011801\/0600\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_eight_ver01%2Fdata%2Fsn83045555%2F00175049794%2F1902011801%2F0600.jp2\/pct:13.04,20.36,11.9,19.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "HARRY",
+   "BERESFORD",
+   "BERESFORDIn",
+   "In",
+   "The",
+   "Wrong",
+   "Mr",
+   "Ir",
+   "Wright",
+   "WrluhtWl",
+   "WrightIt"
+  ],
+  "page_seq_num": 600,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_eight_ver01\/data\/sn83045555\/00175049794\/1902011801\/0600.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1902-01-18",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9831122756004333,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_eight_ver01\/data\/sn83045555\/00175049794\/1902011801\/0600\/001_0_98.jpg"
+ },
+ "id": 610
+}

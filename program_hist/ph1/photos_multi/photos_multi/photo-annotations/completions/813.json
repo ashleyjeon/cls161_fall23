@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757186,
+   "id": 813001,
+   "lead_time": 5.372,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TK9F56VdfZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_merckx_ver01",
+  "box": [
+   0.0,
+   0.7401301100587263,
+   0.24314456751973074,
+   0.8743416981587093
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_merckx_ver01\/data\/sn83045396\/print\/1905043001\/0224\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_merckx_ver01%2Fdata%2Fsn83045396%2Fprint%2F1905043001%2F0224.jp2\/pct:0.0,74.02,24.32,13.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045396",
+  "name": "The Salt Lake tribune. [volume]",
+  "ocr": [
+   "pr",
+   "s",
+   "Concrete",
+   "Bunkhouse",
+   "."
+  ],
+  "page_seq_num": 224,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_merckx_ver01\/data\/sn83045396\/print\/1905043001\/0224.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1905-04-30",
+  "publisher": "Tribune Pub. Co.",
+  "score": 0.9764952659606934,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_merckx_ver01\/data\/sn83045396\/print\/1905043001\/0224\/004_0_97.jpg"
+ },
+ "id": 813
+}

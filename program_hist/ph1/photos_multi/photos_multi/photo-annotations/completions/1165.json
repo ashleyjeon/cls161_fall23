@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772451,
+   "id": 1165001,
+   "lead_time": 1.529,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5KlRQ2s4G5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_apache_ver02",
+  "box": [
+   0.43750696982106857,
+   0.7208548186026214,
+   0.5595530257686492,
+   0.9188546540536286
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_apache_ver02\/data\/sn85042344\/00237284537\/1910091701\/0668\/015_0_92.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Tulsa--Tulsa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_apache_ver02%2Fdata%2Fsn85042344%2F00237284537%2F1910091701%2F0668.jp2\/pct:43.75,72.09,12.21,19.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042344",
+  "name": "Tulsa daily world. [volume]",
+  "ocr": [
+   "i",
+   "I",
+   "PKTSjCBr"
+  ],
+  "page_seq_num": 668,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_apache_ver02\/data\/sn85042344\/00237284537\/1910091701\/0668.jp2",
+  "place_of_publication": "Tulsa, Indian Territory [Okla.]",
+  "pub_date": "1910-09-17",
+  "publisher": "J.R. Brady",
+  "score": 0.9288119673728943,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_apache_ver02\/data\/sn85042344\/00237284537\/1910091701\/0668\/015_0_92.jpg"
+ },
+ "id": 1165
+}

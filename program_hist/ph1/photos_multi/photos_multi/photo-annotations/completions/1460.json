@@ -1,0 +1,80 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673710,
+   "id": 1460001,
+   "lead_time": 8.496,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_juanita_ver01",
+  "box": [
+   0.37074152037154795,
+   0.23291864354211372,
+   0.7210547868595567,
+   0.5102852358838519
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_juanita_ver01\/data\/sn87093407\/00200290604\/1913032201\/0590\/013_0_90.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_juanita_ver01%2Fdata%2Fsn87093407%2F00200290604%2F1913032201%2F0590.jp2\/pct:37.07,23.3,35.04,27.74\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "SERGT.",
+   "JFRRY",
+   "O'CONNOR",
+   "IS",
+   "SHOCKED",
+   "SOMETHIN",
+   "G",
+   "F",
+   "I",
+   "E",
+   "R",
+   "C",
+   "E",
+   "PAINT",
+   "INC.",
+   "OF",
+   "NAKED",
+   "GIRL;",
+   "KICKS",
+   "UP",
+   "PIG",
+   "FUSS",
+   "IN",
+   "CHICAGO",
+   "AR",
+   "I",
+   "CIRCLES,",
+   "BUT",
+   "FINDS",
+   "ART",
+   "FOLKS",
+   "AREN'T",
+   "EASILY",
+   "HORRIFIED.",
+   "VKNCH",
+   "OR",
+   "JERRY",
+   "O'CONNOR",
+   "VKNI'S",
+   "1U",
+   "MII.O"
+  ],
+  "page_seq_num": 590,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_juanita_ver01\/data\/sn87093407\/00200290604\/1913032201\/0590.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1913-03-22",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9021174311637878,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_juanita_ver01\/data\/sn87093407\/00200290604\/1913032201\/0590\/013_0_90.jpg"
+ },
+ "id": 1460
+}

@@ -1,0 +1,40 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673479,
+   "id": 49001,
+   "lead_time": 3.232,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_jones_ver01",
+  "box": [
+   0.5630595626462485,
+   0.318011006282905,
+   0.8120207855666893,
+   0.4555162138696309
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_jones_ver01\/data\/sn83040592\/00212473972\/1895071301\/0720\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Kansas--Cherokee--Baxter Springs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_jones_ver01%2Fdata%2Fsn83040592%2F00212473972%2F1895071301%2F0720.jp2\/pct:56.3,31.81,24.9,13.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn83040592",
+  "name": "Baxter Springs news. [volume]",
+  "ocr": [
+   "(I"
+  ],
+  "page_seq_num": 720,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_jones_ver01\/data\/sn83040592\/00212473972\/1895071301\/0720.jp2",
+  "place_of_publication": "Baxter Springs, Kan.",
+  "pub_date": "1895-07-13",
+  "publisher": "News Co.",
+  "score": 0.9796278476715088,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_jones_ver01\/data\/sn83040592\/00212473972\/1895071301\/0720\/002_0_97.jpg"
+ },
+ "id": 49
+}

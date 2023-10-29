@@ -1,0 +1,115 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746981,
+   "id": 1605001,
+   "lead_time": 1.853,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BMc8GnRXiI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_fayette_ver01",
+  "box": [
+   0.16389591072609272,
+   0.4125512616174534,
+   0.5757639997520532,
+   0.6789496373898399
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_fayette_ver01\/data\/sn85038411\/00296028150\/1915040601\/0071\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Dauphin--Harrisburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_fayette_ver01%2Fdata%2Fsn85038411%2F00296028150%2F1915040601%2F0071.jp2\/pct:16.38,41.26,41.19,26.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038411",
+  "name": "Harrisburg telegraph. [volume]",
+  "ocr": [
+   ".",
+   "OBERLIN",
+   "STUDENTS",
+   "PRESENT",
+   "\"FRANCES,",
+   "THE",
+   "SUFFRAGETTE\"",
+   "\\",
+   "Photo",
+   "by",
+   "L.",
+   "T.",
+   "Herman.",
+   "\u2022",
+   "Students",
+   "of",
+   "the",
+   "Swatara",
+   "Township",
+   "High",
+   "School,",
+   "Oberlin,",
+   "will",
+   "present",
+   "\"Frances,",
+   "the",
+   "Suffragette,\"",
+   "a",
+   "comedy,",
+   "in",
+   "the",
+   "the",
+   "cast",
+   "have",
+   "been",
+   "holding",
+   "regular",
+   "re",
+   "hearsals",
+   "and",
+   "have",
+   "perfected",
+   "their",
+   "parts.",
+   "In",
+   "the",
+   "cast,",
+   "as",
+   "shown",
+   "in",
+   "th%",
+   "above",
+   "Esther",
+   "Stouffer,",
+   "Claire",
+   "Stewart,",
+   "Ruby",
+   "Thumma.",
+   "Ethel",
+   "Rupp,",
+   "Grace",
+   "Gluntz,",
+   "Harry",
+   "Papenfus,",
+   "Frank",
+   "Horstick."
+  ],
+  "page_seq_num": 71,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_fayette_ver01\/data\/sn85038411\/00296028150\/1915040601\/0071.jp2",
+  "place_of_publication": "Harrisburg, Pa.",
+  "pub_date": "1915-04-06",
+  "publisher": "C.H. Bergner",
+  "score": 0.9793816804885864,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_fayette_ver01\/data\/sn85038411\/00296028150\/1915040601\/0071\/005_0_97.jpg"
+ },
+ "id": 1605
+}

@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767770,
+   "id": 1603001,
+   "lead_time": 2.352,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JIlBsLf2NI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_andover_ver01",
+  "box": [
+   0.0496171089789336,
+   0.24802074729879767,
+   0.15923130253598064,
+   0.38173713882419846
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_andover_ver01\/data\/sn82014086\/00295866020\/1915120401\/0337\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Connecticut--New London--Norwich"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_andover_ver01%2Fdata%2Fsn82014086%2F00295866020%2F1915120401%2F0337.jp2\/pct:4.96,24.81,10.97,13.38\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014086",
+  "name": "Norwich bulletin. [volume]",
+  "ocr": [
+   "MADAME",
+   "POVLA",
+   "FRISCH,",
+   "Si",
+   "v..",
+   ";",
+   "i",
+   "lint",
+   "mi'",
+   "-.mtn-rn.l",
+   ",,-",
+   "W-",
+   "tf",
+   "r.ui.",
+   "...J"
+  ],
+  "page_seq_num": 337,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_andover_ver01\/data\/sn82014086\/00295866020\/1915120401\/0337.jp2",
+  "place_of_publication": "Norwich, Conn.",
+  "pub_date": "1915-12-04",
+  "publisher": "Bulletin Co.",
+  "score": 0.9391811490058899,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_andover_ver01\/data\/sn82014086\/00295866020\/1915120401\/0337\/006_0_93.jpg"
+ },
+ "id": 1603
+}

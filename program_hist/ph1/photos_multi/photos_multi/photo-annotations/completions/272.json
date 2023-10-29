@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757428,
+   "id": 272001,
+   "lead_time": 4.349,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "grfl_tagEq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_kryptonite_ver01",
+  "box": [
+   0.5590929023186024,
+   0.3218644791343569,
+   0.8162774998742623,
+   0.5637794665012407
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_kryptonite_ver01\/data\/sn86069180\/00100481790\/1898111201\/0096\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Jefferson--Louisville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_kryptonite_ver01%2Fdata%2Fsn86069180%2F00100481790%2F1898111201%2F0096.jp2\/pct:55.9,32.19,25.72,24.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069180",
+  "name": "Kentucky Irish American.",
+  "ocr": [
+   "LOUISVILLE'S",
+   "CONGRESSMAN."
+  ],
+  "page_seq_num": 96,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_kryptonite_ver01\/data\/sn86069180\/00100481790\/1898111201\/0096.jp2",
+  "place_of_publication": "Louisville, Ky.",
+  "pub_date": "1898-11-12",
+  "publisher": "William M. Higgins",
+  "score": 0.971050500869751,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_kryptonite_ver01\/data\/sn86069180\/00100481790\/1898111201\/0096\/005_0_97.jpg"
+ },
+ "id": 272
+}

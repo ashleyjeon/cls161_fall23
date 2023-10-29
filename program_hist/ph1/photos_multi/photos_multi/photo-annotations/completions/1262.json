@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675590,
+   "id": 1262001,
+   "lead_time": 3.127,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "p5VbLOpeRO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_lewis_ver01",
+  "box": [
+   0.4371223270613263,
+   0.8082102323074196,
+   0.702471895173122,
+   0.9872729969084751
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_lewis_ver01\/data\/sn83030214\/00206531435\/1911072301\/0484\/003_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_lewis_ver01%2Fdata%2Fsn83030214%2F00206531435%2F1911072301%2F0484.jp2\/pct:43.71,80.83,26.54,17.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 484,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_lewis_ver01\/data\/sn83030214\/00206531435\/1911072301\/0484.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1911-07-23",
+  "publisher": "New York Tribune",
+  "score": 0.9008945226669312,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_lewis_ver01\/data\/sn83030214\/00206531435\/1911072301\/0484\/003_0_90.jpg"
+ },
+ "id": 1262
+}

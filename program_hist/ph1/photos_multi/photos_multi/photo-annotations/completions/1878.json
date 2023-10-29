@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757022,
+   "id": 1878001,
+   "lead_time": 3.296,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mPMylLK0cn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_dillpickle_ver01",
+  "box": [
+   0.43938808419945774,
+   0.14594013628682473,
+   0.5638866997401627,
+   0.37567025548586247
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_dillpickle_ver01\/data\/sn86063952\/00295864369\/1919022701\/0407\/009_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_dillpickle_ver01%2Fdata%2Fsn86063952%2F00295864369%2F1919022701%2F0407.jp2\/pct:43.93,14.6,12.45,22.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "Tculptor,",
+   "Who",
+   "Chiselled",
+   "Statu",
+   "of",
+   "Liberty",
+   "Head,",
+   "Is",
+   "Still",
+   "at",
+   "Vork",
+   "at",
+   "78",
+   "Tf",
+   "v.",
+   ",",
+   "i'i",
+   "v,-",
+   ";",
+   "X",
+   "v",
+   "I",
+   ".",
+   "S",
+   "1",
+   ","
+  ],
+  "page_seq_num": 407,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864369\/1919022701\/0407.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1919-02-27",
+  "publisher": "Roy Hoffman",
+  "score": 0.9764586687088013,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864369\/1919022701\/0407\/009_0_97.jpg"
+ },
+ "id": 1878
+}

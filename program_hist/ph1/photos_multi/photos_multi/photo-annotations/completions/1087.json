@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763857,
+   "id": 1087001,
+   "lead_time": 3.09,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_hemlock_ver02",
+  "box": [
+   0.4034008096765589,
+   0.6267472553497915,
+   0.5178468139083298,
+   0.8027672159865537
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_hemlock_ver02\/data\/sn87093407\/00211107479\/1909111901\/0791\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_hemlock_ver02%2Fdata%2Fsn87093407%2F00211107479%2F1909111901%2F0791.jp2\/pct:40.34,62.68,11.45,17.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "*",
+   "\u00ab**\u00ab\u00bb\u2022\u2022\u00bb\u00ab\u00ab\u00ab\u00ab*\u00ab\u00ab",
+   "KISS",
+   "AND",
+   "THREE-CUSHIOH",
+   "CAROM.",
+   "'ittt",
+   "Ij"
+  ],
+  "page_seq_num": 791,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_hemlock_ver02\/data\/sn87093407\/00211107479\/1909111901\/0791.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1909-11-19",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9729979038238525,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_hemlock_ver02\/data\/sn87093407\/00211107479\/1909111901\/0791\/006_0_97.jpg"
+ },
+ "id": 1087
+}

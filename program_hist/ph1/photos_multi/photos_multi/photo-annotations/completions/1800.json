@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768378,
+   "id": 1800001,
+   "lead_time": 1.471,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pY7Qe9iYY-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_eadweard_ver01",
+  "box": [
+   0.07312041237240746,
+   0.07768981964080841,
+   0.19915718805222285,
+   0.2461283833354146
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_eadweard_ver01\/data\/sn90061556\/00200292066\/1918060101\/0579\/009_0_95.jpg",
+  "geographic_coverage": [
+   "Missouri--Jackson--Kansas City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_eadweard_ver01%2Fdata%2Fsn90061556%2F00200292066%2F1918060101%2F0579.jp2\/pct:7.31,7.77,12.61,16.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn90061556",
+  "name": "The Kansas City sun.",
+  "ocr": [
+   "DR.",
+   "LON",
+   "M.",
+   "TILLMAN.",
+   "Dr.",
+   "L.",
+   "M.",
+   "Tillman",
+   "desires",
+   "to",
+   "an",
+   "nounce",
+   "to",
+   "his",
+   "many",
+   "patrons",
+   "and",
+   "friends",
+   "that",
+   "he",
+   "Is",
+   "now",
+   "located",
+   "In",
+   "his",
+   "own",
+   "building",
+   "at",
+   "the",
+   "nodthwest",
+   "corner",
+   "of",
+   "17th",
+   "and",
+   "Lydla",
+   "Avenue",
+   "where",
+   "he"
+  ],
+  "page_seq_num": 579,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_eadweard_ver01\/data\/sn90061556\/00200292066\/1918060101\/0579.jp2",
+  "place_of_publication": "Kansas City, Mo.",
+  "pub_date": "1918-06-01",
+  "publisher": "N.C. Crews",
+  "score": 0.9557932019233704,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_eadweard_ver01\/data\/sn90061556\/00200292066\/1918060101\/0579\/009_0_95.jpg"
+ },
+ "id": 1800
+}

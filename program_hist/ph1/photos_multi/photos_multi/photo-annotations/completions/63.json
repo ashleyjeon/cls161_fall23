@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673754,
+   "id": 63001,
+   "lead_time": 3.472,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LCdRIDUNj2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_elk_ver01",
+  "box": [
+   0.2997541877114849,
+   0.4186561867042824,
+   0.6945646832703025,
+   0.575398423936632
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_elk_ver01\/data\/sn84036012\/00294550380\/1895081101\/0527\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Montana--Deer Lodge--Anaconda"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_elk_ver01%2Fdata%2Fsn84036012%2F00294550380%2F1895081101%2F0527.jp2\/pct:29.97,41.87,39.49,15.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn84036012",
+  "name": "The Anaconda standard. [volume]",
+  "ocr": [
+   "*;",
+   "'^i^'..I",
+   "mr,.",
+   "^j",
+   "ySaSSlpri*mmmmom**",
+   ""
+  ],
+  "page_seq_num": 527,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_elk_ver01\/data\/sn84036012\/00294550380\/1895081101\/0527.jp2",
+  "place_of_publication": "Anaconda, Mont.",
+  "pub_date": "1895-08-11",
+  "publisher": "Standard Pub. Co.",
+  "score": 0.9935448169708252,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_elk_ver01\/data\/sn84036012\/00294550380\/1895081101\/0527\/000_0_99.jpg"
+ },
+ "id": 63
+}

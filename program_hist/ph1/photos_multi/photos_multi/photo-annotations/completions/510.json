@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766934,
+   "id": 510001,
+   "lead_time": 4.203,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "26FvopFq5-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_orwell_ver01",
+  "box": [
+   0.5816572015935725,
+   0.05057921156836113,
+   0.9598085576837713,
+   0.297711779379352
+  ],
+  "edition_seq_num": 2,
+  "filepath": "vtu_orwell_ver01\/data\/sn86071719\/00280777730\/1901080702\/1128\/002_0_99.jpg",
+  "geographic_coverage": [
+   "Vermont--Washington--Montpelier"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_orwell_ver01%2Fdata%2Fsn86071719%2F00280777730%2F1901080702%2F1128.jp2\/pct:58.16,5.06,37.82,24.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn86071719",
+  "name": "The Vermont watchman.",
+  "ocr": [
+   "ELBURNE",
+   "FAHMS"
+  ],
+  "page_seq_num": 1128,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_orwell_ver01\/data\/sn86071719\/00280777730\/1901080702\/1128.jp2",
+  "place_of_publication": "Montpelier, Vt.",
+  "pub_date": "1901-08-07",
+  "publisher": "W.W. Prescott",
+  "score": 0.9928815364837646,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_orwell_ver01\/data\/sn86071719\/00280777730\/1901080702\/1128\/002_0_99.jpg"
+ },
+ "id": 510
+}

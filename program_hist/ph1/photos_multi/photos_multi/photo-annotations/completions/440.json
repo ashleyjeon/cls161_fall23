@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749671,
+   "id": 440001,
+   "lead_time": 4.628,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dnSa9bgbNB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_fiji_ver01",
+  "box": [
+   0.3428000506654956,
+   0.5702471853195201,
+   0.6602695928019168,
+   0.8094981838197753
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900102401\/0420\/002_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_fiji_ver01%2Fdata%2Fsn83030214%2F00175040936%2F1900102401%2F0420.jp2\/pct:34.28,57.03,31.75,23.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "nON'ECK-S",
+   "RArVES",
+   "LAW",
+   "HOTEL.",
+   "East",
+   "Twenty-eightb-st.",
+   "and",
+   "Second-aye"
+  ],
+  "page_seq_num": 420,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900102401\/0420.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-10-24",
+  "publisher": "New York Tribune",
+  "score": 0.9815585017204285,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900102401\/0420\/002_0_98.jpg"
+ },
+ "id": 440
+}

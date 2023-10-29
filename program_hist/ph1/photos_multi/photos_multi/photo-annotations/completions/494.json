@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757372,
+   "id": 494001,
+   "lead_time": 85.782,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BgVJ05eSyo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_maple_ver01",
+  "box": [
+   0.2561411443746315,
+   0.38321143923781986,
+   0.36821896535045695,
+   0.5248444324403297
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_maple_ver01\/data\/sn92051487\/00271763281\/1901040501\/0378\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Connecticut--Fairfield--Newtown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_maple_ver01%2Fdata%2Fsn92051487%2F00271763281%2F1901040501%2F0378.jp2\/pct:25.61,38.33,11.21,14.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051487",
+  "name": "The Newtown bee.",
+  "ocr": [
+   "ANDREW",
+   "B.",
+   "MYGATT."
+  ],
+  "page_seq_num": 378,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_maple_ver01\/data\/sn92051487\/00271763281\/1901040501\/0378.jp2",
+  "place_of_publication": "Newtown, Conn.",
+  "pub_date": "1901-04-05",
+  "publisher": "A.A. Bensel",
+  "score": 0.9727937579154968,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_maple_ver01\/data\/sn92051487\/00271763281\/1901040501\/0378\/001_0_97.jpg"
+ },
+ "id": 494
+}

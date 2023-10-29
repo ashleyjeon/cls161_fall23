@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751343,
+   "id": 152001,
+   "lead_time": 1.666,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kx0fOBuhmN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_kauai_ver01",
+  "box": [
+   0.4443963071638921,
+   0.14610361749414338,
+   0.5933662961205218,
+   0.2942045608369431
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545\/002_0_97.jpg",
+  "geographic_coverage": [
+   "South Dakota--Union--Elk Point"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523593%2F1896052101%2F0545.jp2\/pct:44.43,14.62,14.9,14.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022137",
+  "name": "Union County courier. [volume]",
+  "ocr": [
+   "F.",
+   "M.",
+   "(J",
+   "ILMOHE,\u2014President",
+   "of",
+   "Hoard."
+  ],
+  "page_seq_num": 545,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545.jp2",
+  "place_of_publication": "Elk Point, Union County, D.T. [S.D.]",
+  "pub_date": "1896-05-21",
+  "publisher": "C.F. Mallahan",
+  "score": 0.9736326932907104,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545\/002_0_97.jpg"
+ },
+ "id": 152
+}

@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747989,
+   "id": 1192001,
+   "lead_time": 1.755,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xQjGGzNjdw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_beryl_ver01",
+  "box": [
+   0.027786346847548896,
+   0.3280819375576568,
+   0.1408831781223632,
+   0.47223679658671586
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_beryl_ver01\/data\/sn86074065\/00383343707\/1910042701\/0412\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Mississippi--Lincoln--Brookhaven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_beryl_ver01%2Fdata%2Fsn86074065%2F00383343707%2F1910042701%2F0412.jp2\/pct:2.77,32.81,11.31,14.42\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074065",
+  "name": "The Semi-weekly leader.",
+  "ocr": [
+   "L-...",
+   "..",
+   ".",
+   "I",
+   ".I.",
+   "SENATOR",
+   "THEO.",
+   "G.",
+   "BILBO."
+  ],
+  "page_seq_num": 412,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_beryl_ver01\/data\/sn86074065\/00383343707\/1910042701\/0412.jp2",
+  "place_of_publication": "Brookhaven, Miss.",
+  "pub_date": "1910-04-27",
+  "publisher": "B.T. Hobbs",
+  "score": 0.9854119420051575,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_beryl_ver01\/data\/sn86074065\/00383343707\/1910042701\/0412\/002_0_98.jpg"
+ },
+ "id": 1192
+}

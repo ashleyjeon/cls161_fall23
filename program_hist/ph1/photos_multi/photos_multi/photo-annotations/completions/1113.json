@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767402,
+   "id": 1113001,
+   "lead_time": 2.555,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DvhPEGa3yc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_hufnagel_ver02",
+  "box": [
+   0.059611869963589095,
+   0.07668836986946587,
+   0.31034180765383557,
+   0.32910330034310287
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_hufnagel_ver02\/data\/97071090\/00200298135\/1909112401\/0174\/006_0_97.jpg",
+  "geographic_coverage": [
+
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_hufnagel_ver02%2Fdata%2F97071090%2F00200298135%2F1909112401%2F0174.jp2\/pct:5.96,7.67,25.08,25.25\/!500,500\/0\/default.jpg",
+  "lccn": "97071090",
+  "name": "Medford mail tribune. (Medford, Or.) 1909-1989. [online resource]",
+  "ocr": [
+   "BISHOP",
+   "ISSUES",
+   "THANKSGtVING",
+   "PASTORAL"
+  ],
+  "page_seq_num": 174,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_hufnagel_ver02\/data\/97071090\/00200298135\/1909112401\/0174.jp2",
+  "place_of_publication": "Oregon.",
+  "pub_date": "1909-11-24",
+  "publisher": null,
+  "score": 0.9767504334449768,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_hufnagel_ver02\/data\/97071090\/00200298135\/1909112401\/0174\/006_0_97.jpg"
+ },
+ "id": 1113
+}

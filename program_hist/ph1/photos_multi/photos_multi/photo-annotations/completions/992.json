@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768763,
+   "id": 992001,
+   "lead_time": 4.957,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MuaxxCSM2X",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_iago_ver01",
+  "box": [
+   0.5938885083522395,
+   0.2447693699625283,
+   0.9637940024882904,
+   0.48360667509191174
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_iago_ver01\/data\/sn82016413\/00237286157\/1907052201\/0218\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_iago_ver01%2Fdata%2Fsn82016413%2F00237286157%2F1907052201%2F0218.jp2\/pct:59.38,24.48,37.0,23.89\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016413",
+  "name": "Evening bulletin. [volume]",
+  "ocr": [
+   "Brink",
+   "of",
+   "Hawaii's",
+   "Crater"
+  ],
+  "page_seq_num": 218,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_iago_ver01\/data\/sn82016413\/00237286157\/1907052201\/0218.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1907-05-22",
+  "publisher": "[publisher not identified]",
+  "score": 0.9861704111099243,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_iago_ver01\/data\/sn82016413\/00237286157\/1907052201\/0218\/004_0_98.jpg"
+ },
+ "id": 992
+}

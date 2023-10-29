@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611756954,
+   "id": 1463001,
+   "lead_time": 2.469,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "AizRzblO3E",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_juanita_ver01",
+  "box": [
+   0.15604720743220085,
+   0.3228035716057631,
+   0.3920176863268068,
+   0.5613096335699355
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_juanita_ver01\/data\/sn87093407\/00200290628\/1914020901\/0761\/009_0_91.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_juanita_ver01%2Fdata%2Fsn87093407%2F00200290628%2F1914020901%2F0761.jp2\/pct:15.6,32.29,23.6,23.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "row",
+   "4",
+   "t>r",
+   "Oar",
+   "Mltiwr",
+   "\u2022(",
+   "th*",
+   "\u2022",
+   "ThMir*",
+   "And",
+   "he.",
+   ".Parmenter,",
+   "waa",
+   "the",
+   "\"M'ra.\"",
+   "murmured",
+   "the",
+   "Hon",
+   "Horace,",
+   "leaning",
+   "out",
+   "of",
+   "the",
+   "window"
+  ],
+  "page_seq_num": 761,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_juanita_ver01\/data\/sn87093407\/00200290628\/1914020901\/0761.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1914-02-09",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.911827802658081,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_juanita_ver01\/data\/sn87093407\/00200290628\/1914020901\/0761\/009_0_91.jpg"
+ },
+ "id": 1463
+}

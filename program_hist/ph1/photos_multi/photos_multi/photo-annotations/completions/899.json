@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746029,
+   "id": 899001,
+   "lead_time": 2.4,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "L-wMNXOOJL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_delta_ver01",
+  "box": [
+   0.3186179181250719,
+   0.07494578454487835,
+   0.4481198083619624,
+   0.29988905712754615
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_delta_ver01\/data\/sn84026749\/100492647\/1906093001\/0375\/002_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_delta_ver01%2Fdata%2Fsn84026749%2F100492647%2F1906093001%2F0375.jp2\/pct:31.86,7.5,12.96,22.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "SERVICE",
+   "EXAMINER",
+   "MAJ",
+   "MAJIIIATTHEW",
+   "MATTHEW",
+   "F",
+   "HALLOKAft",
+   "HALLOKAftWho",
+   "HALLORANWho",
+   "HALLOIA",
+   "HALLOIAWho",
+   "Who",
+   "I",
+   "II",
+   "in",
+   "Constant",
+   "Touch",
+   "With",
+   "Men",
+   "MenOutside",
+   "MenOuuidl",
+   "MenOutside",
+   "Outside",
+   "the",
+   "Government",
+   "Service",
+   "ServiceInr",
+   "ServiceI"
+  ],
+  "page_seq_num": 375,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_delta_ver01\/data\/sn84026749\/100492647\/1906093001\/0375.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1906-09-30",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9838371872901917,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_delta_ver01\/data\/sn84026749\/100492647\/1906093001\/0375\/002_0_98.jpg"
+ },
+ "id": 899
+}

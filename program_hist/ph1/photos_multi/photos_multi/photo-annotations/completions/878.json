@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767504,
+   "id": 878001,
+   "lead_time": 2.177,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Jc-p1pkkoj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_christiana_ver01",
+  "box": [
+   0.4149408373377266,
+   0.21990243264116743,
+   0.5445766997694009,
+   0.3558556849829329
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_christiana_ver01\/data\/sn85042354\/00383343540\/1906120301\/0841\/014_0_93.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_christiana_ver01%2Fdata%2Fsn85042354%2F00383343540%2F1906120301%2F0841.jp2\/pct:41.49,22.0,12.97,13.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "\u25a0",
+   "\u00bb",
+   "Site",
+   ";",
+   "J",
+   "\u25a0",
+   "\u00ab\u2022",
+   "U.",
+   "S.",
+   "Senator",
+   "u.",
+   "l-rank",
+   "Alice."
+  ],
+  "page_seq_num": 841,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_christiana_ver01\/data\/sn85042354\/00383343540\/1906120301\/0841.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1906-12-03",
+  "publisher": "J. Milton Davidson",
+  "score": 0.9370673298835754,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_christiana_ver01\/data\/sn85042354\/00383343540\/1906120301\/0841\/014_0_93.jpg"
+ },
+ "id": 878
+}

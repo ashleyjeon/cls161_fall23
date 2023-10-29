@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767777,
+   "id": 1919001,
+   "lead_time": 1.938,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "E7kK1yaRdJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_hawaii_ver01",
+  "box": [
+   0.4471367441206612,
+   0.12596563259816623,
+   0.5729844777303822,
+   0.37118170609672724
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_hawaii_ver01\/data\/sn99062034\/00279522655\/1919062001\/0783\/009_0_95.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lake--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_hawaii_ver01%2Fdata%2Fsn99062034%2F00279522655%2F1919062001%2F0783.jp2\/pct:44.71,12.6,12.59,24.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn99062034",
+  "name": "The Madison daily leader. [volume]",
+  "ocr": [
+   "KING",
+   "ALFONSO",
+   "Spanish",
+   "Ruler",
+   "is",
+   "Under",
+   "Care",
+   "of",
+   "His",
+   "Physicians.",
+   "King",
+   "Alfon&o",
+   "oi",
+   "iutluiyused",
+   "and",
+   "is",
+   "remaining",
+   "hi",
+   "his",
+   "room",
+   "on",
+   "the"
+  ],
+  "page_seq_num": 783,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_hawaii_ver01\/data\/sn99062034\/00279522655\/1919062001\/0783.jp2",
+  "place_of_publication": "Madison, S.D.",
+  "pub_date": "1919-06-20",
+  "publisher": "J.F. Stahl",
+  "score": 0.9591392874717712,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_hawaii_ver01\/data\/sn99062034\/00279522655\/1919062001\/0783\/009_0_95.jpg"
+ },
+ "id": 1919
+}

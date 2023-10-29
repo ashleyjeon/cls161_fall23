@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741125,
+   "id": 238001,
+   "lead_time": 2.501,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EdxOpIkAl9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_animals_ver01",
+  "box": [
+   0.4998416833710252,
+   0.14613557007748768,
+   0.6109169943290844,
+   0.27593203712530806
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_animals_ver01\/data\/sn92051501\/00211763670\/1898100601\/0385\/011_0_90.jpg",
+  "geographic_coverage": [
+   "Connecticut--Tolland--Stafford Springs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_animals_ver01%2Fdata%2Fsn92051501%2F00211763670%2F1898100601%2F0385.jp2\/pct:49.98,14.62,11.11,12.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051501",
+  "name": "The Press.",
+  "ocr": [
+   "E.",
+   "STEVENS",
+   "HENRY."
+  ],
+  "page_seq_num": 385,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_animals_ver01\/data\/sn92051501\/00211763670\/1898100601\/0385.jp2",
+  "place_of_publication": "Stafford Springs, Conn.",
+  "pub_date": "1898-10-06",
+  "publisher": "James McLaughlin",
+  "score": 0.9001239538192749,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_animals_ver01\/data\/sn92051501\/00211763670\/1898100601\/0385\/011_0_90.jpg"
+ },
+ "id": 238
+}

@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743366,
+   "id": 639001,
+   "lead_time": 1.688,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kpF12FwTPm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_lila_ver02",
+  "box": [
+   0.5836604637435719,
+   0.27869556482203206,
+   0.7183552673597376,
+   0.4091052181014376
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_lila_ver02\/data\/sn88064176\/00211100898\/1903011001\/0228\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Louisiana--Grant--Colfax"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_lila_ver02%2Fdata%2Fsn88064176%2F00211100898%2F1903011001%2F0228.jp2\/pct:58.36,27.87,13.47,13.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064176",
+  "name": "The Colfax chronicle. [volume]",
+  "ocr": [
+   "MISS",
+   "MITSEN",
+   "OKADA."
+  ],
+  "page_seq_num": 228,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_lila_ver02\/data\/sn88064176\/00211100898\/1903011001\/0228.jp2",
+  "place_of_publication": "Colfax, Grant Parish, La.",
+  "pub_date": "1903-01-10",
+  "publisher": "H.G. Goodwyn",
+  "score": 0.915317952632904,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_lila_ver02\/data\/sn88064176\/00211100898\/1903011001\/0228\/008_0_91.jpg"
+ },
+ "id": 639
+}

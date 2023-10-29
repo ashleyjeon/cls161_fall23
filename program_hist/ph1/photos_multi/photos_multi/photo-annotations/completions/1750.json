@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768366,
+   "id": 1750001,
+   "lead_time": 2.287,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oS-SXC9jLu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_felwort_ver01",
+  "box": [
+   0.08091387832373903,
+   0.07289296000396611,
+   0.5591175203634086,
+   0.2834075401569235
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_felwort_ver01\/data\/sn92070582\/00280774066\/1917110301\/0813\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_felwort_ver01%2Fdata%2Fsn92070582%2F00280774066%2F1917110301%2F0813.jp2\/pct:8.09,7.29,47.83,21.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070582",
+  "name": "The evening herald. [volume]",
+  "ocr": [
+   "'",
+   "STr\"-'",
+   "1",
+   "I",
+   ".",
+   "t",
+   "..",
+   "i",
+   "rv",
+   ".see-",
+   "..,",
+   ",",
+   ",",
+   "swss",
+   "\"\"\"''MlJ",
+   "I,",
+   "I",
+   "Albnquerqtt",
+   "Hit",
+   "Many",
+   "Beautifu:",
+   "Kendt'nca",
+   "Iunu"
+  ],
+  "page_seq_num": 813,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_felwort_ver01\/data\/sn92070582\/00280774066\/1917110301\/0813.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1917-11-03",
+  "publisher": "The Evening Herald",
+  "score": 0.9845750331878662,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_felwort_ver01\/data\/sn92070582\/00280774066\/1917110301\/0813\/001_0_98.jpg"
+ },
+ "id": 1750
+}

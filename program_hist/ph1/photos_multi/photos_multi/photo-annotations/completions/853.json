@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768398,
+   "id": 853001,
+   "lead_time": 6.281,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wbO2FNPNMA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_hoh_ver01",
+  "box": [
+   0.5606411080737336,
+   0.7553519465173275,
+   0.8598305045287014,
+   0.9257410247212764
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_hoh_ver01\/data\/sn87093220\/00200290380\/1906110101\/0686\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Washington--Grays Harbor--Aberdeen"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_hoh_ver01%2Fdata%2Fsn87093220%2F00200290380%2F1906110101%2F0686.jp2\/pct:56.06,75.54,29.92,17.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093220",
+  "name": "Aberdeen herald.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 686,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_hoh_ver01\/data\/sn87093220\/00200290380\/1906110101\/0686.jp2",
+  "place_of_publication": "Aberdeen, Chehalis County, W.T.",
+  "pub_date": "1906-11-01",
+  "publisher": "Aberdeen Herald",
+  "score": 0.9584048390388489,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_hoh_ver01\/data\/sn87093220\/00200290380\/1906110101\/0686\/003_0_95.jpg"
+ },
+ "id": 853
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768835,
+   "id": 1829001,
+   "lead_time": 2.688,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ilBD8gKRkG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_anita_ver01",
+  "box": [
+   0.2883149870149382,
+   0.033719323498155006,
+   0.5409029074495383,
+   0.16137891987203315
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_anita_ver01\/data\/sn85038531\/00415621206\/1918102901\/0275\/009_0_96.jpg",
+  "geographic_coverage": [
+   "Tennessee--Hamilton--Chattanooga"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_anita_ver01%2Fdata%2Fsn85038531%2F00415621206%2F1918102901%2F0275.jp2\/pct:28.83,3.38,25.26,12.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038531",
+  "name": "The Chattanooga news. [volume]",
+  "ocr": [
+   "COLLECTING",
+   "STILLS"
+  ],
+  "page_seq_num": 275,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_anita_ver01\/data\/sn85038531\/00415621206\/1918102901\/0275.jp2",
+  "place_of_publication": "Chattanooga, Tenn.",
+  "pub_date": "1918-10-29",
+  "publisher": "News Pub. Co.",
+  "score": 0.9661503434181213,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_anita_ver01\/data\/sn85038531\/00415621206\/1918102901\/0275\/009_0_96.jpg"
+ },
+ "id": 1829
+}

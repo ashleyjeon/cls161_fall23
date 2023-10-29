@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762887,
+   "id": 824001,
+   "lead_time": 1.85,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LckZGDKGPC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_bronte_ver01",
+  "box": [
+   0.0614895098137133,
+   0.15623521898124082,
+   0.20771037120136018,
+   0.320679397732311
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_bronte_ver01\/data\/sn88056095\/00295869537\/1905031801\/0423\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Idaho--Kootenai--Coeur d'Alene"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_bronte_ver01%2Fdata%2Fsn88056095%2F00295869537%2F1905031801%2F0423.jp2\/pct:6.14,15.63,14.63,16.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn88056095",
+  "name": "The Coeur d'Alene press.",
+  "ocr": [
+   "BXPKISEXTATmC",
+   "JOHN",
+   "SHARP",
+   "WILLIAMS,"
+  ],
+  "page_seq_num": 423,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_bronte_ver01\/data\/sn88056095\/00295869537\/1905031801\/0423.jp2",
+  "place_of_publication": "Coeur d'Alene, Idaho",
+  "pub_date": "1905-03-18",
+  "publisher": "J.T. Scott",
+  "score": 0.992687463760376,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_bronte_ver01\/data\/sn88056095\/00295869537\/1905031801\/0423\/003_0_99.jpg"
+ },
+ "id": 824
+}

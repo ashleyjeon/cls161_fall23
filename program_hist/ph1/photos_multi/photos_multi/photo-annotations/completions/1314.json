@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768865,
+   "id": 1314001,
+   "lead_time": 18.552,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "bYvNBHmziL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_mcqueen_ver01",
+  "box": [
+   0.5223788241366366,
+   0.07770659935655932,
+   0.9832809494064377,
+   0.22373147567516657
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_mcqueen_ver01\/data\/10021978\/00271764704\/1912060501\/0623\/001_0_92.jpg",
+  "geographic_coverage": [
+   "Georgia--Fulton--Atlanta",
+   "Virginia--Henrico--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_mcqueen_ver01%2Fdata%2F10021978%2F00271764704%2F1912060501%2F0623.jp2\/pct:52.23,7.78,46.1,14.61\/!500,500\/0\/default.jpg",
+  "lccn": "10021978",
+  "name": "The Presbyterian of the South : [combining the] Southwestern Presbyterian, Central Presbyterian, Southern Presbyterian. [volume]",
+  "ocr": [
+   "Settlor",
+   "Hull",
+   "Main",
+   "Ilul",
+   "TEXAS",
+   "PKKSBVTEHIAX",
+   "THE",
+   "GREAT",
+   "TRESBYTERIAN",
+   "SC",
+   "I",
+   "clinic",
+   "Dickson",
+   "Hall",
+   "COLLEGE",
+   "FOB",
+   "GIHI.S.",
+   "HOOL",
+   "OF",
+   "THE",
+   "SOUTHWEST,"
+  ],
+  "page_seq_num": 623,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_mcqueen_ver01\/data\/10021978\/00271764704\/1912060501\/0623.jp2",
+  "place_of_publication": "Atlanta, Ga.",
+  "pub_date": "1912-06-05",
+  "publisher": "Presbyterian Co.",
+  "score": 0.9297255873680115,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_mcqueen_ver01\/data\/10021978\/00271764704\/1912060501\/0623\/001_0_92.jpg"
+ },
+ "id": 1314
+}

@@ -1,0 +1,116 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768913,
+   "id": 1280001,
+   "lead_time": 3.464,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QH8f-2VgMe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_eastland_ver01",
+  "box": [
+   0.3174068373863143,
+   0.062324949069346824,
+   0.691434378575797,
+   0.3833048007891654
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_eastland_ver01\/data\/sn86090369\/00279520786\/1911101001\/1075\/002_0_99.jpg",
+  "geographic_coverage": [
+   "Texas--Ellis--Waxahachie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_eastland_ver01%2Fdata%2Fsn86090369%2F00279520786%2F1911101001%2F1075.jp2\/pct:31.74,6.24,37.41,32.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090369",
+  "name": "The Waxahachie daily light. [volume]",
+  "ocr": [
+   "J",
+   "I",
+   "First",
+   "Picture",
+   "of",
+   "the",
+   "Damage",
+   "Done",
+   "by",
+   "the",
+   "Terrible",
+   "Flood",
+   "Caused",
+   "by",
+   "the",
+   "Bursting",
+   "of",
+   "a",
+   "Dam",
+   "at",
+   "Austin,",
+   "Pa.",
+   "Photograph",
+   "copyright,",
+   "1911,",
+   "by",
+   "American",
+   "Press",
+   "Association",
+   "r",
+   "Hero",
+   "is",
+   "the",
+   "lirst",
+   "photograph",
+   "of",
+   "the",
+   "actual",
+   "destruction",
+   "caused",
+   "by",
+   "the",
+   "bursting",
+   "of",
+   "a",
+   "dam",
+   "at",
+   "Austin.",
+   "Pn\u201e",
+   "which",
+   "a",
+   "arge",
+   "numb,",
+   "r",
+   "of",
+   "live*",
+   "and",
+   "did",
+   "several",
+   "million",
+   "dollars",
+   "damage",
+   "to",
+   "property.",
+   "were",
+   "|"
+  ],
+  "page_seq_num": 1075,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_eastland_ver01\/data\/sn86090369\/00279520786\/1911101001\/1075.jp2",
+  "place_of_publication": "Waxahachie, Tex.",
+  "pub_date": "1911-10-10",
+  "publisher": "Jas. O. Jones and W.K. Stokes",
+  "score": 0.9915088415145874,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_eastland_ver01\/data\/sn86090369\/00279520786\/1911101001\/1075\/002_0_99.jpg"
+ },
+ "id": 1280
+}

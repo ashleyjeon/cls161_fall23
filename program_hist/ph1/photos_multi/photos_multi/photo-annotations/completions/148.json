@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767629,
+   "id": 148001,
+   "lead_time": 3.668,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XGZ4paiRnr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_garfield_ver01",
+  "box": [
+   0.3551405398781729,
+   0.3588795925831596,
+   0.5598269641627753,
+   0.5841181063127843
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_garfield_ver01\/data\/sn89067274\/00294556977\/1896091701\/0364\/008_0_94.jpg",
+  "geographic_coverage": [
+   "Missouri--Audrain--Mexico"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556977%2F1896091701%2F0364.jp2\/pct:35.51,35.89,20.47,22.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn89067274",
+  "name": "Mexico weekly ledger.",
+  "ocr": [
+   "I",
+   "A",
+   "JT",
+   "-1-",
+   "-",
+   "a--Tt.",
+   "V",
+   "-",
+   "-r,",
+   "it?,.",
+   "CURRICASTI",
+   "NEEDLES,",
+   "COLORADO",
+   "Reaceed",
+   "via",
+   "Missouri",
+   "Pacific",
+   "and",
+   "Denver",
+   "and",
+   "Rio",
+   "Grande",
+   "Railroads."
+  ],
+  "page_seq_num": 364,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_garfield_ver01\/data\/sn89067274\/00294556977\/1896091701\/0364.jp2",
+  "place_of_publication": "Mexico, Mo.",
+  "pub_date": "1896-09-17",
+  "publisher": "R.M. White",
+  "score": 0.9438587427139282,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_garfield_ver01\/data\/sn89067274\/00294556977\/1896091701\/0364\/008_0_94.jpg"
+ },
+ "id": 148
+}

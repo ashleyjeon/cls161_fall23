@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751019,
+   "id": 783001,
+   "lead_time": 1.531,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "OFPzPg4gYX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_doyle_ver01",
+  "box": [
+   0.7451302261881134,
+   0.1781630498712713,
+   0.9241476080984772,
+   0.3757975630326705
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_doyle_ver01\/data\/sn86091100\/00415666159\/1905110901\/0658\/004_0_92.jpg",
+  "geographic_coverage": [
+   "Idaho--Idaho--Grangeville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_doyle_ver01%2Fdata%2Fsn86091100%2F00415666159%2F1905110901%2F0658.jp2\/pct:74.51,17.82,17.91,19.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091100",
+  "name": "Idaho County free press. [volume]",
+  "ocr": [
+   "#"
+  ],
+  "page_seq_num": 658,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_doyle_ver01\/data\/sn86091100\/00415666159\/1905110901\/0658.jp2",
+  "place_of_publication": "Grangeville, Idaho Territory",
+  "pub_date": "1905-11-09",
+  "publisher": "Free Press Pub. Co.",
+  "score": 0.9226515889167786,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_doyle_ver01\/data\/sn86091100\/00415666159\/1905110901\/0658\/004_0_92.jpg"
+ },
+ "id": 783
+}

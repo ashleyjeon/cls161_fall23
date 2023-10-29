@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754430,
+   "id": 1066001,
+   "lead_time": 1.624,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XIL0ZvfwlG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_animals_ver01",
+  "box": [
+   0.2966623001296456,
+   0.4531641593546939,
+   0.4109834161624892,
+   0.5786564483851316
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_animals_ver01\/data\/sn92051501\/00271763724\/1908120901\/0422\/005_0_90.jpg",
+  "geographic_coverage": [
+   "Connecticut--Tolland--Stafford Springs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_animals_ver01%2Fdata%2Fsn92051501%2F00271763724%2F1908120901%2F0422.jp2\/pct:29.66,45.32,11.44,12.55\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051501",
+  "name": "The Press.",
+  "ocr": [
+   "KABIN",
+   "SAYLES",
+   "KUSSELf,."
+  ],
+  "page_seq_num": 422,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_animals_ver01\/data\/sn92051501\/00271763724\/1908120901\/0422.jp2",
+  "place_of_publication": "Stafford Springs, Conn.",
+  "pub_date": "1908-12-09",
+  "publisher": "James McLaughlin",
+  "score": 0.9080536961555481,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_animals_ver01\/data\/sn92051501\/00271763724\/1908120901\/0422\/005_0_90.jpg"
+ },
+ "id": 1066
+}

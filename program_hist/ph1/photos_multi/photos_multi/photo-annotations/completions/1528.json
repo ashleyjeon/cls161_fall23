@@ -1,0 +1,111 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768684,
+   "id": 1528001,
+   "lead_time": 2.348,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ha1YHDJcG3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_hooloovoo_ver01",
+  "box": [
+   0.14217004311584266,
+   0.034004070401852764,
+   0.4925778346855535,
+   0.27466429535871073
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_hooloovoo_ver01\/data\/sn83045462\/00280658212\/1914112701\/0617\/009_0_94.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_hooloovoo_ver01%2Fdata%2Fsn83045462%2F00280658212%2F1914112701%2F0617.jp2\/pct:14.21,3.41,35.05,24.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "CONG",
+   "Iff",
+   "x,",
+   "\\\\",
+   "^",
+   ":",
+   "y",
+   "W",
+   "jj",
+   "8NNRcfiMHM&^MPp&",
+   "1",
+   "'<",
+   "1",
+   "Raymond",
+   "MTORGAN^",
+   "Photo",
+   "BY",
+   "BUCK,",
+   "1",
+   "ENGINE",
+   "BACK-FIRE",
+   "A",
+   "WAREHOUSE",
+   "Blaze",
+   "That",
+   "Soon",
+   "Causes",
+   "Roof",
+   "SESSIONAL",
+   "COMMIT]",
+   "|S",
+   "_",
+   "m",
+   "wgg",
+   "rEE.",
+   "tinflKv:-",
+   "KS9",
+   "IfI",
+   "^*",
+   "4'",
+   "\/\/I",
+   "I",
+   "lite^JP^'V",
+   "R",
+   "^33",
+   "S.",
+   "GlXTCNA.",
+   "BEGIN",
+   "WAR",
+   "(IN",
+   "iniming",
+   "<v>",
+   "iwiiaai",
+   "?^^??",
+   "?",
+   "Sarrett",
+   "Park",
+   "Folk",
+   "Protest",
+   "and",
+   "Other",
+   "Suburban"
+  ],
+  "page_seq_num": 617,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_hooloovoo_ver01\/data\/sn83045462\/00280658212\/1914112701\/0617.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1914-11-27",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9433451294898987,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_hooloovoo_ver01\/data\/sn83045462\/00280658212\/1914112701\/0617\/009_0_94.jpg"
+ },
+ "id": 1528
+}

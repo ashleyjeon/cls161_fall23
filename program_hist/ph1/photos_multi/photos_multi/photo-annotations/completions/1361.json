@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675752,
+   "id": 1361001,
+   "lead_time": 2.654,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Xc_Dg4a7q6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_angwin_ver02",
+  "box": [
+   0.18016702133553397,
+   0.11464454819351341,
+   0.43997200134949194,
+   0.5137077259340497
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_angwin_ver02\/data\/sn85066387\/00280768261\/1912011901\/0060\/017_0_95.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_angwin_ver02%2Fdata%2Fsn85066387%2F00280768261%2F1912011901%2F0060.jp2\/pct:18.01,11.47,25.99,39.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "i",
+   "Miss",
+   "Hazel",
+   "Laymance",
+   "of",
+   "Oakland,",
+   "whose",
+   "engagement",
+   "to",
+   "Henry",
+   "A.",
+   "Heilbron"
+  ],
+  "page_seq_num": 60,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_angwin_ver02\/data\/sn85066387\/00280768261\/1912011901\/0060.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1912-01-19",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9530777335166931,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_angwin_ver02\/data\/sn85066387\/00280768261\/1912011901\/0060\/017_0_95.jpg"
+ },
+ "id": 1361
+}

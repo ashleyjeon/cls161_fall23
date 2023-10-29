@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752511,
+   "id": 1622001,
+   "lead_time": 1.981,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "94y37WkOdx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_inola_ver02",
+  "box": [
+   0.1832439973182285,
+   0.5983807395081228,
+   0.31325367799739245,
+   0.9606238409930619
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_inola_ver02\/data\/sn86064187\/00200295225\/1916011801\/0609\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Oklahoma--Oklahoma City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_inola_ver02%2Fdata%2Fsn86064187%2F00200295225%2F1916011801%2F0609.jp2\/pct:18.32,59.84,13.01,36.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn86064187",
+  "name": "The Oklahoma City times. [volume]",
+  "ocr": [
+   "WIFE",
+   "OF",
+   "SCIENTIST",
+   "I",
+   "ROM",
+   "PAN-AMERICA",
+   "i",
+   "9",
+   "mm",
+   "i",
+   "ft-",
+   "1",
+   "Slmr.",
+   "C",
+   "it",
+   "nihil",
+   "a",
+   "fir",
+   "(.iii'trn."
+  ],
+  "page_seq_num": 609,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_inola_ver02\/data\/sn86064187\/00200295225\/1916011801\/0609.jp2",
+  "place_of_publication": "Oklahoma City, Okla.",
+  "pub_date": "1916-01-18",
+  "publisher": "Oklahoma City Times Co.",
+  "score": 0.9726735353469849,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_inola_ver02\/data\/sn86064187\/00200295225\/1916011801\/0609\/001_0_97.jpg"
+ },
+ "id": 1622
+}

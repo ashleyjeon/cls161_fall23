@@ -1,0 +1,106 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749651,
+   "id": 1111001,
+   "lead_time": 2.153,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UKbCC3wwRz",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_edenville_ver01",
+  "box": [
+   0.15664364415892051,
+   0.1408399989839234,
+   0.2903300452251952,
+   0.46645959402095377
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_edenville_ver01\/data\/sn83016689\/00279551515\/1909012801\/0402\/012_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_edenville_ver01%2Fdata%2Fsn83016689%2F00279551515%2F1909012801%2F0402.jp2\/pct:15.66,14.09,13.37,32.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "For",
+   "Act",
+   "of",
+   "Heroism",
+   "-J",
+   ")",
+   "W\\",
+   ":.",
+   "HE",
+   "*",
+   "1",
+   "I",
+   "pprr",
+   "picture",
+   "\u00abho\u00bb\u00abt",
+   "Jauiei",
+   "J.",
+   "Holt",
+   "ban.",
+   "hdil",
+   "lower",
+   "picture,",
+   "Namurl",
+   "4.",
+   "Juhu",
+   "*oh,",
+   "who",
+   "fur",
+   "n",
+   "Joint",
+   "not",
+   "of",
+   "urrulun,",
+   "hu\\e",
+   "Just",
+   "hecu",
+   "awarded",
+   "Carnegie",
+   "\u2022\u25a0irdalM.",
+   "Their",
+   "lierolnui",
+   "ronaUled",
+   "In",
+   "the",
+   "reiM-alng",
+   "of",
+   "men",
+   "from",
+   "a",
+   "manhole,",
+   ">rw",
+   "lurk",
+   "elt>.",
+   "where",
+   "they",
+   "were",
+   "be"
+  ],
+  "page_seq_num": 402,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551515\/1909012801\/0402.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1909-01-28",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9751405119895935,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551515\/1909012801\/0402\/012_0_97.jpg"
+ },
+ "id": 1111
+}

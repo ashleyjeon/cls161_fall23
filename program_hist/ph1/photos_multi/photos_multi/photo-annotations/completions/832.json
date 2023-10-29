@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751584,
+   "id": 832001,
+   "lead_time": 2.999,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5Eb9gTcFVT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_contador_ver01",
+  "box": [
+   0.4969487171692607,
+   0.1921834606633147,
+   0.7894125615576362,
+   0.36665337283500454
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_contador_ver01\/data\/sn85058090\/00206535283\/1905042001\/1004\/004_0_90.jpg",
+  "geographic_coverage": [
+   "Utah--Utah--Lehi"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_contador_ver01%2Fdata%2Fsn85058090%2F00206535283%2F1905042001%2F1004.jp2\/pct:49.69,19.22,29.25,17.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058090",
+  "name": "The Lehi banner. [volume]",
+  "ocr": [
+   "\"",
+   "'",
+   "-",
+   "J",
+   "T.R.",
+   "Cutler,",
+   "Prei",
+   "'p",
+   ",t.",
+   "John",
+   "Y.",
+   "Smith,",
+   "Jm",
+   "...",
+   ".",
+   "I",
+   "syuajafcjjaiag1PT?T-sulaaamfcSI",
+   "lawiusui",
+   "naajBj",
+   "f"
+  ],
+  "page_seq_num": 1004,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_contador_ver01\/data\/sn85058090\/00206535283\/1905042001\/1004.jp2",
+  "place_of_publication": "Lehi, Utah",
+  "pub_date": "1905-04-20",
+  "publisher": "Lehi Pub. Co.",
+  "score": 0.904669463634491,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_contador_ver01\/data\/sn85058090\/00206535283\/1905042001\/1004\/004_0_90.jpg"
+ },
+ "id": 832
+}

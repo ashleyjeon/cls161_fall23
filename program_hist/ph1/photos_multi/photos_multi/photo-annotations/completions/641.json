@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764200,
+   "id": 641001,
+   "lead_time": 1.714,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tLD87ouI-r",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_goldeneye_ver01",
+  "box": [
+   0.04867633711105274,
+   0.3355287787906302,
+   0.18624621205985264,
+   0.5475945105919471
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_goldeneye_ver01\/data\/sn83025294\/00212476857\/1903111801\/0746\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_goldeneye_ver01%2Fdata%2Fsn83025294%2F00212476857%2F1903111801%2F0746.jp2\/pct:4.86,33.56,13.76,21.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025294",
+  "name": "The Butte inter mountain. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 746,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476857\/1903111801\/0746.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1903-11-18",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9505932331085205,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476857\/1903111801\/0746\/002_0_95.jpg"
+ },
+ "id": 641
+}

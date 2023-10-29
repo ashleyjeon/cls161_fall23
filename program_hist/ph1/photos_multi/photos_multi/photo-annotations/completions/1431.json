@@ -1,0 +1,121 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748146,
+   "id": 1431001,
+   "lead_time": 2.328,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CG-UHGrAnw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_knowledge_ver01",
+  "box": [
+   0.3148194596156282,
+   0.350424305492679,
+   0.6971407719296162,
+   0.6473690310850838
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_knowledge_ver01\/data\/sn92053934\/00202198855\/1913121601\/0487\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_knowledge_ver01%2Fdata%2Fsn92053934%2F00202198855%2F1913121601%2F0487.jp2\/pct:31.48,35.05,38.24,29.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "THOUSANDS",
+   "OF",
+   "UNEMPLOYED",
+   "TRAMP",
+   "CHICAGO",
+   "STREETS;",
+   "BREAD",
+   "LINE",
+   "FORMS;",
+   "COMMISSION",
+   "RECOMMENDS",
+   "MUNICIPAL",
+   "JOBS",
+   "-\"h,-",
+   "\"",
+   "\"",
+   "'",
+   "if",
+   ";",
+   "Unemployed",
+   "men",
+   "in",
+   "Chicago.",
+   "Top,",
+   "left",
+   "and",
+   "a",
+   "Jew.",
+   "Bottom,",
+   "one",
+   "of",
+   "the",
+   "municipal",
+   "lodging",
+   "house",
+   "Is",
+   "500",
+   "per",
+   "cent",
+   "grea'er",
+   "than",
+   "last",
+   "winter.",
+   "Officers",
+   "of",
+   "the",
+   "United",
+   "Charities",
+   "assert",
+   "that",
+   "to",
+   "right,",
+   "a",
+   "Russian,",
+   "a",
+   "Lithuanian",
+   "Chicago's",
+   "bread",
+   "lines.",
+   "he",
+   "said.",
+   "\"The",
+   "idle",
+   "men",
+   "are",
+   "eacn",
+   "shipped",
+   "to",
+   "the",
+   "west",
+   "by",
+   "the"
+  ],
+  "page_seq_num": 487,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_knowledge_ver01\/data\/sn92053934\/00202198855\/1913121601\/0487.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1913-12-16",
+  "publisher": "J.W. Potter",
+  "score": 0.954686164855957,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_knowledge_ver01\/data\/sn92053934\/00202198855\/1913121601\/0487\/003_0_95.jpg"
+ },
+ "id": 1431
+}

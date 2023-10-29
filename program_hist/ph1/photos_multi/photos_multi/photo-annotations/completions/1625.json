@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768884,
+   "id": 1625001,
+   "lead_time": 2.256,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vozOOIcyH0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_andrews_ver01",
+  "box": [
+   0.32584882332544507,
+   0.18158993558617936,
+   0.6994151399511033,
+   0.41035097671367066
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_andrews_ver01\/data\/sn83045395\/00279520427\/1916062301\/0577\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Texas--Bexar--San Antonio"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_andrews_ver01%2Fdata%2Fsn83045395%2F00279520427%2F1916062301%2F0577.jp2\/pct:32.58,18.16,37.36,22.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045395",
+  "name": "La prensa. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 577,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_andrews_ver01\/data\/sn83045395\/00279520427\/1916062301\/0577.jp2",
+  "place_of_publication": "San Antonio, Tex.",
+  "pub_date": "1916-06-23",
+  "publisher": "La Prensa",
+  "score": 0.9620234966278076,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_andrews_ver01\/data\/sn83045395\/00279520427\/1916062301\/0577\/005_0_96.jpg"
+ },
+ "id": 1625
+}

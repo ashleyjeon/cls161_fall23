@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763729,
+   "id": 163001,
+   "lead_time": 2.654,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "me_camden_ver01",
+  "box": [
+   0.03170533441192475,
+   0.37610932912714545,
+   0.39415053941717193,
+   0.571019338936879
+  ],
+  "edition_seq_num": 1,
+  "filepath": "me_camden_ver01\/data\/sn78000873\/00279524809\/1897071501\/0237\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Maine--Waldo--Belfast"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524809%2F1897071501%2F0237.jp2\/pct:3.17,37.62,36.25,19.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn78000873",
+  "name": "The Republican journal. [volume]",
+  "ocr": [
+   "PHOTOGRAPH",
+   "01",
+   "THE",
+   "SPRING.",
+   "r",
+   "d",
+   "PI",
+   "Rl",
+   "formed",
+   "of",
+   "marble",
+   "pieces",
+   "and",
+   "laid",
+   "on",
+   "bottom",
+   "of",
+   "Spring",
+   "and",
+   "photographed",
+   "through",
+   "6",
+   "feet",
+   "of",
+   "this",
+   "remarkably",
+   "clear",
+   "water."
+  ],
+  "page_seq_num": 237,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/me_camden_ver01\/data\/sn78000873\/00279524809\/1897071501\/0237.jp2",
+  "place_of_publication": "Belfast, Me.",
+  "pub_date": "1897-07-15",
+  "publisher": "White & Rowe",
+  "score": 0.9806139469146729,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/me_camden_ver01\/data\/sn78000873\/00279524809\/1897071501\/0237\/000_0_98.jpg"
+ },
+ "id": 163
+}

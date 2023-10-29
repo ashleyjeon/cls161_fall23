@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768336,
+   "id": 177001,
+   "lead_time": 1.702,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dAXUOAhPl6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_fargo_ver01",
+  "box": [
+   0.3565664783965522,
+   0.20636091206594298,
+   0.45947823778842084,
+   0.34102939081320544
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_fargo_ver01\/data\/sn86069162\/00100481844\/1897060201\/0286\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_fargo_ver01%2Fdata%2Fsn86069162%2F00100481844%2F1897060201%2F0286.jp2\/pct:35.65,20.64,10.3,13.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069162",
+  "name": "The Richmond climax.",
+  "ocr": [
+   "J.",
+   "W.",
+   "WAGERS.",
+   "Democratic",
+   "nominee",
+   "fo",
+   "School",
+   "Superintendent",
+   "of",
+   "Madison",
+   "county."
+  ],
+  "page_seq_num": 286,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_fargo_ver01\/data\/sn86069162\/00100481844\/1897060201\/0286.jp2",
+  "place_of_publication": "Richmond, Ky.",
+  "pub_date": "1897-06-02",
+  "publisher": "Climax Print. Co.",
+  "score": 0.985973596572876,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_fargo_ver01\/data\/sn86069162\/00100481844\/1897060201\/0286\/000_0_98.jpg"
+ },
+ "id": 177
+}

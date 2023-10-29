@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751537,
+   "id": 329001,
+   "lead_time": 4.403,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Eu08BOWOnb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_lotus_ver01",
+  "box": [
+   0.2910557269423456,
+   0.040206655977074235,
+   0.914320916916475,
+   0.3741204540802402
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_lotus_ver01\/data\/sn83030214\/0017503707A\/1899101501\/0375\/000_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_lotus_ver01%2Fdata%2Fsn83030214%2F0017503707A%2F1899101501%2F0375.jp2\/pct:29.1,4.03,62.33,33.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "HOUSE",
+   "ANI)",
+   "GROUNDS",
+   "OF",
+   "MOSES",
+   "TAYLOR",
+   "PYNE."
+  ],
+  "page_seq_num": 375,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_lotus_ver01\/data\/sn83030214\/0017503707A\/1899101501\/0375.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1899-10-15",
+  "publisher": "New York Tribune",
+  "score": 0.9845685958862305,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_lotus_ver01\/data\/sn83030214\/0017503707A\/1899101501\/0375\/000_0_98.jpg"
+ },
+ "id": 329
+}

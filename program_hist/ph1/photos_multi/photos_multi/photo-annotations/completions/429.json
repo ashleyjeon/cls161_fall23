@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768328,
+   "id": 429001,
+   "lead_time": 1.744,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "sQckdDp3eY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_yorkie_ver01",
+  "box": [
+   0.2954372913379387,
+   0.5585033818666243,
+   0.4272928472810191,
+   0.7577173934626271
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_yorkie_ver01\/data\/sn83045462\/00280655338\/1900051201\/0041\/006_0_92.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_yorkie_ver01%2Fdata%2Fsn83045462%2F00280655338%2F1900051201%2F0041.jp2\/pct:29.54,55.86,13.19,19.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "slips",
+   "that",
+   "Its",
+   "days",
+   "of",
+   "usefulness",
+   "T",
+   "a",
+   "r",
+   "e",
+   "when....made...of.",
+   "coarse",
+   "Russ.anaede",
+   "butr",
+   "oo..",
+   "is",
+   "s",
+   "eyffciv.we",
+   "cobie",
+   "wihfledo",
+   ".edcifn",
+   "Ol-Tm",
+   "Chnily",
+   "Chatilyis",
+   "ai",
+   "t",
+   "beth",
+   "lce",
+   "ecee",
+   "fo.oua",
+   "avr",
+   "hl",
+   "uiue",
+   "n",
+   "h",
+   "\"a",
+   "c",
+   "esenaHeal.",
+   "e",
+   "\"Bolong",
+   "I.fe",
+   "\"",
+   "di.tyI",
+   "h",
+   "hk.",
+   ".Rcie",
+   "h",
+   "ihs",
+   "n",
+   "for",
+   "eveing",
+   "dersen",
+   "ro",
+   "tmeina",
+   "hold",
+   "onatiioer",
+   "the",
+   "puliurssoe",
+   "ie",
+   "andot",
+   "moreor",
+   "enstheginteligent",
+   "chaned",
+   "s",
+   "ftnd",
+   "cter",
+   "-Dith",
+   "diceand"
+  ],
+  "page_seq_num": 41,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_yorkie_ver01\/data\/sn83045462\/00280655338\/1900051201\/0041.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1900-05-12",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9250987768173218,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_yorkie_ver01\/data\/sn83045462\/00280655338\/1900051201\/0041\/006_0_92.jpg"
+ },
+ "id": 429
+}

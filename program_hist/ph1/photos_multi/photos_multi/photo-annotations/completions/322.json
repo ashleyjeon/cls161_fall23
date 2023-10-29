@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767757,
+   "id": 322001,
+   "lead_time": 2.03,
+   "result": [
+
+   ]
+  },
+  {
+   "created_at": 1611767761,
+   "id": 322002,
+   "lead_time": 4230.489,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dhsvLWNvWN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_goodnow_ver01",
+  "box": [
+   0.19926361205892143,
+   0.601463606170795,
+   0.4822689213860686,
+   0.75996825046803
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_goodnow_ver01\/data\/sn83040052\/0021247373A\/1899042101\/0240\/001_0_95.jpg",
+  "geographic_coverage": [
+   "Kansas--Anderson--Garnett",
+   "Kansas--Anderson--Greeley",
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_goodnow_ver01%2Fdata%2Fsn83040052%2F0021247373A%2F1899042101%2F0240.jp2\/pct:19.92,60.15,28.31,15.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn83040052",
+  "name": "Kansas agitator. [volume]",
+  "ocr": [
+   "SNAP",
+   "SHOT",
+   "All",
+   "That",
+   "Is",
+   "Now",
+   "Visible",
+   "of",
+   "NO.",
+   "4.",
+   "the",
+   "Sunken",
+   "Merrlmac.",
+   "-",
+   "-",
+   "'",
+   "\"",
+   "'"
+  ],
+  "page_seq_num": 240,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_goodnow_ver01\/data\/sn83040052\/0021247373A\/1899042101\/0240.jp2",
+  "place_of_publication": "Garnett, Kan.",
+  "pub_date": "1899-04-21",
+  "publisher": "W.O. Champe",
+  "score": 0.9587871432304382,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_goodnow_ver01\/data\/sn83040052\/0021247373A\/1899042101\/0240\/001_0_95.jpg"
+ },
+ "id": 322
+}

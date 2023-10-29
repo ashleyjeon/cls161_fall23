@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763917,
+   "id": 802001,
+   "lead_time": 1.746,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "egIoZk096D",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_joshuatree_ver01",
+  "box": [
+   0.6849788731668366,
+   0.066495982768223,
+   0.973480810359435,
+   0.38246870718861076
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_joshuatree_ver01\/data\/sn84020558\/00211104892\/1905102901\/0663\/011_0_93.jpg",
+  "geographic_coverage": [
+   "Arizona--Maricopa--Phoenix"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_joshuatree_ver01%2Fdata%2Fsn84020558%2F00211104892%2F1905102901%2F0663.jp2\/pct:68.49,6.65,28.86,31.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020558",
+  "name": "Arizona republican. [volume]",
+  "ocr": [
+   "-",
+   "V",
+   "-",
+   "'i'",
+   ";",
+   "As-''xiyA?.;!",
+   ";",
+   ";",
+   "v.':",
+   "J.'?..'",
+   ":.",
+   "J",
+   "s'iAw,--'-f",
+   ",",
+   "\"J",
+   "LL",
+   "j1.",
+   "'",
+   "'",
+   "'",
+   "v",
+   "V",
+   "V",
+   "bj22o",
+   "oroadway",
+   ":t-:i",
+   "'",
+   "-",
+   "ji",
+   "Madison",
+   "IS'.",
+   ",-:.v4$.-.j:",
+   "WV",
+   "r'-Vi--i'.'",
+   "-t;-1-'-.-:",
+   "-",
+   "'.tiSSx",
+   "letter,",
+   ";:!'v--ri\"V",
+   "f.'.'.r",
+   "lu",
+   "t",
+   "alarmed",
+   "no",
+   "guoa",
+   ";",
+   "I?ev.",
+   "Much",
+   "Pierced",
+   "With",
+   "Pe-ru-nn."
+  ],
+  "page_seq_num": 663,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_joshuatree_ver01\/data\/sn84020558\/00211104892\/1905102901\/0663.jp2",
+  "place_of_publication": "Phoenix, Ariz.",
+  "pub_date": "1905-10-29",
+  "publisher": "Republican Pub. Co.",
+  "score": 0.931476891040802,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_joshuatree_ver01\/data\/sn84020558\/00211104892\/1905102901\/0663\/011_0_93.jpg"
+ },
+ "id": 802
+}

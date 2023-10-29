@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748255,
+   "id": 1606001,
+   "lead_time": 1.784,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0GIcCXELZr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_hornedowl_ver01",
+  "box": [
+   0.8227618730826928,
+   0.13320032983005367,
+   0.9443208597753169,
+   0.35585352261292486
+  ],
+  "edition_seq_num": 2,
+  "filepath": "az_hornedowl_ver01\/data\/sn84020558\/00202196135\/1915041802\/0009\/007_0_92.jpg",
+  "geographic_coverage": [
+   "Arizona--Maricopa--Phoenix"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_hornedowl_ver01%2Fdata%2Fsn84020558%2F00202196135%2F1915041802%2F0009.jp2\/pct:82.27,13.33,12.16,22.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020558",
+  "name": "Arizona republican. [volume]",
+  "ocr": [
+   "P",
+   "yVvl",
+   "fob",
+   "HERBERT",
+   "RAtfUSON",
+   "AND",
+   "ANNA",
+   "LVTTLE",
+   "IN",
+   "CHANCrEO",
+   "LIVES",
+   "UNIVERSAL-GOLD",
+   "SEAL",
+   "DRAMA."
+  ],
+  "page_seq_num": 9,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_hornedowl_ver01\/data\/sn84020558\/00202196135\/1915041802\/0009.jp2",
+  "place_of_publication": "Phoenix, Ariz.",
+  "pub_date": "1915-04-18",
+  "publisher": "Republican Pub. Co.",
+  "score": 0.9291895627975464,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_hornedowl_ver01\/data\/sn84020558\/00202196135\/1915041802\/0009\/007_0_92.jpg"
+ },
+ "id": 1606
+}

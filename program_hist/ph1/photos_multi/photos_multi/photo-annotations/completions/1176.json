@@ -1,0 +1,85 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766451,
+   "id": 1176001,
+   "lead_time": 1.598,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oxJS7KkOt5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_gulliver_ver01",
+  "box": [
+   0.1659492780813834,
+   0.12627859048910076,
+   0.42808650475613197,
+   0.40795051912605623
+  ],
+  "edition_seq_num": 2,
+  "filepath": "mimtptc_gulliver_ver01\/data\/sn83016689\/00279551606\/1910021502\/1162\/017_0_91.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_gulliver_ver01%2Fdata%2Fsn83016689%2F00279551606%2F1910021502%2F1162.jp2\/pct:16.59,12.63,26.22,28.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "SHE",
+   "TRIES",
+   "TO",
+   "KILL",
+   "SELF",
+   "*\u2014",
+   "ZkgL",
+   "sgLJfcL",
+   "-",
+   "W",
+   "\u2018V",
+   "'v*",
+   ",",
+   "1",
+   "*<",
+   "4",
+   "J",
+   "\u2022:JW*",
+   "v",
+   "A.",
+   "t'h",
+   "\/",
+   "Biot",
+   "'",
+   "Klorrni-t*",
+   "Srhrork",
+   "\\\\",
+   "llaon,",
+   "Who",
+   "(",
+   "Mat",
+   "H",
+   "fr\u00bbfl(",
+   "lulu",
+   "the",
+   "I*ll,"
+  ],
+  "page_seq_num": 1162,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_gulliver_ver01\/data\/sn83016689\/00279551606\/1910021502\/1162.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1910-02-15",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9196702241897583,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_gulliver_ver01\/data\/sn83016689\/00279551606\/1910021502\/1162\/017_0_91.jpg"
+ },
+ "id": 1176
+}

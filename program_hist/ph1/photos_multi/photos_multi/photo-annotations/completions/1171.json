@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674682,
+   "id": 1171001,
+   "lead_time": 38.521,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "enUt47NBeA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_thirteen_ver01",
+  "box": [
+   0.21265472524998075,
+   0.14252195538214918,
+   0.523407584494933,
+   0.3426580177163178
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_thirteen_ver01\/data\/sn83045555\/00175048571\/1910112601\/0746\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_thirteen_ver01%2Fdata%2Fsn83045555%2F00175048571%2F1910112601%2F0746.jp2\/pct:21.26,14.26,31.08,20.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "SOLOMONS",
+   "STABLES",
+   "THERE",
+   "ARE",
+   "SCORES",
+   "OF",
+   "UNDER",
+   "THE",
+   "TEMPLE"
+  ],
+  "page_seq_num": 746,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_thirteen_ver01\/data\/sn83045555\/00175048571\/1910112601\/0746.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1910-11-26",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9678088426589966,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_thirteen_ver01\/data\/sn83045555\/00175048571\/1910112601\/0746\/001_0_96.jpg"
+ },
+ "id": 1171
+}

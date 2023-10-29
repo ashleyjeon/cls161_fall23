@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673516,
+   "id": 1228001,
+   "lead_time": 1.47,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Re3-NN_KI3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_cauliflower_ver01",
+  "box": [
+   0.440301121206347,
+   0.229437255859375,
+   0.5656099509769955,
+   0.3803899855840774
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_cauliflower_ver01\/data\/sn91066782\/00415629047\/1910080401\/0233\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Vermont--Washington--Barre"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_cauliflower_ver01%2Fdata%2Fsn91066782%2F00415629047%2F1910080401%2F0233.jp2\/pct:44.03,22.95,12.54,15.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn91066782",
+  "name": "The Barre daily times.",
+  "ocr": [
+   "1M0,",
+   "by",
+   "American",
+   "Tress",
+   "Association."
+  ],
+  "page_seq_num": 233,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_cauliflower_ver01\/data\/sn91066782\/00415629047\/1910080401\/0233.jp2",
+  "place_of_publication": "Barre, Vt.",
+  "pub_date": "1910-08-04",
+  "publisher": "Frank E. Langley",
+  "score": 0.9760697484016418,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_cauliflower_ver01\/data\/sn91066782\/00415629047\/1910080401\/0233\/005_0_97.jpg"
+ },
+ "id": 1228
+}

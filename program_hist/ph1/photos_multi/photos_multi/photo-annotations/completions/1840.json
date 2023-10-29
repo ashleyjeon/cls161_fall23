@@ -1,0 +1,91 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767596,
+   "id": 1840001,
+   "lead_time": 2.104,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "J54zHJHPcD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_mizpah_ver02",
+  "box": [
+   0.35511526051306236,
+   0.648155777097687,
+   0.5066068123576309,
+   0.8639509065883366
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_mizpah_ver02\/data\/sn86063381\/00280767268\/1918061401\/0999\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Minnesota--Beltrami--Bemidji"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_mizpah_ver02%2Fdata%2Fsn86063381%2F00280767268%2F1918061401%2F0999.jp2\/pct:35.51,64.82,15.15,21.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063381",
+  "name": "The Bemidji daily pioneer. [volume]",
+  "ocr": [
+   "POLITICAL",
+   "ANNOUNCEMENT",
+   "(To",
+   "be",
+   "paid",
+   "for",
+   "at",
+   "regular",
+   "rates",
+   "for",
+   "series.)",
+   "C.",
+   "A.",
+   "HUFFMAN",
+   "But",
+   "after",
+   "all",
+   "has",
+   "been",
+   "said",
+   "and",
+   "donethe",
+   "logical",
+   "man",
+   "for",
+   "Register",
+   "of",
+   "Deeds",
+   "is",
+   "C.",
+   "A.",
+   "Huffman.",
+   "He",
+   "is",
+   "worthy",
+   "of",
+   "your",
+   "support.",
+   "Vote",
+   "for",
+   "him.",
+   "8-615"
+  ],
+  "page_seq_num": 999,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_mizpah_ver02\/data\/sn86063381\/00280767268\/1918061401\/0999.jp2",
+  "place_of_publication": "Bemidji, Minn.",
+  "pub_date": "1918-06-14",
+  "publisher": "Pioneer Pub. Co.",
+  "score": 0.9309161901473999,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_mizpah_ver02\/data\/sn86063381\/00280767268\/1918061401\/0999\/003_0_93.jpg"
+ },
+ "id": 1840
+}

@@ -1,0 +1,114 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749407,
+   "id": 456001,
+   "lead_time": 2.962,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2rIUefe6Pe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_mike_ver01",
+  "box": [
+   0.31212286758067337,
+   0.05352362345435158,
+   0.5552046776706664,
+   0.4490874424007691
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_mike_ver01\/data\/sn84024441\/100492040\/1900060601\/0336\/019_0_90.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_mike_ver01%2Fdata%2Fsn84024441%2F100492040%2F1900060601%2F0336.jp2\/pct:31.21,5.36,24.31,39.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024441",
+  "name": "The evening times. [volume]",
+  "ocr": [
+   "Ii",
+   "utI",
+   "ei",
+   "L",
+   "vr",
+   "i",
+   "0",
+   "tkU",
+   "aL",
+   "aLA",
+   "SLI",
+   "SLIA",
+   "A",
+   "smart",
+   "summer",
+   "costume",
+   "tume",
+   "which",
+   "typifies",
+   "the",
+   "fashions",
+   "It",
+   "is",
+   "of",
+   "blue",
+   "mohair",
+   "mohairvery",
+   "mohairvery",
+   "mohairvery",
+   "very",
+   "simply",
+   "simpl",
+   "made",
+   "with",
+   "a",
+   "boxpleated",
+   "skirt",
+   "and",
+   "an",
+   "Eton",
+   "coat",
+   "and",
+   "an",
+   "trimmed",
+   "mere",
+   "\u00ac",
+   "ly",
+   "with",
+   "stitched",
+   "straps",
+   "of",
+   "the",
+   "same",
+   "matcriair",
+   "material",
+   "The",
+   "coat",
+   "has",
+   "a",
+   "large",
+   "square",
+   "batiste",
+   "batisteand",
+   "bll1steand",
+   "batisteand"
+  ],
+  "page_seq_num": 336,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_mike_ver01\/data\/sn84024441\/100492040\/1900060601\/0336.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1900-06-06",
+  "publisher": "Washington Times Co.",
+  "score": 0.9056348204612732,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_mike_ver01\/data\/sn84024441\/100492040\/1900060601\/0336\/019_0_90.jpg"
+ },
+ "id": 456
+}

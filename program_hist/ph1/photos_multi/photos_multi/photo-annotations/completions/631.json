@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768771,
+   "id": 631001,
+   "lead_time": 1.653,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tGeCw2HT_C",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_edmund_ver02",
+  "box": [
+   0.5096838071488884,
+   0.7959611026752597,
+   0.6568792449214651,
+   0.959410353301187
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_edmund_ver02\/data\/sn85047084\/00296024788\/1903010701\/0074\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_edmund_ver02%2Fdata%2Fsn85047084%2F00296024788%2F1903010701%2F0074.jp2\/pct:50.96,79.6,14.72,16.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "Former",
+   "Governor",
+   "Gage",
+   "of",
+   "California",
+   "Whose",
+   "Stormy",
+   "Administration",
+   "Has",
+   "Just",
+   "Closed."
+  ],
+  "page_seq_num": 74,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_edmund_ver02\/data\/sn85047084\/00296024788\/1903010701\/0074.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1903-01-07",
+  "publisher": "[publisher not identified]",
+  "score": 0.9749159812927246,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_edmund_ver02\/data\/sn85047084\/00296024788\/1903010701\/0074\/001_0_97.jpg"
+ },
+ "id": 631
+}

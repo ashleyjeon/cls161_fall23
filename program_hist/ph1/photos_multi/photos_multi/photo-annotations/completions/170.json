@@ -1,0 +1,107 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772449,
+   "id": 170001,
+   "lead_time": 2.307,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7dQU4HFQvt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_hairspray_ver01",
+  "box": [
+   0.48829254889570717,
+   0.10617679696897554,
+   0.6346089188202855,
+   0.2847990695246717
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1897061101\/0735\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Kentucky--Lincoln--Stanford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_hairspray_ver01%2Fdata%2Fsn85052020%2F00206534175%2F1897061101%2F0735.jp2\/pct:48.82,10.62,14.64,17.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052020",
+  "name": "Semi-weekly interior journal. [volume]",
+  "ocr": [
+   "MISS",
+   "NANTIB",
+   "WILSON",
+   "IIKLL,",
+   "Of",
+   "HuitoiIhIhiiv,",
+   "and",
+   "a",
+   "fjradiiutJ",
+   "of",
+   "Htfatiinotit",
+   "Uolletre,",
+   "1h",
+   "not",
+   "on'y",
+   "as",
+   "tno",
+   "above",
+   "picture",
+   "sIiowh",
+   "a",
+   "very",
+   "beuutlful",
+   "you",
+   "no;",
+   "lady,",
+   "hut",
+   "hIio",
+   "in",
+   "a",
+   "decidedly",
+   "tai",
+   "onted",
+   "one.",
+   "She",
+   "has",
+   "entered",
+   "the",
+   "con-",
+   "te8t",
+   "lor",
+   "uiocutlonary",
+   "lionoru,",
+   "to",
+   "ue",
+   "neiu",
+   "t",
+   "Waltoii'H",
+   "Opera",
+   "House,",
+   "June",
+   "ISth,",
+   "...",
+   ".",
+   ",",
+   ".,",
+   ",.",
+   ",..."
+  ],
+  "page_seq_num": 735,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1897061101\/0735.jp2",
+  "place_of_publication": "Stanford, Ky.",
+  "pub_date": "1897-06-11",
+  "publisher": "W.P. Walton",
+  "score": 0.9543263912200928,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1897061101\/0735\/003_0_95.jpg"
+ },
+ "id": 170
+}

@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611756948,
+   "id": 1988001,
+   "lead_time": 4.142,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xeRbuWtL_l",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_irons_ver01",
+  "box": [
+   0.6364820422277517,
+   0.7178819330178496,
+   0.9214679083723654,
+   0.9331733427232519
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_irons_ver01\/data\/2010270504\/00237284781\/1920112601\/0068\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Nebraska--Lincoln--North Platte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_irons_ver01%2Fdata%2F2010270504%2F00237284781%2F1920112601%2F0068.jp2\/pct:63.64,71.79,28.5,21.53\/!500,500\/0\/default.jpg",
+  "lccn": "2010270504",
+  "name": "The North Platte semi-weekly tribune.",
+  "ocr": [
+   "White",
+   "House",
+   "tq",
+   "Have",
+   "Children",
+   "Again",
+   "Jean",
+   "and",
+   "Georgo",
+   "DeWolfe,",
+   "grntidchlldren",
+   "of",
+   "airs.",
+   "Harding,",
+   "who",
+   "are",
+   "to.",
+   "up",
+   "their",
+   "residence",
+   "In",
+   "the",
+   "White",
+   "House",
+   "when",
+   "President-elect",
+   "Warren",
+   "O",
+   "Hurdlng",
+   "goes",
+   "there",
+   "March",
+   "4."
+  ],
+  "page_seq_num": 68,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_irons_ver01\/data\/2010270504\/00237284781\/1920112601\/0068.jp2",
+  "place_of_publication": "North Platte, Neb.",
+  "pub_date": "1920-11-26",
+  "publisher": "I.L. Bare",
+  "score": 0.9573240876197815,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_irons_ver01\/data\/2010270504\/00237284781\/1920112601\/0068\/003_0_95.jpg"
+ },
+ "id": 1988
+}

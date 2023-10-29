@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763870,
+   "id": 972001,
+   "lead_time": 2.397,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "SAkxJJGAky",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_romeo_ver01",
+  "box": [
+   0.4234037984579479,
+   0.06410286935527673,
+   0.5524551446687443,
+   0.39647365955824265
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_romeo_ver01\/data\/sn84026749\/100492696\/1907110301\/0304\/012_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_romeo_ver01%2Fdata%2Fsn84026749%2F100492696%2F1907110301%2F0304.jp2\/pct:42.34,6.42,12.91,33.24\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "ers",
+   "Making",
+   "Good",
+   "LOGAN",
+   "CUNNINGHAM",
+   "CUNNINGHAMFormer",
+   "CUNNINGHAMFormer",
+   "CUNN1NGRAMPortlier",
+   "Former",
+   "Washington",
+   "Central",
+   "High",
+   "ScnooStar",
+   "Star",
+   "Pitcher",
+   "Pitc",
+   "er",
+   "Now",
+   "Doing",
+   "Fine",
+   "FineWork",
+   "FineWork",
+   "FineWork",
+   "Work",
+   "on",
+   "Princetons",
+   "Scrub",
+   "ScrubFootball",
+   "ScrubFootball",
+   "ScrubFootball",
+   "Football",
+   "Team",
+   "TeamNational",
+   "TeamNatIonal",
+   "TeamNational"
+  ],
+  "page_seq_num": 304,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_romeo_ver01\/data\/sn84026749\/100492696\/1907110301\/0304.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1907-11-03",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9839662909507751,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_romeo_ver01\/data\/sn84026749\/100492696\/1907110301\/0304\/012_0_98.jpg"
+ },
+ "id": 972
+}

@@ -1,0 +1,112 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748275,
+   "id": 1846001,
+   "lead_time": 2.043,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wRXYVlL2pm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_jenks_ver02",
+  "box": [
+   0.37674380520799644,
+   0.23253699489757776,
+   0.6091272272699709,
+   0.5755274722450658
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_jenks_ver02\/data\/sn86064187\/00200295122\/1918120601\/1044\/010_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Oklahoma--Oklahoma City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_jenks_ver02%2Fdata%2Fsn86064187%2F00200295122%2F1918120601%2F1044.jp2\/pct:37.67,23.26,23.24,34.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn86064187",
+  "name": "The Oklahoma City times. [volume]",
+  "ocr": [
+   "Famous",
+   "Men",
+   "Will",
+   "Speak",
+   "for",
+   "British",
+   "Overseas",
+   "Dominions",
+   "Left",
+   "ta",
+   "right,",
+   "above:",
+   "Premiers",
+   "W.",
+   "t.",
+   "Masse",
+   "aad",
+   "W,",
+   "af.",
+   "Iggkea.",
+   "Premiere",
+   "R.",
+   "L,",
+   "Borden",
+   "aad",
+   "Louie",
+   "Botha.",
+   "The",
+   "representative!",
+   "of",
+   "Hrrtufi",
+   "overseas",
+   "dominions",
+   "at",
+   "the",
+   "peace",
+   "confer",
+   "ence",
+   "have",
+   "been",
+   "selected.",
+   "They",
+   "are",
+   "at",
+   "follow",
+   "i",
+   "Canada,",
+   "Premier",
+   "K",
+   "L",
+   "Australia,",
+   "Premier",
+   "Willum",
+   "II",
+   "1",
+   "1",
+   "unties;",
+   "New",
+   "Zealand,",
+   "Premier",
+   "W.",
+   "F.",
+   "1"
+  ],
+  "page_seq_num": 1044,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_jenks_ver02\/data\/sn86064187\/00200295122\/1918120601\/1044.jp2",
+  "place_of_publication": "Oklahoma City, Okla.",
+  "pub_date": "1918-12-06",
+  "publisher": "Oklahoma City Times Co.",
+  "score": 0.9778997898101807,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_jenks_ver02\/data\/sn86064187\/00200295122\/1918120601\/1044\/010_0_97.jpg"
+ },
+ "id": 1846
+}

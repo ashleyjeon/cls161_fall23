@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749490,
+   "id": 498001,
+   "lead_time": 1.743,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qN2jLnVPbo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "me_camden_ver01",
+  "box": [
+   0.041314037270082954,
+   0.5789911821621777,
+   0.17301369434948377,
+   0.718353102878971
+  ],
+  "edition_seq_num": 1,
+  "filepath": "me_camden_ver01\/data\/sn78000873\/00279524846\/1901050901\/0160\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Maine--Waldo--Belfast"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524846%2F1901050901%2F0160.jp2\/pct:4.13,57.9,13.17,13.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn78000873",
+  "name": "The Republican journal. [volume]",
+  "ocr": [
+   "('BAULKS",
+   "A.",
+   "PILSBlTtY."
+  ],
+  "page_seq_num": 160,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/me_camden_ver01\/data\/sn78000873\/00279524846\/1901050901\/0160.jp2",
+  "place_of_publication": "Belfast, Me.",
+  "pub_date": "1901-05-09",
+  "publisher": "White & Rowe",
+  "score": 0.9455505013465881,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/me_camden_ver01\/data\/sn78000873\/00279524846\/1901050901\/0160\/003_0_94.jpg"
+ },
+ "id": 498
+}

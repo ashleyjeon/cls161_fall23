@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748027,
+   "id": 490001,
+   "lead_time": 1.838,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WtFvWFhj-v",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_julius_ver01",
+  "box": [
+   0.43699709011741794,
+   0.1645393247054373,
+   0.7729061880646202,
+   0.351409912109375
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_julius_ver01\/data\/sn99021999\/00211102573\/1901040701\/0186\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_julius_ver01%2Fdata%2Fsn99021999%2F00211102573%2F1901040701%2F0186.jp2\/pct:43.69,16.46,33.6,18.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "HSWfcjsiSilP"
+  ],
+  "page_seq_num": 186,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_julius_ver01\/data\/sn99021999\/00211102573\/1901040701\/0186.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1901-04-07",
+  "publisher": "Edward Rosewater",
+  "score": 0.9594058394432068,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_julius_ver01\/data\/sn99021999\/00211102573\/1901040701\/0186\/003_0_95.jpg"
+ },
+ "id": 490
+}

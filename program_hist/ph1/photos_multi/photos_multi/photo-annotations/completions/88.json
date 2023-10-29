@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675654,
+   "id": 88001,
+   "lead_time": 3.215,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_curry_ver01",
+  "box": [
+   0.053589317178598356,
+   0.3315942698511584,
+   0.4910595359495434,
+   0.47667467840786637
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_curry_ver01\/data\/sn85029677\/0021247308A\/1896012301\/1297\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Kansas--Phillips--Phillipsburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_curry_ver01%2Fdata%2Fsn85029677%2F0021247308A%2F1896012301%2F1297.jp2\/pct:5.35,33.16,43.75,14.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn85029677",
+  "name": "Phillipsburg herald. [volume]",
+  "ocr": [
+   "twite",
+   "life",
+   "-",
+   "v",
+   "i&xjyA",
+   "iL'LMw",
+   "?,;?",
+   "f-"
+  ],
+  "page_seq_num": 1297,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_curry_ver01\/data\/sn85029677\/0021247308A\/1896012301\/1297.jp2",
+  "place_of_publication": "Phillipsburg, Kan.",
+  "pub_date": "1896-01-23",
+  "publisher": "Herald Pub. Association",
+  "score": 0.9686859250068665,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_curry_ver01\/data\/sn85029677\/0021247308A\/1896012301\/1297\/007_0_96.jpg"
+ },
+ "id": 88
+}

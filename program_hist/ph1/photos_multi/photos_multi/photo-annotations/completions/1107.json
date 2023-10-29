@@ -1,0 +1,106 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748295,
+   "id": 1107001,
+   "lead_time": 3.682,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cf4IpKcs79",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.010618140281047565,
+   0.10758948833384413,
+   0.35295002474208254,
+   0.3437698039602726
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107467\/1909052201\/0183\/004_0_91.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107467%2F1909052201%2F0183.jp2\/pct:1.06,10.76,34.24,23.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "JAPAN'S",
+   "TRAINING",
+   "SHIPS",
+   "tmITWO",
+   "MPANCSE",
+   "TRAIN",
+   "INO",
+   "tHIPt.",
+   "TH(",
+   "\u00bbOVA",
+   "AND",
+   "A\u00ab0.",
+   "ARt",
+   "NOW",
+   "IN",
+   "THC",
+   "HARBOR",
+   "AT",
+   ",J\u00abLvilt",
+   "\u2022C.",
+   "AND",
+   "WILL",
+   "L",
+   "CAVt",
+   "THAT",
+   "PORT",
+   "MONDAY",
+   "FOR",
+   "TACOMA",
+   "ACCOMPANIED",
+   "\u00bbv",
+   "ITScinc'iaUAO\u00dfiiN.",
+   "THE",
+   "JAPANEII",
+   "ItA",
+   "FIGHTERS",
+   "WILL",
+   "ARRIVE",
+   "IN",
+   "IEATTLI",
+   "THE",
+   "LAT",
+   "\u2022Jotor",
+   "next",
+   "week",
+   "to",
+   "be",
+   "present",
+   "at",
+   "the",
+   "opining",
+   "of",
+   "the",
+   "alaikayukon",
+   "pacific",
+   "JUNE",
+   "<"
+  ],
+  "page_seq_num": 183,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107467\/1909052201\/0183.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1909-05-22",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.917740523815155,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107467\/1909052201\/0183\/004_0_91.jpg"
+ },
+ "id": 1107
+}

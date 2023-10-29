@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769038,
+   "id": 1665001,
+   "lead_time": 2.903,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Q6fSXIHBgQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_erkling_ver02",
+  "box": [
+   0.4377530931500755,
+   0.23307593264172424,
+   0.8176232667911454,
+   0.4095512658507381
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_erkling_ver02\/data\/sn85040437\/00414215361\/1916021701\/0051\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Bayfield--Washburn"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_erkling_ver02%2Fdata%2Fsn85040437%2F00414215361%2F1916021701%2F0051.jp2\/pct:43.77,23.31,37.99,17.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040437",
+  "name": "The Washburn times. [volume]",
+  "ocr": [
+   "\"",
+   "WINTER",
+   "WITH",
+   "THE",
+   "IN",
+   "THE",
+   "north",
+   "Detachments",
+   "of",
+   "French",
+   "troops",
+   "on",
+   "their",
+   "way",
+   "to",
+   "the",
+   "1",
+   "ront",
+   "in",
+   "northern",
+   "France,",
+   "plodding",
+   "through",
+   "the",
+   "slush",
+   "the",
+   "supply",
+   "wagons",
+   "in",
+   "the",
+   "rear",
+   "carry",
+   "their",
+   "guns,"
+  ],
+  "page_seq_num": 51,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_erkling_ver02\/data\/sn85040437\/00414215361\/1916021701\/0051.jp2",
+  "place_of_publication": "Washburn, Wis.",
+  "pub_date": "1916-02-17",
+  "publisher": "J.E. Jones",
+  "score": 0.9472400546073914,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_erkling_ver02\/data\/sn85040437\/00414215361\/1916021701\/0051\/002_0_94.jpg"
+ },
+ "id": 1665
+}

@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751560,
+   "id": 968001,
+   "lead_time": 8.674,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qhDsJbXM74",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_romeo_ver01",
+  "box": [
+   0.05022257561028492,
+   0.10553653281452746,
+   0.5682451909406279,
+   0.2868130271410035
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_romeo_ver01\/data\/sn84026749\/100492659\/1907092901\/0172\/005_0_99.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_romeo_ver01%2Fdata%2Fsn84026749%2F100492659%2F1907092901%2F0172.jp2\/pct:5.02,10.56,51.81,18.13\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "Awaits",
+   "Belayed",
+   "Roofing",
+   "The",
+   "Th",
+   "committee",
+   "in",
+   "1n",
+   "charge",
+   "of",
+   "the",
+   "build",
+   "buildIng",
+   "buildIng",
+   "building",
+   "Ing",
+   "operations",
+   "expect",
+   "etpectlt",
+   "to",
+   "enable",
+   "thecompany",
+   "the",
+   "thecompany",
+   "thecompany",
+   "corporation",
+   "CN1",
+   "er",
+   ">",
+   "orlUOn",
+   "In",
+   "n",
+   "the",
+   "Munsey",
+   "building",
+   "Friday",
+   "FridayThe",
+   "FridayThb",
+   "FridayThis"
+  ],
+  "page_seq_num": 172,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_romeo_ver01\/data\/sn84026749\/100492659\/1907092901\/0172.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1907-09-29",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9925186634063721,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_romeo_ver01\/data\/sn84026749\/100492659\/1907092901\/0172\/005_0_99.jpg"
+ },
+ "id": 968
+}

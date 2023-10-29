@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675575,
+   "id": 1260001,
+   "lead_time": 2.039,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "a-KBCBCC_u",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.17345464309589975,
+   0.05733645914781986,
+   0.4284494899263318,
+   0.2951694036151703
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555778\/1911020401\/0287\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555778%2F1911020401%2F0287.jp2\/pct:17.34,5.74,25.5,23.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "taBftHHHHHaHBHalBHHBBftHHll9RPP4ll4'",
+   "'",
+   "WHMMMMMMMHHBBMBVHaHMBBS!Krw",
+   "'HaBSSSSSSBMHHBSSSHBHaVHiiiii'X.iv&w'",
+   "i",
+   "t",
+   "iflaSaBHHHBlsSliHMnmffiPP",
+   "&!",
+   "wW",
+   "Itffr",
+   "Ti",
+   "Wmim",
+   "..",
+   "Jfl4f'",
+   "a'Ki-liiiiiiiiiiiHlW'",
+   "iiiiHseaiHilllllllllllllllllllllHKP",
+   "iKPiiiiiHHliiiiHiilffi",
+   "HHKiaHI--H",
+   "FRANCIS",
+   "S.",
+   "PEABODY.",
+   "Leader",
+   "In",
+   "Business",
+   "and",
+   "Financial",
+   "Circles."
+  ],
+  "page_seq_num": 287,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555778\/1911020401\/0287.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1911-02-04",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9685847163200378,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555778\/1911020401\/0287\/001_0_96.jpg"
+ },
+ "id": 1260
+}

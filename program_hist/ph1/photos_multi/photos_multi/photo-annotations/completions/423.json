@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768700,
+   "id": 423001,
+   "lead_time": 1.497,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3xpdYK_GhD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_julius_ver01",
+  "box": [
+   0.41462661280776514,
+   0.059965852831230786,
+   0.6003703808324724,
+   0.38654221081342854
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_julius_ver01\/data\/sn99021999\/00237284951\/1900030401\/0248\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_julius_ver01%2Fdata%2Fsn99021999%2F00237284951%2F1900030401%2F0248.jp2\/pct:41.46,6.0,18.58,32.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "OMAHA",
+   "SOCIETY",
+   "MUMMEIIS",
+   "MISS",
+   "EDITH",
+   "SMITH",
+   "Photo",
+   "by",
+   "Louis",
+   "It.",
+   "liost"
+  ],
+  "page_seq_num": 248,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_julius_ver01\/data\/sn99021999\/00237284951\/1900030401\/0248.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1900-03-04",
+  "publisher": "Edward Rosewater",
+  "score": 0.969264566898346,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_julius_ver01\/data\/sn99021999\/00237284951\/1900030401\/0248\/003_0_96.jpg"
+ },
+ "id": 423
+}

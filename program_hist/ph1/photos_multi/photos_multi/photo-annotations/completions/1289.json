@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766697,
+   "id": 1289001,
+   "lead_time": 1.637,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "SdVwjAOEOC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_elm_ver01",
+  "box": [
+   0.2722325957981886,
+   0.23724242344798657,
+   0.38694864458742395,
+   0.4072493994796036
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_elm_ver01\/data\/sn88085187\/00211108307\/1911021701\/0125\/009_0_92.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_elm_ver01%2Fdata%2Fsn88085187%2F00211108307%2F1911021701%2F0125.jp2\/pct:27.22,23.73,11.48,17.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "FOR",
+   "WOMEN.\"",
+   "P.",
+   "F.",
+   "GRIFFIN.",
+   "To",
+   "make",
+   "this",
+   "threat",
+   "bear",
+   "heav",
+   "ily,",
+   "big",
+   "business",
+   "from",
+   "northern",
+   "to",
+   "southern",
+   "boundaries",
+   "is",
+   "in",
+   "Sacra",
+   "mento",
+   "in",
+   "force.",
+   "With,"
+  ],
+  "page_seq_num": 125,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_elm_ver01\/data\/sn88085187\/00211108307\/1911021701\/0125.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1911-02-17",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9203538298606873,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_elm_ver01\/data\/sn88085187\/00211108307\/1911021701\/0125\/009_0_92.jpg"
+ },
+ "id": 1289
+}

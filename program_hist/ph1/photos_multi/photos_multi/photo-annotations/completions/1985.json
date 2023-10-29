@@ -1,0 +1,92 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763660,
+   "id": 1985001,
+   "lead_time": 107.025,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o5qhC0o6il",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "created_at": 1611763661,
+   "id": 1985002,
+   "lead_time": 107.129,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o5qhC0o6il",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_quarterman_ver03",
+  "box": [
+   0.14299714698026866,
+   0.06543469708568886,
+   0.6014661215461442,
+   0.22312472293924046
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_quarterman_ver03\/data\/sn83030273\/00212474575\/1920092901\/0597\/015_0_95.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_quarterman_ver03%2Fdata%2Fsn83030273%2F00212474575%2F1920092901%2F0597.jp2\/pct:14.29,6.55,45.85,15.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030273",
+  "name": "The Sun and the New York herald. [volume]",
+  "ocr": [
+   "White",
+   "Sox",
+   "Playeri",
+   "Who",
+   "Have",
+   "Been",
+   "'mmmmmmmmm",
+   "CLAUDU",
+   "WILLIAMS,",
+   "PITCHER",
+   "JOE",
+   "JACKSON",
+   "PUTPIBLDEM.",
+   "Indicted",
+   "by",
+   "Chicago",
+   "EDDIE",
+   "ClCOTTE.",
+   "pitcher",
+   "Grand",
+   "Jury.",
+   "Buck.'",
+   "Weaver-,",
+   "THIRD",
+   "BASfc"
+  ],
+  "page_seq_num": 597,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_quarterman_ver03\/data\/sn83030273\/00212474575\/1920092901\/0597.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1920-09-29",
+  "publisher": "Sun-Herald",
+  "score": 0.951328456401825,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_quarterman_ver03\/data\/sn83030273\/00212474575\/1920092901\/0597\/015_0_95.jpg"
+ },
+ "id": 1985
+}

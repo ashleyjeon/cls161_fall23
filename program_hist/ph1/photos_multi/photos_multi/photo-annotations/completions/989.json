@@ -1,0 +1,85 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751448,
+   "id": 989001,
+   "lead_time": 1.965,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7MJjqlGenD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_ten_ver01",
+  "box": [
+   0.29332303342735455,
+   0.019728771917420816,
+   0.5640809407347867,
+   0.3121313587033371
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_ten_ver01\/data\/sn83045555\/00175049034\/1907092801\/0334\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_ten_ver01%2Fdata%2Fsn83045555%2F00175049034%2F1907092801%2F0334.jp2\/pct:29.33,1.98,27.08,29.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "y",
+   "CINCINNATI",
+   "MAN",
+   "LOST",
+   "IN",
+   "NEW",
+   "YORK",
+   "The",
+   "police",
+   "of",
+   "HIP",
+   "iitln",
+   "nunii",
+   "un",
+   "JO",
+   "Ih",
+   "alert",
+   "fur",
+   "Sward",
+   "Hetdelbach",
+   "a",
+   "merchant",
+   "of",
+   "cinclmiKtl",
+   "whu",
+   "<",
+   "h",
+   "ipiarMl",
+   "on",
+   "Broadway",
+   "Nw",
+   "York",
+   "In",
+   "who",
+   "nfi",
+   "been"
+  ],
+  "page_seq_num": 334,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_ten_ver01\/data\/sn83045555\/00175049034\/1907092801\/0334.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1907-09-28",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9486707448959351,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_ten_ver01\/data\/sn83045555\/00175049034\/1907092801\/0334\/004_0_94.jpg"
+ },
+ "id": 989
+}

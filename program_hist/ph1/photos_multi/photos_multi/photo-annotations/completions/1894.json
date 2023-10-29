@@ -1,0 +1,112 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749427,
+   "id": 1894001,
+   "lead_time": 8.643,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "j3KZZpqPEt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ncu_chestnut_ver01",
+  "box": [
+   0.32264046133653923,
+   0.050464319590329106,
+   0.7043149465057931,
+   0.25001234301360326
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ncu_chestnut_ver01\/data\/sn91068748\/00415667395\/1919050901\/0959\/009_0_92.jpg",
+  "geographic_coverage": [
+   "North Carolina--Halifax--Roanoke Rapids"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ncu_chestnut_ver01%2Fdata%2Fsn91068748%2F00415667395%2F1919050901%2F0959.jp2\/pct:32.26,5.05,38.17,19.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn91068748",
+  "name": "Roanoke Rapids herald. [volume]",
+  "ocr": [
+   "t",
+   "The",
+   "3(R)th",
+   "Infantry",
+   "In",
+   "the",
+   "stadium",
+   "of",
+   "City",
+   "College\"",
+   "New",
+   "York,",
+   "to",
+   "he",
+   "decorated",
+   "hy",
+   "fleneral",
+   "Collnrilet",
+   "OB",
+   "hehalf",
+   "of",
+   "the",
+   "French",
+   "Kovernment.",
+   "2",
+   "IVIejratlon",
+   "of",
+   "the",
+   "pence",
+   "conference",
+   "Inspecting",
+   "the",
+   "devaslated",
+   "reitlons",
+   "of",
+   "Fiance",
+   "to",
+   "determine",
+   "the",
+   "Indemnities.",
+   "3",
+   "Latest",
+   "photograph",
+   "of",
+   "Premier",
+   "Paderewskl",
+   "of",
+   "Poland,",
+   "made",
+   "In",
+   "Paris,",
+   "where",
+   "he",
+   "was",
+   "presenting",
+   "the",
+   "claims",
+   "of",
+   "his",
+   "country",
+   "for",
+   "Danzig."
+  ],
+  "page_seq_num": 959,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ncu_chestnut_ver01\/data\/sn91068748\/00415667395\/1919050901\/0959.jp2",
+  "place_of_publication": "Roanoke Rapids, N.C.",
+  "pub_date": "1919-05-09",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9224527478218079,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ncu_chestnut_ver01\/data\/sn91068748\/00415667395\/1919050901\/0959\/009_0_92.jpg"
+ },
+ "id": 1894
+}

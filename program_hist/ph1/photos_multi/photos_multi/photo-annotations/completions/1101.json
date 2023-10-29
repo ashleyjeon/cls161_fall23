@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764206,
+   "id": 1101001,
+   "lead_time": 1.475,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MDil4LzqRm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_mecca_ver01",
+  "box": [
+   0.1548736572265625,
+   0.07335606914008472,
+   0.5593396338346963,
+   0.36038583673711966
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_mecca_ver01\/data\/sn85066387\/00175047992\/1909020501\/0074\/012_0_98.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_mecca_ver01%2Fdata%2Fsn85066387%2F00175047992%2F1909020501%2F0074.jp2\/pct:15.48,7.34,40.45,28.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "When",
+   "Sick",
+   "Juror",
+   "Is",
+   "Excused",
+   "Detective",
+   "William",
+   "Assistant",
+   "District",
+   "Francis",
+   "and",
+   "Assistant",
+   "District"
+  ],
+  "page_seq_num": 74,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_mecca_ver01\/data\/sn85066387\/00175047992\/1909020501\/0074.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1909-02-05",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9826441407203674,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_mecca_ver01\/data\/sn85066387\/00175047992\/1909020501\/0074\/012_0_98.jpg"
+ },
+ "id": 1101
+}

@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749679,
+   "id": 651001,
+   "lead_time": 8.224,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Y5ge9YKy1P",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_glass_ver02",
+  "box": [
+   0.625968056279413,
+   0.4729890867556766,
+   0.9105184295533355,
+   0.6578785469401645
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_glass_ver02\/data\/sn83016348\/00415625376\/1903100301\/0921\/006_0_90.jpg",
+  "geographic_coverage": [
+   "Maryland--Cecil--Elkton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_glass_ver02%2Fdata%2Fsn83016348%2F00415625376%2F1903100301%2F0921.jp2\/pct:62.59,47.3,28.46,18.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016348",
+  "name": "The Cecil Whig. [volume]",
+  "ocr": [
+   "The",
+   "Hallock",
+   "Quadruple",
+   "Cultivator",
+   "and",
+   "Weeder.",
+   "GEOkGE",
+   "A.",
+   "M,",
+   "JOHNSON,",
+   "Leslie,",
+   "Md.,",
+   "General",
+   "for",
+   "Cctn",
+   "county.",
+   "Local",
+   "Agents\u2014Miller",
+   "F.",
+   "Magraw,",
+   "Elkton.",
+   "Walter",
+   "I.",
+   "Smith,",
+   "Childs.",
+   "John",
+   "E.",
+   "Crothers,",
+   "Calvert.",
+   "Jos.",
+   "S",
+   "Pogue",
+   "&",
+   "Co.,",
+   "Rising",
+   "Sun.",
+   "K.",
+   "W.",
+   "Jackson,",
+   "Aiken.",
+   "May",
+   "ll",
+   "3ino\u00df."
+  ],
+  "page_seq_num": 921,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_glass_ver02\/data\/sn83016348\/00415625376\/1903100301\/0921.jp2",
+  "place_of_publication": "Elkton, Md.",
+  "pub_date": "1903-10-03",
+  "publisher": "P.C. Ricketts",
+  "score": 0.903171956539154,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_glass_ver02\/data\/sn83016348\/00415625376\/1903100301\/0921\/006_0_90.jpg"
+ },
+ "id": 651
+}

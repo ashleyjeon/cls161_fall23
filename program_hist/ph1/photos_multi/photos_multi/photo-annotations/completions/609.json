@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769008,
+   "id": 609001,
+   "lead_time": 3.164,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rpJS1SZmA2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_goldeneye_ver01",
+  "box": [
+   0.5037798045370816,
+   0.039720938693851786,
+   0.9522493913840343,
+   0.30420815198352896
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_goldeneye_ver01\/data\/sn83025294\/00212476882\/1902072601\/0831\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_goldeneye_ver01%2Fdata%2Fsn83025294%2F00212476882%2F1902072601%2F0831.jp2\/pct:50.37,3.98,44.85,26.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025294",
+  "name": "The Butte inter mountain. [volume]",
+  "ocr": [
+   "FIRST",
+   "PRESBYTERIAN",
+   "CHURCH",
+   "FOLKS",
+   "HAVE",
+   "PICNIC",
+   "AT",
+   "GARDENS",
+   "SPECIAL",
+   "CAR",
+   "LOADED",
+   "WITH",
+   "MERRMAKERS",
+   "BOUND",
+   "FOR",
+   "THE",
+   "GARDENS",
+   "SPECIAL",
+   "CAR",
+   "LOADED",
+   "WITH",
+   "MERRYMAKERS",
+   "BOUND",
+   "FOR",
+   "THE",
+   "GARDENS.",
+   "Over",
+   "13o",
+   "men,",
+   "women",
+   "and",
+   "children",
+   "crowded",
+   "on",
+   "the",
+   "special",
+   "car",
+   "which",
+   "Manager",
+   "\\Vharton",
+   "Lunch",
+   "baskets,",
+   "well",
+   "filled",
+   "with",
+   "tooth",
+   "some",
+   "things",
+   "to",
+   "eat,",
+   "were",
+   "crowded",
+   "under",
+   "tended",
+   "the",
+   "jolly",
+   "party",
+   "were",
+   "Mrs.",
+   "G.",
+   "E.",
+   "Blackburn,",
+   "Mrs.",
+   "A.",
+   "if.",
+   "Wethey,",
+   "Mrs.",
+   "D."
+  ],
+  "page_seq_num": 831,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476882\/1902072601\/0831.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1902-07-26",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9787557125091553,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476882\/1902072601\/0831\/003_0_97.jpg"
+ },
+ "id": 609
+}

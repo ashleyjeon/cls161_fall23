@@ -1,0 +1,46 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767710,
+   "id": 682001,
+   "lead_time": 3.781,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "scu_joshwhite_ver01",
+  "box": [
+   0.027823816077986015,
+   0.7703381672558223,
+   0.2753372478127926,
+   0.9286895094413419
+  ],
+  "edition_seq_num": 1,
+  "filepath": "scu_joshwhite_ver01\/data\/sn84026853\/00237287150\/1903041501\/0478\/000_0_97.jpg",
+  "geographic_coverage": [
+   "South Carolina--Abbeville--Abbeville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/scu_joshwhite_ver01%2Fdata%2Fsn84026853%2F00237287150%2F1903041501%2F0478.jp2\/pct:2.78,77.04,24.76,15.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026853",
+  "name": "The Abbeville press and banner. [volume]",
+  "ocr": [
+   "WSBMHHLv",
+   "aWBWHgp^^jp^Pg",
+   "iif",
+   "JkhI",
+   "no.",
+   ".",
+   "WB?"
+  ],
+  "page_seq_num": 478,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/scu_joshwhite_ver01\/data\/sn84026853\/00237287150\/1903041501\/0478.jp2",
+  "place_of_publication": "Abbeville, S.C.",
+  "pub_date": "1903-04-15",
+  "publisher": "W.A. Lee & Hugh Wilson",
+  "score": 0.9792377948760986,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/scu_joshwhite_ver01\/data\/sn84026853\/00237287150\/1903041501\/0478\/000_0_97.jpg"
+ },
+ "id": 682
+}

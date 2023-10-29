@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767578,
+   "id": 1207001,
+   "lead_time": 2.328,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Xj4oT6JBfj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_kant_ver01",
+  "box": [
+   0.02761166297976404,
+   0.31387889515269884,
+   0.4323891989503995,
+   0.6819498512961648
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_kant_ver01\/data\/sn83030272\/100481467\/1910032701\/0462\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_kant_ver01%2Fdata%2Fsn83030272%2F100481467%2F1910032701%2F0462.jp2\/pct:2.76,31.39,40.48,36.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 462,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_kant_ver01\/data\/sn83030272\/100481467\/1910032701\/0462.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1910-03-27",
+  "publisher": "Benj. H. Day",
+  "score": 0.9782403707504272,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_kant_ver01\/data\/sn83030272\/100481467\/1910032701\/0462\/001_0_97.jpg"
+ },
+ "id": 1207
+}

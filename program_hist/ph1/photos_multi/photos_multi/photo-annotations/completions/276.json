@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741273,
+   "id": 276001,
+   "lead_time": 4.078,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8NN5UtjbiT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "scu_flopeye_ver01",
+  "box": [
+   0.5656085544162326,
+   0.5830713762555804,
+   0.7043121125962999,
+   0.7309041050502232
+  ],
+  "edition_seq_num": 1,
+  "filepath": "scu_flopeye_ver01\/data\/sn93067853\/00295861447\/1898012801\/0645\/006_0_93.jpg",
+  "geographic_coverage": [
+   "South Carolina--Union--Union"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/scu_flopeye_ver01%2Fdata%2Fsn93067853%2F00295861447%2F1898012801%2F0645.jp2\/pct:56.56,58.31,13.88,14.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn93067853",
+  "name": "The Union times. [volume]",
+  "ocr": [
+   ".1A(K<)N",
+   "s"
+  ],
+  "page_seq_num": 645,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/scu_flopeye_ver01\/data\/sn93067853\/00295861447\/1898012801\/0645.jp2",
+  "place_of_publication": "Union, S.C.",
+  "pub_date": "1898-01-28",
+  "publisher": null,
+  "score": 0.9349750280380249,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/scu_flopeye_ver01\/data\/sn93067853\/00295861447\/1898012801\/0645\/006_0_93.jpg"
+ },
+ "id": 276
+}

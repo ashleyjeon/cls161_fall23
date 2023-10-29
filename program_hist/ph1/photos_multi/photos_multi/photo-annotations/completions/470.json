@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757417,
+   "id": 470001,
+   "lead_time": 39.33,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "R2gdjQ-fnR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_julius_ver01",
+  "box": [
+   0.08245088740313879,
+   0.36098283862776576,
+   0.4251127204222142,
+   0.555834004740749
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_julius_ver01\/data\/sn99021999\/00211102573\/1901052601\/0870\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_julius_ver01%2Fdata%2Fsn99021999%2F00211102573%2F1901052601%2F0870.jp2\/pct:8.24,36.1,34.27,19.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "SYDNEY",
+   "TOWN",
+   "HALL",
+   "TUB",
+   "LARGEST",
+   "IN",
+   "THE",
+   "WOULD."
+  ],
+  "page_seq_num": 870,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_julius_ver01\/data\/sn99021999\/00211102573\/1901052601\/0870.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1901-05-26",
+  "publisher": "Edward Rosewater",
+  "score": 0.9871391654014587,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_julius_ver01\/data\/sn99021999\/00211102573\/1901052601\/0870\/002_0_98.jpg"
+ },
+ "id": 470
+}

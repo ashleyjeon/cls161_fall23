@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767608,
+   "id": 858001,
+   "lead_time": 3.621,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LTdn6U5DFt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_hancock_ver02",
+  "box": [
+   0.3406796709922709,
+   0.23276758733785377,
+   0.6331147434872665,
+   0.3683667836699096
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_hancock_ver02\/data\/sn96076839\/00296023887\/1906021701\/0760\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Michigan--Charlevoix--East Jordan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_hancock_ver02%2Fdata%2Fsn96076839%2F00296023887%2F1906021701%2F0760.jp2\/pct:34.06,23.28,29.25,13.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn96076839",
+  "name": "Charlevoix county herald.",
+  "ocr": [
+   ";",
+   "......",
+   "a"
+  ],
+  "page_seq_num": 760,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_hancock_ver02\/data\/sn96076839\/00296023887\/1906021701\/0760.jp2",
+  "place_of_publication": "East Jordan, Mich.",
+  "pub_date": "1906-02-17",
+  "publisher": "A.J. Suffern",
+  "score": 0.9912089109420776,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_hancock_ver02\/data\/sn96076839\/00296023887\/1906021701\/0760\/001_0_99.jpg"
+ },
+ "id": 858
+}

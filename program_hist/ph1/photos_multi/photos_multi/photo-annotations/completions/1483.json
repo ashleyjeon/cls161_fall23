@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675531,
+   "id": 1483001,
+   "lead_time": 1.888,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pS4Xar-oty",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_olson_ver01",
+  "box": [
+   0.4373611749387255,
+   0.18058010835506394,
+   0.7109531776577819,
+   0.4946901467735321
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_olson_ver01\/data\/sn83030214\/00206531782\/1914060201\/0023\/006_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_olson_ver01%2Fdata%2Fsn83030214%2F00206531782%2F1914060201%2F0023.jp2\/pct:43.73,18.06,27.36,31.42\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "\\",
+   "[CTf",
+   "?Rl",
+   "\\N<",
+   "'",
+   "HI",
+   "l",
+   "!?",
+   "I",
+   "A."
+  ],
+  "page_seq_num": 23,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_olson_ver01\/data\/sn83030214\/00206531782\/1914060201\/0023.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1914-06-02",
+  "publisher": "New York Tribune",
+  "score": 0.98520827293396,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_olson_ver01\/data\/sn83030214\/00206531782\/1914060201\/0023\/006_0_98.jpg"
+ },
+ "id": 1483
+}

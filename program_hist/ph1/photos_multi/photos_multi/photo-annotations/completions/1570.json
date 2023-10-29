@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673601,
+   "id": 1570001,
+   "lead_time": 6.263,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "F0eJ_MRTgh",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_henri_ver01",
+  "box": [
+   0.3579852703920345,
+   0.7044845623167261,
+   0.5079097157901096,
+   0.9202929709960039
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_henri_ver01\/data\/sn89067273\/00200292674\/1915030401\/0744\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Missouri--Audrain--Mexico"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_henri_ver01%2Fdata%2Fsn89067273%2F00200292674%2F1915030401%2F0744.jp2\/pct:35.79,70.45,15.0,21.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn89067273",
+  "name": "Mexico Missouri message.",
+  "ocr": [
+   "OLD",
+   "COSSACK",
+   "STILL",
+   "FIGHTS",
+   "t5",
+   "?",
+   ";",
+   "4",
+   "J",
+   "\":''",
+   "SSI.",
+   "rf-'j-.",
+   "V.",
+   "Ivan",
+   "Trufauoft,",
+   "aged",
+   "sixty-two",
+   "years,",
+   "is",
+   "the",
+   "oldest",
+   "volunteer",
+   "In",
+   "the",
+   "armies",
+   "of",
+   "the",
+   "czar.",
+   "He",
+   "U",
+   "a",
+   "Cossack",
+   "and",
+   "has",
+   "taken",
+   "part",
+   "In",
+   "three",
+   "previous",
+   "wars."
+  ],
+  "page_seq_num": 744,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_henri_ver01\/data\/sn89067273\/00200292674\/1915030401\/0744.jp2",
+  "place_of_publication": "Mexico, Audrain County, Mo.",
+  "pub_date": "1915-03-04",
+  "publisher": "John Beal",
+  "score": 0.9703525900840759,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_henri_ver01\/data\/sn89067273\/00200292674\/1915030401\/0744\/002_0_97.jpg"
+ },
+ "id": 1570
+}

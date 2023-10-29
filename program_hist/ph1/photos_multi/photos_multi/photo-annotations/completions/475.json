@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611745996,
+   "id": 475001,
+   "lead_time": 563.482,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "OxfA_pwiGn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_richfield_ver01",
+  "box": [
+   0.4360387690933296,
+   0.04041595556360183,
+   0.6850976781460202,
+   0.2983110594612516
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_richfield_ver01\/data\/sn83045366\/00206533882\/1901022301\/0317\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Minnesota--Hennepin--Minneapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_richfield_ver01%2Fdata%2Fsn83045366%2F00206533882%2F1901022301%2F0317.jp2\/pct:43.6,4.05,24.91,25.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045366",
+  "name": "The Minneapolis journal. [volume]",
+  "ocr": [
+   "COLONEL",
+   "HENRY",
+   "G.",
+   "SHARPE.",
+   "Lieutenant",
+   "Colonel",
+   "Henry",
+   "G.",
+   "Sharpe",
+   "of",
+   "Invading",
+   "army",
+   "as",
+   "chief",
+   "commissary",
+   "of"
+  ],
+  "page_seq_num": 317,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_richfield_ver01\/data\/sn83045366\/00206533882\/1901022301\/0317.jp2",
+  "place_of_publication": "Minneapolis, Minn.",
+  "pub_date": "1901-02-23",
+  "publisher": "Journal Print. Co.",
+  "score": 0.9881905317306519,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_richfield_ver01\/data\/sn83045366\/00206533882\/1901022301\/0317\/003_0_98.jpg"
+ },
+ "id": 475
+}

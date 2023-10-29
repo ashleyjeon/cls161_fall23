@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673650,
+   "id": 738001,
+   "lead_time": 2.159,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QvAyLqHZgi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_jacard_ver01",
+  "box": [
+   0.31314565412674217,
+   0.6833046680659204,
+   0.4388414974412021,
+   0.8138755684468284
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_jacard_ver01\/data\/sn86090233\/00199917432\/1904062301\/0150\/008_0_93.jpg",
+  "geographic_coverage": [
+   "Mississippi--Claiborne--Port Gibson"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_jacard_ver01%2Fdata%2Fsn86090233%2F00199917432%2F1904062301%2F0150.jp2\/pct:31.31,68.34,12.57,13.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090233",
+  "name": "The Port Gibson reveille. [volume]",
+  "ocr": [
+   "r*",
+   "a",
+   "*",
+   "i",
+   "y",
+   "_",
+   "MISS",
+   "VIVIAN",
+   "FORREST"
+  ],
+  "page_seq_num": 150,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_jacard_ver01\/data\/sn86090233\/00199917432\/1904062301\/0150.jp2",
+  "place_of_publication": "Port Gibson, Miss.",
+  "pub_date": "1904-06-23",
+  "publisher": "A.C. Wharton",
+  "score": 0.9338940382003784,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_jacard_ver01\/data\/sn86090233\/00199917432\/1904062301\/0150\/008_0_93.jpg"
+ },
+ "id": 738
+}

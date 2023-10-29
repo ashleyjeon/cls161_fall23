@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772463,
+   "id": 1718001,
+   "lead_time": 1.62,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dghwgJpUNs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_japan_ver01",
+  "box": [
+   0.4111527375252016,
+   0.32297227900381525,
+   0.5460045205393145,
+   0.47901289371941985
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_japan_ver01\/data\/sn86088527\/00200297726\/1917061301\/0421\/014_0_96.jpg",
+  "geographic_coverage": [
+   "Texas--Nueces--Corpus Christi"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_japan_ver01%2Fdata%2Fsn86088527%2F00200297726%2F1917061301%2F0421.jp2\/pct:41.11,32.3,13.49,15.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn86088527",
+  "name": "Corpus Christi caller and daily herald. [volume]",
+  "ocr": [
+   ".",
+   "-i",
+   "m",
+   "\"",
+   "h",
+   "tSi,",
+   "HI",
+   "AS",
+   "'",
+   "HI"
+  ],
+  "page_seq_num": 421,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_japan_ver01\/data\/sn86088527\/00200297726\/1917061301\/0421.jp2",
+  "place_of_publication": "Corpus Christi, Tex.",
+  "pub_date": "1917-06-13",
+  "publisher": "Caller Pub. Co.",
+  "score": 0.9619260430335999,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_japan_ver01\/data\/sn86088527\/00200297726\/1917061301\/0421\/014_0_96.jpg"
+ },
+ "id": 1718
+}

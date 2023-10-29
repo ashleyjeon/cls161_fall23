@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673659,
+   "id": 445001,
+   "lead_time": 1.933,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QWVictdbGg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_fiji_ver01",
+  "box": [
+   0.26494090835421064,
+   0.6800295163012949,
+   0.7328764195180644,
+   0.9820344143581481
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900102801\/0519\/004_0_95.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_fiji_ver01%2Fdata%2Fsn83030214%2F00175040936%2F1900102801%2F0519.jp2\/pct:26.49,68.01,46.8,30.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "EDOAR",
+   "T.",
+   "WALLACE",
+   "l-'it",
+   "1",
+   "\u25a0",
+   "FRANK",
+   "K.",
+   "WOODI.RY."
+  ],
+  "page_seq_num": 519,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900102801\/0519.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-10-28",
+  "publisher": "New York Tribune",
+  "score": 0.9523704051971436,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900102801\/0519\/004_0_95.jpg"
+ },
+ "id": 445
+}

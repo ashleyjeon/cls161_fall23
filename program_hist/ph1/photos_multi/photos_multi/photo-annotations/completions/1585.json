@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768098,
+   "id": 1585001,
+   "lead_time": 2.05,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WVwMfEPW7Q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_leonidas_ver01",
+  "box": [
+   0.13301191997451353,
+   0.06971203399539458,
+   0.4880883730138777,
+   0.2383266107581469
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_leonidas_ver01\/data\/sn83016689\/00414218623\/1915101501\/0565\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_leonidas_ver01%2Fdata%2Fsn83016689%2F00414218623%2F1915101501%2F0565.jp2\/pct:13.3,6.98,35.51,16.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "Conducted",
+   "by",
+   "PAUL",
+   "PIERCE.",
+   "1",
+   "IBS",
+   "*\u2022**&*'\u2022*",
+   "l\u00df.~v.",
+   "WHBBI",
+   "\u25a0",
+   "-9K",
+   "\u25a0Hs",
+   ".-.KgjlS&saijti",
+   "Window",
+   "Display",
+   "Peter",
+   "Smith",
+   "and",
+   "Sons",
+   "Cos.,",
+   "Smith",
+   "Building,",
+   "Cor.",
+   "State",
+   "and",
+   "Griswold."
+  ],
+  "page_seq_num": 565,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_leonidas_ver01\/data\/sn83016689\/00414218623\/1915101501\/0565.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1915-10-15",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9704663157463074,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_leonidas_ver01\/data\/sn83016689\/00414218623\/1915101501\/0565\/006_0_97.jpg"
+ },
+ "id": 1585
+}

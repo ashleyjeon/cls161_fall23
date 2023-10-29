@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747679,
+   "id": 1413001,
+   "lead_time": 2.325,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vj2CTEF1vq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_nighthawk_ver01",
+  "box": [
+   0.45474617066711637,
+   0.3039657094430404,
+   0.7313756597779317,
+   0.5684651186455093
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_nighthawk_ver01\/data\/sn88086023\/00202194527\/1913012701\/0431\/007_0_90.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_nighthawk_ver01%2Fdata%2Fsn88086023%2F00202194527%2F1913012701%2F0431.jp2\/pct:45.47,30.4,27.67,26.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   "SPORT",
+   "CIRCLES",
+   "INTERESTED",
+   "IN",
+   "MATCH",
+   "t",
+   "i",
+   ":'-:",
+   "\"",
+   "-",
+   "J",
+   "V",
+   "IT",
+   "V",
+   "'\"C'-",
+   "X'",
+   "i",
+   "&",
+   "--r",
+   "s",
+   "\"",
+   "wl",
+   "I"
+  ],
+  "page_seq_num": 431,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_nighthawk_ver01\/data\/sn88086023\/00202194527\/1913012701\/0431.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1913-01-27",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.9087976813316345,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_nighthawk_ver01\/data\/sn88086023\/00202194527\/1913012701\/0431\/007_0_90.jpg"
+ },
+ "id": 1413
+}

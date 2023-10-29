@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751174,
+   "id": 1255001,
+   "lead_time": 1.639,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xWMtbds1pt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_kilo_ver01",
+  "box": [
+   0.3027474057357923,
+   0.09857110692243794,
+   0.5526755678970202,
+   0.40650366060763127
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_kilo_ver01\/data\/sn88077573\/00237283715\/1911111601\/0869\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Ohio--Marion--Marion"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_kilo_ver01%2Fdata%2Fsn88077573%2F00237283715%2F1911111601%2F0869.jp2\/pct:30.27,9.86,25.0,30.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn88077573",
+  "name": "The Marion daily mirror.",
+  "ocr": [
+   "LINCOLN",
+   "IfflPERSONATOR",
+   "TOWIGHT.",
+   "iJT'Tl",
+   "!",
+   "ii",
+   "--",
+   "\"",
+   "-'",
+   "I",
+   "!",
+   "\"hiiimq",
+   "mm",
+   "Henjamln",
+   "Cihailn,",
+   "an",
+   "impersonator",
+   "o",
+   "high",
+   "merit",
+   "will",
+   "bo",
+   "heard",
+   "at",
+   "the",
+   "this",
+   "1st",
+   "s",
+   "of",
+   "tho",
+   "great",
+   "luri",
+   "to",
+   "his",
+   "nnd-",
+   "t",
+   "Tho",
+   "Lincoln",
+   "good",
+   "humor,",
+   "wit",
+   "len",
+   "mid",
+   "tenderness",
+   "radiates",
+   "not",
+   "onl",
+   "from"
+  ],
+  "page_seq_num": 869,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_kilo_ver01\/data\/sn88077573\/00237283715\/1911111601\/0869.jp2",
+  "place_of_publication": "Marion, Ohio",
+  "pub_date": "1911-11-16",
+  "publisher": "Mirror Pub. Co.",
+  "score": 0.9371650815010071,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_kilo_ver01\/data\/sn88077573\/00237283715\/1911111601\/0869\/006_0_93.jpg"
+ },
+ "id": 1255
+}

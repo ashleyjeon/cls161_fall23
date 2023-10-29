@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749210,
+   "id": 1053001,
+   "lead_time": 5.075,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Bxa5OyfsUX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_heraldry_ver01",
+  "box": [
+   0.06781950378417968,
+   0.5121545216393849,
+   0.430336181640625,
+   0.733133564298115
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_heraldry_ver01\/data\/sn92053934\/00202198715\/1908112801\/0502\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_heraldry_ver01%2Fdata%2Fsn92053934%2F00202198715%2F1908112801%2F0502.jp2\/pct:6.78,51.22,36.26,22.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "\"\"",
+   "till",
+   ",",
+   "mmtpHmmiwmtQ.rSZ'",
+   "1",
+   "&",
+   "ui",
+   "'",
+   "J",
+   "'x",
+   "KV",
+   "V",
+   "4",
+   "ft",
+   "1",
+   "S",
+   "i",
+   ":",
+   "'",
+   ":",
+   ":",
+   "Maaaaaa",
+   ".",
+   "SCENE",
+   "FROM",
+   "\"THE",
+   "WOLF,\"",
+   "AT",
+   "THE",
+   "ILLINOIS",
+   "THEATER",
+   "DEC.\"",
+   "3"
+  ],
+  "page_seq_num": 502,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_heraldry_ver01\/data\/sn92053934\/00202198715\/1908112801\/0502.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1908-11-28",
+  "publisher": "J.W. Potter",
+  "score": 0.9821163415908813,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_heraldry_ver01\/data\/sn92053934\/00202198715\/1908112801\/0502\/002_0_98.jpg"
+ },
+ "id": 1053
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748280,
+   "id": 126001,
+   "lead_time": 2.331,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LYnSjDFQSA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_infiniti_ver03",
+  "box": [
+   0.07310192017328171,
+   0.3440428194792374,
+   0.19727892194475447,
+   0.4751855601435122
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896061301\/0616\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Texas--Brazos--Bryan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_infiniti_ver03%2Fdata%2Fsn88083938%2F00200294269%2F1896061301%2F0616.jp2\/pct:7.31,34.41,12.42,13.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn88083938",
+  "name": "The Bryan daily eagle.",
+  "ocr": [
+   "v,.'.;,V,",
+   "-",
+   "MAKQI'W",
+   "YAMACATA."
+  ],
+  "page_seq_num": 616,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896061301\/0616.jp2",
+  "place_of_publication": "Bryan, Tex.",
+  "pub_date": "1896-06-13",
+  "publisher": "Connelly, Palmer & Carnes",
+  "score": 0.9607822299003601,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896061301\/0616\/002_0_96.jpg"
+ },
+ "id": 126
+}

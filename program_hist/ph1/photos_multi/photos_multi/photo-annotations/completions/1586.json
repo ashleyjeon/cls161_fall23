@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747603,
+   "id": 1586001,
+   "lead_time": 1.807,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "hNhuoxYecz",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_james_ver01",
+  "box": [
+   0.3419774169921875,
+   0.14554357887210703,
+   0.6326422119140624,
+   0.39205488047205417
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_james_ver01\/data\/sn86063041\/00415666093\/1915102801\/0427\/009_0_93.jpg",
+  "geographic_coverage": [
+   "Idaho--Oneida--American Falls"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_james_ver01%2Fdata%2Fsn86063041%2F00415666093%2F1915102801%2F0427.jp2\/pct:34.19,14.56,29.07,24.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063041",
+  "name": "American Falls press. [volume]",
+  "ocr": [
+   "i",
+   "!",
+   "j",
+   "J",
+   "I",
+   "'",
+   "I",
+   "|",
+   "I",
+   "I",
+   "i",
+   "!",
+   "j",
+   "J",
+   "I",
+   "'",
+   "I",
+   "|",
+   "I",
+   "M",
+   ".A",
+   "v",
+   "i",
+   "I",
+   "'THE",
+   "MOON",
+   "GIRL,\"",
+   "COMING",
+   "NOVEMBER",
+   "1st.",
+   "'THE",
+   "MOON",
+   "GIRL,\"",
+   "COMING"
+  ],
+  "page_seq_num": 427,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_james_ver01\/data\/sn86063041\/00415666093\/1915102801\/0427.jp2",
+  "place_of_publication": "American Falls, Idaho",
+  "pub_date": "1915-10-28",
+  "publisher": "Press Pub. Co.",
+  "score": 0.9328823685646057,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_james_ver01\/data\/sn86063041\/00415666093\/1915102801\/0427\/009_0_93.jpg"
+ },
+ "id": 1586
+}

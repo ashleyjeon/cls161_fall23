@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762879,
+   "id": 37001,
+   "lead_time": 1.63,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CW6hJTkGUZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_yes_ver01",
+  "box": [
+   0.6187933868676686,
+   0.10964534457478006,
+   0.7371738467398277,
+   0.2459533154440066
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_yes_ver01\/data\/sn84025841\/00175032290\/1895020901\/0306\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_yes_ver01%2Fdata%2Fsn84025841%2F00175032290%2F1895020901%2F0306.jp2\/pct:61.87,10.97,11.84,13.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025841",
+  "name": "Richmond planet. [volume]",
+  "ocr": [
+   "DJ.",
+   "FARRAR."
+  ],
+  "page_seq_num": 306,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_yes_ver01\/data\/sn84025841\/00175032290\/1895020901\/0306.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1895-02-09",
+  "publisher": "Planet Pub. Co.",
+  "score": 0.9669263362884521,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_yes_ver01\/data\/sn84025841\/00175032290\/1895020901\/0306\/007_0_96.jpg"
+ },
+ "id": 37
+}

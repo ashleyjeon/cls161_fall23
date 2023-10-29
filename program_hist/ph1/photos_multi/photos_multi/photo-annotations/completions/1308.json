@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751500,
+   "id": 1308001,
+   "lead_time": 1.964,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "t-WtyoO2IF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_beryl_ver01",
+  "box": [
+   0.40687558072284585,
+   0.6074477836183788,
+   0.5187489926236347,
+   0.7202214215857542
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_beryl_ver01\/data\/sn86074065\/00383343719\/1911032201\/0085\/007_0_90.jpg",
+  "geographic_coverage": [
+   "Mississippi--Lincoln--Brookhaven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_beryl_ver01%2Fdata%2Fsn86074065%2F00383343719%2F1911032201%2F0085.jp2\/pct:40.68,60.75,11.19,11.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074065",
+  "name": "The Semi-weekly leader.",
+  "ocr": [
+   "R.",
+   "D.",
+   "LANIER.",
+   "rant,",
+   "performed",
+   "vgvery",
+   "duty",
+   "with",
+   "idelity'",
+   "and",
+   "trust,",
+   "'always",
+   "looking"
+  ],
+  "page_seq_num": 85,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_beryl_ver01\/data\/sn86074065\/00383343719\/1911032201\/0085.jp2",
+  "place_of_publication": "Brookhaven, Miss.",
+  "pub_date": "1911-03-22",
+  "publisher": "B.T. Hobbs",
+  "score": 0.903512179851532,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_beryl_ver01\/data\/sn86074065\/00383343719\/1911032201\/0085\/007_0_90.jpg"
+ },
+ "id": 1308
+}

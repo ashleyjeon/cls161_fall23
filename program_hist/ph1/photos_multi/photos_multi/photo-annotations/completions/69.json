@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748902,
+   "id": 69001,
+   "lead_time": 19.052,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_P87WuXGnb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_fennal_ver01",
+  "box": [
+   0.6458082568737887,
+   0.7671849721134196,
+   0.9611745435138082,
+   0.9082020162778156
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_fennal_ver01\/data\/sn96086441\/00415628869\/1895070101\/0005\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Vermont--Windham--Battleboro"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_fennal_ver01%2Fdata%2Fsn96086441%2F00415628869%2F1895070101%2F0005.jp2\/pct:64.58,76.72,31.54,14.11\/!500,500\/0\/default.jpg",
+  "lccn": "sn96086441",
+  "name": "The Windham County reformer.",
+  "ocr": [
+   "KOKTII",
+   "main",
+   "sti:ki:t."
+  ],
+  "page_seq_num": 5,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_fennal_ver01\/data\/sn96086441\/00415628869\/1895070101\/0005.jp2",
+  "place_of_publication": "Battleboro, Vt.",
+  "pub_date": "1895-07-01",
+  "publisher": "C.H. Davenport & Co.",
+  "score": 0.9483093619346619,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_fennal_ver01\/data\/sn96086441\/00415628869\/1895070101\/0005\/003_0_94.jpg"
+ },
+ "id": 69
+}

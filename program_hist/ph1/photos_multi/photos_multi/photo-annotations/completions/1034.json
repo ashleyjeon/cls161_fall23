@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674994,
+   "id": 1034001,
+   "lead_time": 1.045,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "55kZ7KfdcL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_gabardine_ver01",
+  "box": [
+   0.56023414688881,
+   0.2428188183285037,
+   0.6853787971265388,
+   0.46844122256569415
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_gabardine_ver01\/data\/sn87065167\/00199916816\/1908112001\/0547\/009_0_95.jpg",
+  "geographic_coverage": [
+   "Mississippi--Forrest--Hattiesburg",
+   "Mississippi--Perry"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_gabardine_ver01%2Fdata%2Fsn87065167%2F00199916816%2F1908112001%2F0547.jp2\/pct:56.02,24.29,12.52,22.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn87065167",
+  "name": "The Hattiesburg news.",
+  "ocr": [
+   "*\u25a0",
+   "'",
+   "r",
+   "\u2666",
+   ">",
+   "-",
+   "1",
+   "|g",
+   "if",
+   "!",
+   "is",
+   "*>**\"\u2022\u00bb'",
+   "T;",
+   "I'",
+   "w\\*.",
+   "\u00ab",
+   "v.",
+   "V",
+   "Duchess",
+   "of",
+   "Manchester,",
+   "who",
+   "has",
+   "just",
+   "been",
+   "sued",
+   "on",
+   "a",
+   "bill",
+   "of",
+   "$175",
+   "for",
+   "toilet",
+   "and",
+   "nursery",
+   "articles.",
+   "Vi;",
+   "limn\u2014"
+  ],
+  "page_seq_num": 547,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_gabardine_ver01\/data\/sn87065167\/00199916816\/1908112001\/0547.jp2",
+  "place_of_publication": "Hattiesburg, Miss.",
+  "pub_date": "1908-11-20",
+  "publisher": "F.D. Lander",
+  "score": 0.958110511302948,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_gabardine_ver01\/data\/sn87065167\/00199916816\/1908112001\/0547\/009_0_95.jpg"
+ },
+ "id": 1034
+}

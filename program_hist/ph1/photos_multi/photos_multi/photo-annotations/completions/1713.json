@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675032,
+   "id": 1713001,
+   "lead_time": 3.869,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lp-IijsgZs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_magellan_ver01",
+  "box": [
+   0.06402297461996888,
+   0.7064708992500709,
+   0.28650678826507026,
+   0.8796748682157716
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_magellan_ver01\/data\/sn87076552\/00296028940\/1917070601\/0078\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Ohio--Fulton--Wauseon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_magellan_ver01%2Fdata%2Fsn87076552%2F00296028940%2F1917070601%2F0078.jp2\/pct:6.4,70.65,22.25,17.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn87076552",
+  "name": "Fulton County tribune.",
+  "ocr": [
+   "The",
+   "Massing",
+   "of",
+   "Shrubbery,",
+   "Including",
+   "Pines",
+   "Adda",
+   "to",
+   "the",
+   "Pictur",
+   "'",
+   "j",
+   "til",
+   "tig",
+   "j",
+   "'",
+   "rrff;-",
+   "I",
+   "wk",
+   "J",
+   "1",
+   "as",
+   "It",
+   "Doe",
+   "Foliage,",
+   "Flowering",
+   "Plants",
+   "and",
+   "esqueness",
+   "of",
+   "This",
+   "Place."
+  ],
+  "page_seq_num": 78,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_magellan_ver01\/data\/sn87076552\/00296028940\/1917070601\/0078.jp2",
+  "place_of_publication": "Wauseon, Ohio",
+  "pub_date": "1917-07-06",
+  "publisher": "Smith & Fluhart",
+  "score": 0.9807135462760925,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_magellan_ver01\/data\/sn87076552\/00296028940\/1917070601\/0078\/001_0_98.jpg"
+ },
+ "id": 1713
+}

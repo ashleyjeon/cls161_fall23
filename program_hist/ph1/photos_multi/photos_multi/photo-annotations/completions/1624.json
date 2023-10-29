@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611682518,
+   "id": 1624001,
+   "lead_time": 1908.703,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oQCOGGMCgj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_klingon_ver01",
+  "box": [
+   0.029086274545571784,
+   0.542714532276032,
+   0.1599346197345379,
+   0.8662049828506098
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_klingon_ver01\/data\/sn85042224\/00383345625\/1916062901\/0653\/013_0_94.jpg",
+  "geographic_coverage": [
+   "North Dakota--Cass--Fargo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_klingon_ver01%2Fdata%2Fsn85042224%2F00383345625%2F1916062901%2F0653.jp2\/pct:2.9,54.28,13.09,32.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042224",
+  "name": "The Fargo forum and daily republican. [volume]",
+  "ocr": [
+   "iffiKsJI",
+   "AFTER",
+   "A.",
+   "A.",
+   "FLAG",
+   "Jb",
+   "Joe",
+   "Cantilloii.",
+   "Joe",
+   "Cantillon,",
+   "veteran",
+   "manager",
+   "of",
+   "\"the",
+   "Minneapolis",
+   "A.",
+   "A.",
+   "team,",
+   "has",
+   "his",
+   "{loys",
+   "hot",
+   "after",
+   "the",
+   "flag",
+   "in",
+   "what",
+   "{'promises",
+   "to",
+   "be",
+   "one",
+   "of",
+   "the",
+   "Warmest",
+   "Sflg-hts",
+   "the",
+   "Association",
+   "has",
+   "seen",
+   "for",
+   "ifBorm?",
+   "seasons.",
+   "Jack",
+   "Hendricks'",
+   "In"
+  ],
+  "page_seq_num": 653,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_klingon_ver01\/data\/sn85042224\/00383345625\/1916062901\/0653.jp2",
+  "place_of_publication": "Fargo, N.D.",
+  "pub_date": "1916-06-29",
+  "publisher": "A.W. Edwards & H.C. Plumley",
+  "score": 0.9451895356178284,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_klingon_ver01\/data\/sn85042224\/00383345625\/1916062901\/0653\/013_0_94.jpg"
+ },
+ "id": 1624
+}

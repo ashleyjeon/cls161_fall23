@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747516,
+   "id": 71001,
+   "lead_time": 5.05,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "txEUIs2u4S",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_ludlow_ver01",
+  "box": [
+   0.2368879938700113,
+   0.22594862321979078,
+   0.7832116552146084,
+   0.43133027718400874
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_ludlow_ver01\/data\/sn85038102\/00202197279\/1895081601\/0849\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Vermont--Orange--Bradford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_ludlow_ver01%2Fdata%2Fsn85038102%2F00202197279%2F1895081601%2F0849.jp2\/pct:23.68,22.6,54.64,20.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038102",
+  "name": "The united opinion. [volume]",
+  "ocr": [
+   "and",
+   "sport.",
+   "He",
+   "will",
+   "receive",
+   "beautiful",
+   "situation,",
+   "and",
+   "will",
+   "con-",
+   "improvements.",
+   "Mr.",
+   "Peckett",
+   "built",
+   "and",
+   "probably",
+   "the",
+   "finest",
+   "and",
+   "I",
+   "By",
+   "ML,",
+   "1",
+   "s.",
+   "L"
+  ],
+  "page_seq_num": 849,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_ludlow_ver01\/data\/sn85038102\/00202197279\/1895081601\/0849.jp2",
+  "place_of_publication": "Bradford, Vt.",
+  "pub_date": "1895-08-16",
+  "publisher": "Harry E. Parker",
+  "score": 0.9906942248344421,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_ludlow_ver01\/data\/sn85038102\/00202197279\/1895081601\/0849\/001_0_99.jpg"
+ },
+ "id": 71
+}

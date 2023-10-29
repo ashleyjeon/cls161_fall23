@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743120,
+   "id": 1928001,
+   "lead_time": 1.678,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FGDnvI8Sdz",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_irons_ver01",
+  "box": [
+   0.3434383919423302,
+   0.4849379426205771,
+   0.4869876477422424,
+   0.7472048263742629
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_irons_ver01\/data\/2010270504\/00237284781\/1920112601\/0068\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Nebraska--Lincoln--North Platte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_irons_ver01%2Fdata%2F2010270504%2F00237284781%2F1920112601%2F0068.jp2\/pct:34.34,48.5,14.36,26.23\/!500,500\/0\/default.jpg",
+  "lccn": "2010270504",
+  "name": "The North Platte semi-weekly tribune.",
+  "ocr": [
+   "IN",
+   "LONDON",
+   "FOR",
+   "AUSTRIA",
+   "ii!tV.U",
+   ".",
+   "W.Wi",
+   "'",
+   "\"",
+   "1,1",
+   "sg",
+   "1",
+   "n",
+   "y",
+   "1",
+   "This",
+   "Is",
+   "Baron",
+   "von",
+   "Frankenstein,",
+   "tho",
+   "minister",
+   "plenipotentiary",
+   "of",
+   "Austria",
+   "to",
+   "the",
+   "court",
+   "of",
+   "St.",
+   "James.",
+   "The",
+   "photo",
+   "graph",
+   "was",
+   "taken",
+   "as",
+   "hewns",
+   "going",
+   "to",
+   "Stonnr",
+   "camp,",
+   "England,",
+   "where",
+   "500",
+   "children",
+   "from",
+   "Vienna",
+   "arc",
+   "being",
+   "main"
+  ],
+  "page_seq_num": 68,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_irons_ver01\/data\/2010270504\/00237284781\/1920112601\/0068.jp2",
+  "place_of_publication": "North Platte, Neb.",
+  "pub_date": "1920-11-26",
+  "publisher": "I.L. Bare",
+  "score": 0.9568081498146057,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_irons_ver01\/data\/2010270504\/00237284781\/1920112601\/0068\/004_0_95.jpg"
+ },
+ "id": 1928
+}

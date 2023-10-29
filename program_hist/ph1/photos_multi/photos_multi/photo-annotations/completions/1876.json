@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749258,
+   "id": 1876001,
+   "lead_time": 5.504,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_coreopsis_ver01",
+  "box": [
+   0.521486388674097,
+   0.6763949703860592,
+   0.956752182544973,
+   0.9480854381214489
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_coreopsis_ver01\/data\/sn99021999\/00279551242\/1919062901\/0871\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_coreopsis_ver01%2Fdata%2Fsn99021999%2F00279551242%2F1919062901%2F0871.jp2\/pct:52.14,67.64,43.53,27.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "THEY",
+   "LINE",
+   "UP",
+   "FOR",
+   "CHOW.",
+   "9",
+   ",",
+   ",",
+   "-",
+   "V-\"-",
+   "i",
+   "i",
+   "r",
+   "itt:",
+   ":",
+   "wv-",
+   "-----",
+   "as",
+   "1",
+   "i-",
+   "I",
+   "DOUGHBOYS",
+   "BOARDING",
+   "BARGES",
+   "AT",
+   "BREST",
+   "WHICH",
+   "CARRY",
+   "THEM",
+   "TO",
+   "THE",
+   "HOMEWARD",
+   "BOUND",
+   "TRANSPORTS"
+  ],
+  "page_seq_num": 871,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_coreopsis_ver01\/data\/sn99021999\/00279551242\/1919062901\/0871.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1919-06-29",
+  "publisher": "Edward Rosewater",
+  "score": 0.923836350440979,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_coreopsis_ver01\/data\/sn99021999\/00279551242\/1919062901\/0871\/006_0_92.jpg"
+ },
+ "id": 1876
+}

@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766422,
+   "id": 1900001,
+   "lead_time": 1.978,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8TOL8MKSRm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_judaspriest_ver01",
+  "box": [
+   0.33727879678049394,
+   0.48623231660335436,
+   0.4766524940408686,
+   0.6596648889944094
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_judaspriest_ver01\/data\/sn85052076\/00280763548\/1919061201\/0617\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Berea"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_judaspriest_ver01%2Fdata%2Fsn85052076%2F00280763548%2F1919061201%2F0617.jp2\/pct:33.72,48.63,13.94,17.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052076",
+  "name": "The citizen. [volume]",
+  "ocr": [
+   "A.",
+   "H.",
+   "LICHTY,",
+   "w1bbbbbVHsbb",
+   "JsssssBt8KN",
+   "yJ"
+  ],
+  "page_seq_num": 617,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_judaspriest_ver01\/data\/sn85052076\/00280763548\/1919061201\/0617.jp2",
+  "place_of_publication": "Berea, Ky.",
+  "pub_date": "1919-06-12",
+  "publisher": "T.G. Pasco",
+  "score": 0.9480346441268921,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_judaspriest_ver01\/data\/sn85052076\/00280763548\/1919061201\/0617\/002_0_94.jpg"
+ },
+ "id": 1900
+}

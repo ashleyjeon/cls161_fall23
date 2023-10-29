@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765400,
+   "id": 1499001,
+   "lead_time": 185.492,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Q4kT3Pz_n2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_hincapie_ver01",
+  "box": [
+   0.56590941292899,
+   0.08865036138471909,
+   0.9499409266880581,
+   0.45045277631751046
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_hincapie_ver01\/data\/sn85058396\/print\/1914080501\/0343\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1914080501%2F0343.jp2\/pct:56.59,8.87,38.41,36.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "ji",
+   ".",
+   "'\"",
+   ":",
+   "bsbsssWBBBwWt\"",
+   "HHuBsraHsssS"
+  ],
+  "page_seq_num": 343,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_hincapie_ver01\/data\/sn85058396\/print\/1914080501\/0343.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1914-08-05",
+  "publisher": "W. Glasmann",
+  "score": 0.9872207045555115,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_hincapie_ver01\/data\/sn85058396\/print\/1914080501\/0343\/003_0_98.jpg"
+ },
+ "id": 1499
+}

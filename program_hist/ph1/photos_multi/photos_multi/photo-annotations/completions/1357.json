@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772519,
+   "id": 1357001,
+   "lead_time": 1.356,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-Y3gTZRGsB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_damsel_ver01",
+  "box": [
+   0.3426095355640758,
+   0.791564531381208,
+   0.49189485203136096,
+   0.9641076378996222
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_damsel_ver01\/data\/sn83025121\/00294552340\/1912072601\/0425\/008_0_97.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_damsel_ver01%2Fdata%2Fsn83025121%2F00294552340%2F1912072601%2F0425.jp2\/pct:34.26,79.16,14.93,17.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025121",
+  "name": "The Hawaiian gazette. [volume]",
+  "ocr": [
+   "EDITOR-POLITICIAN",
+   "'",
+   "HAS",
+   "A",
+   "BIRTHDAY",
+   "KH1",
+   "('",
+   "V",
+   "t",
+   "1",
+   "\"",
+   "M",
+   "'i",
+   "1",
+   "I",
+   "1",
+   ".0",
+   "it",
+   "hll",
+   "4",
+   "..1",
+   "ll",
+   "1",
+   "1",
+   "hi..m"
+  ],
+  "page_seq_num": 425,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_damsel_ver01\/data\/sn83025121\/00294552340\/1912072601\/0425.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1912-07-26",
+  "publisher": "Published ... by J.H. Black at the G.P.O.",
+  "score": 0.9788589477539062,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_damsel_ver01\/data\/sn83025121\/00294552340\/1912072601\/0425\/008_0_97.jpg"
+ },
+ "id": 1357
+}

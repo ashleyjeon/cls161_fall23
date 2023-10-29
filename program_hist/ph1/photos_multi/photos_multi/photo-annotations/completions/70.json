@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768826,
+   "id": 70001,
+   "lead_time": 2.871,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_armsby_ver01",
+  "box": [
+   0.03739112647804054,
+   0.14054463322001293,
+   0.3282398945576436,
+   0.26927770170054044
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_armsby_ver01\/data\/sn87078000\/00237281792\/1895122601\/1237\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Schuylkill--Shenandoah"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_armsby_ver01%2Fdata%2Fsn87078000%2F00237281792%2F1895122601%2F1237.jp2\/pct:3.73,14.06,29.09,12.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn87078000",
+  "name": "The evening herald. [volume]",
+  "ocr": [
+   "J.",
+   "P.",
+   "Williams",
+   "8c",
+   "tn",
+   "o",
+   "c",
+   "CL,",
+   "c",
+   "bJO",
+   "0",
+   "0",
+   "ui",
+   "OJ",
+   "o",
+   "1",
+   "o",
+   "a",
+   "0",
+   "0",
+   "0",
+   "ui",
+   "c",
+   "C3",
+   "!-",
+   "8",
+   "Son,",
+   "S.",
+   "Main"
+  ],
+  "page_seq_num": 1237,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_armsby_ver01\/data\/sn87078000\/00237281792\/1895122601\/1237.jp2",
+  "place_of_publication": "Shenandoah, Pa.",
+  "pub_date": "1895-12-26",
+  "publisher": "H.C. Boyer",
+  "score": 0.9331257343292236,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_armsby_ver01\/data\/sn87078000\/00237281792\/1895122601\/1237\/003_0_93.jpg"
+ },
+ "id": 70
+}

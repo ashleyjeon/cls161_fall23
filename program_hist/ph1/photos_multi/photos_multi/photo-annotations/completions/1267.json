@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766925,
+   "id": 1267001,
+   "lead_time": 8.081,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gwKNju5slB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_boreman_ver01",
+  "box": [
+   0.19725436880279926,
+   0.04103935725897499,
+   0.8349470944748711,
+   0.1829176783357231
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_boreman_ver01\/data\/sn86092536\/00414186221\/1911090501\/0749\/002_0_99.jpg",
+  "geographic_coverage": [
+   "West Virginia--Ohio--Wheeling"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_boreman_ver01%2Fdata%2Fsn86092536%2F00414186221%2F1911090501%2F0749.jp2\/pct:19.72,4.11,63.77,14.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092536",
+  "name": "The Wheeling intelligencer. [volume]",
+  "ocr": [
+   "Government",
+   "Oam",
+   "No.",
+   "13",
+   "Near",
+   "McMecehen.",
+   "Which",
+   "la",
+   "Now",
+   "In",
+   "Operation."
+  ],
+  "page_seq_num": 749,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_boreman_ver01\/data\/sn86092536\/00414186221\/1911090501\/0749.jp2",
+  "place_of_publication": "Wheeling, W. Va.",
+  "pub_date": "1911-09-05",
+  "publisher": "Intelligencer Pub. Co.",
+  "score": 0.9924888610839844,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_boreman_ver01\/data\/sn86092536\/00414186221\/1911090501\/0749\/002_0_99.jpg"
+ },
+ "id": 1267
+}

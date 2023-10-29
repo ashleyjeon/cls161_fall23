@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764561,
+   "id": 1748001,
+   "lead_time": 2.883,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "B_PwLo8s1Z",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_erkling_ver02",
+  "box": [
+   0.07433627945922953,
+   0.5926550453890066,
+   0.30230761089626196,
+   0.797025576374176
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_erkling_ver02\/data\/sn85040437\/00414215373\/1917112201\/0157\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Bayfield--Washburn"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_erkling_ver02%2Fdata%2Fsn85040437%2F00414215373%2F1917112201%2F0157.jp2\/pct:7.43,59.27,22.8,20.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040437",
+  "name": "The Washburn times. [volume]",
+  "ocr": [
+   "War",
+   "t*.",
+   "The",
+   "skirt",
+   "in",
+   "this",
+   "suit",
+   "proclaims",
+   "allegiance",
+   "to",
+   "this",
+   "fashion",
+   "by",
+   "plaited",
+   "set",
+   "in",
+   "at",
+   "each",
+   "side.",
+   "It",
+   "Is",
+   "other",
+   "HATS",
+   "FOR",
+   "THE",
+   "HOME",
+   "MILLINER",
+   "Nistal",
+   "cloths",
+   "and",
+   "plumes",
+   "belong",
+   "to",
+   "portrait-hat",
+   "also.",
+   "The",
+   "variety",
+   "of",
+   "mings",
+   "for",
+   "hats",
+   "of",
+   "this",
+   "kind",
+   "is"
+  ],
+  "page_seq_num": 157,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_erkling_ver02\/data\/sn85040437\/00414215373\/1917112201\/0157.jp2",
+  "place_of_publication": "Washburn, Wis.",
+  "pub_date": "1917-11-22",
+  "publisher": "J.E. Jones",
+  "score": 0.9824286103248596,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_erkling_ver02\/data\/sn85040437\/00414215373\/1917112201\/0157\/005_0_98.jpg"
+ },
+ "id": 1748
+}

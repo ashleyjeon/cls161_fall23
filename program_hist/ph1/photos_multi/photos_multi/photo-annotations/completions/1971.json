@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766915,
+   "id": 1971001,
+   "lead_time": 3.809,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7CPmgGO47B",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_douglas_ver01",
+  "box": [
+   0.3072612722852238,
+   0.13143270699081908,
+   0.6736119148227995,
+   0.29916525676751593
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_douglas_ver01\/data\/sn85038709\/00415669392\/1920111801\/0122\/007_0_99.jpg",
+  "geographic_coverage": [
+   "Michigan--Gratiot--Alma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_douglas_ver01%2Fdata%2Fsn85038709%2F00415669392%2F1920111801%2F0122.jp2\/pct:30.72,13.15,36.64,16.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038709",
+  "name": "Alma record.",
+  "ocr": [
+   "ONE",
+   "OF",
+   "ALMA'S",
+   "REMARKABLE",
+   "BEAUTY",
+   "SPOTS",
+   "-",
+   "I",
+   ":",
+   "r",
+   "v",
+   "0",
+   ".isS",
+   "V"
+  ],
+  "page_seq_num": 122,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_douglas_ver01\/data\/sn85038709\/00415669392\/1920111801\/0122.jp2",
+  "place_of_publication": "Alma, Mich.",
+  "pub_date": "1920-11-18",
+  "publisher": "Miss C.M. Fleming",
+  "score": 0.9926451444625854,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_douglas_ver01\/data\/sn85038709\/00415669392\/1920111801\/0122\/007_0_99.jpg"
+ },
+ "id": 1971
+}

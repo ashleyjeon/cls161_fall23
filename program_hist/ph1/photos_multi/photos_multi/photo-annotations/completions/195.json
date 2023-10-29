@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743370,
+   "id": 195001,
+   "lead_time": 1.831,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fj9BWwb2em",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_garwood_ver02",
+  "box": [
+   0.2110542958685006,
+   0.2604940879601209,
+   0.3486980414037725,
+   0.41048680808121757
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_garwood_ver02\/data\/sn83040340\/00237285293\/1897102901\/0562\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Kansas--Allen--Iola"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_garwood_ver02%2Fdata%2Fsn83040340%2F00237285293%2F1897102901%2F0562.jp2\/pct:21.1,26.05,13.77,15.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn83040340",
+  "name": "The Iola register. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 562,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_garwood_ver02\/data\/sn83040340\/00237285293\/1897102901\/0562.jp2",
+  "place_of_publication": "Iola, Kan.",
+  "pub_date": "1897-10-29",
+  "publisher": "Allison & Perkins",
+  "score": 0.9441971182823181,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_garwood_ver02\/data\/sn83040340\/00237285293\/1897102901\/0562\/002_0_94.jpg"
+ },
+ "id": 195
+}

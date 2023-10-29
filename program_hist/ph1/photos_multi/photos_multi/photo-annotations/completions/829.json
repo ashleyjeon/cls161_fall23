@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611756971,
+   "id": 829001,
+   "lead_time": 4.557,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "v8ugLyqSx6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_ten_ver01",
+  "box": [
+   0.13058039289793816,
+   0.776967538952154,
+   0.37210952965921945,
+   0.9426371995434827
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_ten_ver01\/data\/sn83045555\/00175049186\/1905121601\/0504\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_ten_ver01%2Fdata%2Fsn83045555%2F00175049186%2F1905121601%2F0504.jp2\/pct:13.05,77.7,24.16,16.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "w",
+   "wi",
+   "<",
+   "H",
+   "+",
+   "JESSE",
+   "KNIGHTS",
+   "NEW",
+   "RESIDENCE"
+  ],
+  "page_seq_num": 504,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_ten_ver01\/data\/sn83045555\/00175049186\/1905121601\/0504.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1905-12-16",
+  "publisher": "G.Q. Cannon",
+  "score": 0.962140679359436,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_ten_ver01\/data\/sn83045555\/00175049186\/1905121601\/0504\/003_0_96.jpg"
+ },
+ "id": 829
+}

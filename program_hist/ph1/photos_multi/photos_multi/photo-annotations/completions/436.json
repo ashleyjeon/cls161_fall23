@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768575,
+   "id": 436001,
+   "lead_time": 3.65,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "sY4Gzz0uop",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_hickory_ver01",
+  "box": [
+   0.0502348936320654,
+   0.3892403484260949,
+   0.30273624274248634,
+   0.512283492262346
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_hickory_ver01\/data\/2016270503\/00271762884\/1900081401\/0301\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Connecticut--New Haven--Waterbury"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_hickory_ver01%2Fdata%2F2016270503%2F00271762884%2F1900081401%2F0301.jp2\/pct:5.02,38.93,25.26,12.31\/!500,500\/0\/default.jpg",
+  "lccn": "2016270503",
+  "name": "Waterbury evening Democrat. [volume]",
+  "ocr": [
+   "li--..,,.",
+   "\"'",
+   "jg"
+  ],
+  "page_seq_num": 301,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_hickory_ver01\/data\/2016270503\/00271762884\/1900081401\/0301.jp2",
+  "place_of_publication": "Waterbury, Conn.",
+  "pub_date": "1900-08-14",
+  "publisher": null,
+  "score": 0.9510058760643005,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_hickory_ver01\/data\/2016270503\/00271762884\/1900081401\/0301\/004_0_95.jpg"
+ },
+ "id": 436
+}

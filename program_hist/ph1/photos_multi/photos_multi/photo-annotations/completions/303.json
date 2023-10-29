@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768529,
+   "id": 303001,
+   "lead_time": 2.947,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gq68doa17s",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_ibis_ver01",
+  "box": [
+   0.3518479006879948,
+   0.6811127082903805,
+   0.6435772132641215,
+   0.8123784474220959
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_ibis_ver01\/data\/sn85042448\/00200298834\/1898071301\/0052\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Oregon--Wasco--Dalles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_ibis_ver01%2Fdata%2Fsn85042448%2F00200298834%2F1898071301%2F0052.jp2\/pct:35.18,68.12,29.18,13.13\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042448",
+  "name": "The Dalles daily chronicle. [volume]",
+  "ocr": [
+   "t3?'",
+   "-",
+   "itfr-r-'----,--",
+   "ft"
+  ],
+  "page_seq_num": 52,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_ibis_ver01\/data\/sn85042448\/00200298834\/1898071301\/0052.jp2",
+  "place_of_publication": "The Dalles, Or.",
+  "pub_date": "1898-07-13",
+  "publisher": "Cronicle Pub. Co.",
+  "score": 0.96321702003479,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_ibis_ver01\/data\/sn85042448\/00200298834\/1898071301\/0052\/003_0_96.jpg"
+ },
+ "id": 303
+}

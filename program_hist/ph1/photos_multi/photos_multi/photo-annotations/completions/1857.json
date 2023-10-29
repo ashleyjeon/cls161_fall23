@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768659,
+   "id": 1857001,
+   "lead_time": 1.627,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tmB7j0jpFw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_feature_ver01",
+  "box": [
+   0.7366311282284135,
+   0.12423285218678654,
+   0.8518052148872011,
+   0.32706530148580193
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_feature_ver01\/data\/sn92053934\/00295872780\/1919080901\/0513\/008_0_95.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_feature_ver01%2Fdata%2Fsn92053934%2F00295872780%2F1919080901%2F0513.jp2\/pct:73.66,12.43,11.52,20.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "CLOSING",
+   "OUT",
+   "OLD",
+   "RETAIL",
+   "CONCERN",
+   "17.",
+   "K.",
+   "TTMIs.",
+   "For",
+   "24",
+   "years",
+   "hardware",
+   "merchant",
+   "I",
+   "f-",
+   "A",
+   "'",
+   "A",
+   "f.",
+   ".",
+   "-",
+   "r",
+   "V",
+   "'",
+   "-",
+   "f",
+   "-",
+   "t",
+   "'",
+   "'",
+   "t",
+   "-",
+   "-",
+   "V",
+   "1",
+   "I",
+   "i",
+   "-'",
+   ".",
+   "V-'",
+   "'"
+  ],
+  "page_seq_num": 513,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_feature_ver01\/data\/sn92053934\/00295872780\/1919080901\/0513.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1919-08-09",
+  "publisher": "J.W. Potter",
+  "score": 0.9528685808181763,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_feature_ver01\/data\/sn92053934\/00295872780\/1919080901\/0513\/008_0_95.jpg"
+ },
+ "id": 1857
+}

@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751606,
+   "id": 657001,
+   "lead_time": 1.743,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HXkK8SEjLG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_blueberry_ver01",
+  "box": [
+   0.47971125702682366,
+   0.12278785668204044,
+   0.6253878239531693,
+   0.2833762771352381
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_blueberry_ver01\/data\/sn85066408\/00271766932\/1903101901\/0747\/001_0_95.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_blueberry_ver01%2Fdata%2Fsn85066408%2F00271766932%2F1903101901%2F0747.jp2\/pct:47.97,12.28,14.57,16.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066408",
+  "name": "L'Italia. [volume]",
+  "ocr": [
+   "Dr.",
+   "T.",
+   "B.",
+   "W.",
+   "Leland."
+  ],
+  "page_seq_num": 747,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_blueberry_ver01\/data\/sn85066408\/00271766932\/1903101901\/0747.jp2",
+  "place_of_publication": "San Francisco, Calif.",
+  "pub_date": "1903-10-19",
+  "publisher": "Italian Pub. Co.",
+  "score": 0.9567527174949646,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_blueberry_ver01\/data\/sn85066408\/00271766932\/1903101901\/0747\/001_0_95.jpg"
+ },
+ "id": 657
+}

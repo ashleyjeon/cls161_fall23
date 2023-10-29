@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749636,
+   "id": 569001,
+   "lead_time": 2.04,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "S9zt26xZCk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_gilia_ver01",
+  "box": [
+   0.4255740120947693,
+   0.6630586226110148,
+   0.5421895199383453,
+   0.777712390563744
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_gilia_ver01\/data\/sn84025811\/00211100503\/1902080101\/0591\/005_0_93.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_gilia_ver01%2Fdata%2Fsn84025811%2F00211100503%2F1902080101%2F0591.jp2\/pct:42.55,66.31,11.67,11.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025811",
+  "name": "The Seattle Republican. [volume]",
+  "ocr": [
+   "agricultural",
+   "classes",
+   "of",
+   "any",
+   "of",
+   "the",
+   "can"
+  ],
+  "page_seq_num": 591,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_gilia_ver01\/data\/sn84025811\/00211100503\/1902080101\/0591.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1902-08-01",
+  "publisher": "Republican Pub. Co.",
+  "score": 0.9320962429046631,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_gilia_ver01\/data\/sn84025811\/00211100503\/1902080101\/0591\/005_0_93.jpg"
+ },
+ "id": 569
+}

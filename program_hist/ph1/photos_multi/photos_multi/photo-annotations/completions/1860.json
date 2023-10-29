@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747944,
+   "id": 1860001,
+   "lead_time": 2.674,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EYGMVvupSG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_austen_ver01",
+  "box": [
+   0.3381930443548387,
+   0.04420627770529426,
+   0.5838021358366936,
+   0.32744698169485664
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_austen_ver01\/data\/sn94056869\/00415626812\/1919021301\/0058\/003_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--Santa Fe--Santa Fe"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_austen_ver01%2Fdata%2Fsn94056869%2F00415626812%2F1919021301%2F0058.jp2\/pct:33.81,4.43,24.57,28.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn94056869",
+  "name": "El Nuevo mexicano.",
+  "ocr": [
+   "'",
+   "If",
+   "i",
+   "IT",
+   "null",
+   "'IN",
+   "i",
+   "IdUUt",
+   "UCfflft",
+   "OUUljf",
+   "UKtlVU;",
+   "Senator's",
+   "Swatisotto",
+   "is",
+   "Witty",
+   "tohNNNNNNm",
+   "EX-SENATOR",
+   "ISAAC",
+   "BARTH."
+  ],
+  "page_seq_num": 58,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_austen_ver01\/data\/sn94056869\/00415626812\/1919021301\/0058.jp2",
+  "place_of_publication": "Santa Fe, N.M.",
+  "pub_date": "1919-02-13",
+  "publisher": "La Ci\u0301a. Publicista de Nuevo Mexicano",
+  "score": 0.9783635139465332,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_austen_ver01\/data\/sn94056869\/00415626812\/1919021301\/0058\/003_0_97.jpg"
+ },
+ "id": 1860
+}

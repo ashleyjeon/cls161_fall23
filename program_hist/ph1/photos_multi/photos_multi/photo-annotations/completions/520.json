@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765882,
+   "id": 520001,
+   "lead_time": 2.953,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "S38zBqQsfJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_austria_ver01",
+  "box": [
+   0.17137058719893203,
+   0.6758795610976186,
+   0.33364324142412416,
+   0.8530882109966041
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_austria_ver01\/data\/sn83030214\/00175041023\/1901051401\/0254\/000_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_austria_ver01%2Fdata%2Fsn83030214%2F00175041023%2F1901051401%2F0254.jp2\/pct:17.13,67.59,16.23,17.73\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "DR.",
+   "FREDERICK",
+   "PETERSON*.",
+   "Appointed",
+   "medical",
+   "member",
+   "of",
+   "the",
+   "State",
+   "Lunacy",
+   "Commission."
+  ],
+  "page_seq_num": 254,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_austria_ver01\/data\/sn83030214\/00175041023\/1901051401\/0254.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1901-05-14",
+  "publisher": "New York Tribune",
+  "score": 0.9824886322021484,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_austria_ver01\/data\/sn83030214\/00175041023\/1901051401\/0254\/000_0_98.jpg"
+ },
+ "id": 520
+}

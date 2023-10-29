@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766333,
+   "id": 1274001,
+   "lead_time": 5.468,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "y3DL3HpFZc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_bird_ver02",
+  "box": [
+   0.07209792441510139,
+   0.08432586735882058,
+   0.3620909995221077,
+   0.26863806117164984
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_bird_ver02\/data\/sn84023963\/00212470740\/1911120801\/1545\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Indiana--Dubois--Jasper"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_bird_ver02%2Fdata%2Fsn84023963%2F00212470740%2F1911120801%2F1545.jp2\/pct:7.2,8.44,29.0,18.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn84023963",
+  "name": "The Jasper weekly courier. [volume]",
+  "ocr": [
+   "Dairymen",
+   "Should",
+   "Prepare",
+   "for",
+   "Br",
+   "H.",
+   "C",
+   "MILLS.",
+   "D.ky",
+   "FitU,",
+   "PwJm",
+   "Eijrit",
+   "Suta",
+   "Pardee",
+   "Umhenity",
+   "Apiculture!",
+   "ExtBw",
+   "A",
+   "Poorly",
+   "Dram-d",
+   "Barn",
+   "Yard."
+  ],
+  "page_seq_num": 1545,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_bird_ver02\/data\/sn84023963\/00212470740\/1911120801\/1545.jp2",
+  "place_of_publication": "Jasper, Ind.",
+  "pub_date": "1911-12-08",
+  "publisher": null,
+  "score": 0.985651969909668,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_bird_ver02\/data\/sn84023963\/00212470740\/1911120801\/1545\/002_0_98.jpg"
+ },
+ "id": 1274
+}

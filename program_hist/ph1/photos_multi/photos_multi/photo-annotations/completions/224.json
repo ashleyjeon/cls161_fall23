@@ -1,0 +1,46 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772563,
+   "id": 224001,
+   "lead_time": 2.29,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_batman_ver01",
+  "box": [
+   0.06901339073454281,
+   0.03901093975266911,
+   0.4930661731801909,
+   0.2703687964333957
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_batman_ver01\/data\/sn86069395\/00206533213\/1897080601\/0526\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Kentucky--Christian--Hopkinsville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_batman_ver01%2Fdata%2Fsn86069395%2F00206533213%2F1897080601%2F0526.jp2\/pct:6.9,3.91,42.41,23.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069395",
+  "name": "Hopkinsville Kentuckian. [volume]",
+  "ocr": [
+   "BBlii",
+   "i",
+   "ii",
+   "i",
+   "iiiiy",
+   "ipi",
+   "j"
+  ],
+  "page_seq_num": 526,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_batman_ver01\/data\/sn86069395\/00206533213\/1897080601\/0526.jp2",
+  "place_of_publication": "Hopkinsville, Ky.",
+  "pub_date": "1897-08-06",
+  "publisher": "Chas. M. Meacham",
+  "score": 0.993194580078125,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_batman_ver01\/data\/sn86069395\/00206533213\/1897080601\/0526\/003_0_99.jpg"
+ },
+ "id": 224
+}

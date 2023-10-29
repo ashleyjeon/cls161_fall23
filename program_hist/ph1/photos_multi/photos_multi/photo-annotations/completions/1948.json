@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755025,
+   "id": 1948001,
+   "lead_time": 1.763,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qkZEmNeUlC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_holuba_ver02",
+  "box": [
+   0.05469943866466234,
+   0.05793902731623541,
+   0.18481954479318877,
+   0.2682032605196068
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_holuba_ver02\/data\/sn83045211\/00237280222\/1920062101\/0517\/004_0_90.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_holuba_ver02%2Fdata%2Fsn83045211%2F00237280222%2F1920062101%2F0517.jp2\/pct:5.46,5.8,13.02,21.03\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "ij-w",
+   "mhLmwji",
+   "THE",
+   "REV.",
+   "DR.",
+   "JOSEPH",
+   "KRAUS",
+   "KOPP,",
+   "who",
+   "made",
+   "an",
+   "address",
+   "at",
+   "the",
+   "opening",
+   "of",
+   "the",
+   "Tioga-Nicetown",
+   "Com",
+   "munity",
+   "Playground",
+   "Ledger",
+   "Thoto",
+   "Sentc."
+  ],
+  "page_seq_num": 517,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_holuba_ver02\/data\/sn83045211\/00237280222\/1920062101\/0517.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1920-06-21",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9006970524787903,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_holuba_ver02\/data\/sn83045211\/00237280222\/1920062101\/0517\/004_0_90.jpg"
+ },
+ "id": 1948
+}

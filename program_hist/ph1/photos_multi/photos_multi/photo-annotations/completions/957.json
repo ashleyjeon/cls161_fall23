@@ -1,0 +1,108 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743114,
+   "id": 957001,
+   "lead_time": 3.197,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4lU9SteotO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_pomo_ver01",
+  "box": [
+   0.15846017830704334,
+   0.086930479322161,
+   0.7012299275085667,
+   0.41291661943708147
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_pomo_ver01\/data\/sn85042462\/00175047438\/1907041901\/0880\/007_0_98.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_pomo_ver01%2Fdata%2Fsn85042462%2F00175047438%2F1907041901%2F0880.jp2\/pct:15.84,8.7,54.28,32.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "This",
+   "immense",
+   "crowd",
+   "stretched",
+   "from",
+   "one",
+   "side",
+   "of",
+   "Broadway",
+   "to",
+   "the",
+   "other",
+   "when",
+   "the",
+   "Mysterious",
+   "Mr.",
+   "Raffles",
+   "was",
+   "captured.",
+   "It",
+   "required",
+   "a",
+   "squad",
+   "of",
+   "to",
+   "clear",
+   "the",
+   "entrance",
+   "and",
+   "make",
+   "room",
+   "for",
+   "a",
+   "hastily",
+   "constructed",
+   "platform,",
+   "which",
+   "Raffles",
+   "mounted",
+   "and",
+   "made",
+   "a",
+   "short",
+   "speech,",
+   "announcing",
+   "that",
+   "In",
+   "gold",
+   "would",
+   "be",
+   "paid",
+   "to",
+   "his",
+   "captor",
+   "at",
+   "Chutes",
+   "Park",
+   "tonight."
+  ],
+  "page_seq_num": 880,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_pomo_ver01\/data\/sn85042462\/00175047438\/1907041901\/0880.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1907-04-19",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9897869825363159,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_pomo_ver01\/data\/sn85042462\/00175047438\/1907041901\/0880\/007_0_98.jpg"
+ },
+ "id": 957
+}

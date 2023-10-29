@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768308,
+   "id": 1125001,
+   "lead_time": 2.142,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "34yU60RW4-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_elm_ver01",
+  "box": [
+   0.731571575542828,
+   0.07483405993109285,
+   0.9719596381659981,
+   0.3514234000525115
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_elm_ver01\/data\/sn88085187\/00211108162\/1909072101\/0377\/004_0_91.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_elm_ver01%2Fdata%2Fsn88085187%2F00211108162%2F1909072101%2F0377.jp2\/pct:73.15,7.49,24.04,27.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "\u2022",
+   "With",
+   "summer",
+   "passing,",
+   "the",
+   "white",
+   "light",
+   "of",
+   "fashion",
+   "shifts",
+   "to",
+   "autumn!",
+   "styles.",
+   "In",
+   "this",
+   "glare",
+   "the",
+   "veil",
+   "stands",
+   "out",
+   "prominently,",
+   "for",
+   "every",
+   "ported",
+   "from",
+   "Paris,",
+   "where",
+   "they",
+   "are",
+   "ln",
+   "great",
+   "vogue.",
+   "The",
+   "edges",
+   "of",
+   "some",
+   "of",
+   "the",
+   "veils",
+   "seen",
+   "ln",
+   "New",
+   "York",
+   "are",
+   "trimmed"
+  ],
+  "page_seq_num": 377,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_elm_ver01\/data\/sn88085187\/00211108162\/1909072101\/0377.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1909-07-21",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9115416407585144,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_elm_ver01\/data\/sn88085187\/00211108162\/1909072101\/0377\/004_0_91.jpg"
+ },
+ "id": 1125
+}

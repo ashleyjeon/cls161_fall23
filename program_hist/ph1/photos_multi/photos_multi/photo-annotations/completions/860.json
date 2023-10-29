@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748021,
+   "id": 860001,
+   "lead_time": 2.513,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "uQAGDobncT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_airplane_ver01",
+  "box": [
+   0.012573762573947796,
+   0.44439635517996107,
+   0.30087393170836346,
+   0.6535655930812256
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_airplane_ver01\/data\/sn86069457\/00206533286\/1906020801\/1145\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Crittenden--Marion"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_airplane_ver01%2Fdata%2Fsn86069457%2F00206533286%2F1906020801%2F1145.jp2\/pct:1.25,44.44,28.84,20.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069457",
+  "name": "Crittenden press. [volume]",
+  "ocr": [
+   "HSH",
+   "S",
+   "lslttWiisissWssaMisaiassSiii",
+   "i",
+   "11111",
+   "Hiin",
+   "i",
+   "j",
+   "HrJi"
+  ],
+  "page_seq_num": 1145,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_airplane_ver01\/data\/sn86069457\/00206533286\/1906020801\/1145.jp2",
+  "place_of_publication": "Marion, Ky.",
+  "pub_date": "1906-02-08",
+  "publisher": "R.C. Walker",
+  "score": 0.9784570932388306,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_airplane_ver01\/data\/sn86069457\/00206533286\/1906020801\/1145\/004_0_97.jpg"
+ },
+ "id": 860
+}

@@ -1,0 +1,127 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765090,
+   "id": 1319001,
+   "lead_time": 3.763,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HZyEkMxfAB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "created_at": 1611765094,
+   "id": 1319002,
+   "lead_time": 1563.551,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HZyEkMxfAB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_hufnagel_ver02",
+  "box": [
+   0.31003975414574525,
+   0.17740120322017347,
+   0.6832408300161866,
+   0.4234340861692267
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_hufnagel_ver02\/data\/97071090\/00200298196\/1912111201\/1191\/011_0_98.jpg",
+  "geographic_coverage": [
+
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_hufnagel_ver02%2Fdata%2F97071090%2F00200298196%2F1912111201%2F1191.jp2\/pct:31.0,17.75,37.33,24.61\/!500,500\/0\/default.jpg",
+  "lccn": "97071090",
+  "name": "Medford mail tribune. (Medford, Or.) 1909-1989. [online resource]",
+  "ocr": [
+   "at",
+   "-j!mSHiK",
+   "ldL-DES'AEROfiAUTES",
+   "c)",
+   "NBHHiHMBr",
+   "'ssssBK",
+   "v:LV:t",
+   ":.",
+   "IN",
+   "THE",
+   "KZ",
+   "HHI",
+   "WALLOON",
+   "B",
+   "m:r",
+   "'J'hr",
+   "ptiotoj:riipti",
+   "tiereMltli",
+   "were",
+   "inkeii",
+   "tit",
+   "the",
+   "\"tart",
+   "\"f",
+   "tin1\"",
+   "ttttt",
+   "rtitidottnl",
+   "balloon",
+   "rate",
+   "for",
+   "Uk-",
+   "Cortlon",
+   "Dennett",
+   "Cup",
+   "si",
+   "Btuiliisri.",
+   "Ilernuiiy",
+   "Tiveuly",
+   "IjiiIIimiii",
+   "coiiiik-IciI",
+   "The",
+   "rife",
+   "won",
+   "In",
+   ".M",
+   "mi",
+   "rice",
+   "lllemilue.",
+   "win,",
+   "pllutetl",
+   "a",
+   "French",
+   "THE",
+   "CCPETIKG",
+   "BftLL0QH5",
+   "32EADY",
+   "TO",
+   "3TflET.."
+  ],
+  "page_seq_num": 1191,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_hufnagel_ver02\/data\/97071090\/00200298196\/1912111201\/1191.jp2",
+  "place_of_publication": "Oregon.",
+  "pub_date": "1912-11-12",
+  "publisher": null,
+  "score": 0.9843217134475708,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_hufnagel_ver02\/data\/97071090\/00200298196\/1912111201\/1191\/011_0_98.jpg"
+ },
+ "id": 1319
+}

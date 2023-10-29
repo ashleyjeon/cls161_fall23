@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763967,
+   "id": 39001,
+   "lead_time": 6.466,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZmT5yAl_k-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_isner_ver01",
+  "box": [
+   0.26472964332217264,
+   0.7369714853714924,
+   0.5404684012276786,
+   0.8590223351303412
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_isner_ver01\/data\/sn86092523\/00414186828\/1895061601\/0728\/002_0_97.jpg",
+  "geographic_coverage": [
+   "West Virginia--Ohio--Wheeling"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_isner_ver01%2Fdata%2Fsn86092523%2F00414186828%2F1895061601%2F0728.jp2\/pct:26.47,73.7,27.58,12.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092523",
+  "name": "Wheeling Sunday register. [volume]",
+  "ocr": [
+   "\u00a3",
+   "POSTOFFICE",
+   "AND",
+   "NELSON\u2019S",
+   "COLUMN\u2014(DUBLIN)."
+  ],
+  "page_seq_num": 728,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_isner_ver01\/data\/sn86092523\/00414186828\/1895061601\/0728.jp2",
+  "place_of_publication": "Wheeling, W. Va.",
+  "pub_date": "1895-06-16",
+  "publisher": "Lewis Baker & Co.",
+  "score": 0.9725881814956665,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_isner_ver01\/data\/sn86092523\/00414186828\/1895061601\/0728\/002_0_97.jpg"
+ },
+ "id": 39
+}

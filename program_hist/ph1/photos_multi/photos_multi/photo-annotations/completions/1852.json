@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763854,
+   "id": 1852001,
+   "lead_time": 5.738,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XozbSNUGfJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ak_jellymoss_ver01",
+  "box": [
+   0.3014040372969116,
+   0.675154504239451,
+   0.5599615378457992,
+   0.9673176123312727
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ak_jellymoss_ver01\/data\/sn84020657\/00279527033\/1919052201\/0956\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Alaska--Juneau"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ak_jellymoss_ver01%2Fdata%2Fsn84020657%2F00279527033%2F1919052201%2F0956.jp2\/pct:30.14,67.52,25.86,29.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020657",
+  "name": "The Alaska daily empire. [volume]",
+  "ocr": [
+   "LATED",
+   "AS",
+   "BRITISH*",
+   "ENVOY",
+   "TO",
+   "UNITED",
+   "STATES.",
+   "MtHERBfRT",
+   "M,",
+   "ASQUITH",
+   "Herliert",
+   "H.",
+   "Asquith,",
+   "formerly",
+   "Premier,",
+   "is",
+   "Jfkely",
+   "to",
+   "succeed",
+   "the",
+   "Karl",
+   "Of",
+   "Rosdlnc",
+   "as",
+   "Ambassador",
+   "to",
+   "the",
+   "United",
+   "States"
+  ],
+  "page_seq_num": 956,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ak_jellymoss_ver01\/data\/sn84020657\/00279527033\/1919052201\/0956.jp2",
+  "place_of_publication": "Juneau, Alaska",
+  "pub_date": "1919-05-22",
+  "publisher": "J.F.A. Strong",
+  "score": 0.9635319113731384,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ak_jellymoss_ver01\/data\/sn84020657\/00279527033\/1919052201\/0956\/007_0_96.jpg"
+ },
+ "id": 1852
+}

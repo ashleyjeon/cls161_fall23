@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748224,
+   "id": 236001,
+   "lead_time": 1.594,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YQFwqC58kV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_universal_ver01",
+  "box": [
+   0.26983873980181355,
+   0.13212812616584008,
+   0.519824145434497,
+   0.3987153585483965
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_universal_ver01\/data\/sn83030214\/00175036908\/1898090401\/0078\/002_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_universal_ver01%2Fdata%2Fsn83030214%2F00175036908%2F1898090401%2F0078.jp2\/pct:26.98,13.22,25.0,26.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "CARDINAL",
+   "PAROi",
+   "III",
+   "j",
+   "1",
+   "!",
+   "I",
+   "1",
+   "1",
+   "!",
+   "'",
+   "1",
+   "I",
+   "I"
+  ],
+  "page_seq_num": 78,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_universal_ver01\/data\/sn83030214\/00175036908\/1898090401\/0078.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-09-04",
+  "publisher": "New York Tribune",
+  "score": 0.9632658958435059,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_universal_ver01\/data\/sn83030214\/00175036908\/1898090401\/0078\/002_0_96.jpg"
+ },
+ "id": 236
+}

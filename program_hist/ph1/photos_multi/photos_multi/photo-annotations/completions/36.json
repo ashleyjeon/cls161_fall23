@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767598,
+   "id": 36001,
+   "lead_time": 1.766,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "P4vL7mExdf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.04403166457443501,
+   0.2261165158636487,
+   0.46250308343695934,
+   0.5485044764107234
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761011\/1895091401\/0010\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761011%2F1895091401%2F0010.jp2\/pct:4.4,22.62,41.85,32.24\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "JOHN",
+   "T.",
+   "Caine"
+  ],
+  "page_seq_num": 10,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761011\/1895091401\/0010.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1895-09-14",
+  "publisher": "Julius F. Taylor",
+  "score": 0.9688809514045715,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761011\/1895091401\/0010\/000_0_96.jpg"
+ },
+ "id": 36
+}

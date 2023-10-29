@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746997,
+   "id": 999001,
+   "lead_time": 1.664,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Q_GznhBZPC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_halfway_ver01",
+  "box": [
+   0.055131608868865686,
+   0.0569416724086124,
+   0.3478281415140825,
+   0.34168176625704577
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_halfway_ver01\/data\/sn90051081\/00383341553\/1907101901\/0372\/005_0_92.jpg",
+  "geographic_coverage": [
+   "Colorado--Garfield--Meeker",
+   "Colorado--Rio Blanco--Meeker"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_halfway_ver01%2Fdata%2Fsn90051081%2F00383341553%2F1907101901%2F0372.jp2\/pct:5.51,5.7,29.27,28.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn90051081",
+  "name": "The Meeker herald. [volume]",
+  "ocr": [
+   "Junior",
+   "senator",
+   "from",
+   "Taxaa",
+   "who",
+   "ha\u00ab",
+   "boon",
+   "montlonod",
+   "m",
+   "a",
+   "democratic",
+   "proa",
+   "idontlal",
+   "poaaibllity."
+  ],
+  "page_seq_num": 372,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_halfway_ver01\/data\/sn90051081\/00383341553\/1907101901\/0372.jp2",
+  "place_of_publication": "Meeker, Colo.",
+  "pub_date": "1907-10-19",
+  "publisher": "Houston & Lyttle",
+  "score": 0.9238694310188293,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_halfway_ver01\/data\/sn90051081\/00383341553\/1907101901\/0372\/005_0_92.jpg"
+ },
+ "id": 999
+}

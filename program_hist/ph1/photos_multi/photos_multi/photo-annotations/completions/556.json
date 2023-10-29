@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611742056,
+   "id": 556001,
+   "lead_time": 650.218,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iMoOmTa2eZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_goldeneye_ver01",
+  "box": [
+   0.48725729928889744,
+   0.5233260132246949,
+   0.7790825355780516,
+   0.7937160710293034
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_goldeneye_ver01\/data\/sn83025294\/00212476845\/1902121301\/1089\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_goldeneye_ver01%2Fdata%2Fsn83025294%2F00212476845%2F1902121301%2F1089.jp2\/pct:48.72,52.34,29.19,27.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025294",
+  "name": "The Butte inter mountain. [volume]",
+  "ocr": [
+   "BABY",
+   "WEIRICI",
+   "Who",
+   "Gave",
+   "a",
+   "Birthday",
+   "Party",
+   "T",
+   "uesday",
+   "All",
+   "Her",
+   "Own",
+   "Self."
+  ],
+  "page_seq_num": 1089,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476845\/1902121301\/1089.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1902-12-13",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9553667306900024,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476845\/1902121301\/1089\/000_0_95.jpg"
+ },
+ "id": 556
+}

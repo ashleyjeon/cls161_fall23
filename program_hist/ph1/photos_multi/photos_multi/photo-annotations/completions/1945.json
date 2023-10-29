@@ -1,0 +1,109 @@
+{
+ "completions": [
+  {
+   "created_at": 1611761686,
+   "id": 1945001,
+   "lead_time": 342.257,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "SZdb8v6Sjy",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_hugo_ver01",
+  "box": [
+   0.32359807351406444,
+   0.027827809347646244,
+   0.7087643131632334,
+   0.18142117729154436
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_hugo_ver01\/data\/sn85042303\/00200295432\/1920030501\/0523\/008_0_92.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Carter--Ardmore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_hugo_ver01%2Fdata%2Fsn85042303%2F00200295432%2F1920030501%2F0523.jp2\/pct:32.35,2.79,38.52,15.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042303",
+  "name": "The Daily Ardmoreite. [volume]",
+  "ocr": [
+   "THIS",
+   "ODD",
+   "LOOKING",
+   "TEAM",
+   "MAY",
+   "FURNISH",
+   "(",
+   "LBS",
+   "WITH",
+   "1",
+   "w",
+   "\"",
+   "-",
+   "f..",
+   ":",
+   "......",
+   "Left",
+   "to",
+   "riKht:",
+   "Klum.",
+   "enter",
+   "fielder;",
+   "Vieritz,",
+   "utility;",
+   "Williams,",
+   "second",
+   "basenun;",
+   "B.",
+   "Hannalord",
+   "first",
+   "hmM,",
+   "Hansel",
+   "catcher;",
+   "Wyland.",
+   "left",
+   "fielder;",
+   "Vaughn,",
+   "catcher",
+   "and",
+   "pitcher;",
+   "H.",
+   "Ilannaford",
+   "shortstop;",
+   "PalktuUla,",
+   "il.ir.1",
+   "hlmemnn:",
+   "Tall,",
+   "oiuher",
+   "and",
+   "outfielder,",
+   "and,",
+   "heated",
+   "in",
+   "front",
+   "of",
+   "them,",
+   "f",
+   "ranci.i",
+   "Ihorpe,",
+   "manager."
+  ],
+  "page_seq_num": 523,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_hugo_ver01\/data\/sn85042303\/00200295432\/1920030501\/0523.jp2",
+  "place_of_publication": "Ardmore, Okla.",
+  "pub_date": "1920-03-05",
+  "publisher": "John F. Easley",
+  "score": 0.9278274774551392,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_hugo_ver01\/data\/sn85042303\/00200295432\/1920030501\/0523\/008_0_92.jpg"
+ },
+ "id": 1945
+}

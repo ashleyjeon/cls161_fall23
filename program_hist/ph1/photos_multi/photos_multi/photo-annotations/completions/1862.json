@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751147,
+   "id": 1862001,
+   "lead_time": 1.593,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7XQkr9XNsD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_halfway_ver01",
+  "box": [
+   0.04912571993741122,
+   0.23732546199909302,
+   0.19726970325816762,
+   0.42852569821642067
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_halfway_ver01\/data\/sn90051081\/00414214204\/1919051001\/0342\/004_0_91.jpg",
+  "geographic_coverage": [
+   "Colorado--Garfield--Meeker",
+   "Colorado--Rio Blanco--Meeker"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_halfway_ver01%2Fdata%2Fsn90051081%2F00414214204%2F1919051001%2F0342.jp2\/pct:4.91,23.74,14.82,19.13\/!500,500\/0\/default.jpg",
+  "lccn": "sn90051081",
+  "name": "The Meeker herald. [volume]",
+  "ocr": [
+   "A.",
+   "M.",
+   "UCHTY.",
+   "him",
+   "xi&tototntoM",
+   "aorr",
+   "tost",
+   "2JMD"
+  ],
+  "page_seq_num": 342,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_halfway_ver01\/data\/sn90051081\/00414214204\/1919051001\/0342.jp2",
+  "place_of_publication": "Meeker, Colo.",
+  "pub_date": "1919-05-10",
+  "publisher": "Houston & Lyttle",
+  "score": 0.9159727692604065,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_halfway_ver01\/data\/sn90051081\/00414214204\/1919051001\/0342\/004_0_91.jpg"
+ },
+ "id": 1862
+}

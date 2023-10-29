@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673571,
+   "id": 1455001,
+   "lead_time": 2.067,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "NwSmxgDtIK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_europium_ver01",
+  "box": [
+   0.4334500981957873,
+   0.13886132685783412,
+   0.553558855425587,
+   0.3026096436391652
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_europium_ver01\/data\/sn86069561\/00211104144\/1913100301\/0332\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Kentucky--Rockcastle--Mount Vernon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_europium_ver01%2Fdata%2Fsn86069561%2F00211104144%2F1913100301%2F0332.jp2\/pct:43.34,13.89,12.02,16.38\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069561",
+  "name": "Mount Vernon signal.",
+  "ocr": [
+   "HON.",
+   ".NAT",
+   "B.",
+   "SEWELL",
+   "-",
+   "lOi",
+   "LAURtU",
+   "COUNTY.\""
+  ],
+  "page_seq_num": 332,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_europium_ver01\/data\/sn86069561\/00211104144\/1913100301\/0332.jp2",
+  "place_of_publication": "Mt. Vernon, Ky.",
+  "pub_date": "1913-10-03",
+  "publisher": "James Maret",
+  "score": 0.9489407539367676,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_europium_ver01\/data\/sn86069561\/00211104144\/1913100301\/0332\/002_0_94.jpg"
+ },
+ "id": 1455
+}

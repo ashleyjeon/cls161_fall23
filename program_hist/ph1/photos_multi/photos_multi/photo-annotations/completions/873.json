@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675527,
+   "id": 873001,
+   "lead_time": 1.954,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "M1oz04gc8b",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_charlie_ver01",
+  "box": [
+   0.6216907868354721,
+   0.09993532029844875,
+   0.8210377610134051,
+   0.27354859276641186
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_charlie_ver01\/data\/sn84026749\/100492520\/1906062801\/0648\/006_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_charlie_ver01%2Fdata%2Fsn84026749%2F100492520%2F1906062801%2F0648.jp2\/pct:62.16,10.0,19.94,17.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 648,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_charlie_ver01\/data\/sn84026749\/100492520\/1906062801\/0648.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1906-06-28",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9595873355865479,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_charlie_ver01\/data\/sn84026749\/100492520\/1906062801\/0648\/006_0_95.jpg"
+ },
+ "id": 873
+}

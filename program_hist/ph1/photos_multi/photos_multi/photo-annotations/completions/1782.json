@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764198,
+   "id": 1782001,
+   "lead_time": 1.591,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "q56dMBG3D8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_coyote_ver02",
+  "box": [
+   0.7962857577467212,
+   0.23959809380608635,
+   0.9350055437631558,
+   0.41194250776961044
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_coyote_ver02\/data\/sn92061524\/00296025057\/1918083101\/0835\/001_0_95.jpg",
+  "geographic_coverage": [
+   "New Mexico--Harding--Roy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_coyote_ver02%2Fdata%2Fsn92061524%2F00296025057%2F1918083101%2F0835.jp2\/pct:79.62,23.96,13.88,17.24\/!500,500\/0\/default.jpg",
+  "lccn": "sn92061524",
+  "name": "The Spanish American. [volume]",
+  "ocr": [
+   "Secretary",
+   "of",
+   "State.",
+   "i",
+   "-",
+   "-",
+   "V",
+   ".-.",
+   ",",
+   "'",
+   ".'.-'a",
+   ".",
+   ".;",
+   "V,-",
+   "'",
+   ".",
+   ".",
+   ":",
+   "h",
+   "i",
+   "j",
+   ".",
+   "WALTON",
+   "ANNOUNCES",
+   "FOR",
+   "SENATORSIIIP-"
+  ],
+  "page_seq_num": 835,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_coyote_ver02\/data\/sn92061524\/00296025057\/1918083101\/0835.jp2",
+  "place_of_publication": "Roy, Mora Co., N.M.",
+  "pub_date": "1918-08-31",
+  "publisher": "Roy Pub. Co.",
+  "score": 0.9572527408599854,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_coyote_ver02\/data\/sn92061524\/00296025057\/1918083101\/0835\/001_0_95.jpg"
+ },
+ "id": 1782
+}

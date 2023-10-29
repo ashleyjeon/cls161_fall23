@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768961,
+   "id": 913001,
+   "lead_time": 3.676,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "d_D672PF1q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_evans_ver02",
+  "box": [
+   0.37374296642485116,
+   0.352172000213754,
+   0.6270061247155112,
+   0.6317720863440518
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_evans_ver02\/data\/2010218519\/00237285670\/1906052601\/0968\/004_0_93.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_evans_ver02%2Fdata%2F2010218519%2F00237285670%2F1906052601%2F0968.jp2\/pct:37.37,35.22,25.33,27.97\/!500,500\/0\/default.jpg",
+  "lccn": "2010218519",
+  "name": "Goodwin's weekly : a thinking paper for thinking people. [volume]",
+  "ocr": [
+   "flHfltaHHL",
+   "'",
+   "1",
+   "HBteHr",
+   "MP5Z?iHi",
+   "JIHHKIE",
+   "HHHHHiiS",
+   "Tf",
+   "i",
+   "ww'i'JWiSwiiiir",
+   "'f",
+   "\"",
+   "v53hBf",
+   "Rainbow",
+   "Falls,",
+   "Reached",
+   "via",
+   "Colorado"
+  ],
+  "page_seq_num": 968,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_evans_ver02\/data\/2010218519\/00237285670\/1906052601\/0968.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1906-05-26",
+  "publisher": "C.C. Goodwin, J.T. Goodwin",
+  "score": 0.9391346573829651,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_evans_ver02\/data\/2010218519\/00237285670\/1906052601\/0968\/004_0_93.jpg"
+ },
+ "id": 913
+}

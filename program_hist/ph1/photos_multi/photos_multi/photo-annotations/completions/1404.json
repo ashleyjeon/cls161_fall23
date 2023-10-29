@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766767,
+   "id": 1404001,
+   "lead_time": 1.634,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eYIftbPLnp",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_sastre_ver01",
+  "box": [
+   0.7385250561857877,
+   0.047118114105203224,
+   0.8747119363584475,
+   0.2913869685364839
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_sastre_ver01\/data\/sn83045396\/print\/1913042101\/0128\/017_0_90.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_sastre_ver01%2Fdata%2Fsn83045396%2Fprint%2F1913042101%2F0128.jp2\/pct:73.85,4.72,13.62,24.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045396",
+  "name": "The Salt Lake tribune. [volume]",
+  "ocr": [
+   "I",
+   "A.",
+   "S.",
+   "PETERS,",
+   "prominent",
+   "telephone",
+   "engineer,",
+   "who",
+   "is",
+   "the",
+   "new",
+   "president",
+   "of",
+   "the",
+   "Utah",
+   "Society",
+   "of",
+   "Engineers.",
+   "Telephone",
+   "Expert",
+   "Will",
+   "Head",
+   "Utah",
+   "Society",
+   "of",
+   "Engi",
+   "neers",
+   "This",
+   "Year."
+  ],
+  "page_seq_num": 128,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_sastre_ver01\/data\/sn83045396\/print\/1913042101\/0128.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1913-04-21",
+  "publisher": "Tribune Pub. Co.",
+  "score": 0.9036063551902771,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_sastre_ver01\/data\/sn83045396\/print\/1913042101\/0128\/017_0_90.jpg"
+ },
+ "id": 1404
+}

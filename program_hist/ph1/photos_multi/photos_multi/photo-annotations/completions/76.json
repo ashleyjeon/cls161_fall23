@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748393,
+   "id": 76001,
+   "lead_time": 1.666,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "g3vb_jPWaC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_kestrel_ver02",
+  "box": [
+   0.6879961643072651,
+   0.238835442788356,
+   0.8731292178258871,
+   0.443897866909707
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_kestrel_ver02\/data\/sn85053323\/print\/1895112801\/0684\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Montana--Cascade--Neihart"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_kestrel_ver02%2Fdata%2Fsn85053323%2Fprint%2F1895112801%2F0684.jp2\/pct:68.79,23.89,18.52,20.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn85053323",
+  "name": "The Neihart herald. [volume]",
+  "ocr": [
+   "A",
+   "1.1\u00bb.",
+   "(",
+   "H",
+   "AS.",
+   "OR",
+   "A",
+   "V.",
+   "FORI)."
+  ],
+  "page_seq_num": 684,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_kestrel_ver02\/data\/sn85053323\/print\/1895112801\/0684.jp2",
+  "place_of_publication": "Neihart, Mont.",
+  "pub_date": "1895-11-28",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9514340758323669,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_kestrel_ver02\/data\/sn85053323\/print\/1895112801\/0684\/003_0_95.jpg"
+ },
+ "id": 76
+}

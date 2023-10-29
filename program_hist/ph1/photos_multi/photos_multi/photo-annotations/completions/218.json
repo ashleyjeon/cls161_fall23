@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763896,
+   "id": 218001,
+   "lead_time": 9.205,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9v_FzbbaOy",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_harvey_ver03",
+  "box": [
+   0.061195003304572414,
+   0.6488242841333072,
+   0.31104652761793217,
+   0.7775215410620053
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_harvey_ver03\/data\/sn82015080\/00212473819\/1897091501\/0514\/003_0_91.jpg",
+  "geographic_coverage": [
+   "Kansas--Barber--Medicine Lodge"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_harvey_ver03%2Fdata%2Fsn82015080%2F00212473819%2F1897091501%2F0514.jp2\/pct:6.11,64.89,24.99,12.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015080",
+  "name": "Barbour County index. [volume]",
+  "ocr": [
+   "i-i;'ii.Nrwtitl,'.i,;'!i,.iii'\"iiiiiiiiii,..'.iiii!itL'",
+   "-",
+   "k'",
+   "A",
+   "GENERAL",
+   "VIEW",
+   "OF",
+   "THE",
+   "TENTED",
+   "CITY",
+   "OF",
+   "SKAGUAY.",
+   "WHICH",
+   "HAS",
+   "3g5",
+   "m"
+  ],
+  "page_seq_num": 514,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_harvey_ver03\/data\/sn82015080\/00212473819\/1897091501\/0514.jp2",
+  "place_of_publication": "Medicine Lodge, Kan.",
+  "pub_date": "1897-09-15",
+  "publisher": "[publisher not identified]",
+  "score": 0.919583797454834,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_harvey_ver03\/data\/sn82015080\/00212473819\/1897091501\/0514\/003_0_91.jpg"
+ },
+ "id": 218
+}

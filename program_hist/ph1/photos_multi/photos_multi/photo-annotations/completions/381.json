@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768252,
+   "id": 381001,
+   "lead_time": 5.963,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qnYCX4BrgP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_emerson_ver01",
+  "box": [
+   0.5699128892686632,
+   0.36908736023325206,
+   0.9187137179904514,
+   0.6477474392806725
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899091701\/0823\/001_0_92.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_emerson_ver01%2Fdata%2Fsn99021999%2F00206539483%2F1899091701%2F0823.jp2\/pct:56.99,36.91,34.89,27.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "CROSSING",
+   "THE",
+   "QUINGUA",
+   "R1VEH.",
+   "Sheep",
+   "in",
+   "Nebraska",
+   ",",
+   "on",
+   "the",
+   "Trail",
+   "and",
+   "in",
+   "the",
+   "Lambing"
+  ],
+  "page_seq_num": 823,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899091701\/0823.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1899-09-17",
+  "publisher": "Edward Rosewater",
+  "score": 0.924351155757904,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899091701\/0823\/001_0_92.jpg"
+ },
+ "id": 381
+}

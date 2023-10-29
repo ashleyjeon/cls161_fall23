@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748417,
+   "id": 1277001,
+   "lead_time": 1.809,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Z_jkagAC8F",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_american_ver01",
+  "box": [
+   0.40233054336911944,
+   0.26426396774033367,
+   0.5562829536884829,
+   0.3742329225701801
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_american_ver01\/data\/sn84026749\/00294557660\/1911102901\/0309\/009_0_96.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_american_ver01%2Fdata%2Fsn84026749%2F00294557660%2F1911102901%2F0309.jp2\/pct:40.23,26.43,15.4,11.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "AK'V",
+   "'y",
+   "t",
+   "'",
+   "m"
+  ],
+  "page_seq_num": 309,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_american_ver01\/data\/sn84026749\/00294557660\/1911102901\/0309.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1911-10-29",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9619339108467102,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_american_ver01\/data\/sn84026749\/00294557660\/1911102901\/0309\/009_0_96.jpg"
+ },
+ "id": 1277
+}

@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768828,
+   "id": 1057001,
+   "lead_time": 1.686,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "orUB1X4den",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_eel_ver01",
+  "box": [
+   0.3240171207611217,
+   0.051949239591272865,
+   0.6164082134307906,
+   0.37040604754192075
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_eel_ver01\/data\/sn83025121\/00294552327\/1908081401\/0111\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_eel_ver01%2Fdata%2Fsn83025121%2F00294552327%2F1908081401%2F0111.jp2\/pct:32.4,5.2,29.24,31.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025121",
+  "name": "The Hawaiian gazette. [volume]",
+  "ocr": [
+   "WOODS",
+   "CUTTING",
+   "MUCH",
+   ",",
+   "ICE",
+   "AMONG",
+   "jO0j,jOJ,J'I,K,'J,X,,,',,0",
+   "K'K'lOK'jPjCjCjCsCK",
+   "I",
+   "ill",
+   "nkiliiii",
+   "ii",
+   "i",
+   "in",
+   "iiilB",
+   "r,",
+   "r",
+   "J.",
+   "LAWRENCE",
+   "WOODS.",
+   "0",
+   "v",
+   "J",
+   "J",
+   "Jf",
+   "C",
+   "J",
+   "JJ",
+   "J",
+   "J",
+   "J",
+   "J",
+   "J",
+   "J",
+   ".!",
+   "THE",
+   "JAPANESE",
+   "J",
+   "-",
+   "5",
+   "v",
+   "J",
+   "4",
+   "J",
+   "0",
+   "Ot",
+   "0",
+   "i)S",
+   "J",
+   "J",
+   ".",
+   "J",
+   "J",
+   "&"
+  ],
+  "page_seq_num": 111,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_eel_ver01\/data\/sn83025121\/00294552327\/1908081401\/0111.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1908-08-14",
+  "publisher": "Published ... by J.H. Black at the G.P.O.",
+  "score": 0.9836238622665405,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_eel_ver01\/data\/sn83025121\/00294552327\/1908081401\/0111\/006_0_98.jpg"
+ },
+ "id": 1057
+}

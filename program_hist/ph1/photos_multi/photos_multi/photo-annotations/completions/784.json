@@ -1,0 +1,86 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751581,
+   "id": 784001,
+   "lead_time": 6.653,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4nFdj3420E",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_ferdinand_ver01",
+  "box": [
+   0.20665449577190548,
+   0.05176702951420249,
+   0.6432353495572382,
+   0.3287325291275289
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_ferdinand_ver01\/data\/sn85047084\/00294557428\/1905060501\/0364\/010_0_97.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_ferdinand_ver01%2Fdata%2Fsn85047084%2F00294557428%2F1905060501%2F0364.jp2\/pct:20.66,5.18,43.66,27.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "WAS",
+   "ATTACKED",
+   "BY",
+   "A",
+   "f",
+   "??",
+   "'",
+   ".",
+   "'",
+   ".-.",
+   "....",
+   ".",
+   "y.",
+   "HHB&iHUMLIH&nHisLtMflaMLfl",
+   "VIEW",
+   "OF",
+   "THE",
+   "HARBOR",
+   "OF",
+   "PAPEETE,",
+   "TAHITI,",
+   "SHOWING",
+   "THE",
+   "ENTRANCE",
+   "WHERE",
+   "LA",
+   "BELLE",
+   "1'RANCE",
+   "HAD",
+   "AN",
+   "EXCITING",
+   "ENCOUNTER",
+   "WITH",
+   "A",
+   "MONSTER",
+   "SWORDFISH."
+  ],
+  "page_seq_num": 364,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_ferdinand_ver01\/data\/sn85047084\/00294557428\/1905060501\/0364.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1905-06-05",
+  "publisher": "[publisher not identified]",
+  "score": 0.9792659878730774,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_ferdinand_ver01\/data\/sn85047084\/00294557428\/1905060501\/0364\/010_0_97.jpg"
+ },
+ "id": 784
+}

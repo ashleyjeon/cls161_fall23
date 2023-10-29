@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675505,
+   "id": 289001,
+   "lead_time": 1.855,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DYHhJr1mya",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_ahwahnee_ver01",
+  "box": [
+   0.028391585630529067,
+   0.14819346526527802,
+   0.41820472829482136,
+   0.5313250550290597
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_ahwahnee_ver01\/data\/sn85066387\/00175037706\/1898050101\/0023\/000_0_99.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_ahwahnee_ver01%2Fdata%2Fsn85066387%2F00175037706%2F1898050101%2F0023.jp2\/pct:2.83,14.82,38.99,38.32\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "the",
+   "last",
+   "week",
+   "for",
+   "the",
+   "front",
+   "at",
+   "the",
+   "head",
+   "of",
+   "the",
+   "First",
+   "Regiment.",
+   "COLONEL",
+   "EVAN",
+   "MILES."
+  ],
+  "page_seq_num": 23,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_ahwahnee_ver01\/data\/sn85066387\/00175037706\/1898050101\/0023.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1898-05-01",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9979588985443115,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_ahwahnee_ver01\/data\/sn85066387\/00175037706\/1898050101\/0023\/000_0_99.jpg"
+ },
+ "id": 289
+}

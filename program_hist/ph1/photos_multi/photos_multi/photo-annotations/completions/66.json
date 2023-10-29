@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767724,
+   "id": 66001,
+   "lead_time": 1.887,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CpJRCs8k4c",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_cousteau_ver02",
+  "box": [
+   0.7681752457157258,
+   0.06525988360635596,
+   0.9067141822076613,
+   0.19381595437043633
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_cousteau_ver02\/data\/sn84028272\/00296028071\/1895030601\/0220\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Ohio--Lorain--Wellington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_cousteau_ver02%2Fdata%2Fsn84028272%2F00296028071%2F1895030601%2F0220.jp2\/pct:76.81,6.53,13.86,12.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn84028272",
+  "name": "The enterprise. [volume]",
+  "ocr": [
+   "-\"Si.",
+   "J",
+   "A-",
+   "STRANCE",
+   "CASE."
+  ],
+  "page_seq_num": 220,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_cousteau_ver02\/data\/sn84028272\/00296028071\/1895030601\/0220.jp2",
+  "place_of_publication": "Wellington, Ohio",
+  "pub_date": "1895-03-06",
+  "publisher": "A.B. Smith",
+  "score": 0.9847683310508728,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_cousteau_ver02\/data\/sn84028272\/00296028071\/1895030601\/0220\/004_0_98.jpg"
+ },
+ "id": 66
+}

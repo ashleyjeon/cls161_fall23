@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746873,
+   "id": 1145001,
+   "lead_time": 8.813,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ebusP3LeL1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_quailvalley_ver01",
+  "box": [
+   0.5069793480030005,
+   0.53270530442585,
+   0.9325121451115262,
+   0.9352089103729703
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_quailvalley_ver01\/data\/sn85042462\/00175035795\/1909071801\/0395\/002_0_93.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_quailvalley_ver01%2Fdata%2Fsn85042462%2F00175035795%2F1909071801%2F0395.jp2\/pct:50.69,53.28,42.56,40.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "ONE",
+   "OF",
+   "NEW",
+   "YORK'S",
+   "BEAUTIFUL",
+   "VAtLEYS,",
+   "WHERE",
+   "THE",
+   "BOWINQ"
+  ],
+  "page_seq_num": 395,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035795\/1909071801\/0395.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1909-07-18",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9359443187713623,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035795\/1909071801\/0395\/002_0_93.jpg"
+ },
+ "id": 1145
+}

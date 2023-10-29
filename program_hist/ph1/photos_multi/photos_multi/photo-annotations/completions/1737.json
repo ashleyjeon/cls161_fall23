@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767239,
+   "id": 1737001,
+   "lead_time": 4.868,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pkKgvLWLLR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_davey_ver01",
+  "box": [
+   0.24342484572201858,
+   0.6472064975581256,
+   0.7444953226553053,
+   0.9883810831510667
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_davey_ver01\/data\/sn83045211\/00237287666\/1917121001\/0527\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_davey_ver01%2Fdata%2Fsn83045211%2F00237287666%2F1917121001%2F0527.jp2\/pct:24.34,64.73,50.11,34.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "The",
+   "Senior",
+   "Golds,",
+   "One",
+   "of",
+   "the",
+   "Crack",
+   "Soccer",
+   "Teams",
+   "at",
+   "the",
+   "Germantown",
+   "Boys'",
+   "Club.",
+   "Top",
+   "Row,",
+   "Left",
+   "to",
+   "Right",
+   "Charles",
+   "W.",
+   "Balnbridge,",
+   "Super"
+  ],
+  "page_seq_num": 527,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_davey_ver01\/data\/sn83045211\/00237287666\/1917121001\/0527.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1917-12-10",
+  "publisher": "Public Ledger Co.",
+  "score": 0.970149576663971,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_davey_ver01\/data\/sn83045211\/00237287666\/1917121001\/0527\/000_0_97.jpg"
+ },
+ "id": 1737
+}

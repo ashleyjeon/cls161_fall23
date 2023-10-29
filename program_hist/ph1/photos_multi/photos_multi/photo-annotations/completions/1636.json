@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675609,
+   "id": 1636001,
+   "lead_time": 2.355,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cysIUKOfnX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_bravo_ver01",
+  "box": [
+   0.7213730418354,
+   0.04621306043929467,
+   0.9754031820034762,
+   0.3241536493081501
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_bravo_ver01\/data\/sn84025828\/00294555791\/1916120201\/0148\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_bravo_ver01%2Fdata%2Fsn84025828%2F00294555791%2F1916120201%2F0148.jp2\/pct:72.13,4.63,25.41,27.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "ksiiiiiiiiiiiSf",
+   ",.4si",
+   "'SssiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiH",
+   "ijijijijM",
+   "'A:zOk,,",
+   "ESBiiiiiiiiiiiiiiiiiiiiiiiiiV",
+   "x",
+   "jH&",
+   "'jiLiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+   "BvjBHr",
+   "jfijiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiifl",
+   "JAMES",
+   "M.",
+   "DAILEY,",
+   "Trustee",
+   "of",
+   "the",
+   "Sanitary",
+   "District",
+   "of",
+   "Chicago."
+  ],
+  "page_seq_num": 148,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_bravo_ver01\/data\/sn84025828\/00294555791\/1916120201\/0148.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1916-12-02",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9851543307304382,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_bravo_ver01\/data\/sn84025828\/00294555791\/1916120201\/0148\/001_0_98.jpg"
+ },
+ "id": 1636
+}

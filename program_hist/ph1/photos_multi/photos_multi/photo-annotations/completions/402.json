@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767795,
+   "id": 402001,
+   "lead_time": 2.143,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0XKNaMxWRV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "me_isleboro_ver01",
+  "box": [
+   0.30659456430755044,
+   0.07605417529542242,
+   0.4198156131720691,
+   0.2341101104889683
+  ],
+  "edition_seq_num": 1,
+  "filepath": "me_isleboro_ver01\/data\/sn83016025\/00414210764\/1900031301\/0049\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Maine--Cumberland--Portland"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/me_isleboro_ver01%2Fdata%2Fsn83016025%2F00414210764%2F1900031301%2F0049.jp2\/pct:30.65,7.61,11.33,15.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016025",
+  "name": "The Portland daily press. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 49,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/me_isleboro_ver01\/data\/sn83016025\/00414210764\/1900031301\/0049.jp2",
+  "place_of_publication": "Portland, Me.",
+  "pub_date": "1900-03-13",
+  "publisher": "N.A. Foster & Co.",
+  "score": 0.9545939564704895,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/me_isleboro_ver01\/data\/sn83016025\/00414210764\/1900031301\/0049\/002_0_95.jpg"
+ },
+ "id": 402
+}

@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673721,
+   "id": 1916001,
+   "lead_time": 5.968,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VM5o3bsg5G",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_emerson_ver01",
+  "box": [
+   0.010240316047942895,
+   0.7355894012159416,
+   0.4233516116794065,
+   0.9325478665003585
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_emerson_ver01\/data\/sn78001466\/00295865040\/1919101801\/0007\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Florida--Putnam--Palatka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_emerson_ver01%2Fdata%2Fsn78001466%2F00295865040%2F1919101801%2F0007.jp2\/pct:1.02,73.56,41.32,19.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn78001466",
+  "name": "Palatka daily news. [volume]",
+  "ocr": [
+   "FRANCE",
+   "'COMMEMORATES",
+   "AMERICA'S",
+   "ENTRY",
+   "INTO",
+   "THE",
+   "WAR",
+   "Kit",
+   "JA'",
+   ",'-",
+   "I'resldrnt",
+   "Poinrnre",
+   "arrlvinK",
+   "at",
+   "the",
+   "Pointe",
+   "de",
+   "Grave",
+   "for",
+   "tfle",
+   "corner-stone-laying",
+   "ceremonies",
+   "of",
+   "the",
+   "great",
+   "'to",
+   "be",
+   "erected",
+   "by",
+   "France",
+   "In",
+   "commemoration",
+   "of",
+   "America's",
+   "eatty",
+   "into",
+   "the",
+   "war.",
+   "The",
+   "American",
+   "ambassador",
+   "tr",
+   "ilugh",
+   "Wallace,",
+   "laid",
+   "the",
+   "corner",
+   "stone.",
+   "Vl"
+  ],
+  "page_seq_num": 7,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_emerson_ver01\/data\/sn78001466\/00295865040\/1919101801\/0007.jp2",
+  "place_of_publication": "Palatka, Fla.",
+  "pub_date": "1919-10-18",
+  "publisher": "Vickers & Guerry",
+  "score": 0.9626554250717163,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_emerson_ver01\/data\/sn78001466\/00295865040\/1919101801\/0007\/002_0_96.jpg"
+ },
+ "id": 1916
+}

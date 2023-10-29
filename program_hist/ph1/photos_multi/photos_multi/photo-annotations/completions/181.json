@@ -1,0 +1,44 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766371,
+   "id": 181001,
+   "lead_time": 4.141,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_casablanca_ver01",
+  "box": [
+   0.40342333984375,
+   0.41065291627146566,
+   0.511275390625,
+   0.5435189439084964
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_casablanca_ver01\/data\/sn85052118\/00206534217\/1897110401\/0898\/011_0_94.jpg",
+  "geographic_coverage": [
+   "Kentucky--McCracken--Paducah"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_casablanca_ver01%2Fdata%2Fsn85052118%2F00206534217%2F1897110401%2F0898.jp2\/pct:40.34,41.07,10.79,13.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052118",
+  "name": "The Paducah daily sun. [volume]",
+  "ocr": [
+   "mummmr",
+   "'&mm",
+   "Lf",
+   "iiiiiiiiaBrlT",
+   "'TI"
+  ],
+  "page_seq_num": 898,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_casablanca_ver01\/data\/sn85052118\/00206534217\/1897110401\/0898.jp2",
+  "place_of_publication": "Paducah, Ky.",
+  "pub_date": "1897-11-04",
+  "publisher": "[publisher not identified]",
+  "score": 0.942139744758606,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_casablanca_ver01\/data\/sn85052118\/00206534217\/1897110401\/0898\/011_0_94.jpg"
+ },
+ "id": 181
+}

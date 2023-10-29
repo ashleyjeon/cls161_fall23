@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747453,
+   "id": 131001,
+   "lead_time": 1.861,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "SOIeDob5uh",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.2897047547287351,
+   0.23949803726809774,
+   0.6596528658395999,
+   0.531458375798626
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555717\/1896070401\/0013\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555717%2F1896070401%2F0013.jp2\/pct:28.97,23.95,37.0,29.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "HON.",
+   "HOWARD",
+   "H.",
+   "GROSS,",
+   "Just",
+   "appolntfld",
+   "on",
+   "tho",
+   "School",
+   "Board,",
+   "bv",
+   "Mayor",
+   "Swilt.",
+   "it",
+   "i'v"
+  ],
+  "page_seq_num": 13,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1896070401\/0013.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1896-07-04",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9594445824623108,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1896070401\/0013\/000_0_95.jpg"
+ },
+ "id": 131
+}

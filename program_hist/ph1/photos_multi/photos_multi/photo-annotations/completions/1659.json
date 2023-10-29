@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675594,
+   "id": 1659001,
+   "lead_time": 1.602,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "hGeUX3V9JN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_fiddleneck_ver01",
+  "box": [
+   0.6000189201639591,
+   0.14310789328016993,
+   0.73204053380716,
+   0.3586576822166619
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_fiddleneck_ver01\/data\/sn85066408\/00271767213\/1916051601\/0139\/006_0_97.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_fiddleneck_ver01%2Fdata%2Fsn85066408%2F00271767213%2F1916051601%2F0139.jp2\/pct:60.0,14.32,13.21,21.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066408",
+  "name": "L'Italia. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 139,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_fiddleneck_ver01\/data\/sn85066408\/00271767213\/1916051601\/0139.jp2",
+  "place_of_publication": "San Francisco, Calif.",
+  "pub_date": "1916-05-16",
+  "publisher": "Italian Pub. Co.",
+  "score": 0.9783679246902466,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_fiddleneck_ver01\/data\/sn85066408\/00271767213\/1916051601\/0139\/006_0_97.jpg"
+ },
+ "id": 1659
+}

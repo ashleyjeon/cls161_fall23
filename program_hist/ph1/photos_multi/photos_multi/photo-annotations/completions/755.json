@@ -1,0 +1,41 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747155,
+   "id": 755001,
+   "lead_time": 115.48,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_duwamish_ver01",
+  "box": [
+   0.39291950000435477,
+   0.2848196506904686,
+   0.5077261526050376,
+   0.4700039385535941
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_duwamish_ver01\/data\/sn88085947\/0021110854A\/1904070501\/0157\/009_0_91.jpg",
+  "geographic_coverage": [
+   "Washington--Spokane--Spokane"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_duwamish_ver01%2Fdata%2Fsn88085947%2F0021110854A%2F1904070501%2F0157.jp2\/pct:39.29,28.49,11.49,18.52\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085947",
+  "name": "The Spokane press. [volume]",
+  "ocr": [
+   "STEPHEN",
+   "REUBEN."
+  ],
+  "page_seq_num": 157,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_duwamish_ver01\/data\/sn88085947\/0021110854A\/1904070501\/0157.jp2",
+  "place_of_publication": "Spokane, Wash.",
+  "pub_date": "1904-07-05",
+  "publisher": "Press Pub. Co.",
+  "score": 0.911054790019989,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_duwamish_ver01\/data\/sn88085947\/0021110854A\/1904070501\/0157\/009_0_91.jpg"
+ },
+ "id": 755
+}

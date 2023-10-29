@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763724,
+   "id": 1496001,
+   "lead_time": 2.14,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DaAK8BN_Yk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_bode_ver03",
+  "box": [
+   0.44558763446784966,
+   0.3124897718863843,
+   0.5736519217061825,
+   0.46218710866347906
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_bode_ver03\/data\/sn83045081\/print\/1914090701\/2134\/010_0_91.jpg",
+  "geographic_coverage": [
+   "Maryland--Baltimore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_bode_ver03%2Fdata%2Fsn83045081%2Fprint%2F1914090701%2F2134.jp2\/pct:44.55,31.25,12.81,14.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045081",
+  "name": "Der Deutsche correspondent. [volume]",
+  "ocr": [
+   "f"
+  ],
+  "page_seq_num": 2134,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_bode_ver03\/data\/sn83045081\/print\/1914090701\/2134.jp2",
+  "place_of_publication": "Baltimore, Md.",
+  "pub_date": "1914-09-07",
+  "publisher": "F. Raine",
+  "score": 0.9159893989562988,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_bode_ver03\/data\/sn83045081\/print\/1914090701\/2134\/010_0_91.jpg"
+ },
+ "id": 1496
+}

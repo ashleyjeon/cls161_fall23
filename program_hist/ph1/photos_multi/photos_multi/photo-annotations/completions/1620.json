@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767349,
+   "id": 1620001,
+   "lead_time": 1.397,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VsEgHGFllp",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_fairplay_ver01",
+  "box": [
+   0.03413681476986831,
+   0.2886134771653164,
+   0.17093611424803182,
+   0.48825902114679787
+  ],
+  "edition_seq_num": 2,
+  "filepath": "cohi_fairplay_ver01\/data\/sn90051033\/00383341140\/1916102702\/0348\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Colorado--Crowley--Ordway",
+   "Colorado--Otero--Ordway"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_fairplay_ver01%2Fdata%2Fsn90051033%2F00383341140%2F1916102702%2F0348.jp2\/pct:3.41,28.87,13.68,19.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn90051033",
+  "name": "The Ordway new era.",
+  "ocr": [
+   "If",
+   "you",
+   "elect",
+   "O.",
+   "S.",
+   "Mitchell",
+   "county",
+   "treasurer",
+   "you",
+   "can",
+   "rest",
+   "assured",
+   "you",
+   "iave",
+   "a",
+   "permanent",
+   "resident",
+   "of",
+   "the",
+   "ounty",
+   "in",
+   "office.",
+   "He",
+   "has",
+   "been",
+   "here",
+   "ten",
+   "years",
+   "and",
+   "his",
+   "interests",
+   "being",
+   "here",
+   "!.e",
+   "will",
+   "continue",
+   "to",
+   "reside",
+   "in",
+   "the",
+   "coun",
+   "ty",
+   "when",
+   "out",
+   "of",
+   "office.",
+   "."
+  ],
+  "page_seq_num": 348,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_fairplay_ver01\/data\/sn90051033\/00383341140\/1916102702\/0348.jp2",
+  "place_of_publication": "Ordway, Colo.",
+  "pub_date": "1916-10-27",
+  "publisher": "C.B. Stewart",
+  "score": 0.9561065435409546,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_fairplay_ver01\/data\/sn90051033\/00383341140\/1916102702\/0348\/003_0_95.jpg"
+ },
+ "id": 1620
+}

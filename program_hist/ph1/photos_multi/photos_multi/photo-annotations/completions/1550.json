@@ -1,0 +1,120 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768769,
+   "id": 1550001,
+   "lead_time": 1.633,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Weetw0mHqo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_hincapie_ver01",
+  "box": [
+   0.4109720281652502,
+   0.1409494662857538,
+   0.541539733474319,
+   0.351247331737417
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_hincapie_ver01\/data\/sn85058396\/print\/1915013001\/0250\/014_0_94.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1915013001%2F0250.jp2\/pct:41.09,14.1,13.06,21.03\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "SUCCEEDS",
+   "NEWELL",
+   "!",
+   "'",
+   "'M",
+   "'",
+   "M",
+   "fey",
+   "-1",
+   "f",
+   "Sur",
+   "v",
+   "'",
+   "til",
+   "Arthur",
+   "P.",
+   "Davis.",
+   "Arthur",
+   "P.",
+   "Davis",
+   "has",
+   "just",
+   "succeed",
+   "ed",
+   "F.",
+   "H.",
+   "Newell",
+   "at",
+   "the",
+   "head",
+   "of",
+   "the",
+   "reclamation",
+   "service.",
+   "While",
+   "the",
+   "re",
+   "moval",
+   "of",
+   "Mr.",
+   "Newell,",
+   "who",
+   "is",
+   "the",
+   "father",
+   "of",
+   "the",
+   "service,",
+   "has",
+   "been",
+   "criti",
+   "cized,",
+   "there",
+   "is",
+   "no",
+   "criticism",
+   "of",
+   "Mr.",
+   "Davis,",
+   "who",
+   "is",
+   "one",
+   "of",
+   "the",
+   "foremost",
+   "of",
+   "American",
+   "engineers",
+   "and",
+   "a",
+   "co-worker"
+  ],
+  "page_seq_num": 250,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_hincapie_ver01\/data\/sn85058396\/print\/1915013001\/0250.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1915-01-30",
+  "publisher": "W. Glasmann",
+  "score": 0.9424561262130737,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_hincapie_ver01\/data\/sn85058396\/print\/1915013001\/0250\/014_0_94.jpg"
+ },
+ "id": 1550
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746979,
+   "id": 453001,
+   "lead_time": 2.256,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yp8NoWnwiE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.34837466192380057,
+   0.2851433258890454,
+   0.6566962513964016,
+   0.5948015223435366
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900040801\/0167\/005_0_95.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040857%2F1900040801%2F0167.jp2\/pct:34.83,28.52,30.84,30.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "ELIZABETH,",
+   "QUEEN",
+   "OF",
+   "RUMANIA."
+  ],
+  "page_seq_num": 167,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900040801\/0167.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-04-08",
+  "publisher": "New York Tribune",
+  "score": 0.9561058878898621,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900040801\/0167\/005_0_95.jpg"
+ },
+ "id": 453
+}

@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755020,
+   "id": 741001,
+   "lead_time": 4.22,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mmxkZXArV3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_fleetwoodmac_ver01",
+  "box": [
+   0.5156069415676032,
+   0.07775013903204106,
+   0.7542124225129082,
+   0.23592848682615022
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_fleetwoodmac_ver01\/data\/sn86069561\/00100479527\/1904121601\/0217\/005_0_93.jpg",
+  "geographic_coverage": [
+   "Kentucky--Rockcastle--Mount Vernon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_fleetwoodmac_ver01%2Fdata%2Fsn86069561%2F00100479527%2F1904121601%2F0217.jp2\/pct:51.56,7.78,23.87,15.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069561",
+  "name": "Mount Vernon signal.",
+  "ocr": [
+   "The",
+   "way",
+   "the",
+   "roads",
+   "in",
+   "Io",
+   "kensrle",
+   "win",
+   "apral",
+   "bo",
+   "ore",
+   "the",
+   "winter",
+   "is",
+   "over"
+  ],
+  "page_seq_num": 217,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_fleetwoodmac_ver01\/data\/sn86069561\/00100479527\/1904121601\/0217.jp2",
+  "place_of_publication": "Mt. Vernon, Ky.",
+  "pub_date": "1904-12-16",
+  "publisher": "James Maret",
+  "score": 0.9323407411575317,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_fleetwoodmac_ver01\/data\/sn86069561\/00100479527\/1904121601\/0217\/005_0_93.jpg"
+ },
+ "id": 741
+}

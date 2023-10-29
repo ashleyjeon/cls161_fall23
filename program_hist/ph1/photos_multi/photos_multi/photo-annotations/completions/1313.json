@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766404,
+   "id": 1313001,
+   "lead_time": 16.986,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "72zAtfVnFc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_minuette_ver01",
+  "box": [
+   0.6790683817419206,
+   0.21082003062007992,
+   0.756026700416707,
+   0.31474933187470183
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_minuette_ver01\/data\/sn87007277\/00415662154\/1912092001\/1024\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Mississippi--Amite--Liberty"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_minuette_ver01%2Fdata%2Fsn87007277%2F00415662154%2F1912092001%2F1024.jp2\/pct:67.9,21.09,7.7,10.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn87007277",
+  "name": "The Southern herald.",
+  "ocr": [
+   "'",
+   "......"
+  ],
+  "page_seq_num": 1024,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_minuette_ver01\/data\/sn87007277\/00415662154\/1912092001\/1024.jp2",
+  "place_of_publication": "Liberty, Miss.",
+  "pub_date": "1912-09-20",
+  "publisher": "P.R. Brewer",
+  "score": 0.9474455714225769,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_minuette_ver01\/data\/sn87007277\/00415662154\/1912092001\/1024\/003_0_94.jpg"
+ },
+ "id": 1313
+}

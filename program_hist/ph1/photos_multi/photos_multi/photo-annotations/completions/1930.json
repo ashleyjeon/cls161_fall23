@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673603,
+   "id": 1930001,
+   "lead_time": 1.878,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-5a3kkbYgX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_ibiza_ver01",
+  "box": [
+   0.30205473460378984,
+   0.4005354238853295,
+   0.4338996617779662,
+   0.6464968884839174
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_ibiza_ver01\/data\/sn99062034\/00279522667\/1920070101\/0907\/005_0_93.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lake--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_ibiza_ver01%2Fdata%2Fsn99062034%2F00279522667%2F1920070101%2F0907.jp2\/pct:30.2,40.06,13.19,24.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn99062034",
+  "name": "The Madison daily leader. [volume]",
+  "ocr": [
+   "I",
+   "MAKES",
+   "RECORD",
+   "FLIGHT",
+   "i",
+   "IIWJ",
+   "23"
+  ],
+  "page_seq_num": 907,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_ibiza_ver01\/data\/sn99062034\/00279522667\/1920070101\/0907.jp2",
+  "place_of_publication": "Madison, S.D.",
+  "pub_date": "1920-07-01",
+  "publisher": "J.F. Stahl",
+  "score": 0.9332573413848877,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_ibiza_ver01\/data\/sn99062034\/00279522667\/1920070101\/0907\/005_0_93.jpg"
+ },
+ "id": 1930
+}

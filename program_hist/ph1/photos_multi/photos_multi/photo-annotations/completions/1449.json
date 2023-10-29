@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768723,
+   "id": 1449001,
+   "lead_time": 1.401,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pZA_1YuZjH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_ehrlich_ver02",
+  "box": [
+   0.42776144938344346,
+   0.5164104524205942,
+   0.5557070843114422,
+   0.6912629452342327
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_ehrlich_ver02\/data\/sn83030272\/00206539999\/1913112901\/0356\/006_0_92.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_ehrlich_ver02%2Fdata%2Fsn83030272%2F00206539999%2F1913112901%2F0356.jp2\/pct:42.77,51.65,12.8,17.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "i",
+   ".",
+   "i",
+   "fVuihg-p",
+   "of",
+   "fcWJAck-K-nia",
+   "Mm",
+   "WOMEN",
+   "OF",
+   "THE",
+   "NAVY"
+  ],
+  "page_seq_num": 356,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_ehrlich_ver02\/data\/sn83030272\/00206539999\/1913112901\/0356.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1913-11-29",
+  "publisher": "Benj. H. Day",
+  "score": 0.9278280735015869,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_ehrlich_ver02\/data\/sn83030272\/00206539999\/1913112901\/0356\/006_0_92.jpg"
+ },
+ "id": 1449
+}

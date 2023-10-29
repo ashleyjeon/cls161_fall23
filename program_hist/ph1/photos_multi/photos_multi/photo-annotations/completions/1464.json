@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768361,
+   "id": 1464001,
+   "lead_time": 3.246,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "h9QgreNRGR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_colfax_ver01",
+  "box": [
+   0.6896857771458975,
+   0.6302994423549407,
+   0.8226314181746236,
+   0.834950419864028
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_colfax_ver01\/data\/sn87055779\/00295872007\/1914051801\/0258\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_colfax_ver01%2Fdata%2Fsn87055779%2F00295872007%2F1914051801%2F0258.jp2\/pct:68.96,63.03,13.3,20.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   ".",
+   "ft",
+   "r-.",
+   ".\"",
+   "-",
+   "-",
+   ":",
+   "'",
+   "'",
+   "-\"",
+   "v-",
+   ".",
+   "...",
+   ";.",
+   ",",
+   "'?",
+   "?'",
+   "'",
+   "lA",
+   "V",
+   "\"",
+   ".",
+   "J",
+   "v",
+   ".",
+   ".",
+   "..",
+   "...",
+   ":",
+   ":U.R",
+   "Vote",
+   "4Vr.xt",
+   "Tutxlay",
+   "for",
+   ":J1-R",
+   "I",
+   "rl",
+   "n",
+   "1.",
+   "onn"
+  ],
+  "page_seq_num": 258,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_colfax_ver01\/data\/sn87055779\/00295872007\/1914051801\/0258.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1914-05-18",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.9136670827865601,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_colfax_ver01\/data\/sn87055779\/00295872007\/1914051801\/0258\/008_0_91.jpg"
+ },
+ "id": 1464
+}

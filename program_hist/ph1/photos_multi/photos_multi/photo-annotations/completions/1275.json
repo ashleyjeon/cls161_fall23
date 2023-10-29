@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746879,
+   "id": 1275001,
+   "lead_time": 5.235,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "NDXelXuDIM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_chelsea_ver01",
+  "box": [
+   0.5731254004128702,
+   0.8635998650680206,
+   0.9333776938888098,
+   0.9751437888160489
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_chelsea_ver01\/data\/sn85038709\/00415669343\/1911042701\/0801\/006_0_95.jpg",
+  "geographic_coverage": [
+   "Michigan--Gratiot--Alma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_chelsea_ver01%2Fdata%2Fsn85038709%2F00415669343%2F1911042701%2F0801.jp2\/pct:57.31,86.36,36.03,11.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038709",
+  "name": "Alma record.",
+  "ocr": [
+   "1",
+   "BEAUTIFUL",
+   "FARM",
+   "UOME",
+   "OF",
+   "GEORGE",
+   "NALDRETT",
+   "IN",
+   "NEWARK",
+   "TOWNSHIP"
+  ],
+  "page_seq_num": 801,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_chelsea_ver01\/data\/sn85038709\/00415669343\/1911042701\/0801.jp2",
+  "place_of_publication": "Alma, Mich.",
+  "pub_date": "1911-04-27",
+  "publisher": "Miss C.M. Fleming",
+  "score": 0.9598764777183533,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_chelsea_ver01\/data\/sn85038709\/00415669343\/1911042701\/0801\/006_0_95.jpg"
+ },
+ "id": 1275
+}

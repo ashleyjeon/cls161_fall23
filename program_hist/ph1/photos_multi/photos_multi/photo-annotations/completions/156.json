@@ -1,0 +1,96 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749666,
+   "id": 156001,
+   "lead_time": 5.002,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oc6KWBCZ7X",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_fredsplace_ver01",
+  "box": [
+   0.4407376847177182,
+   0.43604147317526226,
+   0.9635912049491451,
+   0.8170119919143357
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_fredsplace_ver01\/data\/sn85066387\/00175037597\/1897090801\/0111\/003_0_95.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_fredsplace_ver01%2Fdata%2Fsn85066387%2F00175037597%2F1897090801%2F0111.jp2\/pct:44.07,43.61,52.29,38.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "THE",
+   "STEAM",
+   "SCHOONER",
+   "NATIONAL",
+   "CITY",
+   "as",
+   "She",
+   "Appeared^",
+   "on",
+   "the",
+   "Night-",
+   "of",
+   "August",
+   "7",
+   "While",
+   "Folsom-Street",
+   "Wharf",
+   "for",
+   "St.",
+   "Michael",
+   "With",
+   "More",
+   "Than",
+   "100",
+   "Gold-Seekers.",
+   "Returning",
+   "From",
+   "St.",
+   "Michael",
+   "With",
+   "the",
+   "Latest",
+   "News",
+   "From",
+   "the",
+   "Klondike",
+   "Gold",
+   "Fields,",
+   "the",
+   "Vessel",
+   "Arrived",
+   "at",
+   "Eueka",
+   "Yesterday",
+   "noon."
+  ],
+  "page_seq_num": 111,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_fredsplace_ver01\/data\/sn85066387\/00175037597\/1897090801\/0111.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1897-09-08",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9528750777244568,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_fredsplace_ver01\/data\/sn85066387\/00175037597\/1897090801\/0111\/003_0_95.jpg"
+ },
+ "id": 156
+}

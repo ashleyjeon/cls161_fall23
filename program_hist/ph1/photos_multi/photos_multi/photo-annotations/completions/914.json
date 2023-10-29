@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747657,
+   "id": 914001,
+   "lead_time": 7743.746,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CuZ5OZJK30",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_cotton_ver01",
+  "box": [
+   0.32524265903281663,
+   0.4754283855670922,
+   0.5781037423730211,
+   0.7338012582493357
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_cotton_ver01\/data\/sn89065008\/00199916579\/1906122101\/0083\/002_0_93.jpg",
+  "geographic_coverage": [
+   "Mississippi--Leflore--Greenwood"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_cotton_ver01%2Fdata%2Fsn89065008%2F00199916579%2F1906122101%2F0083.jp2\/pct:32.52,47.55,25.29,25.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn89065008",
+  "name": "The commonwealth.",
+  "ocr": [
+   "PRESIDENTIAL",
+   "PARTY",
+   "LEAVING",
+   "HOTEL",
+   "1",
+   "Mi",
+   "Law",
+   "-",
+   "I",
+   "\u25a0",
+   ";",
+   ":\u2022",
+   "\\",
+   "r",
+   "t).",
+   "ll.--\"",
+   "-'",
+   "y",
+   "m",
+   "r",
+   ":V'y",
+   "y",
+   "m",
+   "L",
+   "\u2022",
+   ",;",
+   ":",
+   "i(",
+   "ili\u00ae",
+   "^",
+   ":",
+   "Mi",
+   "*",
+   "IM",
+   "\u25a0",
+   "&\u25a0\u00a3",
+   "\u25a0-.",
+   "V.",
+   "F",
+   "ll",
+   "ffr*\u00ab",
+   "\u2022t\u00abr*o*r*ph",
+   "e*pyrtght,",
+   "by",
+   "Pnderwood",
+   "*",
+   "Underwood,",
+   "If.",
+   "T.",
+   "Photograph",
+   "of",
+   "the",
+   "Preaidant",
+   "and",
+   "Mr*.",
+   "Roo*ev*lt",
+   "and",
+   "party",
+   "leaving",
+   "th*",
+   "Tivoli",
+   "hotel",
+   "at",
+   "Colon",
+   "taktn",
+   "th*",
+   "recent"
+  ],
+  "page_seq_num": 83,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_cotton_ver01\/data\/sn89065008\/00199916579\/1906122101\/0083.jp2",
+  "place_of_publication": "Greenwood, Miss.",
+  "pub_date": "1906-12-21",
+  "publisher": "Commonwealth Pub. Co.",
+  "score": 0.9394243955612183,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_cotton_ver01\/data\/sn89065008\/00199916579\/1906122101\/0083\/002_0_93.jpg"
+ },
+ "id": 914
+}

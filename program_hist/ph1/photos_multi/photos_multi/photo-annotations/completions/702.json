@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748930,
+   "id": 702001,
+   "lead_time": 6.722,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "N5MQNxwn9T",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_elizabeth_ver01",
+  "box": [
+   0.19031717269147028,
+   0.2580100978346176,
+   0.49280475553919056,
+   0.4288293150461972
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_elizabeth_ver01\/data\/sn85033295\/00271769878\/1904022401\/0254\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Dodge--Watertown",
+   "Wisconsin--Jefferson--Watertown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_elizabeth_ver01%2Fdata%2Fsn85033295%2F00271769878%2F1904022401%2F0254.jp2\/pct:19.03,25.81,30.25,17.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033295",
+  "name": "Watertown republican. [volume]",
+  "ocr": [
+   "\u25a0",
+   "m",
+   "<",
+   "\u25a0",
+   "\u2018",
+   "PALACE",
+   "OF",
+   "MACHINERY\u2014THIS",
+   "BUILDING",
+   "COVERS",
+   "TEN",
+   "ACRES."
+  ],
+  "page_seq_num": 254,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_elizabeth_ver01\/data\/sn85033295\/00271769878\/1904022401\/0254.jp2",
+  "place_of_publication": "Watertown, Wis.",
+  "pub_date": "1904-02-24",
+  "publisher": "J.W. Lawton",
+  "score": 0.9745571613311768,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_elizabeth_ver01\/data\/sn85033295\/00271769878\/1904022401\/0254\/004_0_97.jpg"
+ },
+ "id": 702
+}

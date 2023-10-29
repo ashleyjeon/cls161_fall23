@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747220,
+   "id": 1664001,
+   "lead_time": 2.425,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MFNsXZrnH-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_cheddar_ver01",
+  "box": [
+   0.20643932016650637,
+   0.10652355237707509,
+   0.5826628411834563,
+   0.34900372051416834
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_cheddar_ver01\/data\/sn86063952\/00295864205\/1916040301\/0640\/010_0_98.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_cheddar_ver01%2Fdata%2Fsn86063952%2F00295864205%2F1916040301%2F0640.jp2\/pct:20.64,10.66,37.63,24.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "Waiting",
+   "For",
+   "Mexican",
+   "Uprisii-g",
+   "in",
+   "Juarez",
+   "Across",
+   "From",
+   "El",
+   "Paso.",
+   ";i-it-..'",
+   ";\"",
+   "-t",
+   "'",
+   "V",
+   "J.\".",
+   "K",
+   "4",
+   "'A'r.",
+   "'",
+   "IK",
+   "v",
+   "V",
+   "'",
+   "A",
+   "i",
+   "'",
+   "'",
+   "'",
+   "r",
+   ",",
+   ".",
+   "t",
+   "-v.",
+   "it",
+   "k",
+   ":",
+   ":",
+   ",",
+   "v",
+   "'",
+   "J",
+   "-",
+   "i",
+   ".",
+   ".-.",
+   ".h",
+   "trt."
+  ],
+  "page_seq_num": 640,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_cheddar_ver01\/data\/sn86063952\/00295864205\/1916040301\/0640.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1916-04-03",
+  "publisher": "Roy Hoffman",
+  "score": 0.9822537302970886,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_cheddar_ver01\/data\/sn86063952\/00295864205\/1916040301\/0640\/010_0_98.jpg"
+ },
+ "id": 1664
+}

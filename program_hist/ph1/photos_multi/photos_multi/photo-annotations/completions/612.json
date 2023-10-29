@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746826,
+   "id": 612001,
+   "lead_time": 4.56,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jxtwC0yYoU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_inxs_ver01",
+  "box": [
+   0.6167024675069012,
+   0.38907903666683347,
+   0.7593465353597466,
+   0.519542098522568
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_inxs_ver01\/data\/sn86069395\/00175046070\/1902041501\/0255\/002_0_99.jpg",
+  "geographic_coverage": [
+   "Kentucky--Christian--Hopkinsville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_inxs_ver01%2Fdata%2Fsn86069395%2F00175046070%2F1902041501%2F0255.jp2\/pct:61.67,38.91,14.27,13.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069395",
+  "name": "Hopkinsville Kentuckian. [volume]",
+  "ocr": [
+   "Tli",
+   ">",
+   "TALKING",
+   "CANARY"
+  ],
+  "page_seq_num": 255,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_inxs_ver01\/data\/sn86069395\/00175046070\/1902041501\/0255.jp2",
+  "place_of_publication": "Hopkinsville, Ky.",
+  "pub_date": "1902-04-15",
+  "publisher": "Chas. M. Meacham",
+  "score": 0.9961434602737427,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_inxs_ver01\/data\/sn86069395\/00175046070\/1902041501\/0255\/002_0_99.jpg"
+ },
+ "id": 612
+}

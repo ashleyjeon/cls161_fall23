@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751186,
+   "id": 1157001,
+   "lead_time": 2.823,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "M72CStT9GR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_hamlet_ver01",
+  "box": [
+   0.32534782999252093,
+   0.19805980810002324,
+   0.6339174686418685,
+   0.552358452892658
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_hamlet_ver01\/data\/sn85047084\/00295871763\/1910090401\/0046\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_hamlet_ver01%2Fdata%2Fsn85047084%2F00295871763%2F1910090401%2F0046.jp2\/pct:32.53,19.81,30.86,35.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "1J",
+   "s'ja'fflgjysasfcsr\"",
+   "jr-"
+  ],
+  "page_seq_num": 46,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_hamlet_ver01\/data\/sn85047084\/00295871763\/1910090401\/0046.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1910-09-04",
+  "publisher": "[publisher not identified]",
+  "score": 0.9580520391464233,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_hamlet_ver01\/data\/sn85047084\/00295871763\/1910090401\/0046\/002_0_95.jpg"
+ },
+ "id": 1157
+}

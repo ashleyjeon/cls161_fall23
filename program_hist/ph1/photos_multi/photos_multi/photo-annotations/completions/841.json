@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748107,
+   "id": 841001,
+   "lead_time": 1.623,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "khohoMlefC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_oasis_ver01",
+  "box": [
+   0.16232245759389757,
+   0.38816920070783467,
+   0.29531197395910197,
+   0.6892629853377106
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905030501\/0062\/005_0_97.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_oasis_ver01%2Fdata%2Fsn85042462%2F0017504727A%2F1905030501%2F0062.jp2\/pct:16.23,38.82,13.3,30.11\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "E.",
+   "W.",
+   "NOYES"
+  ],
+  "page_seq_num": 62,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905030501\/0062.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1905-03-05",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9713063836097717,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905030501\/0062\/005_0_97.jpg"
+ },
+ "id": 841
+}

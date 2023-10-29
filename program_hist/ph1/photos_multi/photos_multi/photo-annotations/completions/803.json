@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764390,
+   "id": 803001,
+   "lead_time": 1.993,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "hE6qvgECr1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_jonesville_ver01",
+  "box": [
+   0.6200946492886324,
+   0.05889824025858104,
+   0.9169556503995843,
+   0.2492124762856434
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_jonesville_ver01\/data\/sn96077142\/00271764327\/1905021801\/0442\/006_0_90.jpg",
+  "geographic_coverage": [
+   "Michigan--Baraga--L'Anse"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_jonesville_ver01%2Fdata%2Fsn96077142%2F00271764327%2F1905021801%2F0442.jp2\/pct:62.0,5.89,29.69,19.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn96077142",
+  "name": "The L'Anse sentinel.",
+  "ocr": [
+   "Healtfy",
+   "of",
+   "American",
+   "Women",
+   "A",
+   "Subject",
+   "Much",
+   "Discussed",
+   "at",
+   "Women's",
+   "Clubs",
+   "The",
+   "Future",
+   "of",
+   "a",
+   "Country",
+   "Depends",
+   "on",
+   "tho",
+   "Health",
+   "of",
+   "Its",
+   "Women.",
+   "1",
+   "rrfo",
+   "0",
+   "f.jiT.CWdtcdtcn",
+   "AiisiJMie",
+   "fonry"
+  ],
+  "page_seq_num": 442,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_jonesville_ver01\/data\/sn96077142\/00271764327\/1905021801\/0442.jp2",
+  "place_of_publication": "L'Anse, L.S., Mich.",
+  "pub_date": "1905-02-18",
+  "publisher": "Sylvester Kinney",
+  "score": 0.9023598432540894,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_jonesville_ver01\/data\/sn96077142\/00271764327\/1905021801\/0442\/006_0_90.jpg"
+ },
+ "id": 803
+}

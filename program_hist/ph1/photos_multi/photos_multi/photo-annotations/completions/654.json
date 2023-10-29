@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748207,
+   "id": 654001,
+   "lead_time": 1.661,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1ATxEtzVdn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_delaware_ver01",
+  "box": [
+   0.17578030387455681,
+   0.02674552247990638,
+   0.3312351961563634,
+   0.13969104773819555
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_delaware_ver01\/data\/sn86063952\/00237284276\/1903080801\/0059\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_delaware_ver01%2Fdata%2Fsn86063952%2F00237284276%2F1903080801%2F0059.jp2\/pct:17.57,2.68,15.55,11.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "B",
+   "i",
+   "m",
+   "Airs.",
+   "Emmons,",
+   "saved",
+   "from"
+  ],
+  "page_seq_num": 59,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_delaware_ver01\/data\/sn86063952\/00237284276\/1903080801\/0059.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1903-08-08",
+  "publisher": "Roy Hoffman",
+  "score": 0.9669619798660278,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_delaware_ver01\/data\/sn86063952\/00237284276\/1903080801\/0059\/007_0_96.jpg"
+ },
+ "id": 654
+}

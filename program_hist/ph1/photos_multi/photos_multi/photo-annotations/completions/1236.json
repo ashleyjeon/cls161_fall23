@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675914,
+   "id": 1236001,
+   "lead_time": 3.604,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FXvCTu59fd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_evart_ver01",
+  "box": [
+   0.47059247342043564,
+   0.6507668868795651,
+   0.6078061124651294,
+   0.7375817368546647
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_evart_ver01\/data\/sn97070614\/0029602367A\/1911042101\/0439\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Shiawassee--Owosso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_evart_ver01%2Fdata%2Fsn97070614%2F0029602367A%2F1911042101%2F0439.jp2\/pct:47.05,65.08,13.73,8.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn97070614",
+  "name": "The Owosso times.",
+  "ocr": [
+   "-",
+   "A",
+   "Miniature",
+   "Garden.",
+   "I",
+   "'",
+   "fc.",
+   "ffTftrffcl",
+   "m",
+   "I",
+   "I",
+   "III",
+   "!(",
+   "II",
+   "MM",
+   "I",
+   "Ml",
+   "I",
+   "i,",
+   "J"
+  ],
+  "page_seq_num": 439,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_evart_ver01\/data\/sn97070614\/0029602367A\/1911042101\/0439.jp2",
+  "place_of_publication": "Owosso, Mich.",
+  "pub_date": "1911-04-21",
+  "publisher": "Edmund O. Dewey",
+  "score": 0.985074520111084,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_evart_ver01\/data\/sn97070614\/0029602367A\/1911042101\/0439\/006_0_98.jpg"
+ },
+ "id": 1236
+}

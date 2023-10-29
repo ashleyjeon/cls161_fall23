@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673581,
+   "id": 1680001,
+   "lead_time": 1.571,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QFrAQpYIp5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_curtin_ver01",
+  "box": [
+   0.439298277835368,
+   0.6115346971523751,
+   0.5684962870048228,
+   0.7710981275437667
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_curtin_ver01\/data\/sn83045211\/00237280088\/1916052401\/0243\/011_0_93.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_curtin_ver01%2Fdata%2Fsn83045211%2F00237280088%2F1916052401%2F0243.jp2\/pct:43.92,61.16,12.92,15.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "-",
+   "SBI''",
+   "-f",
+   "I!",
+   "sifl!"
+  ],
+  "page_seq_num": 243,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_curtin_ver01\/data\/sn83045211\/00237280088\/1916052401\/0243.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1916-05-24",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9394068121910095,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_curtin_ver01\/data\/sn83045211\/00237280088\/1916052401\/0243\/011_0_93.jpg"
+ },
+ "id": 1680
+}

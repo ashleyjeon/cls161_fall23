@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673569,
+   "id": 608001,
+   "lead_time": 2.132,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5x4MOrPQGG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_gratefuldead_ver01",
+  "box": [
+   0.2203032645176588,
+   0.7368052066471411,
+   0.36458529399542394,
+   0.9364054397703577
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_gratefuldead_ver01\/data\/sn87060004\/00175046185\/1902082101\/0342\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Hopkins--Earlington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_gratefuldead_ver01%2Fdata%2Fsn87060004%2F00175046185%2F1902082101%2F0342.jp2\/pct:22.03,73.69,14.43,19.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn87060004",
+  "name": "The bee.",
+  "ocr": [
+   "I",
+   "I",
+   "I",
+   "I",
+   "I",
+   "I"
+  ],
+  "page_seq_num": 342,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_gratefuldead_ver01\/data\/sn87060004\/00175046185\/1902082101\/0342.jp2",
+  "place_of_publication": "Earlington, Ky.",
+  "pub_date": "1902-08-21",
+  "publisher": "Bee Pub. Co.",
+  "score": 0.9799047708511353,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_gratefuldead_ver01\/data\/sn87060004\/00175046185\/1902082101\/0342\/002_0_97.jpg"
+ },
+ "id": 608
+}

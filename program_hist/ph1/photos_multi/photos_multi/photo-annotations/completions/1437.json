@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750876,
+   "id": 1437001,
+   "lead_time": 3.839,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jvsdnH2Dth",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_apple_ver01",
+  "box": [
+   0.40511953248263183,
+   0.07750791769761306,
+   0.8021629905079397,
+   0.32812991509070766
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_apple_ver01\/data\/sn98069043\/00279522771\/1913051601\/0370\/006_0_95.jpg",
+  "geographic_coverage": [
+   "South Dakota--Walworth--Mobridge"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_apple_ver01%2Fdata%2Fsn98069043%2F00279522771%2F1913051601%2F0370.jp2\/pct:40.51,7.76,39.71,25.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn98069043",
+  "name": "The Mobridge news. [volume]",
+  "ocr": [
+   "GREATEST",
+   "WOMAN",
+   "SUFFRAGE",
+   "DEMONSTRATION",
+   "EVER",
+   "SEEN",
+   "A",
+   "view",
+   "of",
+   "the",
+   "woman's",
+   "suffrage",
+   "parade",
+   "coming",
+   "up",
+   "Fifth",
+   "avenue.",
+   "New",
+   "York.",
+   "The",
+   "inserts",
+   "show",
+   "Policewoman",
+   "Miss",
+   "Ann",
+   "and",
+   "Mrs.",
+   "Herbert",
+   "Carpenter,",
+   "the",
+   "beauty",
+   "with",
+   "the",
+   "flag."
+  ],
+  "page_seq_num": 370,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_apple_ver01\/data\/sn98069043\/00279522771\/1913051601\/0370.jp2",
+  "place_of_publication": "Mobridge, Walworth Co., S.D.",
+  "pub_date": "1913-05-16",
+  "publisher": "Mr. and Mrs. Glenn B. Coate",
+  "score": 0.958533525466919,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_apple_ver01\/data\/sn98069043\/00279522771\/1913051601\/0370\/006_0_95.jpg"
+ },
+ "id": 1437
+}

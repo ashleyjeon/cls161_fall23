@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769083,
+   "id": 1830001,
+   "lead_time": 3.023,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PgDp-1J3AF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_julich_ver01",
+  "box": [
+   0.05098221739061082,
+   0.5479459409360532,
+   0.325950691790849,
+   0.6805123626870453
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_julich_ver01\/data\/sn85058396\/print\/1918020901\/0471\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_julich_ver01%2Fdata%2Fsn85058396%2Fprint%2F1918020901%2F0471.jp2\/pct:5.09,54.8,27.5,13.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   ",",
+   "North",
+   "Ogden",
+   "Factory"
+  ],
+  "page_seq_num": 471,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_julich_ver01\/data\/sn85058396\/print\/1918020901\/0471.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1918-02-09",
+  "publisher": "W. Glasmann",
+  "score": 0.9697680473327637,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_julich_ver01\/data\/sn85058396\/print\/1918020901\/0471\/001_0_96.jpg"
+ },
+ "id": 1830
+}

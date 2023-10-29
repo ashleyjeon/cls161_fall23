@@ -1,0 +1,116 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673681,
+   "id": 1906001,
+   "lead_time": 3.77,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "m3eAB_bOS8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_dove_ver02",
+  "box": [
+   0.44636584382678135,
+   0.05399761039669774,
+   0.6924649925138207,
+   0.29714299049698006
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_dove_ver02\/data\/sn85038022\/00202195003\/1919061301\/0704\/006_0_90.jpg",
+  "geographic_coverage": [
+   "Kentucky--Mason--Maysville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_dove_ver02%2Fdata%2Fsn85038022%2F00202195003%2F1919061301%2F0704.jp2\/pct:44.63,5.4,24.61,24.32\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038022",
+  "name": "The public ledger. [volume]",
+  "ocr": [
+   "Came",
+   "a",
+   "Long",
+   "Dittane",
+   "to",
+   "Attend",
+   "Methodist",
+   "Centenary",
+   "Celebration",
+   "r",
+   "w",
+   "'",
+   "1",
+   "i",
+   "if-",
+   "t:2",
+   "f",
+   "-yj",
+   "rA",
+   "THE",
+   "first",
+   "Methodist",
+   "Centenary",
+   "Cel",
+   "ebration",
+   "dromedary",
+   "has",
+   "arrived",
+   "In",
+   "Columbus,",
+   "O.,",
+   "and",
+   "has",
+   "consented",
+   "to",
+   "an",
+   "Interview.",
+   "In",
+   "fact,",
+   "so",
+   "softened",
+   "that",
+   "I",
+   "have",
+   "seen",
+   "the",
+   "preparations",
+   "being",
+   "made",
+   "for",
+   "It",
+   "at",
+   "the",
+   "exposition",
+   "grounds.",
+   "This",
+   "world's",
+   "missionary",
+   "ex",
+   "position",
+   "Is",
+   "going",
+   "to",
+   "beat",
+   "anything",
+   "1"
+  ],
+  "page_seq_num": 704,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_dove_ver02\/data\/sn85038022\/00202195003\/1919061301\/0704.jp2",
+  "place_of_publication": "Maysville, Ky.",
+  "pub_date": "1919-06-13",
+  "publisher": "A.F. Curran",
+  "score": 0.9077093601226807,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_dove_ver02\/data\/sn85038022\/00202195003\/1919061301\/0704\/006_0_90.jpg"
+ },
+ "id": 1906
+}

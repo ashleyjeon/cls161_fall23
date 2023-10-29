@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755092,
+   "id": 716001,
+   "lead_time": 3.868,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "L7WcnVHn8B",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_augurey_ver01",
+  "box": [
+   0.8840291548748406,
+   0.8011442758021445,
+   0.941374175402583,
+   0.8682921845696755
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_augurey_ver01\/data\/sn85040749\/00271769155\/1904112201\/0581\/007_0_94.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Marathon--Wausau"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_augurey_ver01%2Fdata%2Fsn85040749%2F00271769155%2F1904112201%2F0581.jp2\/pct:88.4,80.12,5.74,6.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040749",
+  "name": "Wausau pilot. [volume]",
+  "ocr": [
+   "L",
+   "..\/",
+   "\u2018By",
+   "JmU",
+   "T'",
+   "-",
+   "'",
+   "\u25a0",
+   "ffw",
+   "'",
+   ";",
+   "Jl",
+   "IKiK"
+  ],
+  "page_seq_num": 581,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_augurey_ver01\/data\/sn85040749\/00271769155\/1904112201\/0581.jp2",
+  "place_of_publication": "Wausau, Wis.",
+  "pub_date": "1904-11-22",
+  "publisher": "E.B. Thayer",
+  "score": 0.9464235305786133,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_augurey_ver01\/data\/sn85040749\/00271769155\/1904112201\/0581\/007_0_94.jpg"
+ },
+ "id": 716
+}

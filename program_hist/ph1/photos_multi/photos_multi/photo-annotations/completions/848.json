@@ -1,0 +1,111 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747499,
+   "id": 848001,
+   "lead_time": 2.937,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qnyYho48H5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_canada_ver01",
+  "box": [
+   0.030803641437614052,
+   0.09511279694421995,
+   0.9424642521099452,
+   0.40861046451261673
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_canada_ver01\/data\/sn83030214\/0017504145A\/1906071501\/0288\/003_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_canada_ver01%2Fdata%2Fsn83030214%2F0017504145A%2F1906071501%2F0288.jp2\/pct:3.08,9.52,91.17,31.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "LUXURIOUS",
+   "SUMMER",
+   "HOMES",
+   "BY",
+   "THE",
+   "SOUNDING",
+   "SEA",
+   "ON",
+   "NEW",
+   "CO",
+   "AS",
+   "TLINE.",
+   "T",
+   "c",
+   "ten-mite",
+   "strip",
+   "from",
+   "Monmouth",
+   "Beach",
+   "to",
+   "Allenhurst",
+   "present,",
+   "an",
+   "array",
+   "of",
+   "costly",
+   "structures",
+   "that",
+   "almost",
+   "rival.",
+   "Newport.",
+   "HOME",
+   "OF",
+   "MRS.",
+   "GEORGE",
+   "M.",
+   "PULLMAN",
+   "AT",
+   "ELELRON.",
+   "HOME",
+   "OF",
+   "SIMON",
+   "GUGGENHEIM",
+   "AT",
+   "ELBERON.",
+   "FORMER",
+   "HOME",
+   "OF",
+   "JOHN",
+   "A.",
+   "MCALL",
+   "AT",
+   "HOLLYWOOD.",
+   "New",
+   "occupied",
+   "by",
+   "the",
+   "West",
+   "Er.d",
+   "Calf",
+   "Cl.,b."
+  ],
+  "page_seq_num": 288,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_canada_ver01\/data\/sn83030214\/0017504145A\/1906071501\/0288.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1906-07-15",
+  "publisher": "New York Tribune",
+  "score": 0.9482901692390442,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_canada_ver01\/data\/sn83030214\/0017504145A\/1906071501\/0288\/003_0_94.jpg"
+ },
+ "id": 848
+}

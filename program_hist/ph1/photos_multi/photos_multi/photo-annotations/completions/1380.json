@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748084,
+   "id": 1380001,
+   "lead_time": 5.877,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "RjC6ELyEnw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_ancientbison_ver01",
+  "box": [
+   0.5522890715619883,
+   0.30773991248001753,
+   0.8127188869959402,
+   0.4793997786619482
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_ancientbison_ver01\/data\/2018270203\/00279527446\/1912101701\/0195\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Nebraska--Sherman--Loup City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_ancientbison_ver01%2Fdata%2F2018270203%2F00279527446%2F1912101701%2F0195.jp2\/pct:55.22,30.78,26.05,17.17\/!500,500\/0\/default.jpg",
+  "lccn": "2018270203",
+  "name": "The Loup City northwestern. [volume]",
+  "ocr": [
+   "!",
+   "\u2018",
+   "1",
+   "Flock",
+   "of",
+   "Hampshire",
+   "Oowns",
+   "on",
+   "an",
+   "English",
+   "Farm."
+  ],
+  "page_seq_num": 195,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_ancientbison_ver01\/data\/2018270203\/00279527446\/1912101701\/0195.jp2",
+  "place_of_publication": "Loup City, Neb.",
+  "pub_date": "1912-10-17",
+  "publisher": null,
+  "score": 0.9830475449562073,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_ancientbison_ver01\/data\/2018270203\/00279527446\/1912101701\/0195\/002_0_98.jpg"
+ },
+ "id": 1380
+}

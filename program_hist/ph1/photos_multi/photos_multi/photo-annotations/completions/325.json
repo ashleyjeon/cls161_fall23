@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767981,
+   "id": 325001,
+   "lead_time": 3.204,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "sE27YwbfEu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_beatrice_ver01",
+  "box": [
+   0.4839996337890625,
+   0.6921084080813085,
+   0.7714196946885851,
+   0.9498568275118568
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_beatrice_ver01\/data\/sn99021999\/00206539495\/1899120301\/0867\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_beatrice_ver01%2Fdata%2Fsn99021999%2F00206539495%2F1899120301%2F0867.jp2\/pct:48.39,69.22,28.75,25.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "MISS",
+   "MAMIE",
+   "HARTLEY",
+   "OF",
+   "LINCOLN",
+   "IN",
+   "NATIVE",
+   "COS"
+  ],
+  "page_seq_num": 867,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_beatrice_ver01\/data\/sn99021999\/00206539495\/1899120301\/0867.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1899-12-03",
+  "publisher": "Edward Rosewater",
+  "score": 0.9706661105155945,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_beatrice_ver01\/data\/sn99021999\/00206539495\/1899120301\/0867\/003_0_97.jpg"
+ },
+ "id": 325
+}

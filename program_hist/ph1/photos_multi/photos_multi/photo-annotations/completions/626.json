@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748163,
+   "id": 626001,
+   "lead_time": 1.619,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ioogF8rZTH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_fiji_ver01",
+  "box": [
+   0.2782383462202075,
+   0.30121147621405514,
+   0.7307017552672754,
+   0.6825127113593017
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_fiji_ver01\/data\/sn83030214\/00175042106\/1903020101\/0041\/000_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_fiji_ver01%2Fdata%2Fsn83030214%2F00175042106%2F1903020101%2F0041.jp2\/pct:27.82,30.13,45.25,38.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "LOUIS",
+   "XVL"
+  ],
+  "page_seq_num": 41,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_fiji_ver01\/data\/sn83030214\/00175042106\/1903020101\/0041.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1903-02-01",
+  "publisher": "New York Tribune",
+  "score": 0.9655841588973999,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_fiji_ver01\/data\/sn83030214\/00175042106\/1903020101\/0041\/000_0_96.jpg"
+ },
+ "id": 626
+}

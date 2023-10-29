@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757112,
+   "id": 1733001,
+   "lead_time": 2.895,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WiokDRKHXR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_nightcrawler_ver01",
+  "box": [
+   0.2735245686504856,
+   0.3946618670923706,
+   0.40870034215818246,
+   0.6303653339635654
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_nightcrawler_ver01\/data\/sn88064020\/00200299917\/1917050301\/0218\/013_0_92.jpg",
+  "geographic_coverage": [
+   "Louisiana--Orleans--Algiers",
+   "Louisiana--Orleans--New Orleans"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_nightcrawler_ver01%2Fdata%2Fsn88064020%2F00200299917%2F1917050301%2F0218.jp2\/pct:27.35,39.47,13.52,23.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064020",
+  "name": "The herald. [volume]",
+  "ocr": [
+   "TESTING",
+   "A",
+   "NAVAL",
+   "RECRUIT",
+   "undergoing",
+   "an"
+  ],
+  "page_seq_num": 218,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_nightcrawler_ver01\/data\/sn88064020\/00200299917\/1917050301\/0218.jp2",
+  "place_of_publication": "New Orleans, La.",
+  "pub_date": "1917-05-03",
+  "publisher": "C.V. Kraft",
+  "score": 0.9241264462471008,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_nightcrawler_ver01\/data\/sn88064020\/00200299917\/1917050301\/0218\/013_0_92.jpg"
+ },
+ "id": 1733
+}

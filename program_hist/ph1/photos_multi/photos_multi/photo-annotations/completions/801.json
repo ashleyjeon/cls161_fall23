@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747520,
+   "id": 801001,
+   "lead_time": 1.952,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0MPUlEqH_t",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_bravo_ver01",
+  "box": [
+   0.3008128738740606,
+   0.12068993743226955,
+   0.43225329708568194,
+   0.31809171445810114
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_bravo_ver01\/data\/sn84026749\/100492313\/1905111401\/0251\/010_0_90.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_bravo_ver01%2Fdata%2Fsn84026749%2F100492313%2F1905111401%2F0251.jp2\/pct:30.08,12.07,13.15,19.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "I",
+   "ICALL",
+   "I",
+   "I",
+   "t",
+   "1",
+   "j",
+   "1"
+  ],
+  "page_seq_num": 251,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_bravo_ver01\/data\/sn84026749\/100492313\/1905111401\/0251.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1905-11-14",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9084938764572144,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_bravo_ver01\/data\/sn84026749\/100492313\/1905111401\/0251\/010_0_90.jpg"
+ },
+ "id": 801
+}

@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743118,
+   "id": 1195001,
+   "lead_time": 1.782,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7_dsHW0ths",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_edelbrock_ver01",
+  "box": [
+   0.17389133759047407,
+   0.7229556931975138,
+   0.29735544248679335,
+   0.9520319873676335
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_edelbrock_ver01\/data\/sn82016014\/00295870734\/1910062701\/0593\/007_0_90.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_edelbrock_ver01%2Fdata%2Fsn82016014%2F00295870734%2F1910062701%2F0593.jp2\/pct:17.38,72.3,12.35,22.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016014",
+  "name": "The Topeka state journal. [volume]",
+  "ocr": [
+   "4",
+   "x",
+   "It",
+   "U.",
+   "S.",
+   "Webb,",
+   "attorney",
+   "general",
+   "of",
+   "Cal",
+   "who",
+   "by",
+   "carrying",
+   "out",
+   "the",
+   "in",
+   "of",
+   "Governor",
+   "Gillette",
+   "forced",
+   "outside",
+   "the",
+   "state",
+   "of",
+   "Califor",
+   "Y",
+   "4-",
+   "N-r"
+  ],
+  "page_seq_num": 593,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_edelbrock_ver01\/data\/sn82016014\/00295870734\/1910062701\/0593.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1910-06-27",
+  "publisher": "F.P. MacLennan",
+  "score": 0.9047191143035889,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_edelbrock_ver01\/data\/sn82016014\/00295870734\/1910062701\/0593\/007_0_90.jpg"
+ },
+ "id": 1195
+}

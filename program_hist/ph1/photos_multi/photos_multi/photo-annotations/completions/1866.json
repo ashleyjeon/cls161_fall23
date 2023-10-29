@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766856,
+   "id": 1866001,
+   "lead_time": 2.034,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cx8j9dTiLg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_japan_ver01",
+  "box": [
+   0.17927953306801564,
+   0.7252252028000102,
+   0.3022394189999523,
+   0.9494655789597777
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_japan_ver01\/data\/sn86071134\/0020029774A\/1919041301\/0964\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Texas--Nueces--Corpus Christi"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_japan_ver01%2Fdata%2Fsn86071134%2F0020029774A%2F1919041301%2F0964.jp2\/pct:17.92,72.53,12.3,22.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn86071134",
+  "name": "The Corpus Christi caller. [volume]",
+  "ocr": [
+   "Mr",
+   "1"
+  ],
+  "page_seq_num": 964,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_japan_ver01\/data\/sn86071134\/0020029774A\/1919041301\/0964.jp2",
+  "place_of_publication": "Corpus Christi, Tex.",
+  "pub_date": "1919-04-13",
+  "publisher": "Caller Pub. Co.",
+  "score": 0.9701383709907532,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_japan_ver01\/data\/sn86071134\/0020029774A\/1919041301\/0964\/005_0_97.jpg"
+ },
+ "id": 1866
+}

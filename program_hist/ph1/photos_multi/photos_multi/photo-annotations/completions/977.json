@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766321,
+   "id": 977001,
+   "lead_time": 3.901,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8jHt7QNCuH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_evans_ver02",
+  "box": [
+   0.07436991428983385,
+   0.24921690233710672,
+   0.4844668844471807,
+   0.7077612636851616
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_evans_ver02\/data\/sn85058310\/00237285487\/1907010501\/0446\/001_0_93.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_evans_ver02%2Fdata%2Fsn85058310%2F00237285487%2F1907010501%2F0446.jp2\/pct:7.43,24.93,41.01,45.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058310",
+  "name": "Truth. [volume]",
+  "ocr": [
+   "InB;",
+   "$iv&sSmMM&MBMMMBMlBMMMMMMMMMMMMMMk'",
+   "$&&",
+   "t",
+   "GEORGIANNA",
+   "CLARK",
+   "The",
+   "Scottish",
+   "at",
+   "The",
+   "Next",
+   "Week"
+  ],
+  "page_seq_num": 446,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_evans_ver02\/data\/sn85058310\/00237285487\/1907010501\/0446.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1907-01-05",
+  "publisher": "Truth Pub. Co.",
+  "score": 0.9356552958488464,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_evans_ver02\/data\/sn85058310\/00237285487\/1907010501\/0446\/001_0_93.jpg"
+ },
+ "id": 977
+}

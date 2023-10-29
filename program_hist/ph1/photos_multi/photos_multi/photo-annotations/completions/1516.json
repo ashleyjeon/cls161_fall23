@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751456,
+   "id": 1516001,
+   "lead_time": 3.803,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Lr7WuUWXO9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_fir_ver01",
+  "box": [
+   0.2695122567786199,
+   0.04694239530964351,
+   0.6107083782141127,
+   0.3170029886026051
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_fir_ver01\/data\/sn88085187\/00211108381\/1914103101\/1066\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_fir_ver01%2Fdata%2Fsn88085187%2F00211108381%2F1914103101%2F1066.jp2\/pct:26.95,4.7,34.12,27.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "j",
+   "GREATMINE",
+   "DISASTER",
+   "IN",
+   ",",
+   "J",
+   "'",
+   "s.",
+   "i-iir",
+   "at",
+   "the",
+   "I",
+   "raiikhu",
+   "(",
+   "oal",
+   "hiki",
+   "lake",
+   "<<>.'\u25a0",
+   "mi",
+   "\u2022\u2022\u25a0.",
+   "Kotniion.",
+   "111.,",
+   "m",
+   "few",
+   "hours",
+   "after",
+   "(h*",
+   "e\\|>tuatoal",
+   "liml",
+   "killed",
+   "over",
+   "\u00abt\u00bb",
+   "uiia^r*.",
+   "_Aboitt",
+   "UW",
+   "were",
+   "rm<",
+   "usd."
+  ],
+  "page_seq_num": 1066,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_fir_ver01\/data\/sn88085187\/00211108381\/1914103101\/1066.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1914-10-31",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.978476345539093,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_fir_ver01\/data\/sn88085187\/00211108381\/1914103101\/1066\/004_0_97.jpg"
+ },
+ "id": 1516
+}

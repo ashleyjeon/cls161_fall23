@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750872,
+   "id": 975001,
+   "lead_time": 1.636,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EUuvHoQ4pf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_leek_ver01",
+  "box": [
+   0.399577106273938,
+   0.05260169593087078,
+   0.6949189167500871,
+   0.29062847499429745
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_leek_ver01\/data\/sn86082061\/00415628316\/1907032801\/0256\/004_0_96.jpg",
+  "geographic_coverage": [
+   "Vermont--Orange--Randolph"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_leek_ver01%2Fdata%2Fsn86082061%2F00415628316%2F1907032801%2F0256.jp2\/pct:39.95,5.27,29.54,23.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn86082061",
+  "name": "Herald and news. [volume]",
+  "ocr": [
+   "VETERAN",
+   "MERCHANT",
+   "DECEASED,",
+   "Albert",
+   ".",
+   "Brooks,",
+   "One",
+   "of",
+   "Bethel's",
+   "Leading",
+   "and",
+   "Respected",
+   "Residents,",
+   "Fasses",
+   "Away,",
+   ".",
+   "I",
+   "I",
+   "-V",
+   "'",
+   "-v",
+   "t",
+   ":",
+   ",",
+   "V",
+   "'",
+   "m",
+   ".",
+   "Ti",
+   "-",
+   "V",
+   "r",
+   "'",
+   ".",
+   "i",
+   "..",
+   "ALBERT",
+   "A.",
+   "PROOKf."
+  ],
+  "page_seq_num": 256,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_leek_ver01\/data\/sn86082061\/00415628316\/1907032801\/0256.jp2",
+  "place_of_publication": "West Randolph, Vt.",
+  "pub_date": "1907-03-28",
+  "publisher": "E.D Upham & Co.",
+  "score": 0.9671319127082825,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_leek_ver01\/data\/sn86082061\/00415628316\/1907032801\/0256\/004_0_96.jpg"
+ },
+ "id": 975
+}

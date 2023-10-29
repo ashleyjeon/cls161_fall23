@@ -1,0 +1,96 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746089,
+   "id": 1780001,
+   "lead_time": 54.553,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6LJvTV_jxG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_durant_ver01",
+  "box": [
+   0.3670213889171727,
+   0.05047172808465157,
+   0.49113891023030215,
+   0.2512193636129831
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_durant_ver01\/data\/sn85042344\/00200295079\/1918031001\/0179\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Tulsa--Tulsa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_durant_ver01%2Fdata%2Fsn85042344%2F00200295079%2F1918031001%2F0179.jp2\/pct:36.7,5.05,12.42,20.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042344",
+  "name": "Tulsa daily world. [volume]",
+  "ocr": [
+   "Phil",
+   "Palmer",
+   "(iaasch",
+   "a",
+   ".",
+   "11",
+   "4",
+   ".",
+   "'1",
+   "1",
+   "'.j;;",
+   ",",
+   "i",
+   "ffr-m",
+   "m",
+   "limn",
+   ",",
+   "nn.",
+   "gj",
+   "Itill",
+   "Falnu",
+   "r",
+   "tiaaat",
+   "li.",
+   "1'hll",
+   "I'almer",
+   "la",
+   "the",
+   "final",
+   "young",
+   "son",
+   "nf",
+   "Mr",
+   "und",
+   "Mrs",
+   "tilen",
+   "M.",
+   "(Iaasch,",
+   "2",
+   "1",
+   "9",
+   "Mhiiiu",
+   "Fe",
+   "street.",
+   "Irving",
+   "Flare.",
+   "I'hll"
+  ],
+  "page_seq_num": 179,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_durant_ver01\/data\/sn85042344\/00200295079\/1918031001\/0179.jp2",
+  "place_of_publication": "Tulsa, Indian Territory [Okla.]",
+  "pub_date": "1918-03-10",
+  "publisher": "J.R. Brady",
+  "score": 0.9815812110900879,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_durant_ver01\/data\/sn85042344\/00200295079\/1918031001\/0179\/003_0_98.jpg"
+ },
+ "id": 1780
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772571,
+   "id": 497001,
+   "lead_time": 3.541,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ll2C2euRX7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "arhi_charmander_ver01",
+  "box": [
+   0.02975046088356529,
+   0.11863711168386055,
+   0.4109150654560811,
+   0.3075461312476056
+  ],
+  "edition_seq_num": 1,
+  "filepath": "arhi_charmander_ver01\/data\/sn89051194\/00414212451\/1901080601\/0231\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Arkansas--Faulkner--Conway"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/arhi_charmander_ver01%2Fdata%2Fsn89051194%2F00414212451%2F1901080601%2F0231.jp2\/pct:2.97,11.87,38.12,18.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn89051194",
+  "name": "The Conway log cabin.",
+  "ocr": [
+   "CKNTRAI,",
+   "BAPTIST",
+   "COM,HUM."
+  ],
+  "page_seq_num": 231,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/arhi_charmander_ver01\/data\/sn89051194\/00414212451\/1901080601\/0231.jp2",
+  "place_of_publication": "Conway, Faulkner County, Ark.",
+  "pub_date": "1901-08-06",
+  "publisher": "[s.n.]",
+  "score": 0.9491071105003357,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/arhi_charmander_ver01\/data\/sn89051194\/00414212451\/1901080601\/0231\/003_0_94.jpg"
+ },
+ "id": 497
+}

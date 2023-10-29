@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768681,
+   "id": 1942001,
+   "lead_time": 7.477,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "moyJJaJfPk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_eisenhower_ver01",
+  "box": [
+   0.23543620000691173,
+   0.042640767778669084,
+   0.5933807233697204,
+   0.30135250091552734
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_eisenhower_ver01\/data\/sn83045211\/00237282425\/1920010701\/0133\/002_0_99.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_eisenhower_ver01%2Fdata%2Fsn83045211%2F00237282425%2F1920010701%2F0133.jp2\/pct:23.54,4.27,35.8,25.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "AN",
+   "ATTRACTIVE",
+   "GROUP",
+   "JIBS.",
+   "JOHN",
+   "WHITE",
+   "GEARY,",
+   "JR.",
+   "rttoto",
+   "by",
+   "Vanity",
+   "I'alr",
+   "Studio.",
+   "Allen",
+   "Drew",
+   "Cook"
+  ],
+  "page_seq_num": 133,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_eisenhower_ver01\/data\/sn83045211\/00237282425\/1920010701\/0133.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1920-01-07",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9905960559844971,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_eisenhower_ver01\/data\/sn83045211\/00237282425\/1920010701\/0133\/002_0_99.jpg"
+ },
+ "id": 1942
+}

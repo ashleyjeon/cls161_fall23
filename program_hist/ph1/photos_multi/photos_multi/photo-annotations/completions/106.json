@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750801,
+   "id": 106001,
+   "lead_time": 1.848,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_cknuAeqpm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "prru_abeja_ver01",
+  "box": [
+   0.052406476891559105,
+   0.13598151350401896,
+   0.15843510707485237,
+   0.238478049974342
+  ],
+  "edition_seq_num": 1,
+  "filepath": "prru_abeja_ver01\/data\/sn90070270\/00271762045\/1896112301\/0291\/005_0_90.jpg",
+  "geographic_coverage": [
+   "Puerto Rico--Caguas",
+   "Puerto Rico--Ponce",
+   "Puerto Rico--San Juan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/prru_abeja_ver01%2Fdata%2Fsn90070270%2F00271762045%2F1896112301%2F0291.jp2\/pct:5.24,13.6,10.61,10.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn90070270",
+  "name": "La democracia.",
+  "ocr": [
+   ".",
+   "f",
+   "-",
+   "VY.V.",
+   ".",
+   "\"",
+   "'",
+   "-",
+   "'",
+   "J",
+   "J",
+   "TZ",
+   "Tr.",
+   "Tranc.",
+   "-o",
+   "-",
+   "ji.v--.",
+   "ti",
+   ";-",
+   "-r",
+   ":",
+   "'.",
+   "'",
+   "-",
+   "j",
+   "k",
+   "\""
+  ],
+  "page_seq_num": 291,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/prru_abeja_ver01\/data\/sn90070270\/00271762045\/1896112301\/0291.jp2",
+  "place_of_publication": "Ponce, P.R.",
+  "pub_date": "1896-11-23",
+  "publisher": "Imprenta El Vapor",
+  "score": 0.900837242603302,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/prru_abeja_ver01\/data\/sn90070270\/00271762045\/1896112301\/0291\/005_0_90.jpg"
+ },
+ "id": 106
+}

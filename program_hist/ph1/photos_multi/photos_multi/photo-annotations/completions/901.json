@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673485,
+   "id": 901001,
+   "lead_time": 3.356,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yDzkX-l7-3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_jaguar_ver01",
+  "box": [
+   0.576853486680493,
+   0.5089407844576258,
+   0.9072410347535438,
+   0.7113880475635479
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_jaguar_ver01\/data\/sn86088199\/00200294257\/1906110201\/1048\/007_0_95.jpg",
+  "geographic_coverage": [
+   "Texas--Randall--Canyon",
+   "Texas--Randall--Canyon City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_jaguar_ver01%2Fdata%2Fsn86088199%2F00200294257%2F1906110201%2F1048.jp2\/pct:57.68,50.9,33.04,20.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn86088199",
+  "name": "Canyon City news.",
+  "ocr": [
+   "Km",
+   "A",
+   "in",
+   "it",
+   "Scene",
+   "near",
+   "head",
+   "of",
+   "main",
+   "canyon",
+   "at",
+   "Canyon",
+   "City.",
+   "This",
+   "cut",
+   "is",
+   "from",
+   "a",
+   "picture",
+   "recently",
+   "taken",
+   "on",
+   "the",
+   "canyon",
+   "just",
+   "above",
+   "where",
+   "the",
+   "railroad",
+   "crosses",
+   "coming",
+   "into",
+   "town."
+  ],
+  "page_seq_num": 1048,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_jaguar_ver01\/data\/sn86088199\/00200294257\/1906110201\/1048.jp2",
+  "place_of_publication": "Canyon City, Tex.",
+  "pub_date": "1906-11-02",
+  "publisher": "Geo. A. Brandon",
+  "score": 0.9563152194023132,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_jaguar_ver01\/data\/sn86088199\/00200294257\/1906110201\/1048\/007_0_95.jpg"
+ },
+ "id": 901
+}

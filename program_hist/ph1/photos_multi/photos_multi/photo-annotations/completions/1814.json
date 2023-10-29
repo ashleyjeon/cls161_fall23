@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746018,
+   "id": 1814001,
+   "lead_time": 1.777,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "n47uP_uRT0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_homer_ver01",
+  "box": [
+   0.5634081326998197,
+   0.047825848009652706,
+   0.6971352210411659,
+   0.22766566361639007
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_homer_ver01\/data\/sn96076572\/00415669860\/1918042401\/0167\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_homer_ver01%2Fdata%2Fsn96076572%2F00415669860%2F1918042401%2F0167.jp2\/pct:56.34,4.79,13.38,17.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn96076572",
+  "name": "Detroiter Abend-Post.",
+  "ocr": [
+   "Q",
+   "\u00dfK",
+   ".",
+   "v",
+   "V",
+   ".",
+   "5",
+   ":",
+   ",",
+   ":",
+   "V",
+   ";",
+   ";",
+   "ij'1'!",
+   "'",
+   "'",
+   "v",
+   "g'j",
+   "'",
+   "-",
+   "L",
+   "Ein",
+   "offener",
+   "Brief",
+   "an",
+   "das",
+   "von",
+   "Detroit,",
+   "meine",
+   "Re",
+   "k",
+   "X",
+   "fiK",
+   "v",
+   "r\"",
+   "w",
+   "i",
+   "z",
+   "tP':.",
+   "V",
+   "j",
+   "P",
+   "Vt",
+   "Y",
+   "lmtmm,:rt,i"
+  ],
+  "page_seq_num": 167,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_homer_ver01\/data\/sn96076572\/00415669860\/1918042401\/0167.jp2",
+  "place_of_publication": "Detroit [Mich.]",
+  "pub_date": "1918-04-24",
+  "publisher": "August Marxhausen",
+  "score": 0.9831926822662354,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_homer_ver01\/data\/sn96076572\/00415669860\/1918042401\/0167\/000_0_98.jpg"
+ },
+ "id": 1814
+}

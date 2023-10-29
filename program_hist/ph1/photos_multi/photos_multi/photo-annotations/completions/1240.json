@@ -1,0 +1,120 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743347,
+   "id": 1240001,
+   "lead_time": 2.698,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "RXw7JG_JE2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_chucktaylor_ver02",
+  "box": [
+   0.8295719352311003,
+   0.6068543559868619,
+   0.9696426239318239,
+   0.9384060089994474
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_chucktaylor_ver02\/data\/sn86058242\/00271745916\/1911122601\/0178\/008_0_97.jpg",
+  "geographic_coverage": [
+   "Indiana--Lake--Hammond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_chucktaylor_ver02%2Fdata%2Fsn86058242%2F00271745916%2F1911122601%2F0178.jp2\/pct:82.95,60.69,14.01,33.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn86058242",
+  "name": "The Lake County times. [volume]",
+  "ocr": [
+   "LtosGWOKTH",
+   "TO",
+   "SINK",
+   "OR",
+   "SWIM",
+   "WITH",
+   "TAFT",
+   "I",
+   "v",
+   "a.",
+   "'",
+   "h",
+   "o",
+   "t",
+   "r",
+   "V",
+   "\"sCV",
+   "'",
+   "-",
+   "J",
+   "?i",
+   "-V",
+   "I",
+   "-",
+   "-",
+   "v",
+   "'",
+   "I",
+   "'",
+   "t",
+   "'",
+   "i",
+   "x",
+   "-",
+   "?",
+   "4",
+   "'.",
+   ",",
+   "?",
+   "-",
+   "I",
+   "'",
+   "-",
+   "i",
+   "V'",
+   "aw-",
+   "i",
+   "lWiCHOLAS",
+   "LOKiavsrvOE,7H,",
+   "from",
+   "CincinnVi",
+   "nf'",
+   ".son-in-law",
+   "of",
+   "-Preslde-.t",
+   "'Hoosevelt,'",
+   "has",
+   "nailed'",
+   "Us",
+   "flag",
+   "to",
+   "the",
+   "administration",
+   "mast.",
+   "He",
+   "has",
+   "joined",
+   "with",
+   "tte",
+   "four",
+   "ofhpr"
+  ],
+  "page_seq_num": 178,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_chucktaylor_ver02\/data\/sn86058242\/00271745916\/1911122601\/0178.jp2",
+  "place_of_publication": "Hammond, Ind.",
+  "pub_date": "1911-12-26",
+  "publisher": null,
+  "score": 0.9787350296974182,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_chucktaylor_ver02\/data\/sn86058242\/00271745916\/1911122601\/0178\/008_0_97.jpg"
+ },
+ "id": 1240
+}

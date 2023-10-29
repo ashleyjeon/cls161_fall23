@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755023,
+   "id": 1110001,
+   "lead_time": 3,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "882IAp734U",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_quailvalley_ver01",
+  "box": [
+   0.09740968184037642,
+   0.41219681155945403,
+   0.4982657866044478,
+   0.6881657912934668
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_quailvalley_ver01\/data\/sn85042462\/00175035746\/1909010301\/0084\/002_0_96.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_quailvalley_ver01%2Fdata%2Fsn85042462%2F00175035746%2F1909010301%2F0084.jp2\/pct:9.74,41.22,40.09,27.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "RESTING",
+   "PLACE,",
+   "ELYSIAN",
+   "PARK\u2014B.",
+   "M.",
+   "CARAWAY",
+   "(Second",
+   "Prize)."
+  ],
+  "page_seq_num": 84,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035746\/1909010301\/0084.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1909-01-03",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9692864418029785,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035746\/1909010301\/0084\/002_0_96.jpg"
+ },
+ "id": 1110
+}

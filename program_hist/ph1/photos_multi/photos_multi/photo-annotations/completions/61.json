@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673487,
+   "id": 61001,
+   "lead_time": 1.813,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wAJgc8ER_h",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_casablanca_ver01",
+  "box": [
+   0.16450220076167213,
+   0.22469440668386098,
+   0.317868253211702,
+   0.37639219737071244
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_casablanca_ver01\/data\/sn86069675\/00206534187\/1895050701\/0574\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Kentucky--Montgomery--Mount Sterling"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_casablanca_ver01%2Fdata%2Fsn86069675%2F00206534187%2F1895050701%2F0574.jp2\/pct:16.45,22.47,15.34,15.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069675",
+  "name": "The Mt. Sterling advocate.",
+  "ocr": [
+   "0",
+   "DR",
+   "WILLIAMS"
+  ],
+  "page_seq_num": 574,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_casablanca_ver01\/data\/sn86069675\/00206534187\/1895050701\/0574.jp2",
+  "place_of_publication": "Mt. Sterling, Ky.",
+  "pub_date": "1895-05-07",
+  "publisher": "Harris and Mason",
+  "score": 0.990035355091095,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_casablanca_ver01\/data\/sn86069675\/00206534187\/1895050701\/0574\/003_0_99.jpg"
+ },
+ "id": 61
+}

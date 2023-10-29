@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764208,
+   "id": 1383001,
+   "lead_time": 1.376,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DUuWHlJwsl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_denmark_ver01",
+  "box": [
+   0.7048874231644007,
+   0.3684165006483267,
+   0.8374070336808374,
+   0.553172514774682
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_denmark_ver01\/data\/sn88084272\/00280765077\/1912011701\/0082\/005_0_95.jpg",
+  "geographic_coverage": [
+   "Texas--El Paso--El Paso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_denmark_ver01%2Fdata%2Fsn88084272%2F00280765077%2F1912011701%2F0082.jp2\/pct:70.48,36.85,13.26,18.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn88084272",
+  "name": "El Paso herald.",
+  "ocr": [
+   "llghtful",
+   "a",
+   "home",
+   "is,",
+   "the",
+   "more",
+   "it",
+   "strengthens",
+   "the",
+   "nau",
+   "for",
+   "his",
+   "work.\"",
+   "he",
+   "said.",
+   "\"Women",
+   "are",
+   "becoming",
+   "more",
+   "and",
+   "!?-??",
+   "?",
+   "\"",
+   "Jsssssi",
+   "BSSsl",
+   "WSbSsH"
+  ],
+  "page_seq_num": 82,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_denmark_ver01\/data\/sn88084272\/00280765077\/1912011701\/0082.jp2",
+  "place_of_publication": "El Paso, Tex.",
+  "pub_date": "1912-01-17",
+  "publisher": "Herald News Co.",
+  "score": 0.9551029205322266,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_denmark_ver01\/data\/sn88084272\/00280765077\/1912011701\/0082\/005_0_95.jpg"
+ },
+ "id": 1383
+}

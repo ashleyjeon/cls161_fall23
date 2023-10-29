@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748911,
+   "id": 1078001,
+   "lead_time": 3.268,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "O_GSWHJ4Ca",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nvln_idlewild_ver01",
+  "box": [
+   0.6497823315997456,
+   0.1834454379910178,
+   0.953336848769077,
+   0.4514614621384608
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nvln_idlewild_ver01\/data\/sn86076241\/00271763967\/1909082701\/0191\/006_0_91.jpg",
+  "geographic_coverage": [
+   "Nevada--Carson City--Carson City",
+   "Nevada--Ormsby--Carson City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nvln_idlewild_ver01%2Fdata%2Fsn86076241%2F00271763967%2F1909082701%2F0191.jp2\/pct:64.97,18.35,30.36,26.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn86076241",
+  "name": "Carson City daily appeal. [volume]",
+  "ocr": [
+   "jKlLr-l,.,",
+   "n-rTfflrtM'iii'Miiitf,ra",
+   "i",
+   ",",
+   ",",
+   "-",
+   "-"
+  ],
+  "page_seq_num": 191,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nvln_idlewild_ver01\/data\/sn86076241\/00271763967\/1909082701\/0191.jp2",
+  "place_of_publication": "Carson City, Nev.",
+  "pub_date": "1909-08-27",
+  "publisher": "Appeal Pub. Co.",
+  "score": 0.9192508459091187,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nvln_idlewild_ver01\/data\/sn86076241\/00271763967\/1909082701\/0191\/006_0_91.jpg"
+ },
+ "id": 1078
+}

@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769117,
+   "id": 400001,
+   "lead_time": 1.545,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CuvgVhRUuk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_index_ver01",
+  "box": [
+   0.2796882489405641,
+   0.231773740435959,
+   0.5113228964149406,
+   0.48043940832855503
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_index_ver01\/data\/sn83045604\/00202199719\/1900072901\/0077\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_index_ver01%2Fdata%2Fsn83045604%2F00202199719%2F1900072901%2F0077.jp2\/pct:27.96,23.18,23.17,24.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+   "PORTRAIT",
+   "STUDY.",
+   "By",
+   "Grace",
+   "WUur",
+   "Eilrr."
+  ],
+  "page_seq_num": 77,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_index_ver01\/data\/sn83045604\/00202199719\/1900072901\/0077.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1900-07-29",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.9769392609596252,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_index_ver01\/data\/sn83045604\/00202199719\/1900072901\/0077\/001_0_97.jpg"
+ },
+ "id": 400
+}

@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772598,
+   "id": 1833001,
+   "lead_time": 2.216,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JA39epLQ_n",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_greenberg_ver01",
+  "box": [
+   0.4864869672655445,
+   0.046316816832053534,
+   0.604166017133593,
+   0.2530880704971475
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_greenberg_ver01\/data\/sn85038411\/00296028289\/1918022801\/0777\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Dauphin--Harrisburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_greenberg_ver01%2Fdata%2Fsn85038411%2F00296028289%2F1918022801%2F0777.jp2\/pct:48.64,4.64,11.77,20.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038411",
+  "name": "Harrisburg telegraph. [volume]",
+  "ocr": [
+   "After",
+   "Enlistment",
+   "Here",
+   "LEROY",
+   "J.",
+   "SPAHR",
+   "Leroy",
+   "J",
+   "Spahr",
+   "has",
+   "enlisted",
+   "in",
+   "the",
+   "aviation",
+   "corps",
+   "and",
+   "left",
+   "for",
+   "Colum"
+  ],
+  "page_seq_num": 777,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_greenberg_ver01\/data\/sn85038411\/00296028289\/1918022801\/0777.jp2",
+  "place_of_publication": "Harrisburg, Pa.",
+  "pub_date": "1918-02-28",
+  "publisher": "C.H. Bergner",
+  "score": 0.9858893156051636,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_greenberg_ver01\/data\/sn85038411\/00296028289\/1918022801\/0777\/003_0_98.jpg"
+ },
+ "id": 1833
+}

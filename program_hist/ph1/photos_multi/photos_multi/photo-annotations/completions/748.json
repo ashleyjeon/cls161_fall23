@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768297,
+   "id": 748001,
+   "lead_time": 6.423,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tq2zxunvBZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_jones_ver01",
+  "box": [
+   0.6300659945498746,
+   0.31517765659208197,
+   0.918952970612453,
+   0.48531969593802127
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_jones_ver01\/data\/sn83040592\/00212473996\/1904081801\/0974\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Kansas--Cherokee--Baxter Springs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_jones_ver01%2Fdata%2Fsn83040592%2F00212473996%2F1904081801%2F0974.jp2\/pct:63.0,31.52,28.89,17.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn83040592",
+  "name": "Baxter Springs news. [volume]",
+  "ocr": [
+   "AN",
+   "AVERAGE",
+   "CROWD",
+   "ON",
+   "THE",
+   "i",
+   "i,",
+   "'",
+   "('",
+   "'",
+   ":",
+   "-",
+   "\"ftSx",
+   "If",
+   "Jiio",
+   "MN",
+   "If",
+   "Hi",
+   "III",
+   "g",
+   "FwJ4tU",
+   "'TIKE\"",
+   "AT",
+   "THE",
+   "WORLD'S",
+   "FAIR."
+  ],
+  "page_seq_num": 974,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_jones_ver01\/data\/sn83040592\/00212473996\/1904081801\/0974.jp2",
+  "place_of_publication": "Baxter Springs, Kan.",
+  "pub_date": "1904-08-18",
+  "publisher": "News Co.",
+  "score": 0.9906401634216309,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_jones_ver01\/data\/sn83040592\/00212473996\/1904081801\/0974\/003_0_99.jpg"
+ },
+ "id": 748
+}

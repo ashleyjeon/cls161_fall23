@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767752,
+   "id": 1054001,
+   "lead_time": 1.576,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JsikwyDePF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_edenville_ver01",
+  "box": [
+   0.8222584414384002,
+   0.41438086967267135,
+   0.9535602334104938,
+   0.5467526436410736
+  ],
+  "edition_seq_num": 2,
+  "filepath": "mimtptc_edenville_ver01\/data\/sn83016689\/00279551473\/1908072002\/0156\/021_0_90.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_edenville_ver01%2Fdata%2Fsn83016689%2F00279551473%2F1908072002%2F0156.jp2\/pct:82.22,41.44,13.14,13.24\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "EDWARD",
+   "J.",
+   "HICKEY."
+  ],
+  "page_seq_num": 156,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551473\/1908072002\/0156.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1908-07-20",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9083765745162964,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551473\/1908072002\/0156\/021_0_90.jpg"
+ },
+ "id": 1054
+}

@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758485,
+   "id": 191001,
+   "lead_time": 4.025,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "84A0ley9MI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_batman_ver01",
+  "box": [
+   0.08293334851686027,
+   0.02912793749550912,
+   0.33258446304212036,
+   0.18136476752750053
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_batman_ver01\/data\/sn86069395\/00206533213\/1897080601\/0528\/004_0_92.jpg",
+  "geographic_coverage": [
+   "Kentucky--Christian--Hopkinsville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_batman_ver01%2Fdata%2Fsn86069395%2F00206533213%2F1897080601%2F0528.jp2\/pct:8.29,2.92,24.97,15.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069395",
+  "name": "Hopkinsville Kentuckian. [volume]",
+  "ocr": [
+   "TIIOKOUGIIBR",
+   "FD",
+   "Wenonah",
+   "F",
+   "akm"
+  ],
+  "page_seq_num": 528,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_batman_ver01\/data\/sn86069395\/00206533213\/1897080601\/0528.jp2",
+  "place_of_publication": "Hopkinsville, Ky.",
+  "pub_date": "1897-08-06",
+  "publisher": "Chas. M. Meacham",
+  "score": 0.9233156442642212,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_batman_ver01\/data\/sn86069395\/00206533213\/1897080601\/0528\/004_0_92.jpg"
+ },
+ "id": 191
+}

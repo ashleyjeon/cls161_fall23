@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772384,
+   "id": 891001,
+   "lead_time": 2.406,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vrQdFnrDRq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_killdeer_ver01",
+  "box": [
+   0.08438840963072695,
+   0.07480452532929499,
+   0.3684463932015802,
+   0.34450801536080916
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_killdeer_ver01\/data\/sn88086023\/0020219459A\/1906052601\/0805\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_killdeer_ver01%2Fdata%2Fsn88086023%2F0020219459A%2F1906052601%2F0805.jp2\/pct:8.43,7.49,28.41,26.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   ".va",
+   "1",
+   ",",
+   "i",
+   ".",
+   "i",
+   ".",
+   ")",
+   "-",
+   ".",
+   ".",
+   ",",
+   "A.",
+   "I.",
+   "Stlllman.",
+   "loni(KTntic",
+   "..",
+   "-.",
+   "V--.",
+   ".",
+   "rt;-",
+   "-",
+   "-",
+   "-",
+   ".",
+   ".",
+   "sf",
+   "Nominee",
+   "f",
+   "or",
+   "Circuit",
+   "Judg"
+  ],
+  "page_seq_num": 805,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_killdeer_ver01\/data\/sn88086023\/0020219459A\/1906052601\/0805.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1906-05-26",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.9881923794746399,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_killdeer_ver01\/data\/sn88086023\/0020219459A\/1906052601\/0805\/000_0_98.jpg"
+ },
+ "id": 891
+}

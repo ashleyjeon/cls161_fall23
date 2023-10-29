@@ -1,0 +1,99 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768886,
+   "id": 1621001,
+   "lead_time": 1.969,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "B2dyUfEusi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_abolitionist_ver02",
+  "box": [
+   0.29519229128400515,
+   0.33761263955799387,
+   0.5500178984747319,
+   0.6084694901496557
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_abolitionist_ver02\/data\/sn86074033\/00199916427\/1916081201\/0494\/001_0_90.jpg",
+  "geographic_coverage": [
+   "Mississippi--Hancock--Bay Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_abolitionist_ver02%2Fdata%2Fsn86074033%2F00199916427%2F1916081201%2F0494.jp2\/pct:29.51,33.77,25.49,27.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074033",
+  "name": "The sea coast echo. [volume]",
+  "ocr": [
+   "a",
+   "note",
+   "an",
+   "y",
+   "\u2018\\j&",
+   "-",
+   "*",
+   ".j:,",
+   "JS&&SLt<'",
+   "t",
+   "y-^^>\/^s^\u2018'\u2018*^^^s^x'",
+   "-",
+   "\u25a0",
+   "-",
+   "\u25a0;*",
+   "\"tT",
+   "*TJj",
+   "\"",
+   "~fj",
+   "*i.",
+   ".im",
+   "_-",
+   "~",
+   "*j.",
+   "\/",
+   "NV",
+   "'",
+   "*j",
+   "~'",
+   "~_",
+   "uf'",
+   "*~",
+   "ijwaMlljPf-Wrifti.",
+   ",",
+   "\"~",
+   "\u2019~*..",
+   "\\",
+   "%",
+   "I",
+   "\u2014Seagure",
+   "and",
+   "the",
+   "Engineer",
+   "Glared",
+   "at",
+   "Each",
+   "Other.",
+   "2\u2014His",
+   "Wines",
+   "She"
+  ],
+  "page_seq_num": 494,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_abolitionist_ver02\/data\/sn86074033\/00199916427\/1916081201\/0494.jp2",
+  "place_of_publication": "Bay Saint Louis, Miss.",
+  "pub_date": "1916-08-12",
+  "publisher": "Charles G. Moreau",
+  "score": 0.9062468409538269,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_abolitionist_ver02\/data\/sn86074033\/00199916427\/1916081201\/0494\/001_0_90.jpg"
+ },
+ "id": 1621
+}

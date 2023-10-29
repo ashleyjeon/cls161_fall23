@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767224,
+   "id": 259001,
+   "lead_time": 1.87,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7e8wjrP3G1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_tower_ver01",
+  "box": [
+   0.18154973456200132,
+   0.22533699935180132,
+   0.4357653548869681,
+   0.5129402146366189
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_tower_ver01\/data\/sn90059523\/00206537000\/1898121601\/0223\/007_0_98.jpg",
+  "geographic_coverage": [
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_tower_ver01%2Fdata%2Fsn90059523%2F00206537000%2F1898121601%2F0223.jp2\/pct:18.15,22.54,25.43,28.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059523",
+  "name": "The Saint Paul globe.",
+  "ocr": [
+   "With",
+   "\"Brown's",
+   "in",
+   "Town.\"",
+   "at",
+   "the",
+   "Grand."
+  ],
+  "page_seq_num": 223,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_tower_ver01\/data\/sn90059523\/00206537000\/1898121601\/0223.jp2",
+  "place_of_publication": "St. Paul, Minn.",
+  "pub_date": "1898-12-16",
+  "publisher": "[s.n.]",
+  "score": 0.9855040907859802,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_tower_ver01\/data\/sn90059523\/00206537000\/1898121601\/0223\/007_0_98.jpg"
+ },
+ "id": 259
+}

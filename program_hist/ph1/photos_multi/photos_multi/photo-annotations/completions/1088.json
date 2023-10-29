@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767932,
+   "id": 1088001,
+   "lead_time": 2.199,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "RYxywby-vJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_ernie_ver01",
+  "box": [
+   0.3906540105372299,
+   0.17075922668215784,
+   0.5535878876109183,
+   0.33552680335968377
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_ernie_ver01\/data\/sn86064259\/00296020576\/1909091701\/1108\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Tennessee--Davidson--Nashville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_ernie_ver01%2Fdata%2Fsn86064259%2F00296020576%2F1909091701%2F1108.jp2\/pct:39.06,17.08,16.3,16.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn86064259",
+  "name": "The Nashville globe. [volume]",
+  "ocr": [
+   "i",
+   "y",
+   ":4--",
+   "-",
+   "f",
+   "7",
+   "A.",
+   "N.",
+   "JOHNSON."
+  ],
+  "page_seq_num": 1108,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_ernie_ver01\/data\/sn86064259\/00296020576\/1909091701\/1108.jp2",
+  "place_of_publication": "Nashville, Tenn.",
+  "pub_date": "1909-09-17",
+  "publisher": "Globe Pub. Co.",
+  "score": 0.9482015371322632,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_ernie_ver01\/data\/sn86064259\/00296020576\/1909091701\/1108\/004_0_94.jpg"
+ },
+ "id": 1088
+}

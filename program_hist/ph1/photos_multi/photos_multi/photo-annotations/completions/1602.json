@@ -1,0 +1,48 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748300,
+   "id": 1602001,
+   "lead_time": 4.822,
+   "result": [
+
+   ],
+   "was_cancelled": true
+  }
+ ],
+ "data": {
+  "batch": "ak_harborseal_ver02",
+  "box": [
+   0.17873926941489918,
+   0.4969861611380757,
+   0.4243353622824632,
+   0.7806376149291095
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ak_harborseal_ver02\/data\/sn2008058232\/00279525814\/1915071301\/0345\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Alaska--Seward--Seward"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ak_harborseal_ver02%2Fdata%2Fsn2008058232%2F00279525814%2F1915071301%2F0345.jp2\/pct:17.87,49.7,24.56,28.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn2008058232",
+  "name": "The Seward gateway.",
+  "ocr": [
+   "HON.",
+   "J.",
+   "F.",
+   "A.",
+   "STRONG,",
+   "GOVERNOR",
+   "OF",
+   "ALASKA."
+  ],
+  "page_seq_num": 345,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ak_harborseal_ver02\/data\/sn2008058232\/00279525814\/1915071301\/0345.jp2",
+  "place_of_publication": "Seward [Alaska]",
+  "pub_date": "1915-07-13",
+  "publisher": "Seward Gateway Pub. Co.",
+  "score": 0.993946373462677,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ak_harborseal_ver02\/data\/sn2008058232\/00279525814\/1915071301\/0345\/000_0_99.jpg"
+ },
+ "id": 1602
+}

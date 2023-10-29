@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675010,
+   "id": 68001,
+   "lead_time": 2.481,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "IM-xyqMhrn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_hagerstown_ver01",
+  "box": [
+   0.8219981810836362,
+   0.039953217606489615,
+   0.8936270021363449,
+   0.15291934830156145
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_hagerstown_ver01\/data\/sn88065721\/00279521341\/1895121201\/0369\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Maryland--Anne Arundel--Annapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_hagerstown_ver01%2Fdata%2Fsn88065721%2F00279521341%2F1895121201%2F0369.jp2\/pct:82.19,4.0,7.17,11.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn88065721",
+  "name": "Evening capital.",
+  "ocr": [
+   "|",
+   "|",
+   "J",
+   "j",
+   "'",
+   "ISSSSt",
+   "%(h",
+   "-",
+   "'.l*",
+   "MBfijiMCe",
+   "%'ir\/*",
+   "4",
+   "BpPjEg*",
+   "\u2022",
+   "w",
+   "V",
+   ",J",
+   "\u25a0HP",
+   "\\",
+   "\u25a0\u25a0",
+   "mj",
+   "A",
+   "\u25a0",
+   "TUR",
+   "f",
+   "tjo",
+   "'",
+   "\u2022\""
+  ],
+  "page_seq_num": 369,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_hagerstown_ver01\/data\/sn88065721\/00279521341\/1895121201\/0369.jp2",
+  "place_of_publication": "Annapolis, Md.",
+  "pub_date": "1895-12-12",
+  "publisher": "W.M. Abbott",
+  "score": 0.9201284646987915,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_hagerstown_ver01\/data\/sn88065721\/00279521341\/1895121201\/0369\/006_0_92.jpg"
+ },
+ "id": 68
+}

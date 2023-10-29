@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747560,
+   "id": 760001,
+   "lead_time": 1.897,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CKqy0VJRnE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_fleetwoodmac_ver01",
+  "box": [
+   0.10265072708424454,
+   0.1314839163361046,
+   0.3297733910755761,
+   0.35081914040894635
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_fleetwoodmac_ver01\/data\/sn86069561\/00100479527\/1904092301\/0164\/003_0_91.jpg",
+  "geographic_coverage": [
+   "Kentucky--Rockcastle--Mount Vernon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_fleetwoodmac_ver01%2Fdata%2Fsn86069561%2F00100479527%2F1904092301%2F0164.jp2\/pct:10.26,13.15,22.72,21.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069561",
+  "name": "Mount Vernon signal.",
+  "ocr": [
+   "IL",
+   "L",
+   "McFERriON",
+   "wants",
+   "to",
+   "he",
+   "Sheriff",
+   "of",
+   "Rockcastle",
+   "for"
+  ],
+  "page_seq_num": 164,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_fleetwoodmac_ver01\/data\/sn86069561\/00100479527\/1904092301\/0164.jp2",
+  "place_of_publication": "Mt. Vernon, Ky.",
+  "pub_date": "1904-09-23",
+  "publisher": "James Maret",
+  "score": 0.9128425717353821,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_fleetwoodmac_ver01\/data\/sn86069561\/00100479527\/1904092301\/0164\/003_0_91.jpg"
+ },
+ "id": 760
+}

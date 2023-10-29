@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752502,
+   "id": 226001,
+   "lead_time": 1.723,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "behsYXg8ii",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_dred_ver01",
+  "box": [
+   0.8289905767331178,
+   0.49806001307600634,
+   0.9589919517780172,
+   0.7759411827992585
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_dred_ver01\/data\/sn86063615\/00211109117\/1897062001\/0351\/006_0_91.jpg",
+  "geographic_coverage": [
+   "Missouri--Jackson--Kansas City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_dred_ver01%2Fdata%2Fsn86063615%2F00211109117%2F1897062001%2F0351.jp2\/pct:82.89,49.81,13.01,27.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063615",
+  "name": "Kansas City journal. [volume]",
+  "ocr": [
+   "way",
+   "these",
+   "un",
+   "pleasant",
+   "consequences",
+   "of",
+   "a",
+   "rainy",
+   "day",
+   "walk",
+   "1",
+   "iiiiiy",
+   "i",
+   "wMmmw",
+   "iSlll\"",
+   "1"
+  ],
+  "page_seq_num": 351,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_dred_ver01\/data\/sn86063615\/00211109117\/1897062001\/0351.jp2",
+  "place_of_publication": "Kansas City, Mo.",
+  "pub_date": "1897-06-20",
+  "publisher": "Journal Co.",
+  "score": 0.9110316038131714,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_dred_ver01\/data\/sn86063615\/00211109117\/1897062001\/0351\/006_0_91.jpg"
+ },
+ "id": 226
+}

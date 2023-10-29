@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748461,
+   "id": 752001,
+   "lead_time": 3.16,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dEPH0grfjS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "gu_inspector_ver01",
+  "box": [
+   0.5593312240020274,
+   0.049824779276945154,
+   0.9554679580449524,
+   0.27376808633609695
+  ],
+  "edition_seq_num": 1,
+  "filepath": "gu_inspector_ver01\/data\/sn89053684\/0041418246A\/1904112001\/0701\/002_0_99.jpg",
+  "geographic_coverage": [
+   "Georgia--Chatham--Savannah"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/gu_inspector_ver01%2Fdata%2Fsn89053684%2F0041418246A%2F1904112001%2F0701.jp2\/pct:55.93,4.99,39.62,22.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn89053684",
+  "name": "The Savannah morning news.",
+  "ocr": [
+   "Leper",
+   "Colony",
+   "in",
+   "Suranim,",
+   "S.",
+   "A.",
+   "i.rcrrcu",
+   "sT",
+   "ti.kmknt",
+   "of",
+   "bkthksua",
+   "1",
+   "here",
+   "are",
+   "a",
+   "few",
+   "which",
+   "will",
+   "help",
+   "a",
+   "lit",
+   "tle.",
+   "Beginning",
+   "the",
+   "first",
+   "week",
+   "of",
+   "the",
+   "com"
+  ],
+  "page_seq_num": 701,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/gu_inspector_ver01\/data\/sn89053684\/0041418246A\/1904112001\/0701.jp2",
+  "place_of_publication": "Savannah, Ga.",
+  "pub_date": "1904-11-20",
+  "publisher": "J.H. Estill",
+  "score": 0.9907482266426086,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/gu_inspector_ver01\/data\/sn89053684\/0041418246A\/1904112001\/0701\/002_0_99.jpg"
+ },
+ "id": 752
+}

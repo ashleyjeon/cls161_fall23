@@ -1,0 +1,111 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765099,
+   "id": 1877001,
+   "lead_time": 3.821,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BaEo_kudSX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_garfield_ver01",
+  "box": [
+   0.48993779781975266,
+   0.03208169842710589,
+   0.9259746936711115,
+   0.2357322579563254
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_garfield_ver01\/data\/sn86063397\/00383341206\/1919071001\/0869\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Colorado--Gunnison--Crested Butte",
+   "Colorado--Gunnison--Irwin",
+   "Colorado--Gunnison--Ruby Camp"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_garfield_ver01%2Fdata%2Fsn86063397%2F00383341206%2F1919071001%2F0869.jp2\/pct:48.99,3.21,43.61,20.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063397",
+  "name": "The Elk Mountain pilot. [volume]",
+  "ocr": [
+   "CHINA",
+   "TRYING",
+   "TO",
+   "STAMP",
+   "OUT",
+   "THE",
+   "OPIUM",
+   "EVIL",
+   "It",
+   "is",
+   "reported",
+   "that",
+   "the",
+   "Chinese",
+   "express",
+   "fear",
+   "that",
+   "the",
+   "League",
+   "of",
+   "Nations",
+   "will",
+   "not",
+   "be",
+   "strong",
+   "enough",
+   "to",
+   "enforce",
+   "the",
+   "Hague",
+   "opium",
+   "convention",
+   "of",
+   "1012.",
+   "Our",
+   "photograph",
+   "shows",
+   "one",
+   "of",
+   "China\u2019s",
+   "methods",
+   "of",
+   "wiping",
+   "out",
+   "this",
+   "eviL",
+   "Tbey",
+   "are",
+   "burning",
+   "part",
+   "of",
+   "$25,000,000",
+   "worth",
+   "of",
+   "opium",
+   "purchased",
+   "from",
+   "the",
+   "opium",
+   "trust."
+  ],
+  "page_seq_num": 869,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_garfield_ver01\/data\/sn86063397\/00383341206\/1919071001\/0869.jp2",
+  "place_of_publication": "Irwin, (Ruby Camp), Gunnison County, Colo.",
+  "pub_date": "1919-07-10",
+  "publisher": "Lacey & Phillips",
+  "score": 0.9690042734146118,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_garfield_ver01\/data\/sn86063397\/00383341206\/1919071001\/0869\/001_0_96.jpg"
+ },
+ "id": 1877
+}

@@ -1,0 +1,40 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767993,
+   "id": 47001,
+   "lead_time": 1.544,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_isner_ver01",
+  "box": [
+   0.018731795336357087,
+   0.5956742585957392,
+   0.14348999719656014,
+   0.7635902875855347
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_isner_ver01\/data\/sn86092523\/00414186828\/1895060201\/0710\/002_0_95.jpg",
+  "geographic_coverage": [
+   "West Virginia--Ohio--Wheeling"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_isner_ver01%2Fdata%2Fsn86092523%2F00414186828%2F1895060201%2F0710.jp2\/pct:1.87,59.57,12.48,16.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092523",
+  "name": "Wheeling Sunday register. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 710,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_isner_ver01\/data\/sn86092523\/00414186828\/1895060201\/0710.jp2",
+  "place_of_publication": "Wheeling, W. Va.",
+  "pub_date": "1895-06-02",
+  "publisher": "Lewis Baker & Co.",
+  "score": 0.9567945003509521,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_isner_ver01\/data\/sn86092523\/00414186828\/1895060201\/0710\/002_0_95.jpg"
+ },
+ "id": 47
+}

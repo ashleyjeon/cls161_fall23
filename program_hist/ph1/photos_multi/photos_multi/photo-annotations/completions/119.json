@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768174,
+   "id": 119001,
+   "lead_time": 2.576,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tD0LjaG_3D",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_yes_ver01",
+  "box": [
+   0.2283528786047338,
+   0.01781327615164739,
+   0.4416155614662302,
+   0.16901242699269595
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_yes_ver01\/data\/sn84025841\/00175032307\/1896112101\/0198\/014_0_93.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_yes_ver01%2Fdata%2Fsn84025841%2F00175032307%2F1896112101%2F0198.jp2\/pct:22.83,1.79,21.33,15.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025841",
+  "name": "Richmond planet. [volume]",
+  "ocr": [
+   "FARMYILLK,",
+   "an",
+   "attempted",
+   "lynching",
+   "took",
+   "place",
+   "t",
+   "wounded",
+   "The",
+   "Lunenburg",
+   "prisoners",
+   "wen",
+   "?ok*red",
+   "men",
+   "them.",
+   "?$?",
+   "!f,",
+   "VA,",
+   "JAIL.",
+   "moer,",
+   "15,",
+   "1896",
+   "The",
+   "prisoner",
+   ")",
+   "at",
+   "one",
+   "time",
+   "confined",
+   "in",
+   "the",
+   "jail"
+  ],
+  "page_seq_num": 198,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_yes_ver01\/data\/sn84025841\/00175032307\/1896112101\/0198.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1896-11-21",
+  "publisher": "Planet Pub. Co.",
+  "score": 0.9316619634628296,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_yes_ver01\/data\/sn84025841\/00175032307\/1896112101\/0198\/014_0_93.jpg"
+ },
+ "id": 119
+}

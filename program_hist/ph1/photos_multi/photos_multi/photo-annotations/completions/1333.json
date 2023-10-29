@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769005,
+   "id": 1333001,
+   "lead_time": 2.594,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YPXBDcBrSg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_duwamish_ver01",
+  "box": [
+   0.34502200278329237,
+   0.17151268995369998,
+   0.4888103143388654,
+   0.2630289372049508
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_duwamish_ver01\/data\/sn87008085\/00200291256\/1912012501\/0474\/007_0_92.jpg",
+  "geographic_coverage": [
+   "Idaho--Bonner--Old Town",
+   "Washington--Pend Oreille--Newport"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_duwamish_ver01%2Fdata%2Fsn87008085%2F00200291256%2F1912012501%2F0474.jp2\/pct:34.5,17.16,14.38,9.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn87008085",
+  "name": "The Newport miner.",
+  "ocr": [
+   "A",
+   "STREET",
+   "IN",
+   "N.",
+   "J"
+  ],
+  "page_seq_num": 474,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_duwamish_ver01\/data\/sn87008085\/00200291256\/1912012501\/0474.jp2",
+  "place_of_publication": "Newport, Wash.",
+  "pub_date": "1912-01-25",
+  "publisher": "W.R. Herbert",
+  "score": 0.9233052134513855,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_duwamish_ver01\/data\/sn87008085\/00200291256\/1912012501\/0474\/007_0_92.jpg"
+ },
+ "id": 1333
+}

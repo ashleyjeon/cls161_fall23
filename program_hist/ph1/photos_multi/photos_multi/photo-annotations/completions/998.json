@@ -1,0 +1,104 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755065,
+   "id": 998001,
+   "lead_time": 3.534,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rBwxVyy6MK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_indio_ver01",
+  "box": [
+   0.02172185750025225,
+   0.08809705700332914,
+   0.4280951243045145,
+   0.3873925163383849
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_indio_ver01\/data\/sn85066387\/0017504775A\/1907081801\/0342\/005_0_93.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_indio_ver01%2Fdata%2Fsn85066387%2F0017504775A%2F1907081801%2F0342.jp2\/pct:2.17,8.81,40.64,29.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "of",
+   "the",
+   "ciuVs",
+   "pctrcn.",
+   "Saint",
+   "John.",
+   "Behind",
+   "him",
+   "is\"",
+   "'Bill\"",
+   "IrfL-i,v>ho",
+   "has'",
+   "fluttered",
+   "bac%",
+   "for",
+   "q\\",
+   "fen",
+   "days",
+   "to",
+   "his",
+   "ad",
+   "hcMiis.",
+   "Ed&ard",
+   "D.",
+   "Peix'ollo",
+   "is",
+   "shoxsn",
+   "carrying",
+   "Bohemia",
+   "s'bird,",
+   ".the",
+   ":p\u00bb\/;",
+   ":",
+   "tt\/iic\/i\\ii;as.TOta\/ZcJrtn;",
+   ";",
+   "!li",
+   ";",
+   ":ne\u00bbi",
+   "roof",
+   "tec",
+   "last",
+   "night",
+   "In",
+   "the",
+   "background",
+   "are\\thex",
+   "\\u25a0",
+   "members",
+   "jof.",
+   "the",
+   "club'",
+   "flocking",
+   "home:",
+   ".'-",
+   "0"
+  ],
+  "page_seq_num": 342,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_indio_ver01\/data\/sn85066387\/0017504775A\/1907081801\/0342.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1907-08-18",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9380276799201965,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_indio_ver01\/data\/sn85066387\/0017504775A\/1907081801\/0342\/005_0_93.jpg"
+ },
+ "id": 998
+}

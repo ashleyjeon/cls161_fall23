@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754310,
+   "id": 1688001,
+   "lead_time": 2.37,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "R4zzzL_EqB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_jud_ver01",
+  "box": [
+   0.796240653442518,
+   0.15145721907225054,
+   0.9475422771534122,
+   0.3220036077720489
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_jud_ver01\/data\/sn88076421\/0021247602A\/1916052501\/0418\/003_0_95.jpg",
+  "geographic_coverage": [
+   "North Dakota--Ward--Minot"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_jud_ver01%2Fdata%2Fsn88076421%2F0021247602A%2F1916052501%2F0418.jp2\/pct:79.62,15.15,15.14,17.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn88076421",
+  "name": "The Ward County independent. [volume]",
+  "ocr": [
+   "HOWARD",
+   "R.",
+   "WOOD."
+  ],
+  "page_seq_num": 418,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_jud_ver01\/data\/sn88076421\/0021247602A\/1916052501\/0418.jp2",
+  "place_of_publication": "Minot, Ward County, N.D.",
+  "pub_date": "1916-05-25",
+  "publisher": "C.F. Truax",
+  "score": 0.9530081152915955,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_jud_ver01\/data\/sn88076421\/0021247602A\/1916052501\/0418\/003_0_95.jpg"
+ },
+ "id": 1688
+}

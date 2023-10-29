@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768991,
+   "id": 421001,
+   "lead_time": 1.438,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-D0MjFZvE6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_index_ver01",
+  "box": [
+   0.16146789262198952,
+   0.226740472197753,
+   0.29963258423140143,
+   0.42134176032159776
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_index_ver01\/data\/sn83045604\/00202199720\/1900112801\/0998\/016_0_93.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_index_ver01%2Fdata%2Fsn83045604%2F00202199720%2F1900112801%2F0998.jp2\/pct:16.14,22.68,13.82,19.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+   "WHEBE",
+   "IS",
+   "GEOBGE",
+   "SHELBON",
+   "?",
+   "Has",
+   "Been",
+   "Mlaalag",
+   "From",
+   "This",
+   "City",
+   "for",
+   "Three",
+   "Weeks.",
+   "Daring",
+   "Which",
+   "Time",
+   "nothing",
+   "Is",
+   "Heard.",
+   "QKOROE",
+   "BHELBON."
+  ],
+  "page_seq_num": 998,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_index_ver01\/data\/sn83045604\/00202199720\/1900112801\/0998.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1900-11-28",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.9371236562728882,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_index_ver01\/data\/sn83045604\/00202199720\/1900112801\/0998\/016_0_93.jpg"
+ },
+ "id": 421
+}

@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747599,
+   "id": 1744001,
+   "lead_time": 2.135,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pT9QnQHznd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_elder_ver01",
+  "box": [
+   0.7142230188061377,
+   0.5591215472483656,
+   0.9605373725205838,
+   0.799760438387624
+  ],
+  "edition_seq_num": 2,
+  "filepath": "njr_elder_ver01\/data\/sn85035720\/0038334041A\/1917102202\/0271\/012_0_90.jpg",
+  "geographic_coverage": [
+   "New Jersey--Middlesex--Perth Amboy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_elder_ver01%2Fdata%2Fsn85035720%2F0038334041A%2F1917102202%2F0271.jp2\/pct:71.42,55.92,24.64,24.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn85035720",
+  "name": "Perth Amboy evening news. [volume]",
+  "ocr": [
+   "\"The",
+   "Biehop",
+   "of",
+   "Wall",
+   "Street,\"",
+   "aa",
+   "the",
+   "Rer.",
+   "William",
+   "Wilkinson",
+   "of",
+   "York's",
+   "old",
+   "Trinity",
+   "church",
+   "ts",
+   "affectionately",
+   "known,",
+   "preaching",
+   "the",
+   "j",
+   "fospel",
+   "of",
+   "the",
+   "Liberty",
+   "I\u00aboan",
+   "bond",
+   "at",
+   "a",
+   "huge",
+   "open",
+   "air",
+   "meeting",
+   "In",
+   "the",
+   "heart",
+   "I",
+   "the",
+   "Wall",
+   "street",
+   "district."
+  ],
+  "page_seq_num": 271,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_elder_ver01\/data\/sn85035720\/0038334041A\/1917102202\/0271.jp2",
+  "place_of_publication": "Perth Amboy, N.J.",
+  "pub_date": "1917-10-22",
+  "publisher": "Perth Amboy Evening News Co.",
+  "score": 0.9039614796638489,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_elder_ver01\/data\/sn85035720\/0038334041A\/1917102202\/0271\/012_0_90.jpg"
+ },
+ "id": 1744
+}

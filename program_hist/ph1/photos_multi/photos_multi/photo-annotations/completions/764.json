@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767705,
+   "id": 764001,
+   "lead_time": 1.56,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jUoNKKoXYe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.14487877107609462,
+   0.6586953342551052,
+   0.2584481277034781,
+   0.8386171045083024
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107364\/1904120601\/0258\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107364%2F1904120601%2F0258.jp2\/pct:14.48,65.87,11.36,18.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "FORMER",
+   "IT.",
+   "R.",
+   "JUDOS",
+   "1.",
+   "Ii",
+   "\"I",
+   "II",
+   "WHO,",
+   "AS",
+   "CHAMPION",
+   "l'<",
+   "it",
+   "Till",
+   "PANAMA",
+   "LOTTERY,",
+   "DECLARED",
+   "THAT",
+   "1",
+   "III:",
+   "'",
+   "ARTIAL",
+   "ASM",
+   "Ml",
+   "J.",
+   "BT",
+   "111.",
+   "GOVERNMENT",
+   "IN",
+   "111.",
+   "PANAMA",
+   "CANAL",
+   ".TRIP",
+   "I"
+  ],
+  "page_seq_num": 258,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107364\/1904120601\/0258.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1904-12-06",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9825747609138489,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107364\/1904120601\/0258\/005_0_98.jpg"
+ },
+ "id": 764
+}

@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767727,
+   "id": 34001,
+   "lead_time": 2.658,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "s0IOjhK-uG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_ludlow_ver01",
+  "box": [
+   0.3680678090139823,
+   0.779303679422281,
+   0.5127535122822433,
+   0.9363873490543797
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_ludlow_ver01\/data\/sn85038102\/00202197279\/1895020101\/0692\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Vermont--Orange--Bradford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_ludlow_ver01%2Fdata%2Fsn85038102%2F00202197279%2F1895020101%2F0692.jp2\/pct:36.8,77.94,14.47,15.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038102",
+  "name": "The united opinion. [volume]",
+  "ocr": [
+   "During",
+   "the",
+   "war",
+   "Mr.",
+   "gov't",
+   "bonds",
+   "aggregating",
+   "George",
+   "sold",
+   "200,000."
+  ],
+  "page_seq_num": 692,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_ludlow_ver01\/data\/sn85038102\/00202197279\/1895020101\/0692.jp2",
+  "place_of_publication": "Bradford, Vt.",
+  "pub_date": "1895-02-01",
+  "publisher": "Harry E. Parker",
+  "score": 0.9762457013130188,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_ludlow_ver01\/data\/sn85038102\/00202197279\/1895020101\/0692\/000_0_97.jpg"
+ },
+ "id": 34
+}

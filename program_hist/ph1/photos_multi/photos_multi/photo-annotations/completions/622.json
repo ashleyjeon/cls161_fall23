@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675000,
+   "id": 622001,
+   "lead_time": 1.743,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QPlI9HaT6Q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_goldeneye_ver01",
+  "box": [
+   0.19771698865845305,
+   0.14872835461138073,
+   0.34517723915136256,
+   0.31498672022964014
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_goldeneye_ver01\/data\/sn83025294\/00212476870\/1903080801\/0355\/005_0_93.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_goldeneye_ver01%2Fdata%2Fsn83025294%2F00212476870%2F1903080801%2F0355.jp2\/pct:19.77,14.88,14.75,16.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025294",
+  "name": "The Butte inter mountain. [volume]",
+  "ocr": [
+   "IIOR.4CE",
+   "1.",
+   "MERKLE,",
+   "Capltoin",
+   "o",
+   "the",
+   "Elks'",
+   "IPall",
+   "Team.",
+   "leavoring",
+   "to",
+   "get",
+   "a",
+   "game",
+   "with",
+   "sonme",
+   "fast"
+  ],
+  "page_seq_num": 355,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476870\/1903080801\/0355.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1903-08-08",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9387879967689514,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476870\/1903080801\/0355\/005_0_93.jpg"
+ },
+ "id": 622
+}

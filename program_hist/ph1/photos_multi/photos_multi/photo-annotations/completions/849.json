@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751341,
+   "id": 849001,
+   "lead_time": 1.807,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GUdXkA8wj9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_toyfoxterrier_ver02",
+  "box": [
+   0.015411876729225307,
+   0.02164859342612066,
+   0.41241005279634724,
+   0.2019462496666505
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655703\/1906060301\/0138\/003_0_99.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_toyfoxterrier_ver02%2Fdata%2Fsn83045462%2F00280655703%2F1906060301%2F0138.jp2\/pct:1.54,2.17,39.7,18.03\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "JOHN",
+   "T.",
+   "KENNED*.",
+   "THE",
+   "'AFFIRMATIVES.",
+   "MATTHHW",
+   "W.",
+   "PATTERSON.",
+   "CLARENCE",
+   "A.",
+   "MILLEB."
+  ],
+  "page_seq_num": 138,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655703\/1906060301\/0138.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1906-06-03",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9904190897941589,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655703\/1906060301\/0138\/003_0_99.jpg"
+ },
+ "id": 849
+}

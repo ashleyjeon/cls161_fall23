@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1611744754,
+   "id": 225001,
+   "lead_time": 49.596,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_fairplay_ver01",
+  "box": [
+   0.3458003963436092,
+   0.27192566304267207,
+   0.7975703059016047,
+   0.6312838397448576
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1897122301\/0444\/000_0_92.jpg",
+  "geographic_coverage": [
+   "Colorado--Otero--Rocky Ford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_fairplay_ver01%2Fdata%2Fsn90051265%2F00383340974%2F1897122301%2F0444.jp2\/pct:34.58,27.2,45.18,35.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn90051265",
+  "name": "Rocky Ford enterprise.",
+  "ocr": [
+   "HE",
+   "HAD",
+   "BRACED",
+   "HIMSELf*",
+   "LIKE",
+   "AN",
+   "IRON",
+   "rOST."
+  ],
+  "page_seq_num": 444,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1897122301\/0444.jp2",
+  "place_of_publication": "Rocky Ford, Colo.",
+  "pub_date": "1897-12-23",
+  "publisher": "Enterprise Pub. Co.",
+  "score": 0.9277592301368713,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1897122301\/0444\/000_0_92.jpg"
+ },
+ "id": 225
+}

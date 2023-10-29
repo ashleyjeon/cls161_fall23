@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748177,
+   "id": 1168001,
+   "lead_time": 3.28,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UHzBtasVmA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_harlequin_ver01",
+  "box": [
+   0.683707512940277,
+   0.6285187414593916,
+   0.9381719359665003,
+   0.8696598012540029
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_harlequin_ver01\/data\/sn83025316\/00294554877\/1910073101\/1302\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Montana--Missoula--Missoula"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_harlequin_ver01%2Fdata%2Fsn83025316%2F00294554877%2F1910073101%2F1302.jp2\/pct:68.37,62.86,25.45,24.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025316",
+  "name": "The Daily Missoulian. [volume]",
+  "ocr": [
+   "Hoppe",
+   "to",
+   "Defend",
+   "His",
+   "Title",
+   "WILLI",
+   "HOPP"
+  ],
+  "page_seq_num": 1302,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_harlequin_ver01\/data\/sn83025316\/00294554877\/1910073101\/1302.jp2",
+  "place_of_publication": "Missoula, Mont.",
+  "pub_date": "1910-07-31",
+  "publisher": "Missoulian Pub. Co.",
+  "score": 0.9493132829666138,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_harlequin_ver01\/data\/sn83025316\/00294554877\/1910073101\/1302\/003_0_94.jpg"
+ },
+ "id": 1168
+}

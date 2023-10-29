@@ -1,0 +1,96 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765875,
+   "id": 665001,
+   "lead_time": 115.958,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iNXjzL9kou",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_norway_ver01",
+  "box": [
+   0.0285430478378081,
+   0.07327137822690218,
+   0.9196756712147888,
+   0.32414759760317596
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_norway_ver01\/data\/sn83030214\/00175042234\/1903122001\/0348\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_norway_ver01%2Fdata%2Fsn83030214%2F00175042234%2F1903122001%2F0348.jp2\/pct:2.85,7.33,89.12,25.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "OT'RTAV",
+   "UNDENTHAT..",
+   "CTTT",
+   "ANT>",
+   "MANHATTAN",
+   "OFFICIALS",
+   "GOTVG",
+   "TO",
+   "MEET",
+   "BROOKLYN",
+   "OFFICIATE",
+   "SCENES",
+   "AT",
+   "THE",
+   "OPENING",
+   "OF",
+   "THE",
+   "NEW",
+   "WILLIAMSBURG",
+   "BRIDGE.",
+   "JACOB",
+   "A.",
+   "CANTOR.",
+   "MAYOR",
+   "LOW.",
+   "f\"or>yrl*bt,",
+   "1801.",
+   "by",
+   "Faeh",
+   "Brothers.",
+   ">",
+   "WATOR",
+   "\"LOW",
+   "DELJVERINO",
+   "HTS",
+   "APDRES&",
+   "BROOKLYN",
+   "AND",
+   "MANHATTAN",
+   "OFFICIALS",
+   "AFPROACHrSO",
+   "THB",
+   "BROOKLYN",
+   "ZNTJI",
+   "X",
+   "B.",
+   "BWANBTROM."
+  ],
+  "page_seq_num": 348,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_norway_ver01\/data\/sn83030214\/00175042234\/1903122001\/0348.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1903-12-20",
+  "publisher": "New York Tribune",
+  "score": 0.9876137971878052,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_norway_ver01\/data\/sn83030214\/00175042234\/1903122001\/0348\/001_0_98.jpg"
+ },
+ "id": 665
+}

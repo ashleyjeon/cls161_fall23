@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765075,
+   "id": 1699001,
+   "lead_time": 508.641,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jbLPp6Y3HQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_harriet_ver01",
+  "box": [
+   0.4361872416558041,
+   0.23388151716123437,
+   0.7025032587815587,
+   0.48659736686986904
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_harriet_ver01\/data\/sn85033139\/00271769970\/1917110801\/0344\/007_0_91.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Manitowoc--Manitowoc"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_harriet_ver01%2Fdata%2Fsn85033139%2F00271769970%2F1917110801%2F0344.jp2\/pct:43.61,23.39,26.64,25.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033139",
+  "name": "The Manitowoc pilot. [volume]",
+  "ocr": [
+   "Story",
+   "of",
+   "the",
+   "War",
+   "Work",
+   "of",
+   "Y.",
+   "M.",
+   "C.",
+   "A.",
+   "Is",
+   "Well",
+   "Told",
+   "in",
+   "These",
+   "Pictures",
+   "Library",
+   "Corner",
+   "in",
+   "Y.",
+   "M.",
+   "C.",
+   "A.",
+   "building",
+   "at",
+   "an",
+   "army",
+   "camp.",
+   "Here"
+  ],
+  "page_seq_num": 344,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_harriet_ver01\/data\/sn85033139\/00271769970\/1917110801\/0344.jp2",
+  "place_of_publication": "Manitowoc, Wis.",
+  "pub_date": "1917-11-08",
+  "publisher": "Jeremiah Crowley",
+  "score": 0.9174730777740479,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_harriet_ver01\/data\/sn85033139\/00271769970\/1917110801\/0344\/007_0_91.jpg"
+ },
+ "id": 1699
+}

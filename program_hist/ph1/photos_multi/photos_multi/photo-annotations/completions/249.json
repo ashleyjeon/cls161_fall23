@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749270,
+   "id": 249001,
+   "lead_time": 1.62,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ivu8iOAMDy",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_eeyore_ver01",
+  "box": [
+   0.40363097997103337,
+   0.7386628613693301,
+   0.5121371135619528,
+   0.833035677495385
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_eeyore_ver01\/data\/sn93060416\/00294556448\/1898111901\/0087\/005_0_93.jpg",
+  "geographic_coverage": [
+   "Missouri--Lafayette--Lexington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_eeyore_ver01%2Fdata%2Fsn93060416%2F00294556448%2F1898111901%2F0087.jp2\/pct:40.36,73.87,10.86,9.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn93060416",
+  "name": "The weekly intelligencer. [volume]",
+  "ocr": [
+   ",i:d",
+   ":'",
+   "'",
+   "...",
+   "aae-aw",
+   "'",
+   "a",
+   "la",
+   "-",
+   "f",
+   "V",
+   "l",
+   "INSTANTANEOUS",
+   "RESULTS.",
+   "IrsadlnlheCVirtKlanSorirfiirtlofarem.rk-1",
+   "cure",
+   "of",
+   "whlcb"
+  ],
+  "page_seq_num": 87,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_eeyore_ver01\/data\/sn93060416\/00294556448\/1898111901\/0087.jp2",
+  "place_of_publication": "Lexington, Mo.",
+  "pub_date": "1898-11-19",
+  "publisher": "James E. Payne",
+  "score": 0.9374752044677734,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_eeyore_ver01\/data\/sn93060416\/00294556448\/1898111901\/0087\/005_0_93.jpg"
+ },
+ "id": 249
+}

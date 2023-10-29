@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748041,
+   "id": 1667001,
+   "lead_time": 3.507,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cZnY1oKzLT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_gus_ver02",
+  "box": [
+   0.061225732362109854,
+   0.07428052541049247,
+   0.35505390517422736,
+   0.27412851539576
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_gus_ver02\/data\/sn89058253\/0041562189A\/1916092201\/0707\/012_0_97.jpg",
+  "geographic_coverage": [
+   "Tennessee--Fayette--Somerville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_gus_ver02%2Fdata%2Fsn89058253%2F0041562189A%2F1916092201%2F0707.jp2\/pct:6.12,7.43,29.39,19.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058253",
+  "name": "The Fayette falcon.",
+  "ocr": [
+   "III",
+   "IM",
+   "II",
+   "M",
+   "I",
+   "I",
+   "BERMUDA",
+   "ONION",
+   "SEED",
+   ":",
+   "X,:",
+   "-",
+   "f",
+   "k",
+   "'",
+   "it",
+   "It,",
+   "vv-t:",
+   "f",
+   "'",
+   "''",
+   "il1",
+   ".",
+   "OF",
+   "BEST",
+   "QUALITY",
+   "n.rj",
+   "1",
+   "ft"
+  ],
+  "page_seq_num": 707,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_gus_ver02\/data\/sn89058253\/0041562189A\/1916092201\/0707.jp2",
+  "place_of_publication": "Somerville, Tenn.",
+  "pub_date": "1916-09-22",
+  "publisher": "W.T. Loggins",
+  "score": 0.9745244383811951,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_gus_ver02\/data\/sn89058253\/0041562189A\/1916092201\/0707\/012_0_97.jpg"
+ },
+ "id": 1667
+}

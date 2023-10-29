@@ -1,0 +1,108 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673699,
+   "id": 1798001,
+   "lead_time": 3.25,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-kZOWZ2VgG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_geronimo_ver01",
+  "box": [
+   0.17293214910701094,
+   0.06088469132133152,
+   0.42933481635776816,
+   0.3661131123780262
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_geronimo_ver01\/data\/sn85042303\/00200295407\/1918011301\/0117\/008_0_93.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Carter--Ardmore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_geronimo_ver01%2Fdata%2Fsn85042303%2F00200295407%2F1918011301%2F0117.jp2\/pct:17.29,6.09,25.65,30.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042303",
+  "name": "The Daily Ardmoreite. [volume]",
+  "ocr": [
+   "f",
+   "-",
+   ",",
+   "i",
+   "c",
+   ",4",
+   "V,",
+   "I,",
+   "V",
+   "-",
+   "L.",
+   "vv",
+   "r",
+   ".",
+   "'S,",
+   ",V",
+   ".",
+   ".ii.",
+   ".'.",
+   "'.",
+   "-",
+   "1",
+   "-",
+   "vV",
+   "4",
+   ".",
+   "aijiV",
+   "4",
+   "fo",
+   "-",
+   "v.",
+   "AH",
+   "1",
+   "1",
+   ",",
+   "il",
+   "f",
+   "I",
+   "4?",
+   "V",
+   ",",
+   "3",
+   "1,1",
+   "1",
+   "fx",
+   ".",
+   ";",
+   "ito",
+   "t",
+   "a",
+   "Carmen,",
+   "AVilli",
+   "'\"I",
+   "he",
+   "Seaside",
+   "Heiles,\"",
+   "at",
+   "ihe",
+   "I'rineess."
+  ],
+  "page_seq_num": 117,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_geronimo_ver01\/data\/sn85042303\/00200295407\/1918011301\/0117.jp2",
+  "place_of_publication": "Ardmore, Okla.",
+  "pub_date": "1918-01-13",
+  "publisher": "John F. Easley",
+  "score": 0.9310613870620728,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_geronimo_ver01\/data\/sn85042303\/00200295407\/1918011301\/0117\/008_0_93.jpg"
+ },
+ "id": 1798
+}

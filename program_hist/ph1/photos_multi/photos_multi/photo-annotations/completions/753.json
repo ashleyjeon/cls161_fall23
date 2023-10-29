@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751084,
+   "id": 753001,
+   "lead_time": 2.079,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xpcvMg2zIY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_three_ver01",
+  "box": [
+   0.04202744842115031,
+   0.7446205046495445,
+   0.22609810807586256,
+   0.939131228386471
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_three_ver01\/data\/sn85058130\/00100478250\/1904040301\/0321\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_three_ver01%2Fdata%2Fsn85058130%2F00100478250%2F1904040301%2F0321.jp2\/pct:4.2,74.47,18.41,19.46\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058130",
+  "name": "The Salt Lake herald. [volume]",
+  "ocr": [
+   "a",
+   "1",
+   "PRINCESS",
+   "ARISUGAWA",
+   "RIS",
+   "G",
+   "W",
+   "James",
+   "Tan1",
+   "For",
+   "H",
+   "two",
+   "Hare",
+   "months",
+   "have",
+   "after",
+   "at",
+   "er",
+   "the",
+   "beginning",
+   "of",
+   "theses",
+   "thewar",
+   "or",
+   "the",
+   "everv",
+   "ntvititv",
+   "hv",
+   "received",
+   "fh",
+   "rtmii0it",
+   "potmission",
+   "o",
+   "r",
+   "to",
+   "go",
+   "g",
+   "go",
+   "with",
+   "wIt"
+  ],
+  "page_seq_num": 321,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_three_ver01\/data\/sn85058130\/00100478250\/1904040301\/0321.jp2",
+  "place_of_publication": "Salt Lake City [Utah]",
+  "pub_date": "1904-04-03",
+  "publisher": "[W.C. Dunbar & E.L. Sloan]",
+  "score": 0.9544140100479126,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_three_ver01\/data\/sn85058130\/00100478250\/1904040301\/0321\/003_0_95.jpg"
+ },
+ "id": 753
+}

@@ -1,0 +1,111 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763735,
+   "id": 1323001,
+   "lead_time": 5.17,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jHGC_dO5KJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_edgemoor_ver01",
+  "box": [
+   0.1685490914025386,
+   0.06820632549894957,
+   0.5578646625872179,
+   0.41102664210215334
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_edgemoor_ver01\/data\/sn85042354\/00383343197\/1912081201\/0290\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_edgemoor_ver01%2Fdata%2Fsn85042354%2F00383343197%2F1912081201%2F0290.jp2\/pct:16.85,6.83,38.94,34.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "Which",
+   "Crossed",
+   "the",
+   "Atlantic",
+   "Ocean",
+   "on",
+   "1,000",
+   "Calions",
+   "of",
+   "Gasoline,",
+   "Captain,",
+   "Owner",
+   "and",
+   "Engineer",
+   "r",
+   "\u00ffi",
+   "A.",
+   "P",
+   "\u00e9.",
+   "'*\u00df",
+   "'",
+   "iS.",
+   "-,",
+   "Ht",
+   "\/",
+   "T",
+   ">",
+   "mfr-v.",
+   "iml",
+   "V",
+   "<s*\\",
+   "\\",
+   ":",
+   "V*",
+   "1",
+   "9",
+   "\u25a0",
+   "s",
+   "*",
+   "*",
+   ";",
+   "'",
+   "I",
+   "\u25a0",
+   ">\u2022",
+   "'S\u00ab",
+   "*",
+   "\u00bb",
+   "v",
+   "'",
+   "-",
+   "-",
+   "\u00ab",
+   "*",
+   ".\u00ab.i",
+   "raj",
+   "\u25a0",
+   "dfi",
+   "*",
+   "l2Lu:-:"
+  ],
+  "page_seq_num": 290,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_edgemoor_ver01\/data\/sn85042354\/00383343197\/1912081201\/0290.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1912-08-12",
+  "publisher": "J. Milton Davidson",
+  "score": 0.995824933052063,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_edgemoor_ver01\/data\/sn85042354\/00383343197\/1912081201\/0290\/003_0_99.jpg"
+ },
+ "id": 1323
+}

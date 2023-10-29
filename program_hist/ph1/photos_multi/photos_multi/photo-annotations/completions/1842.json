@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673498,
+   "id": 1842001,
+   "lead_time": 2.448,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fjRpITMBgD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_jarvey_ver01",
+  "box": [
+   0.3434650525516466,
+   0.7389108758223685,
+   0.485970748807094,
+   0.8854868409099602
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_jarvey_ver01\/data\/sn85040705\/0041421485A\/1918040501\/0523\/011_0_90.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Forest--Wabeno"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_jarvey_ver01%2Fdata%2Fsn85040705%2F0041421485A%2F1918040501%2F0523.jp2\/pct:34.34,73.9,14.26,14.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040705",
+  "name": "Northern Wisconsin advertiser. [volume]",
+  "ocr": [
+   "0",
+   "Western",
+   "Newspaper",
+   "Union"
+  ],
+  "page_seq_num": 523,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_jarvey_ver01\/data\/sn85040705\/0041421485A\/1918040501\/0523.jp2",
+  "place_of_publication": "Wabeno, Wis.",
+  "pub_date": "1918-04-05",
+  "publisher": "C.G. Himley",
+  "score": 0.9032658338546753,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_jarvey_ver01\/data\/sn85040705\/0041421485A\/1918040501\/0523\/011_0_90.jpg"
+ },
+ "id": 1842
+}

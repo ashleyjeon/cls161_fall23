@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768668,
+   "id": 120001,
+   "lead_time": 1.886,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "46z63zAW6I",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.2949846550352793,
+   0.2241078186035156,
+   0.6540541587660443,
+   0.5161344401041666
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555717\/1896072501\/0051\/000_0_91.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555717%2F1896072501%2F0051.jp2\/pct:29.49,22.42,35.91,29.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "ft'-",
+   "'",
+   "HmIP",
+   "HON.",
+   "HEATON",
+   "OWSLEY.",
+   "President",
+   "oi",
+   "the",
+   "St.",
+   "Nicholas",
+   "Bicycle",
+   "Manufacturing",
+   "Company",
+   "and",
+   "President",
+   "of",
+   "the",
+   "WaubanBee",
+   "Club."
+  ],
+  "page_seq_num": 51,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1896072501\/0051.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1896-07-25",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9187605381011963,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1896072501\/0051\/000_0_91.jpg"
+ },
+ "id": 120
+}

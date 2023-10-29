@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755085,
+   "id": 1856001,
+   "lead_time": 2.069,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YaCGbNEJkd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_flamingo_ver01",
+  "box": [
+   0.3393492718565282,
+   0.09397906516704453,
+   0.481566109478225,
+   0.31479090551351663
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_flamingo_ver01\/data\/sn83004226\/00202195891\/1919042501\/0247\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Lawrence--Louisa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_flamingo_ver01%2Fdata%2Fsn83004226%2F00202195891%2F1919042501%2F0247.jp2\/pct:33.93,9.4,14.23,22.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83004226",
+  "name": "The Big Sandy news. [volume]",
+  "ocr": [
+   "Leader",
+   "Isn",
+   "'t",
+   "Fussy",
+   "About",
+   "His",
+   "Locale",
+   "\"WvTOTBBISrt",
+   "it\"'",
+   "a,",
+   ".",
+   "-"
+  ],
+  "page_seq_num": 247,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_flamingo_ver01\/data\/sn83004226\/00202195891\/1919042501\/0247.jp2",
+  "place_of_publication": "Louisa, Ky.",
+  "pub_date": "1919-04-25",
+  "publisher": "Webb & Ferguson",
+  "score": 0.9709332585334778,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_flamingo_ver01\/data\/sn83004226\/00202195891\/1919042501\/0247\/001_0_97.jpg"
+ },
+ "id": 1856
+}

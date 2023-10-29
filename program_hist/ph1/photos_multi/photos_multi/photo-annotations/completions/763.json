@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769070,
+   "id": 763001,
+   "lead_time": 2.982,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "j_r0SKcU2m",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_plato_ver01",
+  "box": [
+   0.26120479357297016,
+   0.03248388870902683,
+   0.6143143884667522,
+   0.26083036279489874
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_plato_ver01\/data\/sn83030193\/175044450\/1904010601\/0058\/006_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_plato_ver01%2Fdata%2Fsn83030193%2F175044450%2F1904010601%2F0058.jp2\/pct:26.12,3.25,35.32,22.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "I",
+   "I",
+   "CHEMULPO",
+   "CORE",
+   "WHERE",
+   "WARSHIPS",
+   "HAVE",
+   "GATHERED",
+   "AND",
+   "SEOUL",
+   "TO",
+   "WHICH",
+   "YANKEE",
+   "MARINES",
+   "WERE",
+   "RUSHED"
+  ],
+  "page_seq_num": 58,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_plato_ver01\/data\/sn83030193\/175044450\/1904010601\/0058.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1904-01-06",
+  "publisher": "[publisher not identified]",
+  "score": 0.9861046671867371,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_plato_ver01\/data\/sn83030193\/175044450\/1904010601\/0058\/006_0_98.jpg"
+ },
+ "id": 763
+}

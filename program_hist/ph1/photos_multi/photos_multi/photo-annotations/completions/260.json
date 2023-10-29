@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675692,
+   "id": 260001,
+   "lead_time": 8.784,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kwZPdkTAE8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_hoquiam_ver01",
+  "box": [
+   0.019707304764126524,
+   0.04933427591792873,
+   0.5293841440987358,
+   0.18360235912552297
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_hoquiam_ver01\/data\/sn83045604\/00202199483\/1898062101\/0059\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_hoquiam_ver01%2Fdata%2Fsn83045604%2F00202199483%2F1898062101%2F0059.jp2\/pct:1.97,4.94,50.97,13.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+   "VIEW",
+   "OF",
+   "TACOMA"
+  ],
+  "page_seq_num": 59,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_hoquiam_ver01\/data\/sn83045604\/00202199483\/1898062101\/0059.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1898-06-21",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.991084098815918,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_hoquiam_ver01\/data\/sn83045604\/00202199483\/1898062101\/0059\/001_0_99.jpg"
+ },
+ "id": 260
+}

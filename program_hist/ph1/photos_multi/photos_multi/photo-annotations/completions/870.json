@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751460,
+   "id": 870001,
+   "lead_time": 3.345,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3QcxnBLGhX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_baldwin_ver01",
+  "box": [
+   0.18052692541340054,
+   0.2546539515379189,
+   0.42763191581572463,
+   0.4200314627463449
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_baldwin_ver01\/data\/sn98066406\/00296023371\/1906021601\/0728\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Michigan--Saint Clair--Yale"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_baldwin_ver01%2Fdata%2Fsn98066406%2F00296023371%2F1906021601%2F0728.jp2\/pct:18.05,25.47,24.72,16.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn98066406",
+  "name": "The Yale expositor.",
+  "ocr": [
+   "r",
+   "&",
+   "II'",
+   ":",
+   "..-..",
+   ":(",
+   ",,'\"",
+   "..",
+   "r",
+   "I",
+   "'",
+   "0",
+   ";,.",
+   ",",
+   "."
+  ],
+  "page_seq_num": 728,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_baldwin_ver01\/data\/sn98066406\/00296023371\/1906021601\/0728.jp2",
+  "place_of_publication": "Yale, St. Clair County, Mich.",
+  "pub_date": "1906-02-16",
+  "publisher": "JAS. A. Menzies",
+  "score": 0.995238184928894,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_baldwin_ver01\/data\/sn98066406\/00296023371\/1906021601\/0728\/001_0_99.jpg"
+ },
+ "id": 870
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768246,
+   "id": 411001,
+   "lead_time": 2.772,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "M3Qm9p0m-1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.18320125925988914,
+   0.14948168108540197,
+   0.336465221933003,
+   0.31605486715993575
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040894\/1900072901\/0532\/000_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040894%2F1900072901%2F0532.jp2\/pct:18.32,14.95,15.33,16.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "EX-GOVERNOR",
+   "ROGER",
+   "WOLCOTT,",
+   "Massachusetts,",
+   "who",
+   "may",
+   "succeed",
+   "General",
+   "Draper",
+   "as",
+   "Ambassador",
+   "to"
+  ],
+  "page_seq_num": 532,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040894\/1900072901\/0532.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-07-29",
+  "publisher": "New York Tribune",
+  "score": 0.9679023027420044,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040894\/1900072901\/0532\/000_0_96.jpg"
+ },
+ "id": 411
+}

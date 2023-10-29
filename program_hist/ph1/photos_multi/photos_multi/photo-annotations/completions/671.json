@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748213,
+   "id": 671001,
+   "lead_time": 2.072,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nhol9jl7Y2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_saluki_ver01",
+  "box": [
+   0.15947857099710053,
+   0.8022135606364122,
+   0.2929225646343428,
+   0.9787033306320416
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_saluki_ver01\/data\/sn83045462\/00280655582\/1903041801\/0347\/000_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_saluki_ver01%2Fdata%2Fsn83045462%2F00280655582%2F1903041801%2F0347.jp2\/pct:15.94,80.23,13.35,17.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 347,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_saluki_ver01\/data\/sn83045462\/00280655582\/1903041801\/0347.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1903-04-18",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9582408666610718,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_saluki_ver01\/data\/sn83045462\/00280655582\/1903041801\/0347\/000_0_95.jpg"
+ },
+ "id": 671
+}

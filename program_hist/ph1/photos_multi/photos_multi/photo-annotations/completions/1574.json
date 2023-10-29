@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755061,
+   "id": 1574001,
+   "lead_time": 2.959,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oiuU4V7iyZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_getz_ver02",
+  "box": [
+   0.16000797840771755,
+   0.4128797841787989,
+   0.4151469362374827,
+   0.5312825446784009
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_getz_ver02\/data\/sn85059715\/00295869938\/1915082601\/1360\/008_0_95.jpg",
+  "geographic_coverage": [
+   "West Virginia--Harrison--Clarksburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_getz_ver02%2Fdata%2Fsn85059715%2F00295869938%2F1915082601%2F1360.jp2\/pct:16.0,41.29,25.52,11.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn85059715",
+  "name": "The daily telegram. [volume]",
+  "ocr": [
+   "*"
+  ],
+  "page_seq_num": 1360,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_getz_ver02\/data\/sn85059715\/00295869938\/1915082601\/1360.jp2",
+  "place_of_publication": "Clarksburg, W. Va.",
+  "pub_date": "1915-08-26",
+  "publisher": "Clarksburg Telegram Co.",
+  "score": 0.9585543274879456,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_getz_ver02\/data\/sn85059715\/00295869938\/1915082601\/1360\/008_0_95.jpg"
+ },
+ "id": 1574
+}

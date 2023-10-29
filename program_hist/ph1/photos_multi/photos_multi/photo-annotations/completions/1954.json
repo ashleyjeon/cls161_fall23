@@ -1,0 +1,110 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747024,
+   "id": 1954001,
+   "lead_time": 2.544,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6Rt3mhnwQQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_hooloovoo_ver01",
+  "box": [
+   0.2988272572015699,
+   0.32260182476460153,
+   0.6951928161331827,
+   0.657829397942822
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_hooloovoo_ver01\/data\/sn83045462\/00280656835\/1920110701\/0447\/000_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_hooloovoo_ver01%2Fdata%2Fsn83045462%2F00280656835%2F1920110701%2F0447.jp2\/pct:29.88,32.27,39.64,33.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Wales",
+   "and",
+   "Prince",
+   "Henry.",
+   "Speeding",
+   "up",
+   "the",
+   "avenue",
+   "in",
+   "the",
+   "latest",
+   "c",
+   "thing",
+   "in",
+   "the",
+   "American",
+   "automobile",
+   "world?",
+   "and-span",
+   "appearance.",
+   "The",
+   "pretty",
+   "driver",
+   "is",
+   "theatrical",
+   "v?)",
+   "Van",
+   "l)vki",
+   "of",
+   "London.",
+   "Froru",
+   "International.",
+   "~",
+   "*",
+   "ne-seater.",
+   "This",
+   "car",
+   "is",
+   "the",
+   "very",
+   "newest",
+   "-",
+   "1",
+   "9",
+   "9",
+   "L!",
+   "9",
+   "a",
+   "L",
+   "a",
+   "witn",
+   "gooa",
+   "speea,",
+   "ligntness",
+   "and",
+   "spickMiss",
+   "Evelyn",
+   "Gosnell,",
+   "starring",
+   "in",
+   "a"
+  ],
+  "page_seq_num": 447,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_hooloovoo_ver01\/data\/sn83045462\/00280656835\/1920110701\/0447.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1920-11-07",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.972224771976471,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_hooloovoo_ver01\/data\/sn83045462\/00280656835\/1920110701\/0447\/000_0_97.jpg"
+ },
+ "id": 1954
+}

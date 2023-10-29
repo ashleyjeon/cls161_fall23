@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766963,
+   "id": 7001,
+   "lead_time": 7.646,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "uMXUqvxPca",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_hagerstown_ver01",
+  "box": [
+   0.8646578363409625,
+   0.1616771067699693,
+   0.9777970721464202,
+   0.28513227334936964
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_hagerstown_ver01\/data\/sn88065721\/00279521341\/1895100701\/0146\/005_0_95.jpg",
+  "geographic_coverage": [
+   "Maryland--Anne Arundel--Annapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_hagerstown_ver01%2Fdata%2Fsn88065721%2F00279521341%2F1895100701%2F0146.jp2\/pct:86.46,16.17,11.32,12.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn88065721",
+  "name": "Evening capital.",
+  "ocr": [
+   "-",
+   "A",
+   "RETIRED",
+   "BISIN",
+   "ESS",
+   "tt"
+  ],
+  "page_seq_num": 146,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_hagerstown_ver01\/data\/sn88065721\/00279521341\/1895100701\/0146.jp2",
+  "place_of_publication": "Annapolis, Md.",
+  "pub_date": "1895-10-07",
+  "publisher": "W.M. Abbott",
+  "score": 0.9530148506164551,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_hagerstown_ver01\/data\/sn88065721\/00279521341\/1895100701\/0146\/005_0_95.jpg"
+ },
+ "id": 7
+}

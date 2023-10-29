@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748047,
+   "id": 1212001,
+   "lead_time": 1.901,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ywXasNbHTv",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_jackson_ver01",
+  "box": [
+   0.41725184456716113,
+   0.06884619948755989,
+   0.6655396538424895,
+   0.3462711134854094
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_jackson_ver01\/data\/sn86086633\/00296024533\/1910092801\/0016\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Michigan--Houghton--Calumet"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_jackson_ver01%2Fdata%2Fsn86086633%2F00296024533%2F1910092801%2F0016.jp2\/pct:41.72,6.89,24.83,27.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086633",
+  "name": "The Calumet news. [volume]",
+  "ocr": [
+   "VOLUNTEER",
+   "ORGANIST\"",
+   "AT",
+   "CALUMET",
+   "THEATER,",
+   "AND",
+   "NIGHT,",
+   "OCT.",
+   "1.",
+   "is",
+   "mm"
+  ],
+  "page_seq_num": 16,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_jackson_ver01\/data\/sn86086633\/00296024533\/1910092801\/0016.jp2",
+  "place_of_publication": "Calumet, Mich.",
+  "pub_date": "1910-09-28",
+  "publisher": "Mining Gazette Co.",
+  "score": 0.9677007794380188,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_jackson_ver01\/data\/sn86086633\/00296024533\/1910092801\/0016\/007_0_96.jpg"
+ },
+ "id": 1212
+}

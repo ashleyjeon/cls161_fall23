@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755088,
+   "id": 1773001,
+   "lead_time": 2.715,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "69dVEB-any",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_detroit_ver02",
+  "box": [
+   0.18271439595177985,
+   0.05640644865016156,
+   0.4281543217239186,
+   0.3901027915049228
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_detroit_ver02\/data\/sn98066406\/00296023437\/1918031401\/0423\/007_0_92.jpg",
+  "geographic_coverage": [
+   "Michigan--Saint Clair--Yale"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_detroit_ver02%2Fdata%2Fsn98066406%2F00296023437%2F1918031401%2F0423.jp2\/pct:18.27,5.65,24.55,33.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn98066406",
+  "name": "The Yale expositor.",
+  "ocr": [
+   "Whal'Vitell",
+   "Women",
+   "Will",
+   "A",
+   "Gingham",
+   "Ginghams,",
+   "either",
+   "plain",
+   "or",
+   "In",
+   "small",
+   "'I",
+   "...",
+   ",",
+   "r",
+   "vf",
+   "r-i",
+   "Dress",
+   "We&",
+   "Summer.",
+   "Gingnams",
+   "nrrivod",
+   "early",
+   "in",
+   "the"
+  ],
+  "page_seq_num": 423,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_detroit_ver02\/data\/sn98066406\/00296023437\/1918031401\/0423.jp2",
+  "place_of_publication": "Yale, St. Clair County, Mich.",
+  "pub_date": "1918-03-14",
+  "publisher": "JAS. A. Menzies",
+  "score": 0.921853244304657,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_detroit_ver02\/data\/sn98066406\/00296023437\/1918031401\/0423\/007_0_92.jpg"
+ },
+ "id": 1773
+}

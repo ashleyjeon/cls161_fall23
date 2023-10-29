@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747584,
+   "id": 1217001,
+   "lead_time": 1.837,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "z_mtjSJE7v",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_flobberworm_ver01",
+  "box": [
+   0.4275416544038955,
+   0.05715207242772647,
+   0.7010165127840909,
+   0.3328125988423583
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_flobberworm_ver01\/data\/sn87082455\/00414215245\/1910071001\/0013\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Milwaukee--Milwaukee",
+   "Wisconsin--Washington--Milwaukee"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_flobberworm_ver01%2Fdata%2Fsn87082455%2F00414215245%2F1910071001%2F0013.jp2\/pct:42.75,5.72,27.35,27.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn87082455",
+  "name": "Der Sonntagsbote.",
+  "ocr": [
+   "Rationaieonvent",
+   "der",
+   "L.",
+   "C.",
+   "B.A.",
+   "'",
+   "k?r>-\"",
+   ",",
+   ".",
+   "..",
+   "-I",
+   "7^x",
+   "Frau",
+   "Nlarr",
+   "Mur;,",
+   "ull",
+   "il.",
+   "j",
+   "!",
+   "j",
+   "!",
+   ".",
+   "!",
+   "."
+  ],
+  "page_seq_num": 13,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_flobberworm_ver01\/data\/sn87082455\/00414215245\/1910071001\/0013.jp2",
+  "place_of_publication": "Milwaukee, Wis.",
+  "pub_date": "1910-07-10",
+  "publisher": "[P.V. Deuster Co.]",
+  "score": 0.9693236351013184,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_flobberworm_ver01\/data\/sn87082455\/00414215245\/1910071001\/0013\/001_0_96.jpg"
+ },
+ "id": 1217
+}

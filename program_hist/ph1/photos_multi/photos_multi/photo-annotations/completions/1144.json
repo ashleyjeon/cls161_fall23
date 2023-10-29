@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749497,
+   "id": 1144001,
+   "lead_time": 1.717,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Dvqea1SZKE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_hotel_ver01",
+  "box": [
+   0.18358073626967736,
+   0.06145134446464254,
+   0.43583260628945214,
+   0.3393567425743089
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_hotel_ver01\/data\/sn84028490\/00237289286\/1909092301\/0668\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Ohio--Stark--Canton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_hotel_ver01%2Fdata%2Fsn84028490%2F00237289286%2F1909092301%2F0668.jp2\/pct:18.35,6.15,25.23,27.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn84028490",
+  "name": "The Stark County Democrat. [volume]",
+  "ocr": [
+   "C1-",
+   "UOVEKNOR",
+   "1.",
+   "im.r.i",
+   "rTMWTM-M",
+   "lllll",
+   "ll",
+   "I\"",
+   "MM",
+   "HWlllI",
+   "UMllll",
+   "!",
+   "!!",
+   "1",
+   "1",
+   "llll",
+   "HIM.I",
+   "I",
+   "1",
+   "1",
+   "1",
+   "I",
+   "I",
+   "I",
+   "II",
+   "I",
+   "I",
+   "I",
+   "JOHNSON",
+   "I"
+  ],
+  "page_seq_num": 668,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_hotel_ver01\/data\/sn84028490\/00237289286\/1909092301\/0668.jp2",
+  "place_of_publication": "Canton, Ohio",
+  "pub_date": "1909-09-23",
+  "publisher": "W. & G. Dunbar, Jr.",
+  "score": 0.9855992794036865,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_hotel_ver01\/data\/sn84028490\/00237289286\/1909092301\/0668\/000_0_98.jpg"
+ },
+ "id": 1144
+}

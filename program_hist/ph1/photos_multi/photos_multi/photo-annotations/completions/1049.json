@@ -1,0 +1,99 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746010,
+   "id": 1049001,
+   "lead_time": 1.645,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4vgmEs_AZq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_pescadero_ver01",
+  "box": [
+   0.4334004720052083,
+   0.39262254703679733,
+   0.6993487478672773,
+   0.6518053714239487
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_pescadero_ver01\/data\/sn85042462\/00175035679\/1908040301\/0640\/013_0_94.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_pescadero_ver01%2Fdata%2Fsn85042462%2F00175035679%2F1908040301%2F0640.jp2\/pct:43.34,39.27,26.6,25.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "High",
+   "Office",
+   "Promised",
+   "for",
+   "Methodist",
+   "Pastor",
+   "REV.",
+   "ROBERT",
+   "M'INTYRE,",
+   "WHO",
+   "MAY,",
+   "BECOME",
+   "BISHOP",
+   "OF",
+   "METH.",
+   "ODIST",
+   "CHURCH",
+   "Methodists",
+   "are",
+   "already",
+   "talk",
+   "ing",
+   "of",
+   "the",
+   "time",
+   "when",
+   "Rev.",
+   "Robert",
+   "ward",
+   "to",
+   "the",
+   "possible",
+   "appointment",
+   "of",
+   "Dr.",
+   "Mclntyre",
+   "to",
+   "that",
+   "high",
+   "office.",
+   ":",
+   "-",
+   "\u2022*'!*",
+   "Now",
+   "that",
+   "the",
+   "time",
+   "is",
+   "drawing",
+   "near"
+  ],
+  "page_seq_num": 640,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_pescadero_ver01\/data\/sn85042462\/00175035679\/1908040301\/0640.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1908-04-03",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9465054273605347,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_pescadero_ver01\/data\/sn85042462\/00175035679\/1908040301\/0640\/013_0_94.jpg"
+ },
+ "id": 1049
+}

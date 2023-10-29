@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743353,
+   "id": 1592001,
+   "lead_time": 2.351,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zb_dT5FDTG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_honda_ver02",
+  "box": [
+   0.19168984597934646,
+   0.11310567320770162,
+   0.3125629382568903,
+   0.3223883248004976
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_honda_ver02\/data\/sn85042551\/00200297258\/1915020501\/0892\/007_0_95.jpg",
+  "geographic_coverage": [
+   "Texas--Potter--Amarillo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_honda_ver02%2Fdata%2Fsn85042551%2F00200297258%2F1915020501%2F0892.jp2\/pct:19.16,11.32,12.09,20.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042551",
+  "name": "Amarillo daily news. [volume]",
+  "ocr": [
+   "Denies",
+   "Report",
+   "of",
+   "Pogroms",
+   "y-'Vt,",
+   "-",
+   "-",
+   "i,",
+   "i",
+   "l",
+   "-A",
+   "'",
+   "'",
+   "'-'III",
+   "-",
+   "f",
+   ".\"\"?",
+   "-;",
+   "f",
+   "1",
+   "i",
+   "1"
+  ],
+  "page_seq_num": 892,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_honda_ver02\/data\/sn85042551\/00200297258\/1915020501\/0892.jp2",
+  "place_of_publication": "Amarillo, Tex.",
+  "pub_date": "1915-02-05",
+  "publisher": "Amarillo Pub. Co.",
+  "score": 0.9562645554542542,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_honda_ver02\/data\/sn85042551\/00200297258\/1915020501\/0892\/007_0_95.jpg"
+ },
+ "id": 1592
+}

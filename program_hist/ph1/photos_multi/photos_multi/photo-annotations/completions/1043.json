@@ -1,0 +1,42 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746015,
+   "id": 1043001,
+   "lead_time": 2.21,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_edenville_ver01",
+  "box": [
+   0.02890227168137261,
+   0.6007131147634006,
+   0.16251157009905248,
+   0.7472234500971455
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_edenville_ver01\/data\/sn83016689\/00279551448\/1908012401\/0179\/009_0_92.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_edenville_ver01%2Fdata%2Fsn83016689%2F00279551448%2F1908012401%2F0179.jp2\/pct:2.89,60.08,13.37,14.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "Nn.",
+   "H.",
+   "HARRISON."
+  ],
+  "page_seq_num": 179,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551448\/1908012401\/0179.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1908-01-24",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9212741851806641,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551448\/1908012401\/0179\/009_0_92.jpg"
+ },
+ "id": 1043
+}

@@ -1,0 +1,98 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747203,
+   "id": 871001,
+   "lead_time": 2.283,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TbcQznVLqi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_denmark_ver01",
+  "box": [
+   0.18005877800707548,
+   0.07491109807772081,
+   0.8134341833726415,
+   0.30242897070046587
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_denmark_ver01\/data\/sn83030214\/00175041497\/1906100401\/0041\/001_0_99.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_denmark_ver01%2Fdata%2Fsn83030214%2F00175041497%2F1906100401%2F0041.jp2\/pct:18.0,7.5,63.34,22.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "REPUBLICAN",
+   "CANDIDATES",
+   "AT",
+   "NOTIFICATION",
+   "CEREMONIES",
+   "IX",
+   "REPUBLICAN",
+   "CLUB.",
+   "Reading",
+   "from",
+   "left",
+   "to",
+   "ripht",
+   "ex",
+   "Governor",
+   "Odell.",
+   "Henry",
+   "A.",
+   "Van",
+   "Alstyne,",
+   "State",
+   "Engineer;",
+   "Senator",
+   "Merton",
+   "K.",
+   "Lewis,",
+   "candidate",
+   "for",
+   "Controller;",
+   "Attorney",
+   "General",
+   "Mayer,",
+   "John",
+   "F.",
+   "O'Brien,",
+   "heoretary",
+   "of",
+   "State;",
+   "Lieutenant",
+   "Governor",
+   "Bruce",
+   "Charles",
+   "E.",
+   "Hughes.",
+   "Senator",
+   "Armstrong,",
+   "State",
+   "Chairman",
+   "Woodruff."
+  ],
+  "page_seq_num": 41,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_denmark_ver01\/data\/sn83030214\/00175041497\/1906100401\/0041.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1906-10-04",
+  "publisher": "New York Tribune",
+  "score": 0.9942710399627686,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_denmark_ver01\/data\/sn83030214\/00175041497\/1906100401\/0041\/001_0_99.jpg"
+ },
+ "id": 871
+}

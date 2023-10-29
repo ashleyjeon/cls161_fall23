@@ -1,0 +1,105 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675710,
+   "id": 1382001,
+   "lead_time": 2.035,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1PN0-nyrOe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_journal_ver01",
+  "box": [
+   0.047827176571926686,
+   0.3521177328215617,
+   0.18182925805611103,
+   0.7397579265806234
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_journal_ver01\/data\/sn92053934\/00202198351\/1912040801\/0593\/009_0_92.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_journal_ver01%2Fdata%2Fsn92053934%2F00202198351%2F1912040801%2F0593.jp2\/pct:4.78,35.22,13.41,38.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "Northern",
+   "Steamboat",
+   "Co.",
+   "GRAND",
+   "EXCURSION",
+   "CINCINNATI",
+   "i",
+   "LOUISVILLE",
+   "on",
+   "the",
+   "Dig",
+   "Side",
+   "Wheel",
+   "Steamer",
+   "MORNING",
+   "STAR",
+   "A",
+   "Pleasant",
+   "Trip",
+   "Down",
+   "the",
+   "Beau",
+   "tiful",
+   "Mississippi",
+   "River",
+   "To",
+   "CAIRO",
+   "and",
+   "up",
+   "The",
+   "Scenic",
+   "Ohio",
+   "River",
+   "I",
+   "H'l'j",
+   "1W",
+   "HI",
+   "f",
+   "1",
+   "\"",
+   ".\"",
+   "'",
+   ".-",
+   "y",
+   "'",
+   "-",
+   "i",
+   "'",
+   "f",
+   "'",
+   "v.",
+   ",",
+   ",",
+   ".74",
+   "'",
+   ";"
+  ],
+  "page_seq_num": 593,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_journal_ver01\/data\/sn92053934\/00202198351\/1912040801\/0593.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1912-04-08",
+  "publisher": "J.W. Potter",
+  "score": 0.9266582131385803,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_journal_ver01\/data\/sn92053934\/00202198351\/1912040801\/0593\/009_0_92.jpg"
+ },
+ "id": 1382
+}

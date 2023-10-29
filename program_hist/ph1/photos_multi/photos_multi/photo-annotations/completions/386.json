@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767328,
+   "id": 386001,
+   "lead_time": 4.087,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "v3ZSc8vvXU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_fleetwoodmac_ver01",
+  "box": [
+   0.34869468794000313,
+   0.19641948556644118,
+   0.63270677702597,
+   0.3522522300215228
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_fleetwoodmac_ver01\/data\/sn85052076\/00175046306\/1900082201\/0143\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Berea"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_fleetwoodmac_ver01%2Fdata%2Fsn85052076%2F00175046306%2F1900082201%2F0143.jp2\/pct:34.86,19.65,28.41,15.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052076",
+  "name": "The citizen. [volume]",
+  "ocr": [
+   "lADIFS",
+   "HAM",
+   "Berea",
+   "College",
+   "has",
+   "14",
+   "Buildings"
+  ],
+  "page_seq_num": 143,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_fleetwoodmac_ver01\/data\/sn85052076\/00175046306\/1900082201\/0143.jp2",
+  "place_of_publication": "Berea, Ky.",
+  "pub_date": "1900-08-22",
+  "publisher": "T.G. Pasco",
+  "score": 0.992657482624054,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_fleetwoodmac_ver01\/data\/sn85052076\/00175046306\/1900082201\/0143\/000_0_99.jpg"
+ },
+ "id": 386
+}

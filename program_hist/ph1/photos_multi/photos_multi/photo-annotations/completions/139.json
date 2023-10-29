@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768814,
+   "id": 139001,
+   "lead_time": 1.656,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Mb6Guqun48",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_foxtrot_ver01",
+  "box": [
+   0.5888096310314119,
+   0.05651253184110033,
+   0.8361819568693329,
+   0.26644383365535396
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_foxtrot_ver01\/data\/sn87076843\/00237282784\/1896092601\/1121\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Ohio--Wood--Perrysburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_foxtrot_ver01%2Fdata%2Fsn87076843%2F00237282784%2F1896092601%2F1121.jp2\/pct:58.88,5.66,24.74,21.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn87076843",
+  "name": "Perrysburg journal.",
+  "ocr": [
+   "r"
+  ],
+  "page_seq_num": 1121,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_foxtrot_ver01\/data\/sn87076843\/00237282784\/1896092601\/1121.jp2",
+  "place_of_publication": "Perrysburg, Wood Co., O. [Ohio]",
+  "pub_date": "1896-09-26",
+  "publisher": "Ed. L. Blue",
+  "score": 0.9660150408744812,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_foxtrot_ver01\/data\/sn87076843\/00237282784\/1896092601\/1121\/000_0_96.jpg"
+ },
+ "id": 139
+}

@@ -1,0 +1,86 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763822,
+   "id": 1395001,
+   "lead_time": 26.993,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fdfkGkxTBa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_menze_ver01",
+  "box": [
+   0.5605038865844487,
+   0.02609554211351998,
+   0.6994627107571525,
+   0.22838904571020818
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_menze_ver01\/data\/sn83030214\/00206531654\/1913052701\/0649\/013_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_menze_ver01%2Fdata%2Fsn83030214%2F00206531654%2F1913052701%2F0649.jp2\/pct:56.05,2.61,13.9,20.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "f",
+   "W-",
+   "&-^??mee\\?*t",
+   "?aavaaaaw",
+   "7",
+   "aal",
+   "?g&>",
+   "Jf*V",
+   "?^??*^^^**WP",
+   "*ajT*?*?**?.",
+   "^",
+   "\"..S*?",
+   "PjB\\",
+   "I",
+   "T^aaan",
+   "??**'",
+   "~",
+   "*???M4",
+   "'",
+   "Jaai",
+   "l^?fllf?",
+   ":",
+   "HSaa^r^a-Blaw",
+   "TaV",
+   "a?aaaa!",
+   "I'",
+   ">",
+   "?HAL'",
+   "'M",
+   "?SB,",
+   "OF",
+   "THB",
+   "?\/ANBEI",
+   "Who",
+   "i-",
+   "'",
+   ".n"
+  ],
+  "page_seq_num": 649,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_menze_ver01\/data\/sn83030214\/00206531654\/1913052701\/0649.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1913-05-27",
+  "publisher": "New York Tribune",
+  "score": 0.9449656009674072,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_menze_ver01\/data\/sn83030214\/00206531654\/1913052701\/0649\/013_0_94.jpg"
+ },
+ "id": 1395
+}

@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765911,
+   "id": 1694001,
+   "lead_time": 6.161,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yCiqTKBQsO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_moore_ver01",
+  "box": [
+   0.8038753746116982,
+   0.4720345999448354,
+   0.9384224242645497,
+   0.5979467105622813
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_moore_ver01\/data\/sn85059591\/00414187274\/1917052401\/0331\/003_0_98.jpg",
+  "geographic_coverage": [
+   "West Virginia--Calhoun--Grantsville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_moore_ver01%2Fdata%2Fsn85059591%2F00414187274%2F1917052401%2F0331.jp2\/pct:80.38,47.21,13.46,12.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn85059591",
+  "name": "The Calhoun chronicle. [volume]",
+  "ocr": [
+   "j",
+   "IIliDOD",
+   "COOP",
+   "US'J",
+   "AT",
+   "GOVERNMENT",
+   "POUE-",
+   "TRY",
+   "MD."
+  ],
+  "page_seq_num": 331,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_moore_ver01\/data\/sn85059591\/00414187274\/1917052401\/0331.jp2",
+  "place_of_publication": "Grantsville, W. Va.",
+  "pub_date": "1917-05-24",
+  "publisher": "Marshall & Bros.",
+  "score": 0.9826215505599976,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_moore_ver01\/data\/sn85059591\/00414187274\/1917052401\/0331\/003_0_98.jpg"
+ },
+ "id": 1694
+}

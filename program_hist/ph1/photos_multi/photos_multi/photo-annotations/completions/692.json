@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768696,
+   "id": 692001,
+   "lead_time": 1.604,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QNUNeuP3zf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_lee_ver01",
+  "box": [
+   0.5086861333903476,
+   0.08989116473075671,
+   0.7023809308836446,
+   0.28540762876852965
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_lee_ver01\/data\/sn99021999\/00211102755\/1903021501\/0503\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_lee_ver01%2Fdata%2Fsn99021999%2F00211102755%2F1903021501%2F0503.jp2\/pct:50.86,8.99,19.37,19.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "'",
+   "MRS.",
+   "CORBIN.",
+   "WIFB",
+   "OP",
+   "GENERAL"
+  ],
+  "page_seq_num": 503,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_lee_ver01\/data\/sn99021999\/00211102755\/1903021501\/0503.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1903-02-15",
+  "publisher": "Edward Rosewater",
+  "score": 0.9845588803291321,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_lee_ver01\/data\/sn99021999\/00211102755\/1903021501\/0503\/000_0_98.jpg"
+ },
+ "id": 692
+}

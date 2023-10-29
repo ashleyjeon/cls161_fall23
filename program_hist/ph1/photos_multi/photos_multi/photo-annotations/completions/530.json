@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675745,
+   "id": 530001,
+   "lead_time": 1.815,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZD-r0iJmfS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "gu_inspector_ver01",
+  "box": [
+   0.532804333433813,
+   0.7062782058923706,
+   0.6709997994559151,
+   0.8949217419533378
+  ],
+  "edition_seq_num": 1,
+  "filepath": "gu_inspector_ver01\/data\/sn90052411\/00414182495\/1901020701\/0264\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Georgia--Glynn--Brunswick"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/gu_inspector_ver01%2Fdata%2Fsn90052411%2F00414182495%2F1901020701%2F0264.jp2\/pct:53.28,70.63,13.82,18.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn90052411",
+  "name": "The Brunswick times-call. [volume]",
+  "ocr": [
+   ".",
+   "-\u2019-M",
+   ";'s",
+   "r",
+   "~",
+   "\u201c'-,'4.",
+   ".",
+   "V.",
+   "*.",
+   "4",
+   "\u25a0",
+   "Photo",
+   "by",
+   "Clinedinat,",
+   "Washington.",
+   "UK6.",
+   "C.",
+   "W.",
+   "FAIRBANKS,"
+  ],
+  "page_seq_num": 264,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/gu_inspector_ver01\/data\/sn90052411\/00414182495\/1901020701\/0264.jp2",
+  "place_of_publication": "Brunswick, Ga.",
+  "pub_date": "1901-02-07",
+  "publisher": null,
+  "score": 0.9931849837303162,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/gu_inspector_ver01\/data\/sn90052411\/00414182495\/1901020701\/0264\/000_0_99.jpg"
+ },
+ "id": 530
+}

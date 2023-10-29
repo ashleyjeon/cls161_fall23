@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751452,
+   "id": 1637001,
+   "lead_time": 1.52,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "R5O65gE3lS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "me_allagash_ver02",
+  "box": [
+   0.34188304904718425,
+   0.29034997879387103,
+   0.4872741411588419,
+   0.44973531171658887
+  ],
+  "edition_seq_num": 1,
+  "filepath": "me_allagash_ver02\/data\/sn95068036\/00279523659\/1916080301\/0257\/010_0_90.jpg",
+  "geographic_coverage": [
+   "Maine--Cumberland--Harpswell",
+   "Maine--Cumberland--Portland"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/me_allagash_ver02%2Fdata%2Fsn95068036%2F00279523659%2F1916080301%2F0257.jp2\/pct:34.18,29.04,14.54,15.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn95068036",
+  "name": "Casco Bay breeze. [volume]",
+  "ocr": [
+   "CAPT.",
+   "CHARLES",
+   "B.",
+   "MORRILL."
+  ],
+  "page_seq_num": 257,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/me_allagash_ver02\/data\/sn95068036\/00279523659\/1916080301\/0257.jp2",
+  "place_of_publication": "South Harpswell, Me.",
+  "pub_date": "1916-08-03",
+  "publisher": "Breeze Pub. Co.",
+  "score": 0.9002500176429749,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/me_allagash_ver02\/data\/sn95068036\/00279523659\/1916080301\/0257\/010_0_90.jpg"
+ },
+ "id": 1637
+}

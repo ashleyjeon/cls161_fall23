@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747544,
+   "id": 823001,
+   "lead_time": 1.567,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WQ8s27sxdw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_oasis_ver01",
+  "box": [
+   0.15555569781734208,
+   0.0808622785609403,
+   0.42832155648232645,
+   0.38936683599897426
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905032101\/0332\/011_0_96.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_oasis_ver01%2Fdata%2Fsn85042462%2F0017504727A%2F1905032101%2F0332.jp2\/pct:15.55,8.09,27.28,30.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "NOVELIST",
+   "STUDYING",
+   "RELIEF",
+   "FOR",
+   "ENGLAND'S",
+   "PAUPERS",
+   "H.",
+   "RIDER",
+   "HAGGARD"
+  ],
+  "page_seq_num": 332,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905032101\/0332.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1905-03-21",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9679319262504578,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905032101\/0332\/011_0_96.jpg"
+ },
+ "id": 823
+}

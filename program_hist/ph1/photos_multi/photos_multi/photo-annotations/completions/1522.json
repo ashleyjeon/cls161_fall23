@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767616,
+   "id": 1522001,
+   "lead_time": 5.07,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_3tWKdu-2C",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_gruyere_ver01",
+  "box": [
+   0.30773050944010416,
+   0.5154308179921363,
+   0.5634758966619318,
+   0.6341157062127281
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_gruyere_ver01\/data\/sn86090528\/0029586431A\/1914060201\/0461\/006_0_91.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Grady--Chickasha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_gruyere_ver01%2Fdata%2Fsn86090528%2F0029586431A%2F1914060201%2F0461.jp2\/pct:30.77,51.55,25.58,11.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090528",
+  "name": "The Chickasha daily express.",
+  "ocr": [
+   "CONQUERED",
+   "THE",
+   "DROUTH",
+   "IN",
+   "OKLAHOMA",
+   "rVwww.wXwwwWw",
+   "IWMMWXwm'l",
+   "m",
+   "\"V'?'\",,??\"\"",
+   ".",
+   "'",
+   "&t",
+   "jr&",
+   "On",
+   "farm",
+   "of",
+   "0.",
+   "H.",
+   "Elling,",
+   "Comanche",
+   "county,",
+   "South",
+   "Central",
+   "Oklahoma.",
+   "He",
+   "says",
+   "\"This",
+   "shows",
+   "my",
+   "upland",
+   "corn,",
+   "which",
+   "the",
+   "hot",
+   "winds",
+   "didn't",
+   "'cook.'",
+   "The",
+   "in",
+   "the",
+   "are",
+   "blackhull",
+   "white",
+   "kafircorn",
+   "which",
+   "threshed",
+   "out"
+  ],
+  "page_seq_num": 461,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_gruyere_ver01\/data\/sn86090528\/0029586431A\/1914060201\/0461.jp2",
+  "place_of_publication": "Chickasha, Indian Territory [Okla.]",
+  "pub_date": "1914-06-02",
+  "publisher": "A.M. Dawson",
+  "score": 0.9128535389900208,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_gruyere_ver01\/data\/sn86090528\/0029586431A\/1914060201\/0461\/006_0_91.jpg"
+ },
+ "id": 1522
+}

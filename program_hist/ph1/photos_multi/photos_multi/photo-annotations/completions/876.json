@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766447,
+   "id": 876001,
+   "lead_time": 5.858,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "u9S6UwCXOw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_liverpool_ver01",
+  "box": [
+   0.3574430538656933,
+   0.07865298594839992,
+   0.7506171888341018,
+   0.2851622039739536
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_liverpool_ver01\/data\/2019269501\/00414211926\/1906090601\/0103\/001_0_92.jpg",
+  "geographic_coverage": [
+   "Idaho--Canyon--Caldwell"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_liverpool_ver01%2Fdata%2F2019269501%2F00414211926%2F1906090601%2F0103.jp2\/pct:35.74,7.87,39.32,20.66\/!500,500\/0\/default.jpg",
+  "lccn": "2019269501",
+  "name": "The Gem state rural. [volume]",
+  "ocr": [
+   "m",
+   "m",
+   "?",
+   "PK",
+   "At",
+   ":",
+   "'&p.",
+   "B",
+   "\"i",
+   "\u00ce",
+   "r",
+   "\u25a0.",
+   ":",
+   "%",
+   "SI",
+   "'\u25a0Mh",
+   "m#",
+   "m",
+   "mm",
+   "f",
+   "-",
+   ">",
+   "wmi",
+   "v",
+   "v-'i..",
+   "'m",
+   "\u25a0KM*\/\u00ab\""
+  ],
+  "page_seq_num": 103,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_liverpool_ver01\/data\/2019269501\/00414211926\/1906090601\/0103.jp2",
+  "place_of_publication": "Caldwell, Idaho",
+  "pub_date": "1906-09-06",
+  "publisher": null,
+  "score": 0.9285551309585571,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_liverpool_ver01\/data\/2019269501\/00414211926\/1906090601\/0103\/001_0_92.jpg"
+ },
+ "id": 876
+}

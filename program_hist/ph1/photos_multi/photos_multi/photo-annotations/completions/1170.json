@@ -1,0 +1,48 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768374,
+   "id": 1170001,
+   "lead_time": 3.461,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_felice_ver01",
+  "box": [
+   0.3693292791193182,
+   0.49790893315568374,
+   0.5149466567641198,
+   0.6282945832823212
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_felice_ver01\/data\/sn89066620\/00200292285\/1910051201\/0830\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Missouri--Cape Girardeau--Jackson"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_felice_ver01%2Fdata%2Fsn89066620%2F00200292285%2F1910051201%2F0830.jp2\/pct:36.93,49.8,14.57,13.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn89066620",
+  "name": "The Jackson herald.",
+  "ocr": [
+   "'",
+   "-.1",
+   ":",
+   "'",
+   "m",
+   "fi",
+   "uiru",
+   "BKBiKraar",
+   "table."
+  ],
+  "page_seq_num": 830,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_felice_ver01\/data\/sn89066620\/00200292285\/1910051201\/0830.jp2",
+  "place_of_publication": "Jackson, Mo.",
+  "pub_date": "1910-05-12",
+  "publisher": "B.F. Lusk",
+  "score": 0.9614259600639343,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_felice_ver01\/data\/sn89066620\/00200292285\/1910051201\/0830\/007_0_96.jpg"
+ },
+ "id": 1170
+}

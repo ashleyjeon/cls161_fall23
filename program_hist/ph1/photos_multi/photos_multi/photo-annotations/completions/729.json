@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749371,
+   "id": 729001,
+   "lead_time": 1.75,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7CJrRX-kFa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_hoosier_ver01",
+  "box": [
+   0.6900234378326167,
+   0.06148718318145705,
+   0.815994470580722,
+   0.308473059013065
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_hoosier_ver01\/data\/sn82015679\/00202191757\/1904012401\/0467\/008_0_96.jpg",
+  "geographic_coverage": [
+   "Indiana--Marion--Indianapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_hoosier_ver01%2Fdata%2Fsn82015679%2F00202191757%2F1904012401%2F0467.jp2\/pct:69.0,6.15,12.6,24.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015679",
+  "name": "The Indianapolis journal. [volume]",
+  "ocr": [
+   "CHARLES",
+   "WOERNER."
+  ],
+  "page_seq_num": 467,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_hoosier_ver01\/data\/sn82015679\/00202191757\/1904012401\/0467.jp2",
+  "place_of_publication": "Indianapolis [Ind.]",
+  "pub_date": "1904-01-24",
+  "publisher": "Douglass & Conner",
+  "score": 0.9653011560440063,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_hoosier_ver01\/data\/sn82015679\/00202191757\/1904012401\/0467\/008_0_96.jpg"
+ },
+ "id": 729
+}

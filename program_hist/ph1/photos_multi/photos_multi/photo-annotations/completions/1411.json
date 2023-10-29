@@ -1,0 +1,43 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741087,
+   "id": 1411001,
+   "lead_time": 2.867,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_kiewit_ver02",
+  "box": [
+   0.07168842416948977,
+   0.0497019539892146,
+   0.9167969965301783,
+   0.5643324590362279
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_kiewit_ver02\/data\/sn99021999\/00280779131\/1913040601\/0532\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_kiewit_ver02%2Fdata%2Fsn99021999%2F00280779131%2F1913040601%2F0532.jp2\/pct:7.16,4.98,84.52,51.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "LutRer",
+   "RiarbanK's",
+   "Cobless",
+   "Corn"
+  ],
+  "page_seq_num": 532,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_kiewit_ver02\/data\/sn99021999\/00280779131\/1913040601\/0532.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1913-04-06",
+  "publisher": "Edward Rosewater",
+  "score": 0.970741331577301,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_kiewit_ver02\/data\/sn99021999\/00280779131\/1913040601\/0532\/000_0_97.jpg"
+ },
+ "id": 1411
+}

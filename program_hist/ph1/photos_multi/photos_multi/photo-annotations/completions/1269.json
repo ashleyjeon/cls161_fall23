@@ -1,0 +1,113 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749442,
+   "id": 1269001,
+   "lead_time": 2.008,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tT-3PzYbky",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_lacamas_ver01",
+  "box": [
+   0.6109659653623164,
+   0.07466754206904659,
+   0.9541831862290874,
+   0.18361702350654988
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_lacamas_ver01\/data\/sn87093407\/00200290550\/1911051201\/0933\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_lacamas_ver01%2Fdata%2Fsn87093407%2F00200290550%2F1911051201%2F0933.jp2\/pct:61.09,7.47,34.33,10.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "SLIDING",
+   "HOME\u2014REMARKABLE",
+   "wtk-",
+   "VC",
+   ".\"",
+   "\"",
+   "\u2022",
+   "~fc\u00bb",
+   "\u00ab",
+   ".**4\u00bb",
+   "'",
+   "-t'",
+   "*.",
+   "*\u2022",
+   "*",
+   "\u201e\u201e",
+   "-;*",
+   "-",
+   ".",
+   "\u25a0",
+   ".\u2022,",
+   "\u2022",
+   "..\u00ab*--\u2022.",
+   "\u2022",
+   "~",
+   ".",
+   "\u25a0",
+   "In",
+   "a",
+   "iwntit",
+   "nam*",
+   "at",
+   "<'l\u00abvnland",
+   "Mwctn",
+   "th\u00ab",
+   "Tlni\u00abra",
+   "and",
+   "Sup*,",
+   "IVmln",
+   "Biiii",
+   "WM",
+   "t\u00ab",
+   "arora",
+   "on",
+   "(",
+   "doul>lr>",
+   "to",
+   "right",
+   "Kuatwrly'a",
+   "throw",
+   "waa",
+   "thr\u00ab*e",
+   "from",
+   "tha",
+   "plat*.",
+   "Bu\u00bbh",
+   "alld.",
+   "and",
+   "CxUbrr",
+   "Hjnl",
+   "Hiolili",
+   "mad*",
+   "liltn",
+   "out."
+  ],
+  "page_seq_num": 933,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_lacamas_ver01\/data\/sn87093407\/00200290550\/1911051201\/0933.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1911-05-12",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9766470193862915,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_lacamas_ver01\/data\/sn87093407\/00200290550\/1911051201\/0933\/004_0_97.jpg"
+ },
+ "id": 1269
+}

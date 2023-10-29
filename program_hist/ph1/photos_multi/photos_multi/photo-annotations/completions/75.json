@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747592,
+   "id": 75001,
+   "lead_time": 1.984,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_almont_ver01",
+  "box": [
+   0.19756653677783992,
+   0.2304868556669594,
+   0.6308745985493649,
+   0.41012389803193305
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_almont_ver01\/data\/sn88076741\/00295863572\/1895122701\/0461\/001_0_98.jpg",
+  "geographic_coverage": [
+   "North Dakota--Pembina--Pembina"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_almont_ver01%2Fdata%2Fsn88076741%2F00295863572%2F1895122701%2F0461.jp2\/pct:19.75,23.05,43.34,17.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn88076741",
+  "name": "The pioneer express. [volume]",
+  "ocr": [
+   "(U",
+   "v^\u00ab*rv\u00a3",
+   "iC.'",
+   "1",
+   "ic",
+   ".*v",
+   "Thrashing",
+   "Scene",
+   "in",
+   "North",
+   "Dakota.",
+   "if",
+   "m-",
+   "U\".*"
+  ],
+  "page_seq_num": 461,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_almont_ver01\/data\/sn88076741\/00295863572\/1895122701\/0461.jp2",
+  "place_of_publication": "Pembina, Dakota [N.D.]",
+  "pub_date": "1895-12-27",
+  "publisher": "R.H. Young",
+  "score": 0.9819318056106567,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_almont_ver01\/data\/sn88076741\/00295863572\/1895122701\/0461\/001_0_98.jpg"
+ },
+ "id": 75
+}

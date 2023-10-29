@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768404,
+   "id": 1486001,
+   "lead_time": 1.792,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ttKGixQTT2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_hawaii_ver01",
+  "box": [
+   0.1850228601572465,
+   0.30215263754634536,
+   0.31000339741609534,
+   0.5077521682997881
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_hawaii_ver01\/data\/sn99062034\/00279523106\/1914062701\/0892\/008_0_96.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lake--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_hawaii_ver01%2Fdata%2Fsn99062034%2F00279523106%2F1914062701%2F0892.jp2\/pct:18.5,30.22,12.5,20.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn99062034",
+  "name": "The Madison daily leader. [volume]",
+  "ocr": [
+   "North",
+   "Dakota",
+   "Executive",
+   "It",
+   "Again",
+   "Named",
+   "by",
+   "Close",
+   "Margin.",
+   "j*",
+   "\"J",
+   "'4",
+   "\u2022k-.,*"
+  ],
+  "page_seq_num": 892,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_hawaii_ver01\/data\/sn99062034\/00279523106\/1914062701\/0892.jp2",
+  "place_of_publication": "Madison, S.D.",
+  "pub_date": "1914-06-27",
+  "publisher": "J.F. Stahl",
+  "score": 0.9645770192146301,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_hawaii_ver01\/data\/sn99062034\/00279523106\/1914062701\/0892\/008_0_96.jpg"
+ },
+ "id": 1486
+}

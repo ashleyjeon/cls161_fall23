@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675552,
+   "id": 545001,
+   "lead_time": 1.674,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "soczPuvZw4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_ingalls_ver01",
+  "box": [
+   0.4216296565425289,
+   0.23120791998633458,
+   0.5503037255089562,
+   0.37697301682072504
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_ingalls_ver01\/data\/sn84020274\/00294559462\/1902030301\/0079\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_ingalls_ver01%2Fdata%2Fsn84020274%2F00294559462%2F1902030301%2F0079.jp2\/pct:42.16,23.13,12.87,14.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "TUB",
+   "REVERENII",
+   "J.",
+   "IATTOX",
+   "MAUZE.",
+   "i",
+   "\"",
+   "v",
+   "-\"",
+   "isBBff3B9BlP",
+   "l",
+   "ts",
+   "\"",
+   "bTbTbTbTbbtI",
+   ".BBYBmV",
+   ".sbBBYBYBYBYByM",
+   "sBsBsBsSsBsBsBsmssssBssl-",
+   ".",
+   ".",
+   "'",
+   "s"
+  ],
+  "page_seq_num": 79,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_ingalls_ver01\/data\/sn84020274\/00294559462\/1902030301\/0079.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1902-03-03",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9584881663322449,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_ingalls_ver01\/data\/sn84020274\/00294559462\/1902030301\/0079\/003_0_95.jpg"
+ },
+ "id": 545
+}

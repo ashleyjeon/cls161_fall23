@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766241,
+   "id": 86001,
+   "lead_time": 1.837,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WeCIYhg-wU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_kauai_ver01",
+  "box": [
+   0.4473438361971054,
+   0.6966809997126945,
+   0.5940202532775182,
+   0.8595896158393741
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545\/004_0_96.jpg",
+  "geographic_coverage": [
+   "South Dakota--Union--Elk Point"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523593%2F1896052101%2F0545.jp2\/pct:44.73,69.67,14.67,16.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022137",
+  "name": "Union County courier. [volume]",
+  "ocr": [
+   "J.",
+   "M.",
+   "TAIJCOTT.\u2014'Treasurerof",
+   "Board.",
+   "[The",
+   "above",
+   "UkenMs",
+   "of",
+   "Capt.",
+   "Jamas",
+   "M.",
+   "Talcott",
+   "wan",
+   "made",
+   "from",
+   "a",
+   "photograph",
+   "taken",
+   "tumie",
+   "(wen",
+   "ou\u00ab",
+   "yeara",
+   "ago.",
+   "and",
+   "is",
+   "now",
+   "the",
+   "only",
+   "one",
+   "In",
+   "ex",
+   "istence.",
+   "While",
+   "It",
+   "la",
+   "not",
+   "a",
+   "very",
+   "good",
+   "picture",
+   "of",
+   "Mr.",
+   "l'aicott",
+   "AS",
+   "he",
+   "appnan",
+   "xlay,",
+   "Tmc",
+   "CHITKIKK",
+   "used",
+   "It",
+   "feeling",
+   "that",
+   "the",
+   "edition",
+   "would",
+   "nut",
+   "tw",
+   "complete",
+   "without",
+   "It,",
+   "although",
+   "we",
+   "feel",
+   "safe",
+   "In",
+   "saying",
+   "that",
+   "twenty-one",
+   "years",
+   "ago",
+   "he",
+   "was",
+   "Just"
+  ],
+  "page_seq_num": 545,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545.jp2",
+  "place_of_publication": "Elk Point, Union County, D.T. [S.D.]",
+  "pub_date": "1896-05-21",
+  "publisher": "C.F. Mallahan",
+  "score": 0.9678753018379211,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545\/004_0_96.jpg"
+ },
+ "id": 86
+}

@@ -1,0 +1,108 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767755,
+   "id": 1996001,
+   "lead_time": 2.747,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "69AwvLrA-W",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_gus_ver02",
+  "box": [
+   0.0759342226610785,
+   0.7375616073608399,
+   0.38569884424009193,
+   0.946595573425293
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_gus_ver02\/data\/sn89058253\/00415621991\/1920010201\/0419\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Tennessee--Fayette--Somerville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_gus_ver02%2Fdata%2Fsn89058253%2F00415621991%2F1920010201%2F0419.jp2\/pct:7.59,73.76,30.98,20.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058253",
+  "name": "The Fayette falcon.",
+  "ocr": [
+   "SEARCHING",
+   "FOR",
+   "GRAVES",
+   "OF",
+   "THEIR",
+   "DEAD",
+   "11",
+   ".v",
+   "C",
+   "ferfM",
+   "1",
+   "1",
+   "ij",
+   "'",
+   "\"VKL\"r",
+   ",",
+   "tVvtttn",
+   "citlxens",
+   "passing",
+   "between",
+   "cfe&rfcU",
+   "of",
+   "Verdua",
+   "la",
+   "search",
+   "of",
+   "their",
+   "'",
+   "hundred",
+   "tnoa&aaJ",
+   "rrarea",
+   "are",
+   "on",
+   ".;",
+   "..",
+   "..",
+   "P,",
+   "-",
+   "'",
+   "-SSI",
+   "the",
+   "rows",
+   "of",
+   "graves",
+   "which",
+   "mark",
+   "the",
+   "bat",
+   "dear",
+   "ones",
+   "who",
+   "died",
+   "In",
+   "the",
+   "great",
+   "defease.",
+   "this",
+   "hallowed",
+   "battlefield."
+  ],
+  "page_seq_num": 419,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_gus_ver02\/data\/sn89058253\/00415621991\/1920010201\/0419.jp2",
+  "place_of_publication": "Somerville, Tenn.",
+  "pub_date": "1920-01-02",
+  "publisher": "W.T. Loggins",
+  "score": 0.974709689617157,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_gus_ver02\/data\/sn89058253\/00415621991\/1920010201\/0419\/005_0_97.jpg"
+ },
+ "id": 1996
+}

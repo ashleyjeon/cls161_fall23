@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751176,
+   "id": 529001,
+   "lead_time": 1.833,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8fW7A3qAcI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "me_camden_ver01",
+  "box": [
+   0.27007892735473943,
+   0.5551286177201704,
+   0.40556206666600064,
+   0.7212682380747043
+  ],
+  "edition_seq_num": 1,
+  "filepath": "me_camden_ver01\/data\/sn78000873\/00279524846\/1901072501\/0249\/004_0_91.jpg",
+  "geographic_coverage": [
+   "Maine--Waldo--Belfast"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/me_camden_ver01%2Fdata%2Fsn78000873%2F00279524846%2F1901072501%2F0249.jp2\/pct:27.0,55.52,13.55,16.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn78000873",
+  "name": "The Republican journal. [volume]",
+  "ocr": [
+   "1",
+   "LATEST",
+   "THING",
+   "IN",
+   "STRAW",
+   "HATS.",
+   "'finely",
+   "braided",
+   "straw,",
+   "with",
+   "a",
+   "broad,",
+   "sombrerolike",
+   "brim",
+   "and",
+   "a",
+   "medium",
+   "heiebt",
+   "cocked",
+   "crown."
+  ],
+  "page_seq_num": 249,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/me_camden_ver01\/data\/sn78000873\/00279524846\/1901072501\/0249.jp2",
+  "place_of_publication": "Belfast, Me.",
+  "pub_date": "1901-07-25",
+  "publisher": "White & Rowe",
+  "score": 0.919567883014679,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/me_camden_ver01\/data\/sn78000873\/00279524846\/1901072501\/0249\/004_0_91.jpg"
+ },
+ "id": 529
+}

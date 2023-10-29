@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767841,
+   "id": 1324001,
+   "lead_time": 6.176,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WCRc0JTyBR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_goldenalexanders_ver01",
+  "box": [
+   0.22271065507787902,
+   0.4409630320896612,
+   0.659279849727448,
+   0.6477539788491663
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_goldenalexanders_ver01\/data\/sn83045348\/00279528104\/1912042401\/1089\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_goldenalexanders_ver01%2Fdata%2Fsn83045348%2F00279528104%2F1912042401%2F1089.jp2\/pct:22.27,44.1,43.66,20.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045348",
+  "name": "Pokrok za\u0301padu. [volume]",
+  "ocr": [
+   "I",
+   "j",
+   "r",
+   "Parn\u00edk",
+   "Titanic",
+   "a",
+   "1",
+   "V",
+   "'",
+   "'",
+   "I",
+   "i"
+  ],
+  "page_seq_num": 1089,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_goldenalexanders_ver01\/data\/sn83045348\/00279528104\/1912042401\/1089.jp2",
+  "place_of_publication": "Omaha, Neb.",
+  "pub_date": "1912-04-24",
+  "publisher": "Pokrok Publishing Company",
+  "score": 0.9965852499008179,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_goldenalexanders_ver01\/data\/sn83045348\/00279528104\/1912042401\/1089\/000_0_99.jpg"
+ },
+ "id": 1324
+}

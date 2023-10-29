@@ -1,0 +1,108 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748249,
+   "id": 508001,
+   "lead_time": 5.631,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tm768VePei",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_grindylow_ver01",
+  "box": [
+   0.19152305990351978,
+   0.050573976498085045,
+   0.6353970902588179,
+   0.27493281162522903
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_grindylow_ver01\/data\/sn86086499\/00414214502\/1901010501\/0153\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Milwaukee--Wauwatosa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_grindylow_ver01%2Fdata%2Fsn86086499%2F00414214502%2F1901010501%2F0153.jp2\/pct:19.15,5.06,44.39,22.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086499",
+  "name": "Wauwatosa news. [volume]",
+  "ocr": [
+   "RUSHING",
+   "NEW",
+   "YORK'S",
+   "SMALLPOX",
+   "PATIENTS",
+   "TO",
+   "HOSPITALS.",
+   "Although",
+   "it",
+   "has",
+   "not",
+   "yet",
+   "reached",
+   "the",
+   "dimensions",
+   "of",
+   "an",
+   "epidemic,",
+   "smallpox",
+   "keeping",
+   "the",
+   "physicians",
+   "and",
+   "trained",
+   "nurses",
+   "nt",
+   "the",
+   "metropolis",
+   "on",
+   "the",
+   "jump.",
+   "Ihe",
+   "patients",
+   "are",
+   "taken",
+   "in",
+   "ambulances",
+   "to",
+   "the",
+   "wharf",
+   "at",
+   "HelleVue",
+   "hospital",
+   "whence",
+   "the\\",
+   "tire",
+   "shipped",
+   "by",
+   "river",
+   "steamers",
+   "for",
+   "isolation",
+   "in",
+   "the",
+   "pesthouse",
+   "on",
+   "North",
+   "Brother",
+   "island."
+  ],
+  "page_seq_num": 153,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_grindylow_ver01\/data\/sn86086499\/00414214502\/1901010501\/0153.jp2",
+  "place_of_publication": "Wauwatosa, Wis.",
+  "pub_date": "1901-01-05",
+  "publisher": "Wauwatosa Printing",
+  "score": 0.9632025361061096,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_grindylow_ver01\/data\/sn86086499\/00414214502\/1901010501\/0153\/002_0_96.jpg"
+ },
+ "id": 508
+}

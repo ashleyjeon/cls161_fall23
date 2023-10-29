@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768497,
+   "id": 420001,
+   "lead_time": 1.747,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "D0nQ5u3a3Q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.8205443097216617,
+   0.11939039806391569,
+   0.9737160320211601,
+   0.3043383911952076
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040900\/1900081501\/0258\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040900%2F1900081501%2F0258.jp2\/pct:82.05,11.94,15.32,18.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "JOHN",
+   "C",
+   "FERGTTSON.",
+   "Official",
+   "adviser",
+   "to",
+   "the",
+   "Chinese",
+   "Director",
+   "of"
+  ],
+  "page_seq_num": 258,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040900\/1900081501\/0258.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-08-15",
+  "publisher": "New York Tribune",
+  "score": 0.9756968021392822,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040900\/1900081501\/0258\/001_0_97.jpg"
+ },
+ "id": 420
+}

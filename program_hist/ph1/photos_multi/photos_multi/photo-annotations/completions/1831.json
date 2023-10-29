@@ -1,0 +1,80 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763840,
+   "id": 1831001,
+   "lead_time": 3.012,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nKWcIDRbvC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_grindylow_ver01",
+  "box": [
+   0.515653995504403,
+   0.05862268447875976,
+   0.6728985945780082,
+   0.25458155314127606
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_grindylow_ver01\/data\/sn85040652\/00414215580\/1918062201\/1077\/006_0_90.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Iron--Hurley"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_grindylow_ver01%2Fdata%2Fsn85040652%2F00414215580%2F1918062201%2F1077.jp2\/pct:51.56,5.87,15.73,19.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040652",
+  "name": "Iron County news. [volume]",
+  "ocr": [
+   "PAID",
+   "ADVERTISEMENT.",
+   "Authorized",
+   "and",
+   "inserted",
+   "by",
+   "P.",
+   "J.",
+   "Lanzer.",
+   "Hurley.",
+   "W>.,",
+   "who",
+   "will",
+   "pay",
+   "*I.OO",
+   "for",
+   "each",
+   "insertion.",
+   "To",
+   "the",
+   "Citizens",
+   "of",
+   "Iron",
+   "County:",
+   "I",
+   "have",
+   "decided",
+   "to",
+   "become",
+   "a",
+   "can"
+  ],
+  "page_seq_num": 1077,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_grindylow_ver01\/data\/sn85040652\/00414215580\/1918062201\/1077.jp2",
+  "place_of_publication": "Hurley, Wis.",
+  "pub_date": "1918-06-22",
+  "publisher": "F.A. Emunson",
+  "score": 0.9097346067428589,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_grindylow_ver01\/data\/sn85040652\/00414215580\/1918062201\/1077\/006_0_90.jpg"
+ },
+ "id": 1831
+}

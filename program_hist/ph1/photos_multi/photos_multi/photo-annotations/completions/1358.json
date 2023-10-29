@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746833,
+   "id": 1358001,
+   "lead_time": 1.988,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ddQZ3nbxGw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_iversen_ver01",
+  "box": [
+   0.3760242121560233,
+   0.2107503936621561,
+   0.6125906535557338,
+   0.5786618757476076
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_iversen_ver01\/data\/sn83030193\/00211100199\/1912103101\/0284\/010_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_iversen_ver01%2Fdata%2Fsn83030193%2F00211100199%2F1912103101%2F0284.jp2\/pct:37.6,21.08,23.66,36.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "The",
+   "Late",
+   "Vice-President",
+   "Sherman",
+   "and",
+   "Men",
+   "Favored",
+   "as",
+   "His",
+   "Successor",
+   ",",
+   ".txiiii",
+   "M",
+   "L",
+   "11",
+   "IJJ''",
+   ",,",
+   "sM,IiIll",
+   "IU",
+   "U",
+   ".",
+   "sH",
+   "hlB&fl",
+   "n",
+   "lyi",
+   "sssssssssssssssss-SK",
+   ";",
+   "'",
+   "1",
+   "BBnaBWaB",
+   "HJ",
+   "MMn",
+   "URASH"
+  ],
+  "page_seq_num": 284,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_iversen_ver01\/data\/sn83030193\/00211100199\/1912103101\/0284.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1912-10-31",
+  "publisher": "[publisher not identified]",
+  "score": 0.9002467393875122,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_iversen_ver01\/data\/sn83030193\/00211100199\/1912103101\/0284\/010_0_90.jpg"
+ },
+ "id": 1358
+}

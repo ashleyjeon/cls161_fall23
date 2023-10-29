@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611680609,
+   "id": 709001,
+   "lead_time": 3.635,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "hFdrxmkzXj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_nine_ver01",
+  "box": [
+   0.03839426943491448,
+   0.1294972655593708,
+   0.499337984629823,
+   0.34374891711819555
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_nine_ver01\/data\/sn88074815\/00175041825\/1904102101\/0521\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Florida--Marion--Ocala"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_nine_ver01%2Fdata%2Fsn88074815%2F00175041825%2F1904102101%2F0521.jp2\/pct:3.83,12.95,46.1,21.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn88074815",
+  "name": "The Ocala banner.",
+  "ocr": [
+   "r",
+   "IJIl",
+   "i",
+   "rF",
+   ">",
+   "L",
+   "f",
+   ">",
+   "I",
+   "IA",
+   "BERG",
+   "REMODELED",
+   "AFTER",
+   "THE",
+   "PLANS",
+   "MADE",
+   "MADEBY",
+   "MADEBY",
+   ">",
+   "fADEBY",
+   "AH",
+   "A",
+   "THE",
+   "OU",
+   ">",
+   "BUILDING",
+   "WILL",
+   "APPEAR",
+   "AFTER",
+   "I"
+  ],
+  "page_seq_num": 521,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_nine_ver01\/data\/sn88074815\/00175041825\/1904102101\/0521.jp2",
+  "place_of_publication": "Ocala, Marion County, Fla.",
+  "pub_date": "1904-10-21",
+  "publisher": "Banner Pub. Co.",
+  "score": 0.9792520403862,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_nine_ver01\/data\/sn88074815\/00175041825\/1904102101\/0521\/003_0_97.jpg"
+ },
+ "id": 709
+}

@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611742681,
+   "id": 751001,
+   "lead_time": 3.215,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mRo289wzoE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.3967072258989241,
+   0.5653390786082474,
+   0.5085539077983438,
+   0.7123769458030693
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107352\/1904080901\/0489\/018_0_93.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107352%2F1904080901%2F0489.jp2\/pct:39.67,56.54,11.19,14.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "nuatii'iiNT",
+   "Noitn.",
+   "t",
+   ".",
+   "while*",
+   "ir.-i.i",
+   "lit",
+   "\u00ab",
+   "many",
+   "AmerlcAU*))"
+  ],
+  "page_seq_num": 489,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107352\/1904080901\/0489.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1904-08-09",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9304203987121582,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107352\/1904080901\/0489\/018_0_93.jpg"
+ },
+ "id": 751
+}

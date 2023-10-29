@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768181,
+   "id": 942001,
+   "lead_time": 2.367,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ic5PXhYT7S",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_layden_ver01",
+  "box": [
+   0.4460810350598334,
+   0.05295870029431884,
+   0.7590103041806241,
+   0.30995283698156684
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_layden_ver01\/data\/sn85058245\/206535490\/1907022101\/0652\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Utah--Spanish Fork"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_layden_ver01%2Fdata%2Fsn85058245%2F206535490%2F1907022101%2F0652.jp2\/pct:44.6,5.3,31.3,25.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058245",
+  "name": "The Spanish Fork press. [volume]",
+  "ocr": [
+   "I",
+   "jwri",
+   "I",
+   "u",
+   "jr",
+   "d",
+   "I",
+   "I",
+   "GEORGE",
+   "WASHINGTON",
+   "First",
+   "In",
+   "War",
+   "First",
+   "In",
+   "Peace",
+   "and",
+   "First",
+   "In",
+   "the",
+   "Hearts",
+   "of",
+   "His",
+   "Countrymen"
+  ],
+  "page_seq_num": 652,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_layden_ver01\/data\/sn85058245\/206535490\/1907022101\/0652.jp2",
+  "place_of_publication": "Spanish Fork, Utah",
+  "pub_date": "1907-02-21",
+  "publisher": "A. Jensen",
+  "score": 0.981113076210022,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_layden_ver01\/data\/sn85058245\/206535490\/1907022101\/0652\/000_0_98.jpg"
+ },
+ "id": 942
+}

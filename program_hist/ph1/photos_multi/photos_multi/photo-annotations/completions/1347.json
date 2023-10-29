@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611680605,
+   "id": 1347001,
+   "lead_time": 3.67,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ARCHMrKq7k",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nvln_idlewild_ver01",
+  "box": [
+   0.47590593027909245,
+   0.24207371303013392,
+   0.6245366629619641,
+   0.42435782296316965
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nvln_idlewild_ver01\/data\/sn86076241\/00271762264\/1912070901\/0029\/006_0_94.jpg",
+  "geographic_coverage": [
+   "Nevada--Carson City--Carson City",
+   "Nevada--Ormsby--Carson City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nvln_idlewild_ver01%2Fdata%2Fsn86076241%2F00271762264%2F1912070901%2F0029.jp2\/pct:47.59,24.21,14.87,18.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn86076241",
+  "name": "Carson City daily appeal. [volume]",
+  "ocr": [
+   "WALKER",
+   "WHITING",
+   "VICK."
+  ],
+  "page_seq_num": 29,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nvln_idlewild_ver01\/data\/sn86076241\/00271762264\/1912070901\/0029.jp2",
+  "place_of_publication": "Carson City, Nev.",
+  "pub_date": "1912-07-09",
+  "publisher": "Appeal Pub. Co.",
+  "score": 0.9441684484481812,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nvln_idlewild_ver01\/data\/sn86076241\/00271762264\/1912070901\/0029\/006_0_94.jpg"
+ },
+ "id": 1347
+}

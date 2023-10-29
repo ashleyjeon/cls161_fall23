@@ -1,0 +1,95 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772400,
+   "id": 1557001,
+   "lead_time": 5.126,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lr4ushAOdt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_diamond_ver01",
+  "box": [
+   0.2870686789539373,
+   0.3245081836821267,
+   0.6080924060857185,
+   0.4293627708745758
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_diamond_ver01\/data\/sn87065469\/00383344062\/1915061701\/0096\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Mississippi--Lafayette--Oxford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_diamond_ver01%2Fdata%2Fsn87065469%2F00383344062%2F1915061701%2F0096.jp2\/pct:28.7,32.46,32.11,10.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn87065469",
+  "name": "Oxford eagle.",
+  "ocr": [
+   "UNCLE",
+   "SAM'S",
+   "NEWEST",
+   "6REAT",
+   "BATTLESHIP",
+   "Picture",
+   "of",
+   "the",
+   "new",
+   "wtleehtp",
+   "Arison*",
+   "which",
+   "Is",
+   "to",
+   "be",
+   "launched",
+   "on",
+   "June",
+   "W",
+   "st",
+   "the",
+   "New",
+   "York",
+   "narj",
+   "Tsrd",
+   "She",
+   "Is",
+   "a",
+   "ship",
+   "of",
+   "the",
+   "Pennsylvania",
+   "and.",
+   "exclusive",
+   "of",
+   "armor",
+   "and",
+   "armament,",
+   "win",
+   "cost",
+   "I7.MS.0M",
+   "She",
+   "will",
+   "carry",
+   "twelve",
+   "ruds."
+  ],
+  "page_seq_num": 96,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_diamond_ver01\/data\/sn87065469\/00383344062\/1915061701\/0096.jp2",
+  "place_of_publication": "Oxford, Lafayette Co., Miss.",
+  "pub_date": "1915-06-17",
+  "publisher": "J.E. Herndon",
+  "score": 0.9768721461296082,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_diamond_ver01\/data\/sn87065469\/00383344062\/1915061701\/0096\/006_0_97.jpg"
+ },
+ "id": 1557
+}

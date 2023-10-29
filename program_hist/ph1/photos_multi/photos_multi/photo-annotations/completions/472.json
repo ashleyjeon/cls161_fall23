@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767382,
+   "id": 472001,
+   "lead_time": 1.699,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "86YVhbBBWK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_richfield_ver01",
+  "box": [
+   0.03901355333336862,
+   0.5655162025971957,
+   0.2853977992498024,
+   0.802508751095443
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901033001\/0414\/008_0_90.jpg",
+  "geographic_coverage": [
+   "Minnesota--Hennepin--Minneapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_richfield_ver01%2Fdata%2Fsn83045366%2F00206533894%2F1901033001%2F0414.jp2\/pct:3.9,56.56,24.64,23.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045366",
+  "name": "The Minneapolis journal. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 414,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901033001\/0414.jp2",
+  "place_of_publication": "Minneapolis, Minn.",
+  "pub_date": "1901-03-30",
+  "publisher": "Journal Print. Co.",
+  "score": 0.9087100028991699,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901033001\/0414\/008_0_90.jpg"
+ },
+ "id": 472
+}

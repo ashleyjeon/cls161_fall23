@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749245,
+   "id": 1226001,
+   "lead_time": 1.083,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "A4MjgUUzFC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_farmer_ver01",
+  "box": [
+   0.2947205720124421,
+   0.6714662079848475,
+   0.562764448001061,
+   0.811721306231628
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_farmer_ver01\/data\/sn85059715\/00415660753\/1910111701\/0464\/006_0_98.jpg",
+  "geographic_coverage": [
+   "West Virginia--Harrison--Clarksburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_farmer_ver01%2Fdata%2Fsn85059715%2F00415660753%2F1910111701%2F0464.jp2\/pct:29.47,67.15,26.81,14.03\/!500,500\/0\/default.jpg",
+  "lccn": "sn85059715",
+  "name": "The daily telegram. [volume]",
+  "ocr": [
+   "|",
+   "L",
+   "111",
+   "A",
+   "FM>CK",
+   "OV",
+   "'Ith",
+   "\"Tlic",
+   "Time,",
+   "The",
+   "I'lnce",
+   "The",
+   "<3",
+   "jincl",
+   "iti'K",
+   "I",
+   "HQV",
+   "AIIH",
+   "Lt,",
+   "Irl,\"",
+   "lit",
+   "(iraud,",
+   "Saturday,",
+   "ht."
+  ],
+  "page_seq_num": 464,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_farmer_ver01\/data\/sn85059715\/00415660753\/1910111701\/0464.jp2",
+  "place_of_publication": "Clarksburg, W. Va.",
+  "pub_date": "1910-11-17",
+  "publisher": "Clarksburg Telegram Co.",
+  "score": 0.9826471209526062,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_farmer_ver01\/data\/sn85059715\/00415660753\/1910111701\/0464\/006_0_98.jpg"
+ },
+ "id": 1226
+}

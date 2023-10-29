@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768562,
+   "id": 1466001,
+   "lead_time": 1.849,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eSzk3-4QZO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_greer_ver01",
+  "box": [
+   0.3613838835685484,
+   0.05372728620256696,
+   0.6450152784778226,
+   0.358685056805174
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_greer_ver01\/data\/sn96093062\/00237280428\/1914071701\/0761\/004_0_92.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Bryan--Durant"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_greer_ver01%2Fdata%2Fsn96093062%2F00237280428%2F1914071701%2F0761.jp2\/pct:36.13,5.38,28.37,30.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn96093062",
+  "name": "Durant weekly news.",
+  "ocr": [
+   "J.",
+   "C.",
+   "-",
+   "MjcClelland",
+   "FOR",
+   "State",
+   "Treasurer",
+   "This",
+   "Is",
+   "a'",
+   "fair",
+   "likeness",
+   "of",
+   "Honest",
+   "Joo",
+   "McClelland,",
+   "a",
+   "man",
+   "who",
+   "never",
+   "botrayod",
+   "a",
+   "trust,",
+   "or",
+   "accepted",
+   "a",
+   "dollar",
+   "In:",
+   "of",
+   "trumpets",
+   "or",
+   "beating",
+   "ot",
+   "torn",
+   "tc.",
+   "'.",
+   "H",
+   "l'asl",
+   "not",
+   "uoon",
+   "exploited",
+   "in",
+   "nv",
+   "spaper",
+   "accounts",
+   "or",
+   "interviews,",
+   "but"
+  ],
+  "page_seq_num": 761,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_greer_ver01\/data\/sn96093062\/00237280428\/1914071701\/0761.jp2",
+  "place_of_publication": "Durant, Choctaw Nation, Indian Territory [Okla.]",
+  "pub_date": "1914-07-17",
+  "publisher": "Lewis Paullin",
+  "score": 0.9226239919662476,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_greer_ver01\/data\/sn96093062\/00237280428\/1914071701\/0761\/004_0_92.jpg"
+ },
+ "id": 1466
+}

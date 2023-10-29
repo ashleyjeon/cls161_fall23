@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762877,
+   "id": 1291001,
+   "lead_time": 1.69,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4q1pZZrm3G",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_hemlock_ver01",
+  "box": [
+   0.7018938774429865,
+   0.10262083373317829,
+   0.8357591351259102,
+   0.2826876778134032
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_hemlock_ver01\/data\/sn83016689\/00279551862\/1911071101\/0070\/011_0_91.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_hemlock_ver01%2Fdata%2Fsn83016689%2F00279551862%2F1911071101%2F0070.jp2\/pct:70.18,10.27,13.39,18.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "BEEF",
+   "TRUBT",
+   "PROSECUTOR",
+   "WILL",
+   "GET",
+   "STEADY",
+   "JOB",
+   "y.",
+   "t",
+   "9",
+   "'",
+   "\u2022",
+   "-A:-",
+   "Jm",
+   "i",
+   "KffJ\/J",
+   "i",
+   "4<i",
+   ".",
+   "\u2018",
+   "F,",
+   ",",
+   "v",
+   "r",
+   "y\/\/\/&Kmm7",
+   "t",
+   "JAMES",
+   "H.",
+   "WILKERBON,",
+   "Special",
+   "prosecutor",
+   "of",
+   "tho",
+   "boot",
+   "truot",
+   "cases",
+   "no",
+   "wpending.",
+   "who",
+   "will",
+   "aucoeed",
+   "Edwin",
+   "W.",
+   "Ilm\u00bb",
+   "no",
+   "fodorol",
+   "district",
+   "attorney",
+   "at",
+   "Chicago,",
+   "upon",
+   "tho",
+   "tatter's",
+   "retirement."
+  ],
+  "page_seq_num": 70,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_hemlock_ver01\/data\/sn83016689\/00279551862\/1911071101\/0070.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1911-07-11",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9163591265678406,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_hemlock_ver01\/data\/sn83016689\/00279551862\/1911071101\/0070\/011_0_91.jpg"
+ },
+ "id": 1291
+}

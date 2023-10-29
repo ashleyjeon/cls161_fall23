@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769150,
+   "id": 467001,
+   "lead_time": 1.518,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5FMm55bTB1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_chickadee_ver01",
+  "box": [
+   0.5257297010306853,
+   0.5056529952177411,
+   0.6388960872788028,
+   0.6541882792900579
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_chickadee_ver01\/data\/sn96088281\/00200294464\/1901092601\/0215\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Oregon--Josephine--Grants Pass"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_chickadee_ver01%2Fdata%2Fsn96088281%2F00200294464%2F1901092601%2F0215.jp2\/pct:52.57,50.57,11.32,14.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn96088281",
+  "name": "Rogue River courier.",
+  "ocr": [
+   "fed",
+   "i",
+   "rft'.-e.-:rVA,i':'!.v",
+   "il",
+   "ti.",
+   "f",
+   "-wv",
+   ";':!'",
+   "i",
+   "Vi-",
+   "&",
+   ".",
+   "S",
+   ":",
+   "-1)1",
+   ",tlr",
+   "Coi.yriiJr.t.",
+   "ii'-K).",
+   "by",
+   "Rock",
+   "wood.",
+   "N.",
+   "Y",
+   "TlllloruiliK",
+   "IKKfriKVUtaT."
+  ],
+  "page_seq_num": 215,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_chickadee_ver01\/data\/sn96088281\/00200294464\/1901092601\/0215.jp2",
+  "place_of_publication": "Grants Pass, Or.",
+  "pub_date": "1901-09-26",
+  "publisher": "Wimer & Stine",
+  "score": 0.9635135531425476,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_chickadee_ver01\/data\/sn96088281\/00200294464\/1901092601\/0215\/007_0_96.jpg"
+ },
+ "id": 467
+}

@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673563,
+   "id": 414001,
+   "lead_time": 1.732,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YBsHaJgLqn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ncu_grandfather_ver01",
+  "box": [
+   0.6802227673933025,
+   0.07868178747907757,
+   0.9180815583706309,
+   0.22502912434713265
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ncu_grandfather_ver01\/data\/sn99061556\/00415667577\/1900050801\/0150\/001_0_98.jpg",
+  "geographic_coverage": [
+   "North Carolina--Wake--Raleigh"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ncu_grandfather_ver01%2Fdata%2Fsn99061556%2F00415667577%2F1900050801%2F0150.jp2\/pct:68.02,7.87,23.79,14.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn99061556",
+  "name": "The farmer and mechanic. [volume]",
+  "ocr": [
+   "MISS",
+   "DAISY",
+   "SIMS.",
+   "-",
+   "V",
+   "f",
+   "f",
+   "V",
+   "4",
+   "m",
+   "sW",
+   "s",
+   "N",
+   "V",
+   ".",
+   "i.",
+   "'.ft",
+   "i",
+   "1",
+   "V",
+   "Charlotte.",
+   "X.",
+   "C."
+  ],
+  "page_seq_num": 150,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ncu_grandfather_ver01\/data\/sn99061556\/00415667577\/1900050801\/0150.jp2",
+  "place_of_publication": "Raleigh, N.C.",
+  "pub_date": "1900-05-08",
+  "publisher": "[s.n.]",
+  "score": 0.9811047911643982,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ncu_grandfather_ver01\/data\/sn99061556\/00415667577\/1900050801\/0150\/001_0_98.jpg"
+ },
+ "id": 414
+}

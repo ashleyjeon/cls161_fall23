@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769055,
+   "id": 1634001,
+   "lead_time": 1.712,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FRziKPGDMC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_onslaught_ver01",
+  "box": [
+   0.0518374172360616,
+   0.648129121474419,
+   0.18839518784435555,
+   0.8469499076145521
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_onslaught_ver01\/data\/sn88064430\/0020029984A\/1916102101\/0350\/001_0_92.jpg",
+  "geographic_coverage": [
+   "Louisiana--Madison--Tallulah"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_onslaught_ver01%2Fdata%2Fsn88064430%2F0020029984A%2F1916102101%2F0350.jp2\/pct:5.18,64.82,13.66,19.89\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064430",
+  "name": "The Madison journal.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 350,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_onslaught_ver01\/data\/sn88064430\/0020029984A\/1916102101\/0350.jp2",
+  "place_of_publication": "Tallulah, Madison Parish, La.",
+  "pub_date": "1916-10-21",
+  "publisher": "P.W. Hickey",
+  "score": 0.9213392734527588,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_onslaught_ver01\/data\/sn88064430\/0020029984A\/1916102101\/0350\/001_0_92.jpg"
+ },
+ "id": 1634
+}

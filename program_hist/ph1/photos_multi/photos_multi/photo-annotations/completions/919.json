@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675683,
+   "id": 919001,
+   "lead_time": 2.182,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-JTZA64o8p",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_six_ver01",
+  "box": [
+   0.18804982844615142,
+   0.490032131389036,
+   0.46796033206402055,
+   0.6351619773359255
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_six_ver01\/data\/sn95026697\/00175042519\/1906072001\/0630\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Florida--Volusia--De Land"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_six_ver01%2Fdata%2Fsn95026697%2F00175042519%2F1906072001%2F0630.jp2\/pct:18.8,49.01,28.0,14.52\/!500,500\/0\/default.jpg",
+  "lccn": "sn95026697",
+  "name": "The DeLand weekly news. [volume]",
+  "ocr": [
+   "aier",
+   "aierOETT1NO"
+  ],
+  "page_seq_num": 630,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_six_ver01\/data\/sn95026697\/00175042519\/1906072001\/0630.jp2",
+  "place_of_publication": "DeLand, Fla.",
+  "pub_date": "1906-07-20",
+  "publisher": "L.H. Eldridge",
+  "score": 0.9879173636436462,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_six_ver01\/data\/sn95026697\/00175042519\/1906072001\/0630\/001_0_98.jpg"
+ },
+ "id": 919
+}

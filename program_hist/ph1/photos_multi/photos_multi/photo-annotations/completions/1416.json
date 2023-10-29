@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768422,
+   "id": 1416001,
+   "lead_time": 1.792,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1DJFEkMKUU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_elodia_ver01",
+  "box": [
+   0.3953995172287665,
+   0.6637973205285138,
+   0.6459862020980267,
+   0.9380573606710829
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_elodia_ver01\/data\/sn85066408\/00271767134\/1913121401\/1426\/002_0_98.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_elodia_ver01%2Fdata%2Fsn85066408%2F00271767134%2F1913121401%2F1426.jp2\/pct:39.53,66.38,25.06,27.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066408",
+  "name": "L'Italia. [volume]",
+  "ocr": [
+   "Cannone",
+   "da",
+   ":W.I\u201440",
+   "depositato",
+   "sul",
+   "ponte",
+   "prima",
+   "di",
+   "ce",
+   "sere",
+   "Incavalcato",
+   "Nid",
+   "MIO",
+   "affusto.",
+   "Hi",
+   "scorge",
+   "chiaramente",
+   "1'\"",
+   "otturali",
+   "ire\"",
+   "ossia",
+   "il",
+   "congegno",
+   "di",
+   "chiusura,",
+   "enorme",
+   "Mocro",
+   "d'acciaio",
+   "avvitato",
+   "nel",
+   "vivo",
+   "tirila",
+   "culatta",
+   "e",
+   "che"
+  ],
+  "page_seq_num": 1426,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_elodia_ver01\/data\/sn85066408\/00271767134\/1913121401\/1426.jp2",
+  "place_of_publication": "San Francisco, Calif.",
+  "pub_date": "1913-12-14",
+  "publisher": "Italian Pub. Co.",
+  "score": 0.9822497963905334,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_elodia_ver01\/data\/sn85066408\/00271767134\/1913121401\/1426\/002_0_98.jpg"
+ },
+ "id": 1416
+}

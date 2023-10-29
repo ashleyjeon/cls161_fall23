@@ -1,0 +1,41 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675743,
+   "id": 1474001,
+   "lead_time": 2.17,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_cedar_ver01",
+  "box": [
+   0.5163403304376428,
+   0.3956288847152967,
+   0.7826627327941417,
+   0.48907624954510964
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_cedar_ver01\/data\/sn98047754\/00211107790\/1914040101\/1033\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Washington--King--Kent",
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_cedar_ver01%2Fdata%2Fsn98047754%2F00211107790%2F1914040101%2F1033.jp2\/pct:51.63,39.57,26.64,9.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn98047754",
+  "name": "The ranch.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 1033,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_cedar_ver01\/data\/sn98047754\/00211107790\/1914040101\/1033.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1914-04-01",
+  "publisher": "[s.n.",
+  "score": 0.9600623250007629,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_cedar_ver01\/data\/sn98047754\/00211107790\/1914040101\/1033\/000_0_96.jpg"
+ },
+ "id": 1474
+}

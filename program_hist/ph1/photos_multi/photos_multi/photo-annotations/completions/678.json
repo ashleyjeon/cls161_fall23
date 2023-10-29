@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749277,
+   "id": 678001,
+   "lead_time": 1.759,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "bI75NNAK4A",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_jonesville_ver01",
+  "box": [
+   0.6674654116189427,
+   0.15835864086418924,
+   0.8087155514351597,
+   0.2987911087488421
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_jonesville_ver01\/data\/sn96077142\/00415669999\/1903082901\/0715\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Baraga--L'Anse"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_jonesville_ver01%2Fdata%2Fsn96077142%2F00415669999%2F1903082901%2F0715.jp2\/pct:66.74,15.84,14.13,14.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn96077142",
+  "name": "The L'Anse sentinel.",
+  "ocr": [
+   "GEN.",
+   "JOHN",
+   "C,",
+   "BLACK.."
+  ],
+  "page_seq_num": 715,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_jonesville_ver01\/data\/sn96077142\/00415669999\/1903082901\/0715.jp2",
+  "place_of_publication": "L'Anse, L.S., Mich.",
+  "pub_date": "1903-08-29",
+  "publisher": "Sylvester Kinney",
+  "score": 0.9802496433258057,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_jonesville_ver01\/data\/sn96077142\/00415669999\/1903082901\/0715\/001_0_98.jpg"
+ },
+ "id": 678
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749286,
+   "id": 1420001,
+   "lead_time": 1.929,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "u2QYWk5oG2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_grindylow_ver01",
+  "box": [
+   0.8138173651371606,
+   0.579708119692218,
+   0.9222354112167703,
+   0.6805355959633104
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_grindylow_ver01\/data\/sn85040651\/00414215579\/1913040501\/0088\/008_0_94.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Iron--Hurley"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_grindylow_ver01%2Fdata%2Fsn85040651%2F00414215579%2F1913040501%2F0088.jp2\/pct:81.38,57.98,10.85,10.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040651",
+  "name": "Our land = La Nostra terra. [volume]",
+  "ocr": [
+   "DP.",
+   "T.",
+   "FRANK",
+   "LYNOTT"
+  ],
+  "page_seq_num": 88,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_grindylow_ver01\/data\/sn85040651\/00414215579\/1913040501\/0088.jp2",
+  "place_of_publication": "Hurley, Wis.",
+  "pub_date": "1913-04-05",
+  "publisher": "Iron County Pub. Co.",
+  "score": 0.948816180229187,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_grindylow_ver01\/data\/sn85040651\/00414215579\/1913040501\/0088\/008_0_94.jpg"
+ },
+ "id": 1420
+}

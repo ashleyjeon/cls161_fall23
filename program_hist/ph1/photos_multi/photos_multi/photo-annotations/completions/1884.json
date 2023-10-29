@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767886,
+   "id": 1884001,
+   "lead_time": 2.193,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ldpCk6RI5z",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_armstrong_ver01",
+  "box": [
+   0.47335927994524846,
+   0.29828138589401393,
+   0.6252518534008923,
+   0.533811192137266
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_armstrong_ver01\/data\/sn85058246\/00206535349\/1919011101\/0027\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Utah--Cache--Logan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_armstrong_ver01%2Fdata%2Fsn85058246%2F00206535349%2F1919011101%2F0027.jp2\/pct:47.33,29.83,15.19,23.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058246",
+  "name": "The Logan Republican. [volume]",
+  "ocr": [
+   "I",
+   "RUPERT",
+   "I",
+   "HUGHES",
+   "I",
+   "?",
+   "One",
+   "of",
+   "the",
+   "Mott",
+   "Popular",
+   "f",
+   "of",
+   "American",
+   "Authors",
+   "'",
+   "At",
+   "first",
+   "glance",
+   "Mr.",
+   "Hughes",
+   "might",
+   "ho"
+  ],
+  "page_seq_num": 27,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_armstrong_ver01\/data\/sn85058246\/00206535349\/1919011101\/0027.jp2",
+  "place_of_publication": "Logan, Utah",
+  "pub_date": "1919-01-11",
+  "publisher": "N.R. Moore",
+  "score": 0.9133991003036499,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_armstrong_ver01\/data\/sn85058246\/00206535349\/1919011101\/0027\/008_0_91.jpg"
+ },
+ "id": 1884
+}

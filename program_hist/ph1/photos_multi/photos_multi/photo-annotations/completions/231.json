@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768267,
+   "id": 231001,
+   "lead_time": 2.029,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qdcK47Dd0T",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_douglass_ver01",
+  "box": [
+   0.17587055918069514,
+   0.6102146836577869,
+   0.28098825207068195,
+   0.6943992539702869
+  ],
+  "edition_seq_num": 2,
+  "filepath": "mdu_douglass_ver01\/data\/sn85038292\/00415623987\/1898100802\/0243\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Maryland--Carroll--Westminster"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623987%2F1898100802%2F0243.jp2\/pct:17.58,61.03,10.52,8.42\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038292",
+  "name": "The Democratic advocate. [volume]",
+  "ocr": [
+   "JOSEPH",
+   "D.",
+   "BROOKS.",
+   "JOSEPH",
+   "D.",
+   "BROOKS."
+  ],
+  "page_seq_num": 243,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_douglass_ver01\/data\/sn85038292\/00415623987\/1898100802\/0243.jp2",
+  "place_of_publication": "Westminster, Md.",
+  "pub_date": "1898-10-08",
+  "publisher": "William H. Davis",
+  "score": 0.9853192567825317,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_douglass_ver01\/data\/sn85038292\/00415623987\/1898100802\/0243\/002_0_98.jpg"
+ },
+ "id": 231
+}

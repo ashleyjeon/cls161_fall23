@@ -1,0 +1,113 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768818,
+   "id": 44001,
+   "lead_time": 1.627,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gtNDLdaMHl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_kensington_ver02",
+  "box": [
+   0.41879331092211514,
+   0.3521768071510235,
+   0.812076682201609,
+   0.5396021188343859
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_kensington_ver02\/data\/sn88065721\/00279521730\/1895061901\/0475\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Maryland--Anne Arundel--Annapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_kensington_ver02%2Fdata%2Fsn88065721%2F00279521730%2F1895061901%2F0475.jp2\/pct:41.87,35.22,39.33,18.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn88065721",
+  "name": "Evening capital.",
+  "ocr": [
+   "rmSm",
+   "ma.yvjaft",
+   "A",
+   "jjgf;",
+   "!\u00a3&***&",
+   ">",
+   "'Sj&KSm\u2019h",
+   "?",
+   "k",
+   "J",
+   "i\u00a7lPglfeJ\u00a7",
+   "\\",
+   "r",
+   "f",
+   "tr",
+   "*\\",
+   "ifes*",
+   "h",
+   "wmmrn^",
+   "a",
+   "W*",
+   "\u25a0Ofch.V.",
+   "*V",
+   "*'",
+   "\u25a0",
+   "Ifain",
+   "-",
+   "I,",
+   "l.",
+   "at:",
+   "m",
+   "-",
+   "mm",
+   "n",
+   "imp",
+   "VS",
+   "-faHSK",
+   "-",
+   "\u2018",
+   "\u2018",
+   "\u2022",
+   "Jfcsyt",
+   "m",
+   "*!\u00a7&.",
+   ";",
+   "\u2022",
+   "iM*",
+   "*",
+   "-*",
+   "*",
+   "m",
+   "-",
+   "c",
+   "*",
+   "V",
+   "J*",
+   "%",
+   "St.",
+   "John\u2019s",
+   "Sup",
+   "-",
+   "T",
+   "y**",
+   "."
+  ],
+  "page_seq_num": 475,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_kensington_ver02\/data\/sn88065721\/00279521730\/1895061901\/0475.jp2",
+  "place_of_publication": "Annapolis, Md.",
+  "pub_date": "1895-06-19",
+  "publisher": "W.M. Abbott",
+  "score": 0.9943816065788269,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_kensington_ver02\/data\/sn88065721\/00279521730\/1895061901\/0475\/001_0_99.jpg"
+ },
+ "id": 44
+}

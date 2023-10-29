@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766854,
+   "id": 1317001,
+   "lead_time": 2.148,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "obaF_JtvMu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_baldacci_ver02",
+  "box": [
+   0.570738177066597,
+   0.29296262916124644,
+   0.6981685216751687,
+   0.4521995407292159
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_baldacci_ver02\/data\/sn86091111\/00415665982\/1912102501\/1231\/011_0_92.jpg",
+  "geographic_coverage": [
+   "Idaho--Bear Lake--Montpelier"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_baldacci_ver02%2Fdata%2Fsn86091111%2F00415665982%2F1912102501%2F1231.jp2\/pct:57.07,29.3,12.75,15.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091111",
+  "name": "Montpelier examiner. [volume]",
+  "ocr": [
+   "\u25a0",
+   "MS",
+   "Mi",
+   ":\u2022",
+   "1",
+   "If",
+   "S'",
+   "f",
+   "\u25a0",
+   ".",
+   "r",
+   "Si",
+   "\u20221",
+   "-\u25a0",
+   "V",
+   "1^.",
+   "Theodors",
+   "Roosevelt."
+  ],
+  "page_seq_num": 1231,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_baldacci_ver02\/data\/sn86091111\/00415665982\/1912102501\/1231.jp2",
+  "place_of_publication": "Montpelier, Idaho",
+  "pub_date": "1912-10-25",
+  "publisher": "C.E. Harris",
+  "score": 0.928006112575531,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_baldacci_ver02\/data\/sn86091111\/00415665982\/1912102501\/1231\/011_0_92.jpg"
+ },
+ "id": 1317
+}

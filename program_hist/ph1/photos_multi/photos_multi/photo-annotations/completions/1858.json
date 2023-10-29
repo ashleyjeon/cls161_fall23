@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765086,
+   "id": 1858001,
+   "lead_time": 3.525,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "i1jzNEb-Zf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_geary_ver01",
+  "box": [
+   0.5703032253840782,
+   0.7494690442150467,
+   0.98575105294169,
+   0.9593904229218893
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_geary_ver01\/data\/sn83045211\/00237287836\/1919013101\/0582\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_geary_ver01%2Fdata%2Fsn83045211%2F00237287836%2F1919013101%2F0582.jp2\/pct:57.03,74.95,41.55,21.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "MANY",
+   "SECTIONS",
+   "01-'",
+   "PARIS",
+   "have",
+   "been",
+   "flooded",
+   "by",
+   "tho",
+   "vha",
+   "of",
+   "t!io",
+   "waters",
+   "of",
+   "tho",
+   "Seine.",
+   "The",
+   "view",
+   "s,howon",
+   "r",
+   "the",
+   "Seine",
+   "bridges",
+   "just",
+   "out",
+   "of",
+   "the",
+   "reach",
+   "of",
+   "the",
+   "rlsinu",
+   "Hood",
+   "s",
+   "\"",
+   "of"
+  ],
+  "page_seq_num": 582,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_geary_ver01\/data\/sn83045211\/00237287836\/1919013101\/0582.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1919-01-31",
+  "publisher": "Public Ledger Co.",
+  "score": 0.959364652633667,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_geary_ver01\/data\/sn83045211\/00237287836\/1919013101\/0582\/002_0_95.jpg"
+ },
+ "id": 1858
+}

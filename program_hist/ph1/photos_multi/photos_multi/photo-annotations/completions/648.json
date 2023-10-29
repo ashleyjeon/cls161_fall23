@@ -1,0 +1,42 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754314,
+   "id": 648001,
+   "lead_time": 4.375,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_moore_ver01",
+  "box": [
+   0.20730129847335085,
+   0.26154731616639254,
+   0.3521636904539615,
+   0.4546046635142544
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_moore_ver01\/data\/sn86092392\/0041418733A\/1903090201\/0284\/007_0_93.jpg",
+  "geographic_coverage": [
+   "West Virginia--Wayne--Ceredo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_moore_ver01%2Fdata%2Fsn86092392%2F0041418733A%2F1903090201%2F0284.jp2\/pct:20.73,26.16,14.49,19.31\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092392",
+  "name": "Ceredo advance. [volume]",
+  "ocr": [
+   "SHAMROCK",
+   "THE",
+   "THIRD."
+  ],
+  "page_seq_num": 284,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_moore_ver01\/data\/sn86092392\/0041418733A\/1903090201\/0284.jp2",
+  "place_of_publication": "Ceredo, W. Va.",
+  "pub_date": "1903-09-02",
+  "publisher": "T.T. McDougal & W.I. Mansfield",
+  "score": 0.9353164434432983,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_moore_ver01\/data\/sn86092392\/0041418733A\/1903090201\/0284\/007_0_93.jpg"
+ },
+ "id": 648
+}

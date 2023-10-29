@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757177,
+   "id": 1952001,
+   "lead_time": 5.999,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LV-3lG759Y",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_comanche_ver01",
+  "box": [
+   0.23687049285007586,
+   0.44511087824789325,
+   0.5811511262508202,
+   0.6528700133697062
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_comanche_ver01\/data\/sn95063969\/00237284690\/1920030401\/0385\/008_0_94.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Pittsburg--Krebs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_comanche_ver01%2Fdata%2Fsn95063969%2F00237284690%2F1920030401%2F0385.jp2\/pct:23.68,44.52,34.43,20.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn95063969",
+  "name": "The Oklahoma miner. [volume]",
+  "ocr": [
+   "is",
+   "a",
+   "large",
+   "lhing",
+   "room,",
+   "19",
+   "feet",
+   "inches",
+   "by",
+   "14",
+   "feet.",
+   "This",
+   "room",
+   "has",
+   "Also",
+   "Its",
+   ".columns",
+   "and",
+   "the",
+   "pergola",
+   "like",
+   "roof",
+   "of",
+   "artistic",
+   "vines",
+   "Unit"
+  ],
+  "page_seq_num": 385,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_comanche_ver01\/data\/sn95063969\/00237284690\/1920030401\/0385.jp2",
+  "place_of_publication": "Krebs, Okla.",
+  "pub_date": "1920-03-04",
+  "publisher": "Ed Boyle",
+  "score": 0.9405248761177063,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_comanche_ver01\/data\/sn95063969\/00237284690\/1920030401\/0385\/008_0_94.jpg"
+ },
+ "id": 1952
+}

@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747473,
+   "id": 1396001,
+   "lead_time": 2.781,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nbQdqr6Rs0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_denmark_ver01",
+  "box": [
+   0.038076851131866755,
+   0.5364259344763337,
+   0.16693249724245954,
+   0.6986560518272751
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_denmark_ver01\/data\/sn88084272\/00294553551\/1913021101\/0157\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Texas--El Paso--El Paso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_denmark_ver01%2Fdata%2Fsn88084272%2F00294553551%2F1913021101%2F0157.jp2\/pct:3.8,53.65,12.89,16.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn88084272",
+  "name": "El Paso herald.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 157,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_denmark_ver01\/data\/sn88084272\/00294553551\/1913021101\/0157.jp2",
+  "place_of_publication": "El Paso, Tex.",
+  "pub_date": "1913-02-11",
+  "publisher": "Herald News Co.",
+  "score": 0.9785667657852173,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_denmark_ver01\/data\/sn88084272\/00294553551\/1913021101\/0157\/006_0_97.jpg"
+ },
+ "id": 1396
+}

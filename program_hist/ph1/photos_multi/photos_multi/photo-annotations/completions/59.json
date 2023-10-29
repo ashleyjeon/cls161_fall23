@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675024,
+   "id": 59001,
+   "lead_time": 3.583,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_gandhi_ver01",
+  "box": [
+   0.19188439654004028,
+   0.36655466733003444,
+   0.3441452158723474,
+   0.5084708602826484
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_gandhi_ver01\/data\/sn86069117\/00206533730\/1895081701\/0796\/012_0_94.jpg",
+  "geographic_coverage": [
+   "Kentucky--Mason--Maysville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_gandhi_ver01%2Fdata%2Fsn86069117%2F00206533730%2F1895081701%2F0796.jp2\/pct:19.18,36.66,15.23,14.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069117",
+  "name": "Daily public ledger. [volume]",
+  "ocr": [
+   "Driftwood",
+   "Gathered",
+   "and",
+   "Split",
+   "for",
+   "Ledger",
+   "Patrons.",
+   "rtffjfiiS3-Va&r?l",
+   "IiiMJMt",
+   "til...",
+   "I"
+  ],
+  "page_seq_num": 796,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_gandhi_ver01\/data\/sn86069117\/00206533730\/1895081701\/0796.jp2",
+  "place_of_publication": "Maysville, Ky.",
+  "pub_date": "1895-08-17",
+  "publisher": "Public Ledger Co.",
+  "score": 0.94938725233078,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_gandhi_ver01\/data\/sn86069117\/00206533730\/1895081701\/0796\/012_0_94.jpg"
+ },
+ "id": 59
+}

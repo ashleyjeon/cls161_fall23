@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749249,
+   "id": 62001,
+   "lead_time": 3.576,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XVZ8PFrcTi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_evanovich_ver01",
+  "box": [
+   0.18354009812878025,
+   0.3776069933529099,
+   0.3133871192756336,
+   0.45135976545486717
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_evanovich_ver01\/data\/sn86091060\/00415666366\/1895101601\/1316\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Idaho--Elmore--Mountain Home",
+   "Idaho--Elmore--Rocky Bar"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_evanovich_ver01%2Fdata%2Fsn86091060%2F00415666366%2F1895101601%2F1316.jp2\/pct:18.35,37.77,12.99,7.38\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091060",
+  "name": "Elmore bulletin. [volume]",
+  "ocr": [
+   "''l\u00ee\u00efUi.\u00c2\u00e2r"
+  ],
+  "page_seq_num": 1316,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_evanovich_ver01\/data\/sn86091060\/00415666366\/1895101601\/1316.jp2",
+  "place_of_publication": "Rocky Bar, Idaho",
+  "pub_date": "1895-10-16",
+  "publisher": "G.M. Payne",
+  "score": 0.9573824405670166,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_evanovich_ver01\/data\/sn86091060\/00415666366\/1895101601\/1316\/003_0_95.jpg"
+ },
+ "id": 62
+}

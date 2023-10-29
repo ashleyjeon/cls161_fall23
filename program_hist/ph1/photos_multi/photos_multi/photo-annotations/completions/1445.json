@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750807,
+   "id": 1445001,
+   "lead_time": 1.666,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DVkG0rvM6K",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_frontier_ver01",
+  "box": [
+   0.3016139049919284,
+   0.13163103578702226,
+   0.5637676083311742,
+   0.40237886223208064
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_frontier_ver01\/data\/sn83045433\/00294558299\/1913112301\/0642\/003_0_94.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_frontier_ver01%2Fdata%2Fsn83045433%2F00294558299%2F1913112301%2F0642.jp2\/pct:30.16,13.17,26.22,27.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "CHARLEY",
+   "HARVARD'S",
+   "WOftDEREUL-",
+   "DROP",
+   "KICKER",
+   "BRICKLEY"
+  ],
+  "page_seq_num": 642,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_frontier_ver01\/data\/sn83045433\/00294558299\/1913112301\/0642.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1913-11-23",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9461196660995483,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_frontier_ver01\/data\/sn83045433\/00294558299\/1913112301\/0642\/003_0_94.jpg"
+ },
+ "id": 1445
+}

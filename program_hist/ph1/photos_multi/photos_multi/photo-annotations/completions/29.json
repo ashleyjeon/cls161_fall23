@@ -1,0 +1,44 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766829,
+   "id": 29001,
+   "lead_time": 1.896,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_hillerman_ver01",
+  "box": [
+   0.29498750513250177,
+   0.5932696233955828,
+   0.45224961367520417,
+   0.7017471073514108
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_hillerman_ver01\/data\/sn88056017\/00415666718\/1895020901\/0876\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Idaho--Bingham--Blackfoot"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_hillerman_ver01%2Fdata%2Fsn88056017%2F00415666718%2F1895020901%2F0876.jp2\/pct:29.49,59.33,15.73,10.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn88056017",
+  "name": "Blackfoot news.",
+  "ocr": [
+   "I",
+   ".",
+   "ft",
+   "WW",
+   "\u2022V"
+  ],
+  "page_seq_num": 876,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_hillerman_ver01\/data\/sn88056017\/00415666718\/1895020901\/0876.jp2",
+  "place_of_publication": "Blackfoot, Idaho",
+  "pub_date": "1895-02-09",
+  "publisher": "Norman Jones",
+  "score": 0.965438723564148,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_hillerman_ver01\/data\/sn88056017\/00415666718\/1895020901\/0876\/001_0_96.jpg"
+ },
+ "id": 29
+}

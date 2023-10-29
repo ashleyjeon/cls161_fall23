@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767278,
+   "id": 1158001,
+   "lead_time": 2.14,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "h4TxYC3D4_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_basil_ver02",
+  "box": [
+   0.5586748046875,
+   0.1063118470439144,
+   0.8099700055803571,
+   0.3692670288608052
+  ],
+  "edition_seq_num": 2,
+  "filepath": "njr_basil_ver02\/data\/sn85035720\/00279529522\/1910041602\/0179\/016_0_92.jpg",
+  "geographic_coverage": [
+   "New Jersey--Middlesex--Perth Amboy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_basil_ver02%2Fdata%2Fsn85035720%2F00279529522%2F1910041602%2F0179.jp2\/pct:55.86,10.64,25.13,26.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn85035720",
+  "name": "Perth Amboy evening news. [volume]",
+  "ocr": [
+   "Besides",
+   "Being",
+   "a",
+   "Great",
+   "Shortstop'.",
+   "\"Fiery",
+   "Joe\"",
+   "Is",
+   "Also",
+   "One",
+   "of",
+   "Cubs'",
+   "Most",
+   "Noted",
+   "Stick",
+   "Artists"
+  ],
+  "page_seq_num": 179,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_basil_ver02\/data\/sn85035720\/00279529522\/1910041602\/0179.jp2",
+  "place_of_publication": "Perth Amboy, N.J.",
+  "pub_date": "1910-04-16",
+  "publisher": "Perth Amboy Evening News Co.",
+  "score": 0.9209031462669373,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_basil_ver02\/data\/sn85035720\/00279529522\/1910041602\/0179\/016_0_92.jpg"
+ },
+ "id": 1158
+}

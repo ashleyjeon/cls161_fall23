@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763785,
+   "id": 1270001,
+   "lead_time": 2.246,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GvRoWNPoWl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_harlequin_ver01",
+  "box": [
+   0.4252837199493651,
+   0.18520500864540007,
+   0.6430411885463961,
+   0.3713054757193383
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_harlequin_ver01\/data\/sn83025316\/00212476705\/1911031201\/0466\/012_0_91.jpg",
+  "geographic_coverage": [
+   "Montana--Missoula--Missoula"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_harlequin_ver01%2Fdata%2Fsn83025316%2F00212476705%2F1911031201%2F0466.jp2\/pct:42.52,18.53,21.78,18.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025316",
+  "name": "The Daily Missoulian. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 466,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_harlequin_ver01\/data\/sn83025316\/00212476705\/1911031201\/0466.jp2",
+  "place_of_publication": "Missoula, Mont.",
+  "pub_date": "1911-03-12",
+  "publisher": "Missoulian Pub. Co.",
+  "score": 0.91947340965271,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_harlequin_ver01\/data\/sn83025316\/00212476705\/1911031201\/0466\/012_0_91.jpg"
+ },
+ "id": 1270
+}

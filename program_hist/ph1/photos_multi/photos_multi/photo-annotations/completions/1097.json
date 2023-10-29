@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763939,
+   "id": 1097001,
+   "lead_time": 1.599,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UbP7pk2Vz3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_kirilenko_ver01",
+  "box": [
+   0.08176813307841113,
+   0.6419744417154404,
+   0.3537956529362187,
+   0.8662063105316332
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_kirilenko_ver01\/data\/sn85058217\/206534904\/1909082001\/0077\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Summit--Coalville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_kirilenko_ver01%2Fdata%2Fsn85058217%2F206534904%2F1909082001%2F0077.jp2\/pct:8.17,64.2,27.21,22.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058217",
+  "name": "The Coalville times. [volume]",
+  "ocr": [
+   "a",
+   "t",
+   "r",
+   "N",
+   "4K",
+   "a",
+   "l",
+   "r",
+   "1",
+   "+",
+   "R",
+   "p",
+   "cif",
+   "h",
+   "r",
+   ">",
+   "lqG",
+   "+",
+   "t",
+   "ISSy",
+   "CORPORAL",
+   "JAMES",
+   "TANNER",
+   "Who",
+   "Lost",
+   "Doth",
+   "Leg",
+   "at",
+   "Dull",
+   "Run"
+  ],
+  "page_seq_num": 77,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_kirilenko_ver01\/data\/sn85058217\/206534904\/1909082001\/0077.jp2",
+  "place_of_publication": "Coalville, Utah",
+  "pub_date": "1909-08-20",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9821861982345581,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_kirilenko_ver01\/data\/sn85058217\/206534904\/1909082001\/0077\/002_0_98.jpg"
+ },
+ "id": 1097
+}

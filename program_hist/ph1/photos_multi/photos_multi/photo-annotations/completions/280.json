@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747547,
+   "id": 280001,
+   "lead_time": 1.897,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LJw4hAoCWV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_garwood_ver02",
+  "box": [
+   0.2121119931521693,
+   0.6711282342729993,
+   0.3591620789813092,
+   0.827114378230023
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_garwood_ver02\/data\/sn83040340\/0023728530A\/1898031801\/0098\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Kansas--Allen--Iola"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_garwood_ver02%2Fdata%2Fsn83040340%2F0023728530A%2F1898031801%2F0098.jp2\/pct:21.21,67.12,14.71,15.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn83040340",
+  "name": "The Iola register. [volume]",
+  "ocr": [
+   "mmmmgm",
+   "rBOF.J.",
+   "8.",
+   "I.iNaMOK.SE,",
+   "The",
+   "Eminent",
+   "MaRnctto",
+   "Healer"
+  ],
+  "page_seq_num": 98,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_garwood_ver02\/data\/sn83040340\/0023728530A\/1898031801\/0098.jp2",
+  "place_of_publication": "Iola, Kan.",
+  "pub_date": "1898-03-18",
+  "publisher": "Allison & Perkins",
+  "score": 0.9205326437950134,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_garwood_ver02\/data\/sn83040340\/0023728530A\/1898031801\/0098\/006_0_92.jpg"
+ },
+ "id": 280
+}

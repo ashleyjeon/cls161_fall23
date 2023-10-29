@@ -1,0 +1,106 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772504,
+   "id": 1614001,
+   "lead_time": 7.35,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "10ZHhy-b9I",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_iguana_ver01",
+  "box": [
+   0.4572716525867225,
+   0.131794356675468,
+   0.7964564565266148,
+   0.3522325131779997
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_iguana_ver01\/data\/sn84020558\/00202196172\/1915112501\/0031\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Arizona--Maricopa--Phoenix"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_iguana_ver01%2Fdata%2Fsn84020558%2F00202196172%2F1915112501%2F0031.jp2\/pct:45.72,13.18,33.92,22.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020558",
+  "name": "Arizona republican. [volume]",
+  "ocr": [
+   "SERBIAN",
+   "ARTILLERY",
+   "DRAWN",
+   "BY",
+   "OXEN",
+   "FLEEING",
+   "BEFORE",
+   "GERMANS",
+   "X",
+   ":",
+   "\"'\"",
+   "\"",
+   "'-\"is-.",
+   ".",
+   ".-",
+   "swT'",
+   "feiW",
+   "This",
+   "is",
+   "the",
+   "first",
+   "picture",
+   "to",
+   "reach",
+   "this",
+   "country",
+   "showing",
+   "the",
+   "Serbians",
+   "retreating",
+   "before",
+   "the",
+   "superior",
+   "force",
+   "of",
+   "the",
+   "Austro-Germans.",
+   "Serbian",
+   "artillery",
+   "drawn",
+   "by",
+   "oxen",
+   "13",
+   "seen",
+   "moving",
+   "down",
+   "the",
+   "Morava",
+   "valley.",
+   "The.",
+   "Teuton,",
+   "invaders",
+   "followed",
+   "close",
+   "behind."
+  ],
+  "page_seq_num": 31,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_iguana_ver01\/data\/sn84020558\/00202196172\/1915112501\/0031.jp2",
+  "place_of_publication": "Phoenix, Ariz.",
+  "pub_date": "1915-11-25",
+  "publisher": "Republican Pub. Co.",
+  "score": 0.980511486530304,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_iguana_ver01\/data\/sn84020558\/00202196172\/1915112501\/0031\/001_0_98.jpg"
+ },
+ "id": 1614
+}

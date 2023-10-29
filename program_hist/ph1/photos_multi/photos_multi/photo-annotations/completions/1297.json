@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743350,
+   "id": 1297001,
+   "lead_time": 2.61,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "h8BF7R9Rz4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_kathak_ver01",
+  "box": [
+   0.07068998590478756,
+   0.4446481104055162,
+   0.21601658713054187,
+   0.6320579065143733
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_kathak_ver01\/data\/sn91059394\/00383347944\/1911021001\/0050\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Minnesota--Stevens--Morris"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_kathak_ver01%2Fdata%2Fsn91059394%2F00383347944%2F1911021001%2F0050.jp2\/pct:7.06,44.47,14.54,18.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn91059394",
+  "name": "Morris tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 50,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_kathak_ver01\/data\/sn91059394\/00383347944\/1911021001\/0050.jp2",
+  "place_of_publication": "Morris, Minn.",
+  "pub_date": "1911-02-10",
+  "publisher": "W. J. Munro",
+  "score": 0.9230103492736816,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_kathak_ver01\/data\/sn91059394\/00383347944\/1911021001\/0050\/006_0_92.jpg"
+ },
+ "id": 1297
+}

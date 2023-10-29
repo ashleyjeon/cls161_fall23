@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758496,
+   "id": 248001,
+   "lead_time": 4.38,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ItDZkzmIFg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_tower_ver01",
+  "box": [
+   0.1578034570772354,
+   0.7743196493346524,
+   0.2906457038774882,
+   0.9611790643427995
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_tower_ver01\/data\/sn90059523\/00206537000\/1898120401\/0061\/001_0_93.jpg",
+  "geographic_coverage": [
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_tower_ver01%2Fdata%2Fsn90059523%2F00206537000%2F1898120401%2F0061.jp2\/pct:15.78,77.44,13.29,18.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059523",
+  "name": "The Saint Paul globe.",
+  "ocr": [
+   "\u2014\u2014\u2014\u2014\u2014\u2014\u2014-\u2014_\u2014__\u2014_\u2014",
+   "\u2014_",
+   "__\u2022",
+   "JOHN",
+   "H.",
+   "DOW,",
+   "Company",
+   "H,",
+   "Thirte.nth",
+   "Minnesota",
+   "Volunteers."
+  ],
+  "page_seq_num": 61,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_tower_ver01\/data\/sn90059523\/00206537000\/1898120401\/0061.jp2",
+  "place_of_publication": "St. Paul, Minn.",
+  "pub_date": "1898-12-04",
+  "publisher": "[s.n.]",
+  "score": 0.9366623163223267,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_tower_ver01\/data\/sn90059523\/00206537000\/1898120401\/0061\/001_0_93.jpg"
+ },
+ "id": 248
+}

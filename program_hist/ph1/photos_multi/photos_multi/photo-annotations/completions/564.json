@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743144,
+   "id": 564001,
+   "lead_time": 1.857,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "E-35uDfT67",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_ittenbach_ver01",
+  "box": [
+   0.17022875555630387,
+   0.7052012705432319,
+   0.3010119418440194,
+   0.961567142466807
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_ittenbach_ver01\/data\/sn82015679\/00202191836\/1902083101\/0603\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Indiana--Marion--Indianapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_ittenbach_ver01%2Fdata%2Fsn82015679%2F00202191836%2F1902083101%2F0603.jp2\/pct:17.02,70.53,13.08,25.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015679",
+  "name": "The Indianapolis journal. [volume]",
+  "ocr": [
+   "NEW",
+   "CHINESE",
+   "MINISTER.",
+   "i.IANO",
+   "CHKN'",
+   "TVS",
+   "ft.",
+   "The-",
+   "new",
+   "Chine",
+   "mlnlftT",
+   "t",
+   "Washington,",
+   "Wu",
+   "TJrjrfar'a",
+   "aucceor.",
+   "Is",
+   "BalJ",
+   "to",
+   "be",
+   "a",
+   "Jolly",
+   "good",
+   "f",
+   ":",
+   "A",
+   "ft",
+   "I",
+   ",",
+   ",4,!"
+  ],
+  "page_seq_num": 603,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_ittenbach_ver01\/data\/sn82015679\/00202191836\/1902083101\/0603.jp2",
+  "place_of_publication": "Indianapolis [Ind.]",
+  "pub_date": "1902-08-31",
+  "publisher": "Douglass & Conner",
+  "score": 0.9820481538772583,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_ittenbach_ver01\/data\/sn82015679\/00202191836\/1902083101\/0603\/002_0_98.jpg"
+ },
+ "id": 564
+}

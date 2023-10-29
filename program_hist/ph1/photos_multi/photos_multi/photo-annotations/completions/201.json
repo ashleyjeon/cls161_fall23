@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748923,
+   "id": 201001,
+   "lead_time": 6.04,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YEHzAHILPK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_jamaica_ver01",
+  "box": [
+   0.6417748762324532,
+   0.17595156955894625,
+   0.9082783581738804,
+   0.31004462760236823
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_jamaica_ver01\/data\/sn93063557\/00280777894\/1897100101\/0750\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Vermont--Addison--Middlebury"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_jamaica_ver01%2Fdata%2Fsn93063557%2F00280777894%2F1897100101%2F0750.jp2\/pct:64.17,17.6,26.66,13.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn93063557",
+  "name": "Middlebury register.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 750,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_jamaica_ver01\/data\/sn93063557\/00280777894\/1897100101\/0750.jp2",
+  "place_of_publication": "Middlebury, Vt.",
+  "pub_date": "1897-10-01",
+  "publisher": "Register Co.",
+  "score": 0.9759693741798401,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_jamaica_ver01\/data\/sn93063557\/00280777894\/1897100101\/0750\/002_0_97.jpg"
+ },
+ "id": 201
+}

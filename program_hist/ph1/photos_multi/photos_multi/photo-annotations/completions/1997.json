@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746838,
+   "id": 1997001,
+   "lead_time": 2.516,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7GqdvKaItE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_fairbanks_ver01",
+  "box": [
+   0.07636582010119321,
+   0.4502179786406796,
+   0.2931095941088965,
+   0.5922864352171857
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_fairbanks_ver01\/data\/sn87055779\/00296021544\/1920112601\/0179\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_fairbanks_ver01%2Fdata%2Fsn87055779%2F00296021544%2F1920112601%2F0179.jp2\/pct:7.63,45.03,21.68,14.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   "In",
+   "i",
+   "i"
+  ],
+  "page_seq_num": 179,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_fairbanks_ver01\/data\/sn87055779\/00296021544\/1920112601\/0179.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1920-11-26",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.9876163601875305,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_fairbanks_ver01\/data\/sn87055779\/00296021544\/1920112601\/0179\/003_0_98.jpg"
+ },
+ "id": 1997
+}

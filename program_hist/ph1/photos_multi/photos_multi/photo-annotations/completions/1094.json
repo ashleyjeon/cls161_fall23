@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750925,
+   "id": 1094001,
+   "lead_time": 4.249,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HMD1F4KWnl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_quailvalley_ver01",
+  "box": [
+   0.17375197466681985,
+   0.07247217399821951,
+   0.4318117747587316,
+   0.3434084887314504
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_quailvalley_ver01\/data\/sn85042462\/00175035783\/1909052301\/0510\/005_0_94.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_quailvalley_ver01%2Fdata%2Fsn85042462%2F00175035783%2F1909052301%2F0510.jp2\/pct:17.37,7.25,25.81,27.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "Popular",
+   "During",
+   "Winter",
+   "Spent",
+   "in",
+   "Los",
+   "Angeles",
+   "MISS",
+   "MAMIE",
+   "CLOSSMAN,",
+   "Who",
+   "left",
+   "Saturday",
+   "for",
+   "her",
+   "home",
+   "in",
+   "Zanesvllle,",
+   "Ohio"
+  ],
+  "page_seq_num": 510,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035783\/1909052301\/0510.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1909-05-23",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9413869976997375,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035783\/1909052301\/0510\/005_0_94.jpg"
+ },
+ "id": 1094
+}

@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764083,
+   "id": 1472001,
+   "lead_time": 1.856,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Z0ngi7gO7I",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_killdeer_ver01",
+  "box": [
+   0.17725526797845498,
+   0.09578742980957031,
+   0.43844775087344723,
+   0.35087390768116916
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_killdeer_ver01\/data\/sn84031081\/00296025434\/1914112301\/1271\/005_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_killdeer_ver01%2Fdata%2Fsn84031081%2F00296025434%2F1914112301%2F1271.jp2\/pct:17.72,9.58,26.12,25.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn84031081",
+  "name": "Albuquerque morning journal. [volume]",
+  "ocr": [
+   "I",
+   ".",
+   ".",
+   "...",
+   "-.;",
+   ".'",
+   "-",
+   "i15.",
+   "DVII",
+   "ItOS",
+   "novo.",
+   "Iieiicnt",
+   "nf",
+   "the",
+   "I",
+   "nlvcrslty",
+   "of",
+   "Now",
+   "Mclii."
+  ],
+  "page_seq_num": 1271,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_killdeer_ver01\/data\/sn84031081\/00296025434\/1914112301\/1271.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1914-11-23",
+  "publisher": "Democrat Pub. Co.",
+  "score": 0.977460503578186,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_killdeer_ver01\/data\/sn84031081\/00296025434\/1914112301\/1271\/005_0_97.jpg"
+ },
+ "id": 1472
+}

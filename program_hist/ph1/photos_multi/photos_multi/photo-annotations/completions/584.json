@@ -1,0 +1,96 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754460,
+   "id": 584001,
+   "lead_time": 4.495,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lmvq1D0h8P",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_ockham_ver01",
+  "box": [
+   0.25832501984502715,
+   0.11476553262878651,
+   0.7229118132134301,
+   0.4389391493523258
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_ockham_ver01\/data\/sn83030193\/100481595\/1902120501\/0959\/003_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_ockham_ver01%2Fdata%2Fsn83030193%2F100481595%2F1902120501%2F0959.jp2\/pct:25.83,11.48,46.46,32.42\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "VIEW",
+   "ON",
+   "PARK",
+   "ROW",
+   "AS",
+   "STORM",
+   "RAGED",
+   "TODAYPULITZER",
+   "BUILDING",
+   "TO",
+   "THE",
+   "LEFT",
+   "C",
+   "i",
+   "ct1",
+   "c",
+   "u",
+   "C",
+   "I",
+   "u",
+   ">",
+   "J",
+   "yr",
+   "ccj",
+   "t",
+   "it",
+   "a",
+   "t",
+   "s",
+   "j",
+   "<",
+   "1",
+   "r",
+   "a",
+   "<",
+   "t",
+   "r",
+   "iefw",
+   "I",
+   "IL1ii",
+   "c",
+   "Icy",
+   "4",
+   "4",
+   "1",
+   "y"
+  ],
+  "page_seq_num": 959,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_ockham_ver01\/data\/sn83030193\/100481595\/1902120501\/0959.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1902-12-05",
+  "publisher": "[publisher not identified]",
+  "score": 0.9857915639877319,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_ockham_ver01\/data\/sn83030193\/100481595\/1902120501\/0959\/003_0_98.jpg"
+ },
+ "id": 584
+}

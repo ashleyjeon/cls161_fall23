@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673435,
+   "id": 250001,
+   "lead_time": 0.871,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "I63c5KofN_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_universal_ver01",
+  "box": [
+   0.2849099690018736,
+   0.30882578588730797,
+   0.7561228480274321,
+   0.7080193489401478
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_universal_ver01\/data\/sn83030214\/00175036908\/1898091101\/0214\/000_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_universal_ver01%2Fdata%2Fsn83030214%2F00175036908%2F1898091101%2F0214.jp2\/pct:28.49,30.89,47.13,39.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   ".",
+   "II",
+   "\\lt",
+   ",",
+   ".",
+   "'?",
+   ",11,",
+   "KM",
+   "UIUI",
+   "-i",
+   "i",
+   "I",
+   "*****",
+   "-",
+   "U.VTK",
+   "RKUVH,",
+   "lha",
+   "M.-n.'iril",
+   "I'l.tl",
+   "'iiiv.?!'??.I",
+   "ri",
+   "1'irn",
+   ","
+  ],
+  "page_seq_num": 214,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_universal_ver01\/data\/sn83030214\/00175036908\/1898091101\/0214.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-09-11",
+  "publisher": "New York Tribune",
+  "score": 0.9824222922325134,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_universal_ver01\/data\/sn83030214\/00175036908\/1898091101\/0214\/000_0_98.jpg"
+ },
+ "id": 250
+}

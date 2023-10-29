@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748382,
+   "id": 1343001,
+   "lead_time": 1.652,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WwHcG-LFLb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_gmc_ver02",
+  "box": [
+   0.38043048621364756,
+   0.36183524223403873,
+   0.5208052858781587,
+   0.5344694285645657
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_gmc_ver02\/data\/sn85042551\/00200297222\/1912113001\/0161\/010_0_97.jpg",
+  "geographic_coverage": [
+   "Texas--Potter--Amarillo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_gmc_ver02%2Fdata%2Fsn85042551%2F00200297222%2F1912113001%2F0161.jp2\/pct:38.04,36.19,14.04,17.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042551",
+  "name": "Amarillo daily news. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 161,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_gmc_ver02\/data\/sn85042551\/00200297222\/1912113001\/0161.jp2",
+  "place_of_publication": "Amarillo, Tex.",
+  "pub_date": "1912-11-30",
+  "publisher": "Amarillo Pub. Co.",
+  "score": 0.9758215546607971,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_gmc_ver02\/data\/sn85042551\/00200297222\/1912113001\/0161\/010_0_97.jpg"
+ },
+ "id": 1343
+}

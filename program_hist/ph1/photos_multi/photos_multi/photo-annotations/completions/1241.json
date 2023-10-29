@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675698,
+   "id": 1241001,
+   "lead_time": 1.668,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mcqlf8q1cI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_carnegie_ver01",
+  "box": [
+   0.3190212061442172,
+   0.6080620813414778,
+   0.622410094956585,
+   0.9508168451959396
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_carnegie_ver01\/data\/sn87078082\/00280775976\/1911110801\/0710\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Wayne--Honesdale"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_carnegie_ver01%2Fdata%2Fsn87078082%2F00280775976%2F1911110801%2F0710.jp2\/pct:31.9,60.81,30.34,34.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn87078082",
+  "name": "The citizen.",
+  "ocr": [
+   "W,",
+   "D.",
+   "1'.",
+   "AINEV,",
+   "for",
+   "Congress,",
+   "wil",
+   "1",
+   "have",
+   "u",
+   "majority",
+   "in",
+   "the",
+   "county",
+   "ot",
+   "from",
+   "000",
+   "to",
+   "800",
+   "over",
+   "Democratic",
+   "nominee."
+  ],
+  "page_seq_num": 710,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_carnegie_ver01\/data\/sn87078082\/00280775976\/1911110801\/0710.jp2",
+  "place_of_publication": "Honesdale, Pa.",
+  "pub_date": "1911-11-08",
+  "publisher": "Citizen Pub. Co.",
+  "score": 0.9712763428688049,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_carnegie_ver01\/data\/sn87078082\/00280775976\/1911110801\/0710\/004_0_97.jpg"
+ },
+ "id": 1241
+}

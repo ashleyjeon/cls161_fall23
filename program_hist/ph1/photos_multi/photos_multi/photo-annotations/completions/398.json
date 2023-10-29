@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766408,
+   "id": 398001,
+   "lead_time": 3.142,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2MP1uaki2a",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_nine_ver01",
+  "box": [
+   0.3043509457005458,
+   0.42873891593897173,
+   0.6986469392444478,
+   0.6832978684262166
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_nine_ver01\/data\/sn83045555\/00175049630\/1900121501\/0967\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_nine_ver01%2Fdata%2Fsn83045555%2F00175049630%2F1900121501%2F0967.jp2\/pct:30.43,42.88,39.43,25.46\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "I",
+   "j",
+   "I",
+   "i",
+   "I",
+   "I",
+   "i",
+   "j",
+   "I",
+   "I",
+   "I",
+   "i",
+   "j",
+   "IL",
+   "GROUP",
+   "OF",
+   "SALT",
+   "LAKE",
+   "CITY",
+   "SCHOOLS",
+   "=",
+   "=",
+   "=",
+   "I",
+   "t",
+   "i",
+   "H",
+   "+",
+   "+",
+   "I",
+   "+",
+   "1IH",
+   "+",
+   "KKHWK4KHKH",
+   "I",
+   "I",
+   "I",
+   "+",
+   "HIIIHI",
+   "i",
+   "w"
+  ],
+  "page_seq_num": 967,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_nine_ver01\/data\/sn83045555\/00175049630\/1900121501\/0967.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1900-12-15",
+  "publisher": "G.Q. Cannon",
+  "score": 0.968367338180542,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_nine_ver01\/data\/sn83045555\/00175049630\/1900121501\/0967\/002_0_96.jpg"
+ },
+ "id": 398
+}

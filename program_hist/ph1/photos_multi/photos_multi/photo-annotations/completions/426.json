@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751435,
+   "id": 426001,
+   "lead_time": 4.606,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fZmDXKVMp7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.6610204964040596,
+   0.32411579463792883,
+   0.9664629499488901,
+   0.4949779925139054
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900041901\/0362\/006_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040857%2F1900041901%2F0362.jp2\/pct:66.1,32.42,30.55,17.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "THK"
+  ],
+  "page_seq_num": 362,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900041901\/0362.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-04-19",
+  "publisher": "New York Tribune",
+  "score": 0.9089396595954895,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900041901\/0362\/006_0_90.jpg"
+ },
+ "id": 426
+}

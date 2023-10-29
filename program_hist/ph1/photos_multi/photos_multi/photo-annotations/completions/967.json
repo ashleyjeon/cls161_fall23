@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673639,
+   "id": 967001,
+   "lead_time": 1.931,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tgpGANpTS-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_ironweed_ver01",
+  "box": [
+   0.576303387019753,
+   0.24482430431330315,
+   0.7038900965472914,
+   0.3954599255713347
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_ironweed_ver01\/data\/sn84020615\/00280774212\/1907071001\/0070\/016_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_ironweed_ver01%2Fdata%2Fsn84020615%2F00280774212%2F1907071001%2F0070.jp2\/pct:57.63,24.49,12.76,15.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020615",
+  "name": "Albuquerque evening citizen. [volume]",
+  "ocr": [
+   "ma",
+   "MRS.",
+   "GEO.",
+   "A.",
+   "PETTinONE."
+  ],
+  "page_seq_num": 70,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_ironweed_ver01\/data\/sn84020615\/00280774212\/1907071001\/0070.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1907-07-10",
+  "publisher": "Citizen Pub. Co.",
+  "score": 0.9747295379638672,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_ironweed_ver01\/data\/sn84020615\/00280774212\/1907071001\/0070\/016_0_97.jpg"
+ },
+ "id": 967
+}

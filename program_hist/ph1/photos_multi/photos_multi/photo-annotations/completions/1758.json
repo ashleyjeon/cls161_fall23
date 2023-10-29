@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751549,
+   "id": 1758001,
+   "lead_time": 1.525,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-eg0QQa92w",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_keddy_ver01",
+  "box": [
+   0.3783308536947707,
+   0.048685962964764413,
+   0.4945275906215045,
+   0.22708247939207568
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_keddy_ver01\/data\/sn83030193\/00280766173\/1917112701\/0811\/015_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_keddy_ver01%2Fdata%2Fsn83030193%2F00280766173%2F1917112701%2F0811.jp2\/pct:37.83,4.87,11.62,17.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "TtH",
+   "l",
+   "Hi",
+   "I4V",
+   "WW.",
+   "To",
+   "THUTHf",
+   "t",
+   ";",
+   ",........",
+   ".,.",
+   ".",
+   ".",
+   ".",
+   "\"",
+   "'",
+   "fl",
+   "fl",
+   "I",
+   "II",
+   "v",
+   ".A",
+   "I",
+   "a'",
+   "',",
+   ",",
+   ".",
+   ",",
+   ".4v44s"
+  ],
+  "page_seq_num": 811,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_keddy_ver01\/data\/sn83030193\/00280766173\/1917112701\/0811.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1917-11-27",
+  "publisher": "[publisher not identified]",
+  "score": 0.9084259867668152,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_keddy_ver01\/data\/sn83030193\/00280766173\/1917112701\/0811\/015_0_90.jpg"
+ },
+ "id": 1758
+}

@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741251,
+   "id": 1480001,
+   "lead_time": 2.336,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DoL1UJ7fbl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_courage_ver02",
+  "box": [
+   0.757020242676981,
+   0.6777570005654237,
+   0.9044042488866708,
+   0.8939499884501876
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_courage_ver02\/data\/sn00063520\/00280760195\/1914052801\/0709\/010_0_93.jpg",
+  "geographic_coverage": [
+   "Oregon--Malheur--Ontario"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_courage_ver02%2Fdata%2Fsn00063520%2F00280760195%2F1914052801%2F0709.jp2\/pct:75.7,67.78,14.74,21.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn00063520",
+  "name": "The Ontario Argus.",
+  "ocr": [
+   "JOSEPH",
+   "W.",
+   "FOLK",
+   "Joseph",
+   "W",
+   "Folk,",
+   "counsel",
+   "of",
+   "the",
+   "in",
+   "terstate",
+   "commerce",
+   "commission,",
+   "who",
+   "is",
+   "probing",
+   "the",
+   "financial",
+   "affairs",
+   "of",
+   "the",
+   "New",
+   "Haven",
+   "railroad.",
+   "IS."
+  ],
+  "page_seq_num": 709,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_courage_ver02\/data\/sn00063520\/00280760195\/1914052801\/0709.jp2",
+  "place_of_publication": "Ontario, Or.",
+  "pub_date": "1914-05-28",
+  "publisher": "Wm. Plughoff",
+  "score": 0.9311399459838867,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_courage_ver02\/data\/sn00063520\/00280760195\/1914052801\/0709\/010_0_93.jpg"
+ },
+ "id": 1480
+}

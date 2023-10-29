@@ -1,0 +1,46 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768620,
+   "id": 53001,
+   "lead_time": 1.872,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_collins_ver01",
+  "box": [
+   0.42625913266782406,
+   0.740256080127929,
+   0.5565558539496528,
+   0.8599696195511716
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_collins_ver01\/data\/sn85058130\/20534606\/1895062301\/0216\/010_0_96.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_collins_ver01%2Fdata%2Fsn85058130%2F20534606%2F1895062301%2F0216.jp2\/pct:42.62,74.03,13.03,11.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058130",
+  "name": "The Salt Lake herald. [volume]",
+  "ocr": [
+   "S",
+   "S",
+   "The",
+   "Aerial",
+   "1ri",
+   "e",
+   "Fight"
+  ],
+  "page_seq_num": 216,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_collins_ver01\/data\/sn85058130\/20534606\/1895062301\/0216.jp2",
+  "place_of_publication": "Salt Lake City [Utah]",
+  "pub_date": "1895-06-23",
+  "publisher": "[W.C. Dunbar & E.L. Sloan]",
+  "score": 0.9611157774925232,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_collins_ver01\/data\/sn85058130\/20534606\/1895062301\/0216\/010_0_96.jpg"
+ },
+ "id": 53
+}

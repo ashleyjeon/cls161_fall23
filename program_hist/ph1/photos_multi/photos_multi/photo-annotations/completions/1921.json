@@ -1,0 +1,120 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764237,
+   "id": 1921001,
+   "lead_time": 2.632,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VjDD9oQeqd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_imogen_ver01",
+  "box": [
+   0.24239189102804873,
+   0.45943098334202254,
+   0.41631714408919657,
+   0.8002074952144547
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_imogen_ver01\/data\/sn90061309\/00200292248\/1919011001\/0720\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Missouri--Monroe--Monroe City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_imogen_ver01%2Fdata%2Fsn90061309%2F00200292248%2F1919011001%2F0720.jp2\/pct:24.23,45.95,17.4,34.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn90061309",
+  "name": "Monroe City Democrat.",
+  "ocr": [
+   "Photo",
+   "shows",
+   "\"Titus,\"",
+   "a",
+   "real",
+   "dog",
+   "of",
+   "war,",
+   "who",
+   "Is",
+   "one",
+   "of",
+   "the",
+   "few",
+   "dogs",
+   "in",
+   "the",
+   "war",
+   "who",
+   "has",
+   "ridden",
+   "In",
+   "an",
+   "airplane",
+   "and",
+   "tank,",
+   "lie",
+   "is",
+   "a",
+   "west",
+   "hlghlander",
+   "terrier",
+   "and",
+   "has",
+   "seen",
+   "service",
+   "all",
+   "along",
+   "the",
+   "western",
+   "front.",
+   "He",
+   "has",
+   "been",
+   "gassed",
+   "and",
+   "wounded.",
+   "With",
+   "Titus",
+   "is",
+   "here",
+   "shown",
+   "Mr.",
+   "E.",
+   "A.",
+   "Stark",
+   "of",
+   "the",
+   "Y.",
+   "M.",
+   "a",
+   "A.,",
+   "who",
+   "has",
+   "been",
+   "the",
+   "dog's",
+   "guardian",
+   "it",
+   "Li."
+  ],
+  "page_seq_num": 720,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_imogen_ver01\/data\/sn90061309\/00200292248\/1919011001\/0720.jp2",
+  "place_of_publication": "Monroe City, Mo.",
+  "pub_date": "1919-01-10",
+  "publisher": "Democrat Print. Co.",
+  "score": 0.97548907995224,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_imogen_ver01\/data\/sn90061309\/00200292248\/1919011001\/0720\/002_0_97.jpg"
+ },
+ "id": 1921
+}

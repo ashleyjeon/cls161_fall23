@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673403,
+   "id": 1882001,
+   "lead_time": 1.208,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VvvxnutvbZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_julich_ver01",
+  "box": [
+   0.3094476972307478,
+   0.7727102038164163,
+   0.44021573747907367,
+   0.9522106555081153
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_julich_ver01\/data\/sn85058396\/print\/1919121801\/1013\/010_0_96.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_julich_ver01%2Fdata%2Fsn85058396%2Fprint%2F1919121801%2F1013.jp2\/pct:30.94,77.28,13.08,17.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "AGAINST",
+   "DE",
+   "VALERA",
+   "j,",
+   "',",
+   "NEW",
+   "YORK",
+   "The",
+   "Protestant",
+   "Church",
+   "of",
+   "Ireland",
+   "has",
+   "sent",
+   "a",
+   "com",
+   "mlttoe",
+   "to",
+   "the",
+   "United",
+   "States",
+   "to",
+   "wage",
+   "a",
+   "campaign",
+   "In",
+   "opposition",
+   "to",
+   "the",
+   "tour",
+   "of",
+   "\"President\"",
+   "De",
+   "Valeni"
+  ],
+  "page_seq_num": 1013,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_julich_ver01\/data\/sn85058396\/print\/1919121801\/1013.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1919-12-18",
+  "publisher": "W. Glasmann",
+  "score": 0.9654738903045654,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_julich_ver01\/data\/sn85058396\/print\/1919121801\/1013\/010_0_96.jpg"
+ },
+ "id": 1882
+}

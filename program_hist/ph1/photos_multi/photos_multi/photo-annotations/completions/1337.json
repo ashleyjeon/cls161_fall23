@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749221,
+   "id": 1337001,
+   "lead_time": 2.235,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gUeKGUGLIP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_chopin_ver01",
+  "box": [
+   0.329212210031861,
+   0.029076895849675627,
+   0.7910254565475151,
+   0.2365997397268805
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_chopin_ver01\/data\/sn86071985\/00175032010\/1912112101\/0994\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Virginia--Williamsburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_chopin_ver01%2Fdata%2Fsn86071985%2F00175032010%2F1912112101%2F0994.jp2\/pct:32.92,2.91,46.19,20.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn86071985",
+  "name": "Virginia gazette. [volume]",
+  "ocr": [
+   "?"
+  ],
+  "page_seq_num": 994,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_chopin_ver01\/data\/sn86071985\/00175032010\/1912112101\/0994.jp2",
+  "place_of_publication": "Williamsburg, Va.",
+  "pub_date": "1912-11-21",
+  "publisher": "Johnston & Mills",
+  "score": 0.9927175045013428,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_chopin_ver01\/data\/sn86071985\/00175032010\/1912112101\/0994\/001_0_99.jpg"
+ },
+ "id": 1337
+}

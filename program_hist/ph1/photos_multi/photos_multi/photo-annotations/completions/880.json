@@ -1,0 +1,95 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767488,
+   "id": 880001,
+   "lead_time": 57.818,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ADg6z1YOVt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_offutt_ver01",
+  "box": [
+   0.041215165456136064,
+   0.0438044696998289,
+   0.9524267832438151,
+   0.26955243047692734
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_offutt_ver01\/data\/sn99021999\/00280778412\/1906102101\/1070\/006_0_95.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_offutt_ver01%2Fdata%2Fsn99021999%2F00280778412%2F1906102101%2F1070.jp2\/pct:4.12,4.39,91.13,22.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "h",
+   "Bred",
+   "Horses",
+   "THREH",
+   "OF",
+   "THE)",
+   "BRANDEIS",
+   "HOR8B8.",
+   "Thai",
+   "Will",
+   "Be",
+   "Seen",
+   "KIU",
+   "HUTU",
+   "BBAWUBIB",
+   "AXXt",
+   "USA-",
+   "GUU",
+   "at",
+   "the",
+   "Omaha",
+   "Horse",
+   "Show",
+   "BOS&",
+   "V-v--",
+   "J.::--",
+   "-v",
+   ":u",
+   ".r",
+   "-",
+   "DXWXI1WXHB",
+   "Tjr",
+   "1",
+   "..",
+   "V\"",
+   "v",
+   ",",
+   ".",
+   "i",
+   "-",
+   "r,",
+   "-mi-ivi'",
+   "u.",
+   "MXKI&ATH",
+   "PONT."
+  ],
+  "page_seq_num": 1070,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_offutt_ver01\/data\/sn99021999\/00280778412\/1906102101\/1070.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1906-10-21",
+  "publisher": "Edward Rosewater",
+  "score": 0.9543212652206421,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_offutt_ver01\/data\/sn99021999\/00280778412\/1906102101\/1070\/006_0_95.jpg"
+ },
+ "id": 880
+}

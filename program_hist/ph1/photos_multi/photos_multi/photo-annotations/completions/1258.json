@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751472,
+   "id": 1258001,
+   "lead_time": 3.875,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Sr4bYB7akC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_betteravia_ver02",
+  "box": [
+   0.17752693426289412,
+   0.17679565257393481,
+   0.8299442961767627,
+   0.3467866174755756
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_betteravia_ver02\/data\/sn85066387\/00175035977\/1911043001\/0771\/006_0_97.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_betteravia_ver02%2Fdata%2Fsn85066387%2F00175035977%2F1911043001%2F0771.jp2\/pct:17.75,17.68,65.25,17.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "BESIEGED",
+   "CITY",
+   "OF",
+   "MAZATLAN,",
+   "WHICH",
+   "IS",
+   "NOW",
+   "THE",
+   "CENTER",
+   "OF",
+   "THE",
+   "MEXICAN",
+   "REBEL",
+   "ATTACK."
+  ],
+  "page_seq_num": 771,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_betteravia_ver02\/data\/sn85066387\/00175035977\/1911043001\/0771.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1911-04-30",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9760355949401855,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_betteravia_ver02\/data\/sn85066387\/00175035977\/1911043001\/0771\/006_0_97.jpg"
+ },
+ "id": 1258
+}

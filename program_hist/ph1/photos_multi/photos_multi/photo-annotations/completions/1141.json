@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767780,
+   "id": 1141001,
+   "lead_time": 2.402,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "RCbv7s_Z1u",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_gorn_ver01",
+  "box": [
+   0.7014145813785085,
+   0.13039318339671344,
+   0.8298520983769854,
+   0.28280262508127757
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_gorn_ver01\/data\/sn85042224\/00383346721\/1909122501\/1281\/009_0_93.jpg",
+  "geographic_coverage": [
+   "North Dakota--Cass--Fargo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_gorn_ver01%2Fdata%2Fsn85042224%2F00383346721%2F1909122501%2F1281.jp2\/pct:70.14,13.04,12.85,15.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042224",
+  "name": "The Fargo forum and daily republican. [volume]",
+  "ocr": [
+   "MAN",
+   "WHO",
+   "DEVISED",
+   "DEFENSE",
+   "FOR",
+   "NEW",
+   "YORK",
+   "\u20224",
+   "v",
+   "6",
+   "GEN.",
+   "ARTHUR",
+   "MURRAY,",
+   "U.",
+   "S.",
+   "N."
+  ],
+  "page_seq_num": 1281,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_gorn_ver01\/data\/sn85042224\/00383346721\/1909122501\/1281.jp2",
+  "place_of_publication": "Fargo, N.D.",
+  "pub_date": "1909-12-25",
+  "publisher": "A.W. Edwards & H.C. Plumley",
+  "score": 0.9386715292930603,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_gorn_ver01\/data\/sn85042224\/00383346721\/1909122501\/1281\/009_0_93.jpg"
+ },
+ "id": 1141
+}

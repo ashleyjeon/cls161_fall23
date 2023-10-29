@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768577,
+   "id": 896001,
+   "lead_time": 2.361,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ovfiHtXaDf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_ironweed_ver01",
+  "box": [
+   0.45543912979622614,
+   0.5052755626938341,
+   0.7081655037791106,
+   0.6874652474341622
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_ironweed_ver01\/data\/sn84020615\/00280773980\/1906062901\/1249\/010_0_94.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_ironweed_ver01%2Fdata%2Fsn84020615%2F00280773980%2F1906062901%2F1249.jp2\/pct:45.54,50.53,25.28,18.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020615",
+  "name": "Albuquerque evening citizen. [volume]",
+  "ocr": [
+   "FORGOTTEN",
+   "RESERVOIRS",
+   "IN",
+   "SAN",
+   "FRANCISCO",
+   "HOLD",
+   "ENOUGH",
+   "WATER",
+   "TO",
+   "HAVE",
+   "SAVED",
+   "CITY",
+   "'",
+   ";",
+   "'",
+   "felt",
+   "li",
+   "V-",
+   "if",
+   "VLkl"
+  ],
+  "page_seq_num": 1249,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_ironweed_ver01\/data\/sn84020615\/00280773980\/1906062901\/1249.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1906-06-29",
+  "publisher": "Citizen Pub. Co.",
+  "score": 0.9408341646194458,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_ironweed_ver01\/data\/sn84020615\/00280773980\/1906062901\/1249\/010_0_94.jpg"
+ },
+ "id": 896
+}

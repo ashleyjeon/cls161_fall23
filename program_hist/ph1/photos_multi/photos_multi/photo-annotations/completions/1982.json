@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748103,
+   "id": 1982001,
+   "lead_time": 4.566,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-wbfMDMDAb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_basso_ver01",
+  "box": [
+   0.24067121834590519,
+   0.4634432301937955,
+   0.5237050444504311,
+   0.6581590374696602
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_basso_ver01\/data\/sn85058246\/00206535337\/1920012001\/0068\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Cache--Logan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_basso_ver01%2Fdata%2Fsn85058246%2F00206535337%2F1920012001%2F0068.jp2\/pct:24.06,46.35,28.31,19.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058246",
+  "name": "The Logan Republican. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 68,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_basso_ver01\/data\/sn85058246\/00206535337\/1920012001\/0068.jp2",
+  "place_of_publication": "Logan, Utah",
+  "pub_date": "1920-01-20",
+  "publisher": "N.R. Moore",
+  "score": 0.9805529713630676,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_basso_ver01\/data\/sn85058246\/00206535337\/1920012001\/0068\/002_0_98.jpg"
+ },
+ "id": 1982
+}

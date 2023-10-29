@@ -1,0 +1,107 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673579,
+   "id": 934001,
+   "lead_time": 1.712,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "G9IsAx7_Pn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_quine_ver01",
+  "box": [
+   0.2636397915636088,
+   0.17193686270237424,
+   0.37545813014934154,
+   0.29684619558753567
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_quine_ver01\/data\/sn83030193\/175044632\/1907071201\/0131\/009_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_quine_ver01%2Fdata%2Fsn83030193%2F175044632%2F1907071201%2F0131.jp2\/pct:26.36,17.2,11.19,12.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "00f",
+   "p",
+   "f",
+   "if",
+   "li",
+   "i",
+   "f",
+   "iii",
+   "X",
+   "i",
+   "ii",
+   "<",
+   "iil",
+   "ii",
+   "j",
+   "k",
+   "<",
+   "5hL",
+   "i",
+   "il",
+   "5",
+   "Jq",
+   "X",
+   "7",
+   "t",
+   "1",
+   "i",
+   "A",
+   "JK",
+   "<",
+   "i",
+   "i",
+   "i",
+   "JOB",
+   "iiJt",
+   "l",
+   "I",
+   "J",
+   "i",
+   "f",
+   "i",
+   "ld",
+   "ifA4",
+   "t",
+   "Co",
+   "Y",
+   "Y",
+   "ti",
+   "t1",
+   "I",
+   "h",
+   "<",
+   "r",
+   ">",
+   "c",
+   ">",
+   "Fred",
+   "Erbe"
+  ],
+  "page_seq_num": 131,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_quine_ver01\/data\/sn83030193\/175044632\/1907071201\/0131.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1907-07-12",
+  "publisher": "[publisher not identified]",
+  "score": 0.9656277298927307,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_quine_ver01\/data\/sn83030193\/175044632\/1907071201\/0131\/009_0_96.jpg"
+ },
+ "id": 934
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675085,
+   "id": 162001,
+   "lead_time": 4.433,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "w_hY7Hn1PC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_austen_ver01",
+  "box": [
+   0.5768926294197582,
+   0.3307614723507149,
+   0.826203198438397,
+   0.5041504932913689
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_austen_ver01\/data\/sn86063592\/00296025628\/1897042401\/0196\/007_0_93.jpg",
+  "geographic_coverage": [
+   "New Mexico--San Miguel--Las Vegas"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_austen_ver01%2Fdata%2Fsn86063592%2F00296025628%2F1897042401%2F0196.jp2\/pct:57.68,33.08,24.94,17.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063592",
+  "name": "Las Vegas daily optic. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 196,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_austen_ver01\/data\/sn86063592\/00296025628\/1897042401\/0196.jp2",
+  "place_of_publication": "Las Vegas, N.M.",
+  "pub_date": "1897-04-24",
+  "publisher": "R.A. Kistler",
+  "score": 0.9348683953285217,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_austen_ver01\/data\/sn86063592\/00296025628\/1897042401\/0196\/007_0_93.jpg"
+ },
+ "id": 162
+}

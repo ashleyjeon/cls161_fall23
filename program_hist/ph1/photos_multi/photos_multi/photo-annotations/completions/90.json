@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763783,
+   "id": 90001,
+   "lead_time": 1.397,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "15ZLm8wviZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_strongguy_ver01",
+  "box": [
+   0.045600006058702736,
+   0.050140380859375,
+   0.22746375443826863,
+   0.205668691631744
+  ],
+  "edition_seq_num": 2,
+  "filepath": "lu_strongguy_ver01\/data\/sn88064454\/00200299607\/1896010402\/0429\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Louisiana--Saint Martin--Breaux Bridge",
+   "Louisiana--Saint Martin--Parks",
+   "Louisiana--Saint Martin--Saint Martinville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_strongguy_ver01%2Fdata%2Fsn88064454%2F00200299607%2F1896010402%2F0429.jp2\/pct:4.56,5.02,18.19,15.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064454",
+  "name": "The weekly messenger. [volume]",
+  "ocr": [
+   "-"
+  ],
+  "page_seq_num": 429,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_strongguy_ver01\/data\/sn88064454\/00200299607\/1896010402\/0429.jp2",
+  "place_of_publication": "St. Martinsville [i.e. St. Martinville] La.",
+  "pub_date": "1896-01-04",
+  "publisher": "Eastin & Bienvenu",
+  "score": 0.9440327286720276,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_strongguy_ver01\/data\/sn88064454\/00200299607\/1896010402\/0429\/004_0_94.jpg"
+ },
+ "id": 90
+}

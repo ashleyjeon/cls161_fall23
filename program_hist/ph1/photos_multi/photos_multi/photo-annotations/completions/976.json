@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767384,
+   "id": 976001,
+   "lead_time": 1.452,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dO7uv7g0ri",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_gabardine_ver01",
+  "box": [
+   0.31393390338426874,
+   0.5070304482143425,
+   0.4384492350465405,
+   0.7162863426441574
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_gabardine_ver01\/data\/sn87065163\/00199916798\/1907101301\/0869\/007_0_94.jpg",
+  "geographic_coverage": [
+   "Mississippi--Forrest--Hattiesburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_gabardine_ver01%2Fdata%2Fsn87065163%2F00199916798%2F1907101301%2F0869.jp2\/pct:31.39,50.71,12.46,20.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn87065163",
+  "name": "Hattiesburg daily news.",
+  "ocr": [
+   "IM",
+   "I",
+   "Scene",
+   "from",
+   "Zi'a",
+   "the",
+   "Princess",
+   "the",
+   "ater",
+   "success,",
+   "with",
+   "Mabel",
+   "Montgomery."
+  ],
+  "page_seq_num": 869,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_gabardine_ver01\/data\/sn87065163\/00199916798\/1907101301\/0869.jp2",
+  "place_of_publication": "Hattiesburg, Miss.",
+  "pub_date": "1907-10-13",
+  "publisher": "Hattiesburg Print. & Pub. Co.",
+  "score": 0.9485107064247131,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_gabardine_ver01\/data\/sn87065163\/00199916798\/1907101301\/0869\/007_0_94.jpg"
+ },
+ "id": 976
+}

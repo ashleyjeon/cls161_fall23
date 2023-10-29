@@ -1,0 +1,43 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763108,
+   "id": 1889001,
+   "lead_time": 3.623,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_coyote_ver02",
+  "box": [
+   0.37522103100779186,
+   0.0723848253615359,
+   0.7902807069642562,
+   0.29330613156582447
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_coyote_ver02\/data\/sn92061524\/00296025082\/1919020101\/0047\/001_0_96.jpg",
+  "geographic_coverage": [
+   "New Mexico--Harding--Roy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_coyote_ver02%2Fdata%2Fsn92061524%2F00296025082%2F1919020101%2F0047.jp2\/pct:37.52,7.24,41.51,22.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn92061524",
+  "name": "The Spanish American. [volume]",
+  "ocr": [
+   "!",
+   "!",
+   "s.",
+   "("
+  ],
+  "page_seq_num": 47,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_coyote_ver02\/data\/sn92061524\/00296025082\/1919020101\/0047.jp2",
+  "place_of_publication": "Roy, Mora Co., N.M.",
+  "pub_date": "1919-02-01",
+  "publisher": "Roy Pub. Co.",
+  "score": 0.9686019420623779,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_coyote_ver02\/data\/sn92061524\/00296025082\/1919020101\/0047\/001_0_96.jpg"
+ },
+ "id": 1889
+}

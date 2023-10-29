@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675749,
+   "id": 487001,
+   "lead_time": 3.298,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UoRzH8EcHj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_austria_ver01",
+  "box": [
+   0.33666491238576063,
+   0.4329802792375259,
+   0.8181705690779776,
+   0.5788619742209081
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_austria_ver01\/data\/sn83030214\/00175041096\/1901101301\/0236\/009_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_austria_ver01%2Fdata%2Fsn83030214%2F00175041096%2F1901101301%2F0236.jp2\/pct:33.66,43.3,48.16,14.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "PRINCESS",
+   "VT<~TORTA",
+   "OF",
+   "SC\"T-ESWItt-HOk-",
+   "STEIN'B",
+   "DLUE",
+   "GIKL.",
+   "CATS",
+   "WITH",
+   "ROYAL",
+   "MISTRESSES.",
+   "PRINCESS",
+   "VICTORIA",
+   "OF",
+   "SCHL.KSWIG",
+   "HOLSTEIN'S",
+   "I'L'CK",
+   "11.",
+   "PRINCESS",
+   "CHRISTIAN'S",
+   "PUSS."
+  ],
+  "page_seq_num": 236,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_austria_ver01\/data\/sn83030214\/00175041096\/1901101301\/0236.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1901-10-13",
+  "publisher": "New York Tribune",
+  "score": 0.9079067707061768,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_austria_ver01\/data\/sn83030214\/00175041096\/1901101301\/0236\/009_0_90.jpg"
+ },
+ "id": 487
+}

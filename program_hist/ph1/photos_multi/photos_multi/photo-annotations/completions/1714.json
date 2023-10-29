@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762433,
+   "id": 1714001,
+   "lead_time": 740.674,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fWtOt2ce3W",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_caddo_ver01",
+  "box": [
+   0.29735218394886365,
+   0.04093263970046747,
+   0.5595435913670006,
+   0.22076957994471483
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_caddo_ver01\/data\/sn85042344\/00200295055\/1917111101\/0516\/011_0_93.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Tulsa--Tulsa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_caddo_ver01%2Fdata%2Fsn85042344%2F00200295055%2F1917111101%2F0516.jp2\/pct:29.73,4.1,26.22,17.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042344",
+  "name": "Tulsa daily world. [volume]",
+  "ocr": [
+   "Filling",
+   "His",
+   "Om",
+   "ShoGS",
+   "rrAjw&ft",
+   "At",
+   "the",
+   "Strand",
+   "theater",
+   "Tuesday",
+   "and",
+   "Wednesday."
+  ],
+  "page_seq_num": 516,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_caddo_ver01\/data\/sn85042344\/00200295055\/1917111101\/0516.jp2",
+  "place_of_publication": "Tulsa, Indian Territory [Okla.]",
+  "pub_date": "1917-11-11",
+  "publisher": "J.R. Brady",
+  "score": 0.9370937943458557,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_caddo_ver01\/data\/sn85042344\/00200295055\/1917111101\/0516\/011_0_93.jpg"
+ },
+ "id": 1714
+}

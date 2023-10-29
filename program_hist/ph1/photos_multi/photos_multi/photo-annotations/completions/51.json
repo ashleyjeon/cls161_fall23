@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768342,
+   "id": 51001,
+   "lead_time": 2.578,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "a09Vl_hVT4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_eeyore_ver01",
+  "box": [
+   0.2869080720124421,
+   0.6606621515183222,
+   0.5778511329933449,
+   0.8163797287713914
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_eeyore_ver01\/data\/sn93060416\/00294556424\/1895060801\/0312\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Missouri--Lafayette--Lexington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_eeyore_ver01%2Fdata%2Fsn93060416%2F00294556424%2F1895060801%2F0312.jp2\/pct:28.69,66.07,29.1,15.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn93060416",
+  "name": "The weekly intelligencer. [volume]",
+  "ocr": [
+   "T",
+   "1",
+   "III",
+   "I",
+   "!",
+   "nWriaaiWi\"'-",
+   "\"",
+   "lim",
+   "immm-rT",
+   "-TT\"i",
+   "-",
+   "-..",
+   ":.--;-.Vi?.kW;jts.'",
+   "1",
+   ".'",
+   ",",
+   "la",
+   "ii!",
+   "GYMNASIUM,",
+   "CENTHAL",
+   "COLLEGE,",
+   "MO."
+  ],
+  "page_seq_num": 312,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_eeyore_ver01\/data\/sn93060416\/00294556424\/1895060801\/0312.jp2",
+  "place_of_publication": "Lexington, Mo.",
+  "pub_date": "1895-06-08",
+  "publisher": "James E. Payne",
+  "score": 0.9923796653747559,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_eeyore_ver01\/data\/sn93060416\/00294556424\/1895060801\/0312\/000_0_99.jpg"
+ },
+ "id": 51
+}

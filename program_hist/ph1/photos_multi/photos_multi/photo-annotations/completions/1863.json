@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768473,
+   "id": 1863001,
+   "lead_time": 2.091,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2KRH-GDE4T",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_margaret_ver01",
+  "box": [
+   0.08301428462682145,
+   0.12765539462423006,
+   0.2340107484575642,
+   0.2796068085328508
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_margaret_ver01\/data\/sn86086852\/00271769684\/1919121101\/0225\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Iowa--Mineral Point"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_margaret_ver01%2Fdata%2Fsn86086852%2F00271769684%2F1919121101%2F0225.jp2\/pct:8.3,12.77,15.1,15.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086852",
+  "name": "Iowa County democrat. [volume]",
+  "ocr": [
+   "Pe\u00a3fNT\u00a3WJD\u00a3WT"
+  ],
+  "page_seq_num": 225,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_margaret_ver01\/data\/sn86086852\/00271769684\/1919121101\/0225.jp2",
+  "place_of_publication": "Mineral Point, Wis.",
+  "pub_date": "1919-12-11",
+  "publisher": "Crawford & Bro.",
+  "score": 0.9478845000267029,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_margaret_ver01\/data\/sn86086852\/00271769684\/1919121101\/0225\/003_0_94.jpg"
+ },
+ "id": 1863
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766870,
+   "id": 627001,
+   "lead_time": 5.473,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_fiji_ver01",
+  "box": [
+   0.3591076024846073,
+   0.4085184252913225,
+   0.8184704408326556,
+   0.6135044419435899
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_fiji_ver01\/data\/sn83030214\/00175042118\/1903030801\/0151\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_fiji_ver01%2Fdata%2Fsn83030214%2F00175042118%2F1903030801%2F0151.jp2\/pct:35.91,40.86,45.94,20.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "GEORGES",
+   "A.",
+   "GLAENZER",
+   "A",
+   "CO.",
+   "REQUEST",
+   "THE",
+   "HONOR",
+   "OF",
+   "YOUR",
+   "PRESENCE",
+   "TO",
+   "VIEW",
+   "THE",
+   "MURAL",
+   "DECO",
+   "OF",
+   "MR",
+   "ROBERT",
+   "WINTHROP",
+   "CHANLER,",
+   "WHICH",
+   "WILL",
+   "BE",
+   "ON",
+   "EXHIBITION",
+   "FROM",
+   "MONDAY",
+   "TO",
+   "SATUR",
+   "INCLUSIVE.",
+   "MARCH",
+   "9",
+   "TO",
+   "14.",
+   "1903,",
+   "AT",
+   "THEIR",
+   "GALLERIES,",
+   "NO.",
+   "33",
+   "EAST",
+   "TWEXTIETH-ST.,",
+   "NEW-YORK.",
+   "THIS",
+   "IS",
+   "REPRODUCED",
+   "FROM",
+   "THE",
+   "COLLECTION."
+  ],
+  "page_seq_num": 151,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_fiji_ver01\/data\/sn83030214\/00175042118\/1903030801\/0151.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1903-03-08",
+  "publisher": "New York Tribune",
+  "score": 0.987062394618988,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_fiji_ver01\/data\/sn83030214\/00175042118\/1903030801\/0151\/001_0_98.jpg"
+ },
+ "id": 627
+}

@@ -1,0 +1,42 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741245,
+   "id": 189001,
+   "lead_time": 112.413,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_douglass_ver01",
+  "box": [
+   0.3892887679275605,
+   0.730247418085734,
+   0.5018981564323142,
+   0.8229623635609945
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_douglass_ver01\/data\/sn85038292\/00415623975\/1897062601\/0118\/005_0_95.jpg",
+  "geographic_coverage": [
+   "Maryland--Carroll--Westminster"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623975%2F1897062601%2F0118.jp2\/pct:38.92,73.03,11.27,9.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038292",
+  "name": "The Democratic advocate. [volume]",
+  "ocr": [
+   "Piney",
+   "Creek",
+   "Items."
+  ],
+  "page_seq_num": 118,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_douglass_ver01\/data\/sn85038292\/00415623975\/1897062601\/0118.jp2",
+  "place_of_publication": "Westminster, Md.",
+  "pub_date": "1897-06-26",
+  "publisher": "William H. Davis",
+  "score": 0.9500513076782227,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_douglass_ver01\/data\/sn85038292\/00415623975\/1897062601\/0118\/005_0_95.jpg"
+ },
+ "id": 189
+}

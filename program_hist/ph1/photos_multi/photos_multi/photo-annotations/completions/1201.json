@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767986,
+   "id": 1201001,
+   "lead_time": 2.235,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_X4770PSd-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_gulliver_ver01",
+  "box": [
+   0.157793939557324,
+   0.10133039524560897,
+   0.4213772277579611,
+   0.3647711487544749
+  ],
+  "edition_seq_num": 2,
+  "filepath": "mimtptc_gulliver_ver01\/data\/sn83016689\/00279551692\/1910092902\/0816\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_gulliver_ver01%2Fdata%2Fsn83016689%2F00279551692%2F1910092902%2F0816.jp2\/pct:15.77,10.14,26.36,26.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "CH",
+   "CAGO",
+   "TO",
+   "SPRINGFIELD,",
+   "-",
+   "~",
+   "~",
+   "1",
+   ".",
+   "\"\"\"",
+   ",VK",
+   "QHf",
+   "I",
+   "mtSSSSSSSSSSMTI",
+   "*3",
+   "jf",
+   "l.",
+   "Jm",
+   "\u2014\u25a0",
+   ".",
+   ",",
+   "....",
+   "%\u2014I",
+   "rr-nm",
+   "\u2014\u2014i\u2014\u2014\u2014\u2014agseaassamMMSMe\u2014\u20143M\u2014aas\u00dftsssssssmM",
+   "WALTER",
+   "BROOKINS.",
+   "H\u00ab",
+   "started",
+   "to",
+   "fly",
+   "from",
+   "Chicago",
+   "to",
+   "MprtagSrld",
+   "Thursday",
+   "mornlag",
+   "la",
+   "a",
+   "Wright"
+  ],
+  "page_seq_num": 816,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_gulliver_ver01\/data\/sn83016689\/00279551692\/1910092902\/0816.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1910-09-29",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9887617230415344,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_gulliver_ver01\/data\/sn83016689\/00279551692\/1910092902\/0816\/004_0_98.jpg"
+ },
+ "id": 1201
+}

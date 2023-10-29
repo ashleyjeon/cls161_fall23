@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747695,
+   "id": 1915001,
+   "lead_time": 2.431,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VvLBghxUIk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_englishsetter_ver01",
+  "box": [
+   0.13124842508899523,
+   0.024596787245539535,
+   0.37628385646790646,
+   0.21312843516848093
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_englishsetter_ver01\/data\/sn83045433\/0028076405A\/1919101901\/0336\/006_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_englishsetter_ver01%2Fdata%2Fsn83045433%2F0028076405A%2F1919101901%2F0336.jp2\/pct:13.12,2.46,24.51,18.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "HELP",
+   "SOLVE",
+   "HOUSING",
+   "PROBLEM",
+   "IN",
+   "D.",
+   "C.",
+   "THIS",
+   "Row",
+   "of",
+   "houses",
+   "under",
+   "construction",
+   "by",
+   "Harry",
+   "Kite",
+   "at",
+   "Georgia",
+   "avenue",
+   "and",
+   "Kenyon",
+   "street",
+   "northwest"
+  ],
+  "page_seq_num": 336,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_englishsetter_ver01\/data\/sn83045433\/0028076405A\/1919101901\/0336.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1919-10-19",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9707348346710205,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_englishsetter_ver01\/data\/sn83045433\/0028076405A\/1919101901\/0336\/006_0_97.jpg"
+ },
+ "id": 1915
+}

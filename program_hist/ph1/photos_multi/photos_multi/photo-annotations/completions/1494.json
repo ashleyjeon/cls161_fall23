@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743382,
+   "id": 1494001,
+   "lead_time": 4.377,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nECLzfFswg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_beaver_ver01",
+  "box": [
+   0.07110402134486607,
+   0.7587071900726646,
+   0.4654934430803571,
+   0.9591596049647177
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_beaver_ver01\/data\/sn83045211\/00237282024\/1914122101\/0711\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_beaver_ver01%2Fdata%2Fsn83045211%2F00237282024%2F1914122101%2F0711.jp2\/pct:7.11,75.88,39.44,20.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "1",
+   "iiiiuud",
+   "iuli",
+   "ii",
+   "lujinncwiiiiwii",
+   "i",
+   "-",
+   "-",
+   "\"B\"",
+   "'",
+   "auMwrnwwwiriww",
+   "iiiiiitnwiiiiininniii",
+   "ft",
+   ",",
+   ".,.",
+   ".iii",
+   "S",
+   "lit",
+   "-A",
+   "dAN",
+   "l",
+   ".",
+   "ii",
+   "t",
+   "w",
+   "A",
+   "I",
+   "'.1",
+   "wj"
+  ],
+  "page_seq_num": 711,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_beaver_ver01\/data\/sn83045211\/00237282024\/1914122101\/0711.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1914-12-21",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9743384718894958,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_beaver_ver01\/data\/sn83045211\/00237282024\/1914122101\/0711\/001_0_97.jpg"
+ },
+ "id": 1494
+}

@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768022,
+   "id": 543001,
+   "lead_time": 4.236,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "IBQWQbDX77",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_kenya_ver01",
+  "box": [
+   0.2519232468797981,
+   0.21662882271584005,
+   0.7375505921468569,
+   0.6484328004692012
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_kenya_ver01\/data\/sn83030214\/00175041151\/1902030901\/0196\/000_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_kenya_ver01%2Fdata%2Fsn83030214%2F00175041151%2F1902030901%2F0196.jp2\/pct:25.19,21.67,48.57,43.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "A",
+   "DAUGHTER",
+   "OF",
+   "TIIE",
+   "KNICKERBOCKER&"
+  ],
+  "page_seq_num": 196,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_kenya_ver01\/data\/sn83030214\/00175041151\/1902030901\/0196.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1902-03-09",
+  "publisher": "New York Tribune",
+  "score": 0.9783130884170532,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_kenya_ver01\/data\/sn83030214\/00175041151\/1902030901\/0196\/000_0_97.jpg"
+ },
+ "id": 543
+}

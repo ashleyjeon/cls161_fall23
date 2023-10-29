@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673657,
+   "id": 1050001,
+   "lead_time": 1.958,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "asrcNCxgfP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_ernie_ver01",
+  "box": [
+   0.40461470055456605,
+   0.23658604039218362,
+   0.5813425489040236,
+   0.4301628943591542
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_ernie_ver01\/data\/sn86064259\/00296020576\/1908060501\/0566\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Tennessee--Davidson--Nashville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_ernie_ver01%2Fdata%2Fsn86064259%2F00296020576%2F1908060501%2F0566.jp2\/pct:40.46,23.66,17.68,19.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn86064259",
+  "name": "The Nashville globe. [volume]",
+  "ocr": [
+   "7--",
+   ".",
+   "'",
+   "I",
+   "-",
+   "-j'v",
+   ".",
+   ".",
+   "3",
+   "V",
+   "ml",
+   "-",
+   "MR.",
+   "S.",
+   "F.",
+   "WILLIAMS."
+  ],
+  "page_seq_num": 566,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_ernie_ver01\/data\/sn86064259\/00296020576\/1908060501\/0566.jp2",
+  "place_of_publication": "Nashville, Tenn.",
+  "pub_date": "1908-06-05",
+  "publisher": "Globe Pub. Co.",
+  "score": 0.9729569554328918,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_ernie_ver01\/data\/sn86064259\/00296020576\/1908060501\/0566\/003_0_97.jpg"
+ },
+ "id": 1050
+}

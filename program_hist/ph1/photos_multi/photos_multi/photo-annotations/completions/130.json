@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751339,
+   "id": 130001,
+   "lead_time": 3.245,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "RwNK-FGUp7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_hazen_ver01",
+  "box": [
+   0.37651780072380514,
+   0.5050055969523938,
+   0.7981555645282452,
+   0.6925421609149522
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_hazen_ver01\/data\/sn85042405\/00212478751\/1896020101\/0058\/000_0_98.jpg",
+  "geographic_coverage": [
+   "North Dakota--Stutsman--Jamestown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_hazen_ver01%2Fdata%2Fsn85042405%2F00212478751%2F1896020101%2F0058.jp2\/pct:37.65,50.51,42.17,18.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042405",
+  "name": "Jamestown weekly alert. [volume]",
+  "ocr": [
+   "wm",
+   "W"
+  ],
+  "page_seq_num": 58,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_hazen_ver01\/data\/sn85042405\/00212478751\/1896020101\/0058.jp2",
+  "place_of_publication": "Jamestown, Stutsman County, D.T. [N.D.]",
+  "pub_date": "1896-02-01",
+  "publisher": "Marshall McClure",
+  "score": 0.9897170066833496,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_hazen_ver01\/data\/sn85042405\/00212478751\/1896020101\/0058\/000_0_98.jpg"
+ },
+ "id": 130
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772480,
+   "id": 1502001,
+   "lead_time": 1.706,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "izChspORhe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_klm_ver01",
+  "box": [
+   0.3910956131784539,
+   0.3620123859148164,
+   0.504473234477796,
+   0.5279246003682749
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_klm_ver01\/data\/sn84026749\/00294557908\/1914120101\/0038\/013_0_92.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_klm_ver01%2Fdata%2Fsn84026749%2F00294557908%2F1914120101%2F0038.jp2\/pct:39.1,36.21,11.34,16.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "JBFl'Jtijjy)",
+   "''.",
+   "'",
+   "y",
+   "-1?N",
+   "i",
+   "vL-T\"",
+   "A.",
+   "P.",
+   "SANDLES.",
+   "President",
+   "of",
+   "the",
+   "Ohio",
+   "Agricultural",
+   "Commission,",
+   "who",
+   "is",
+   "managing",
+   "the",
+   "tour",
+   "of",
+   "the",
+   "Ohio",
+   "prize",
+   "winners"
+  ],
+  "page_seq_num": 38,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_klm_ver01\/data\/sn84026749\/00294557908\/1914120101\/0038.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1914-12-01",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9239217638969421,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_klm_ver01\/data\/sn84026749\/00294557908\/1914120101\/0038\/013_0_92.jpg"
+ },
+ "id": 1502
+}

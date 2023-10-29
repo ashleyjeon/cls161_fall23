@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766412,
+   "id": 1432001,
+   "lead_time": 3.649,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "OqRFCkTiOt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_ehrlich_ver02",
+  "box": [
+   0.15538867857398056,
+   0.04919733295526205,
+   0.6782535459937119,
+   0.39772670044492714
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_ehrlich_ver02\/data\/sn83030272\/00206539926\/1913021001\/0980\/014_0_95.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_ehrlich_ver02%2Fdata%2Fsn83030272%2F00206539926%2F1913021001%2F0980.jp2\/pct:15.53,4.92,52.29,34.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "Mexican",
+   "President's",
+   "Palace",
+   "and",
+   "Revolutionist",
+   "Who",
+   "Was",
+   "Killed.",
+   "Jislcoiy",
+   "of",
+   "th0",
+   "Cast",
+   "If",
+   "oj",
+   "Chm-pntte-pec"
+  ],
+  "page_seq_num": 980,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_ehrlich_ver02\/data\/sn83030272\/00206539926\/1913021001\/0980.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1913-02-10",
+  "publisher": "Benj. H. Day",
+  "score": 0.9527945518493652,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_ehrlich_ver02\/data\/sn83030272\/00206539926\/1913021001\/0980\/014_0_95.jpg"
+ },
+ "id": 1432
+}

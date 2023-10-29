@@ -1,0 +1,110 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772459,
+   "id": 1384001,
+   "lead_time": 1.686,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1s_6w8P6n1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_ehrlich_ver02",
+  "box": [
+   0.036711210143595276,
+   0.2734638412011544,
+   0.4148750584982427,
+   0.7234668492844365
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_ehrlich_ver02\/data\/sn83030272\/00206537188\/1912081801\/0065\/002_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_ehrlich_ver02%2Fdata%2Fsn83030272%2F00206537188%2F1912081801%2F0065.jp2\/pct:3.67,27.35,37.82,45.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "111",
+   "III",
+   "If",
+   "-",
+   "V",
+   ",",
+   "'",
+   "IfflVWiW'J'v\"",
+   "-j,",
+   "J",
+   "V",
+   "V\"",
+   "KW'-WVi",
+   "I",
+   "III",
+   "III",
+   "II",
+   ".'",
+   "-K!",
+   ".",
+   ".",
+   "Hf.c",
+   "ahHv",
+   ".",
+   "..ilM&SS&iS&t&iKXgin",
+   "I",
+   "I",
+   "111",
+   "h",
+   "v",
+   "vjb.'",
+   ".",
+   "-i",
+   "i",
+   "samr'm&m",
+   "1",
+   "111",
+   "1",
+   "mtwh",
+   "wmrmr-.",
+   "v&t",
+   ",mt.KMmt?zi:i",
+   "zmsim:z;",
+   "111",
+   "I",
+   "HHHllllllllllllllllllH",
+   "r'C",
+   "L'J",
+   "yMHlllllllKIMIH",
+   "III",
+   "J",
+   "HvH",
+   "I",
+   "hi",
+   "Millllllllllllllllllf",
+   "III",
+   "a'KC'",
+   "\"JillH'nillllilllllllllllHt..",
+   "MHBMHniiHiHiHiiiiiiii",
+   "I",
+   "III"
+  ],
+  "page_seq_num": 65,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_ehrlich_ver02\/data\/sn83030272\/00206537188\/1912081801\/0065.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1912-08-18",
+  "publisher": "Benj. H. Day",
+  "score": 0.9425777196884155,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_ehrlich_ver02\/data\/sn83030272\/00206537188\/1912081801\/0065\/002_0_94.jpg"
+ },
+ "id": 1384
+}

@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768644,
+   "id": 1581001,
+   "lead_time": 1.756,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cLvGgEIFwd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_greer_ver01",
+  "box": [
+   0.8010251552709271,
+   0.5465193625221987,
+   0.9463748098339091,
+   0.7386742582242496
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_greer_ver01\/data\/sn96093062\/00237281354\/1915022601\/0072\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Bryan--Durant"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_greer_ver01%2Fdata%2Fsn96093062%2F00237281354%2F1915022601%2F0072.jp2\/pct:80.1,54.66,14.54,19.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn96093062",
+  "name": "Durant weekly news.",
+  "ocr": [
+   "-",
+   "'",
+   "Wlfk",
+   "\"aW",
+   "'NkVJmnanaemnaV",
+   ".unB",
+   "t",
+   "v",
+   "a.",
+   "nae",
+   "almnF",
+   "..",
+   "wt",
+   ".anaeana",
+   "iVVntZSneaenmaunWanunP",
+   "prSphiartylaili",
+   "'a",
+   "'",
+   "iMSES?",
+   "?S,y",
+   "Jann\"?aJafe?PuaeTnnBnanael",
+   "John",
+   "Led",
+   "Them",
+   "Out",
+   "In",
+   "a",
+   "Wild",
+   "Ruth"
+  ],
+  "page_seq_num": 72,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_greer_ver01\/data\/sn96093062\/00237281354\/1915022601\/0072.jp2",
+  "place_of_publication": "Durant, Choctaw Nation, Indian Territory [Okla.]",
+  "pub_date": "1915-02-26",
+  "publisher": "Lewis Paullin",
+  "score": 0.9799439311027527,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_greer_ver01\/data\/sn96093062\/00237281354\/1915022601\/0072\/001_0_97.jpg"
+ },
+ "id": 1581
+}

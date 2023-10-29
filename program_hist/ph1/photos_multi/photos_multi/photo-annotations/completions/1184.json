@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766363,
+   "id": 1184001,
+   "lead_time": 3.455,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CHBbOE1oX1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_bravo_ver01",
+  "box": [
+   0.35889985389316204,
+   0.4970598355145522,
+   0.4937906953477368,
+   0.6388903873067506
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_bravo_ver01\/data\/sn86090383\/00175035175\/1910110701\/0051\/004_0_93.jpg",
+  "geographic_coverage": [
+   "Texas--Anderson--Palestine"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_bravo_ver01%2Fdata%2Fsn86090383%2F00175035175%2F1910110701%2F0051.jp2\/pct:35.88,49.71,13.49,14.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090383",
+  "name": "Palestine daily herald. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 51,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_bravo_ver01\/data\/sn86090383\/00175035175\/1910110701\/0051.jp2",
+  "place_of_publication": "Palestine, Tex.",
+  "pub_date": "1910-11-07",
+  "publisher": "W.M. and H.V. Hamilton Jr.",
+  "score": 0.932091474533081,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_bravo_ver01\/data\/sn86090383\/00175035175\/1910110701\/0051\/004_0_93.jpg"
+ },
+ "id": 1184
+}

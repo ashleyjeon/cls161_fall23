@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762871,
+   "id": 1159001,
+   "lead_time": 1.672,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9EULNedQ9y",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.2726754112110736,
+   0.7296631484842016,
+   0.3939035661544534,
+   0.9145881007819172
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107492\/1910052301\/0196\/004_0_92.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107492%2F1910052301%2F0196.jp2\/pct:27.26,72.97,12.13,18.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "'",
+   "'",
+   "IN",
+   "THE",
+   "PUBLIC",
+   "EYE",
+   "*",
+   "l<'!",
+   "\"f",
+   "'|",
+   "l\"",
+   "lip",
+   "In",
+   "Mil",
+   "hlgan",
+   "who",
+   "want",
+   "to",
+   "d",
+   "Jullni",
+   "lint",
+   "row*",
+   "frotn",
+   "I",
+   "In'",
+   "MtUtorial",
+   "|ni;n",
+   "I.\"",
+   "hull",
+   "worn",
+   "fur",
+   "Hie",
+   "Congrwanuui",
+   "Town",
+   "ii'l",
+   "Inn",
+   "bi",
+   "\"'i",
+   "ci'li'i",
+   "-It'll",
+   "tv",
+   "lift",
+   ".lull",
+   "11h"
+  ],
+  "page_seq_num": 196,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107492\/1910052301\/0196.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1910-05-23",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9208254814147949,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107492\/1910052301\/0196\/004_0_92.jpg"
+ },
+ "id": 1159
+}

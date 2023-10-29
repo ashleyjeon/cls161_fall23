@@ -1,0 +1,147 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673554,
+   "id": 32001,
+   "lead_time": 3.695,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HI600cOzwo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "created_at": 1611673559,
+   "id": 32002,
+   "lead_time": 170.38,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HI600cOzwo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_whitesnake_ver01",
+  "box": [
+   0.16050143976586104,
+   0.2143530048662137,
+   0.43052736341893255,
+   0.3845006062018635
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_whitesnake_ver01\/data\/sn85034438\/00175049307\/1895072401\/0166\/009_0_92.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_whitesnake_ver01%2Fdata%2Fsn85034438%2F00175049307%2F1895072401%2F0166.jp2\/pct:16.05,21.44,27.01,17.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn85034438",
+  "name": "The times. [volume]",
+  "ocr": [
+   "'",
+   ",",
+   ",",
+   ".'V.,,",
+   "._?--",
+   "-^L*VrT7",
+   "..\/I",
+   ".",
+   ",",
+   "i",
+   "'",
+   ",",
+   "*?",
+   "?*",
+   "?",
+   "s'..,",
+   "?",
+   "?",
+   "\"",
+   ".",
+   "*'-f;",
+   "I",
+   "Kl",
+   "\"",
+   "*",
+   ".",
+   "?",
+   "!",
+   "'",
+   "*?'",
+   "*r",
+   "-!?'?'",
+   "5'??",
+   ".",
+   "'",
+   "l",
+   "'.lr",
+   "?",
+   ".",
+   "i",
+   "-?",
+   "?-",
+   "\"''",
+   "'\"'?'''",
+   ":,.'\"i'",
+   "0",
+   "ir",
+   "s",
+   "i;-.",
+   "ii*",
+   "-",
+   "::",
+   "P",
+   ";_?_3'",
+   "-",
+   "??",
+   ".",
+   "rf",
+   "\"",
+   "-",
+   "-'",
+   "a",
+   ".",
+   "'-",
+   "?.,-.",
+   "'.",
+   ".^-.rv",
+   "*",
+   "'",
+   ".",
+   "?",
+   "7?*V**?i",
+   "*-**>.",
+   ",-A.\"^",
+   "-",
+   "'??",
+   ".-'!'"
+  ],
+  "page_seq_num": 166,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_whitesnake_ver01\/data\/sn85034438\/00175049307\/1895072401\/0166.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1895-07-24",
+  "publisher": "Times Co.",
+  "score": 0.9223498702049255,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_whitesnake_ver01\/data\/sn85034438\/00175049307\/1895072401\/0166\/009_0_92.jpg"
+ },
+ "id": 32
+}

@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611756951,
+   "id": 1218001,
+   "lead_time": 2.315,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_C1EBTTCwr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_quarrie_ver01",
+  "box": [
+   0.03946656600984137,
+   0.6013948139391447,
+   0.1692929697736504,
+   0.7976977143693067
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_quarrie_ver01\/data\/sn99021999\/00280778813\/1910010701\/0410\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_quarrie_ver01%2Fdata%2Fsn99021999%2F00280778813%2F1910010701%2F0410.jp2\/pct:3.94,60.14,12.99,19.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "IlIUWFOR",
+   "YEARS",
+   "Omaha",
+   "Man",
+   "Suffers",
+   "for",
+   "Years",
+   ".",
+   "With",
+   "Painful",
+   "Bladder",
+   "av",
+   "Trouble.",
+   "DR.",
+   "MTLEN",
+   "RELIEVES",
+   "niM.",
+   "t",
+   "f",
+   "I",
+   "--;X..'-",
+   ":",
+   ".y-f",
+   "PR.",
+   "THEODOKT3",
+   "MILEN,"
+  ],
+  "page_seq_num": 410,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_quarrie_ver01\/data\/sn99021999\/00280778813\/1910010701\/0410.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1910-01-07",
+  "publisher": "Edward Rosewater",
+  "score": 0.9667232036590576,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_quarrie_ver01\/data\/sn99021999\/00280778813\/1910010701\/0410\/007_0_96.jpg"
+ },
+ "id": 1218
+}

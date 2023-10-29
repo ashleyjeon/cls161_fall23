@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767270,
+   "id": 789001,
+   "lead_time": 2.323,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9q48As7yxn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_kenya_ver01",
+  "box": [
+   0.015953700357292665,
+   0.3763928600193299,
+   0.16934741011973423,
+   0.5483515893470791
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_kenya_ver01\/data\/sn83030214\/00175041345\/1905113001\/0639\/004_0_99.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_kenya_ver01%2Fdata%2Fsn83030214%2F00175041345%2F1905113001%2F0639.jp2\/pct:1.59,37.64,15.34,17.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "?'?-??V",
+   "RICHARP",
+   "A.",
+   "M'CURDT.",
+   "resignation",
+   "as",
+   "president",
+   "of",
+   "the",
+   "Mutual",
+   "Life"
+  ],
+  "page_seq_num": 639,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_kenya_ver01\/data\/sn83030214\/00175041345\/1905113001\/0639.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1905-11-30",
+  "publisher": "New York Tribune",
+  "score": 0.9907943606376648,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_kenya_ver01\/data\/sn83030214\/00175041345\/1905113001\/0639\/004_0_99.jpg"
+ },
+ "id": 789
+}

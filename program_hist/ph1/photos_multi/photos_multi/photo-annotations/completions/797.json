@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765406,
+   "id": 797001,
+   "lead_time": 1.658,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iXgOtm4NeW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_mill_ver01",
+  "box": [
+   0.1508144893669028,
+   0.0478668212890625,
+   0.26674762393126494,
+   0.2816582720020496
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_mill_ver01\/data\/sn83030193\/175044541\/1905121901\/1051\/003_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_mill_ver01%2Fdata%2Fsn83030193%2F175044541%2F1905121901%2F1051.jp2\/pct:15.08,4.79,11.6,23.38\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "HER",
+   "FRIENDS",
+   "VJI",
+   "NOT",
+   "LET",
+   "MOTHER",
+   "SEE",
+   "BODY",
+   "iIy",
+   "eaten",
+   "wMrh",
+   "she",
+   "line",
+   "trlfil",
+   "to",
+   "keep"
+  ],
+  "page_seq_num": 1051,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_mill_ver01\/data\/sn83030193\/175044541\/1905121901\/1051.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1905-12-19",
+  "publisher": "[publisher not identified]",
+  "score": 0.98638516664505,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_mill_ver01\/data\/sn83030193\/175044541\/1905121901\/1051\/003_0_98.jpg"
+ },
+ "id": 797
+}

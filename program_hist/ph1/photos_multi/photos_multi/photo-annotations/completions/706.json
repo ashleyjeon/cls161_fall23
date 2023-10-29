@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768475,
+   "id": 706001,
+   "lead_time": 1.764,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "07Q8gE8qhB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_darwin_ver01",
+  "box": [
+   0.2878536853630301,
+   0.13482340182446137,
+   0.6996921848606419,
+   0.5214947675876658
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_darwin_ver01\/data\/sn85066387\/00100480517\/1904042201\/0428\/011_0_91.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_darwin_ver01%2Fdata%2Fsn85066387%2F00100480517%2F1904042201%2F0428.jp2\/pct:28.78,13.49,41.19,38.67\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "PROMINENT",
+   "CITIZENS",
+   "WHO",
+   "AT",
+   "j",
+   "TENDED",
+   "THE",
+   "\"BOOSTER\"",
+   "RAL",
+   "AH",
+   "the",
+   "Public",
+   "Schools",
+   "to",
+   "Take",
+   "Part",
+   "in",
+   "the",
+   "Celebration",
+   "in",
+   "Isle",
+   "Famous",
+   "Bestaurant",
+   "Man",
+   "Is",
+   "Found",
+   "Wandering",
+   "About",
+   "With",
+   "Pillowcase",
+   "Over",
+   "Head",
+   "A.",
+   "W.",
+   "DENNETT",
+   "MAY",
+   "BE",
+   "INSANE",
+   "ALAMEDA",
+   "WILL",
+   "PLANT"
+  ],
+  "page_seq_num": 428,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_darwin_ver01\/data\/sn85066387\/00100480517\/1904042201\/0428.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1904-04-22",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.917344868183136,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_darwin_ver01\/data\/sn85066387\/00100480517\/1904042201\/0428\/011_0_91.jpg"
+ },
+ "id": 706
+}

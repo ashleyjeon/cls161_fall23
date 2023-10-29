@@ -1,0 +1,108 @@
+{
+ "completions": [
+  {
+   "created_at": 1611676201,
+   "id": 1685001,
+   "lead_time": 2.481,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XGQFHBnoCG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_argonaut_ver01",
+  "box": [
+   0.4241353678585861,
+   0.2130705527746746,
+   0.6904653915630773,
+   0.5154693662090631
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_argonaut_ver01\/data\/sn99063812\/00280760055\/1916112201\/1154\/010_0_90.jpg",
+  "geographic_coverage": [
+   "Oregon--Klamath--Klamath Falls"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_argonaut_ver01%2Fdata%2Fsn99063812%2F00280760055%2F1916112201%2F1154.jp2\/pct:42.41,21.31,26.64,30.24\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063812",
+  "name": "The evening herald.",
+  "ocr": [
+   "Austrian",
+   "Monarch",
+   "Dies",
+   ";",
+   "at",
+   "Schoenebrun",
+   "Castle",
+   "r",
+   "\"",
+   "l",
+   "istsEgjr",
+   ".",
+   "LflR",
+   "i",
+   "iSak",
+   "EHrBBBBB",
+   "anBnmuBnJffisBnBnBnBnBnBnBnBnBnBnBnBnBnBnBnaa",
+   "JPsWaJssP:-MliWananananananananan",
+   "SSKKi'H",
+   "BssssssFJflMffitfnTnsnsnsnsnsnsnsnsnsn",
+   "'",
+   "SSSSSSSSjSJgff',r.JB73uSn",
+   "'",
+   "KKKKmSKM",
+   "'",
+   "1",
+   "\"",
+   "BSBBBBwdDKSsnnvfitfansnsnsnsnsnsnsnsnsnsns",
+   "BSSfJBfJJBBSSSSSSSSSSSSSSSSSSSSSSv",
+   "flk",
+   "sssssssssssssssssssssssssH",
+   "'",
+   "Hk",
+   "-'",
+   "-vS&gv",
+   "gEagEagEagEagEagEagEagEfl3?",
+   "--;",
+   "LfFT;v'",
+   "v",
+   ",",
+   "I",
+   "BPsnanH-",
+   "i",
+   "a'ss'an\"\"\"'",
+   "li-",
+   ",",
+   "i",
+   ",-ti7m'r",
+   "t",
+   "'",
+   "-v",
+   "United",
+   "Press",
+   "Service",
+   "t",
+   "jif-rf",
+   ",if",
+   "--v.vsl.",
+   "\"rf."
+  ],
+  "page_seq_num": 1154,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_argonaut_ver01\/data\/sn99063812\/00280760055\/1916112201\/1154.jp2",
+  "place_of_publication": "Klamath Falls, Or.",
+  "pub_date": "1916-11-22",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9008315205574036,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_argonaut_ver01\/data\/sn99063812\/00280760055\/1916112201\/1154\/010_0_90.jpg"
+ },
+ "id": 1685
+}

@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673685,
+   "id": 553001,
+   "lead_time": 1.899,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JNxE4Ee7Pl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_bravo_ver01",
+  "box": [
+   0.16251624890045524,
+   0.5488086480034722,
+   0.3867810227954909,
+   0.7664072808159722
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_bravo_ver01\/data\/sn84028140\/00237283569\/1902090601\/0497\/012_0_91.jpg",
+  "geographic_coverage": [
+   "Ohio--Summit--Akron"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_bravo_ver01%2Fdata%2Fsn84028140%2F00237283569%2F1902090601%2F0497.jp2\/pct:16.25,54.89,22.43,21.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn84028140",
+  "name": "Akron daily Democrat. [volume]",
+  "ocr": [
+   "secretary;",
+   "Oliver",
+   "Schollo,",
+   "financial",
+   "CHAS.",
+   "B.",
+   "State",
+   "Mil",
+   "and",
+   ".Tames",
+   "Dolan,",
+   "Dayton;",
+   "WITHROQK,",
+   "President."
+  ],
+  "page_seq_num": 497,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_bravo_ver01\/data\/sn84028140\/00237283569\/1902090601\/0497.jp2",
+  "place_of_publication": "Akron, Ohio",
+  "pub_date": "1902-09-06",
+  "publisher": "William B. and Russell T. Dobson",
+  "score": 0.9126797914505005,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_bravo_ver01\/data\/sn84028140\/00237283569\/1902090601\/0497\/012_0_91.jpg"
+ },
+ "id": 553
+}

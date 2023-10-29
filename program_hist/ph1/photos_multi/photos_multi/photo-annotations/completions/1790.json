@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751598,
+   "id": 1790001,
+   "lead_time": 1.805,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "OZhYujjKTh",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_mustang_ver01",
+  "box": [
+   0.2373776227059449,
+   0.7194832565438034,
+   0.37798920580621304,
+   0.884489975627671
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_mustang_ver01\/data\/sn2001063549\/00415625042\/1918050901\/0932\/001_0_90.jpg",
+  "geographic_coverage": [
+   "South Dakota--Codington--Watertown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_mustang_ver01%2Fdata%2Fsn2001063549%2F00415625042%2F1918050901%2F0932.jp2\/pct:23.73,71.95,14.07,16.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn2001063549",
+  "name": "Saturday news.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 932,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_mustang_ver01\/data\/sn2001063549\/00415625042\/1918050901\/0932.jp2",
+  "place_of_publication": "Watertown, S.D.",
+  "pub_date": "1918-05-09",
+  "publisher": "E.M. Barker",
+  "score": 0.9092979431152344,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_mustang_ver01\/data\/sn2001063549\/00415625042\/1918050901\/0932\/001_0_90.jpg"
+ },
+ "id": 1790
+}

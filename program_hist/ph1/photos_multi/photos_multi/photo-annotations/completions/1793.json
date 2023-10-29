@@ -1,0 +1,120 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768977,
+   "id": 1793001,
+   "lead_time": 1.675,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JwGwLCv2XW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_mateer_ver01",
+  "box": [
+   0.27435112465856126,
+   0.5636559856824639,
+   0.4097712733634818,
+   0.787700911592846
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_mateer_ver01\/data\/sn86081889\/00212477965\/1918030701\/0532\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Fulton--McConnellsburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_mateer_ver01%2Fdata%2Fsn86081889%2F00212477965%2F1918030701%2F0532.jp2\/pct:27.43,56.37,13.55,22.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn86081889",
+  "name": "The Fulton County news. [volume]",
+  "ocr": [
+   "!",
+   "bishop",
+   "becomes",
+   "chaplain",
+   "is",
+   "t",
+   "iw",
+   "If",
+   "Mut",
+   "JQf",
+   "v.",
+   ".v.-",
+   "AV",
+   "-r",
+   "I",
+   "v",
+   "t",
+   "N,'WRinM-r",
+   "I",
+   "nii'i?",
+   ":5",
+   "x.",
+   "to",
+   "y",
+   "lilsliop",
+   "William",
+   "1'.",
+   "Iteiulnuton,",
+   "who",
+   "was",
+   "reetor",
+   "of",
+   "tlie",
+   "St.",
+   "1'aul's",
+   "church",
+   "In",
+   "Minneapolis",
+   "for",
+   "seven",
+   "years",
+   "ami",
+   "Is",
+   "well",
+   "known",
+   "In",
+   "religious",
+   "circles",
+   "In",
+   "tin:",
+   "Northwest,",
+   "is",
+   "now",
+   "serving",
+   "ns",
+   "rhnpluln",
+   "of",
+   "a",
+   "hospital",
+   "unit",
+   "at",
+   "Fort",
+   "Mcpherson,",
+   "(!a.",
+   "The",
+   "'",
+   "photograph",
+   "shows",
+   "1",
+   "'.I",
+   "shop"
+  ],
+  "page_seq_num": 532,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_mateer_ver01\/data\/sn86081889\/00212477965\/1918030701\/0532.jp2",
+  "place_of_publication": "McConnellsburg, Pa.",
+  "pub_date": "1918-03-07",
+  "publisher": "[publisher not identified]",
+  "score": 0.9641129374504089,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_mateer_ver01\/data\/sn86081889\/00212477965\/1918030701\/0532\/000_0_96.jpg"
+ },
+ "id": 1793
+}

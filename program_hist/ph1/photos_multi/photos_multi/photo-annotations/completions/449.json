@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749273,
+   "id": 449001,
+   "lead_time": 1.746,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zn59giz2BV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_gaines_ver01",
+  "box": [
+   0.19871729148684117,
+   0.05415851162068515,
+   0.5776957583938134,
+   0.33351243789225943
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_gaines_ver01\/data\/sn84020274\/0021110904A\/1900052801\/0487\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_gaines_ver01%2Fdata%2Fsn84020274%2F0021110904A%2F1900052801%2F0487.jp2\/pct:19.87,5.42,37.9,27.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "SMITH",
+   "1",
+   "Boucher.",
+   "ACADEMY'S",
+   "J",
+   "900",
+   "TRACK",
+   "M",
+   "rqaU",
+   "JtKr",
+   "1!",
+   "1;.",
+   "TEAM.",
+   "Pitzman"
+  ],
+  "page_seq_num": 487,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_gaines_ver01\/data\/sn84020274\/0021110904A\/1900052801\/0487.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1900-05-28",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9870408177375793,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_gaines_ver01\/data\/sn84020274\/0021110904A\/1900052801\/0487\/001_0_98.jpg"
+ },
+ "id": 449
+}

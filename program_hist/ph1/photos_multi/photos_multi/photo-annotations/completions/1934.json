@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765178,
+   "id": 1934001,
+   "lead_time": 53.951,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pG-RIG42HK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_bunting_ver01",
+  "box": [
+   0.04689320474483888,
+   0.6237364087314985,
+   0.17557393624885695,
+   0.7596417083344588
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_bunting_ver01\/data\/sn86069461\/00202195283\/1920062501\/1014\/005_0_95.jpg",
+  "geographic_coverage": [
+   "Kentucky--Crittenden--Marion"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_bunting_ver01%2Fdata%2Fsn86069461%2F00202195283%2F1920062501%2F1014.jp2\/pct:4.68,62.38,12.87,13.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069461",
+  "name": "The Crittenden press. [volume]",
+  "ocr": [
+   "It",
+   "12h",
+   "r",
+   "'j",
+   "Oi",
+   "'s.",
+   "Are",
+   "Lov."
+  ],
+  "page_seq_num": 1014,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_bunting_ver01\/data\/sn86069461\/00202195283\/1920062501\/1014.jp2",
+  "place_of_publication": "Marion, Ky.",
+  "pub_date": "1920-06-25",
+  "publisher": "W.F. and W.P. Hogard",
+  "score": 0.9577991366386414,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_bunting_ver01\/data\/sn86069461\/00202195283\/1920062501\/1014\/005_0_95.jpg"
+ },
+ "id": 1934
+}

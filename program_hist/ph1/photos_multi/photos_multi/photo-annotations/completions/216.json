@@ -1,0 +1,104 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751100,
+   "id": 216001,
+   "lead_time": 1.859,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "A5LOJb36zV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_iona_ver01",
+  "box": [
+   0.15141353490977208,
+   0.5793714547337453,
+   0.6966324317341166,
+   0.8502061204886256
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_iona_ver01\/data\/sn90059523\/00206537425\/1897043001\/0664\/000_0_94.jpg",
+  "geographic_coverage": [
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_iona_ver01%2Fdata%2Fsn90059523%2F00206537425%2F1897043001%2F0664.jp2\/pct:15.14,57.94,54.53,27.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059523",
+  "name": "The Saint Paul globe.",
+  "ocr": [
+   "De",
+   "how",
+   "his",
+   "an",
+   "of",
+   "Mc-",
+   "Sen",
+   "need",
+   "and",
+   "of",
+   "'",
+   "f",
+   "in",
+   "'",
+   "ad",
+   "the",
+   "the",
+   "time",
+   "\u25a0",
+   "th*",
+   "j",
+   "ih\u00ab",
+   "|",
+   "th\u00ab",
+   "state",
+   "legis",
+   "Spies,",
+   "o.",
+   "Glossooclc,",
+   "Ib.",
+   "Mullane,",
+   "p.",
+   "Preston,",
+   "If.",
+   "Xyce,",
+   "2b.",
+   "George,",
+   "rf.",
+   "llollingsTi",
+   "orth.",
+   "Frlclcen,",
+   "p.",
+   "Coml.ker.",
+   "McDride,",
+   "ef.",
+   "Manch,",
+   "p.",
+   "O'Roarlte,",
+   "3b.",
+   "THE",
+   "ST.",
+   "F\\AUL",
+   "BASB",
+   "BALL",
+   "TEAM-"
+  ],
+  "page_seq_num": 664,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_iona_ver01\/data\/sn90059523\/00206537425\/1897043001\/0664.jp2",
+  "place_of_publication": "St. Paul, Minn.",
+  "pub_date": "1897-04-30",
+  "publisher": "[s.n.]",
+  "score": 0.9447745680809021,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_iona_ver01\/data\/sn90059523\/00206537425\/1897043001\/0664\/000_0_94.jpg"
+ },
+ "id": 216
+}

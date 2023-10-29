@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747672,
+   "id": 74001,
+   "lead_time": 3.943,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jGNXO2hhfe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_forks_ver01",
+  "box": [
+   0.5939818788536996,
+   0.7540160979071552,
+   0.9045783483394059,
+   0.9652440145574228
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_forks_ver01\/data\/sn83045604\/0020219932A\/1895020301\/0411\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_forks_ver01%2Fdata%2Fsn83045604%2F0020219932A%2F1895020301%2F0411.jp2\/pct:59.39,75.41,31.06,21.13\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+   "AfcEKltA'ji",
+   "KINO",
+   "l\/F",
+   "PROF.",
+   "O.",
+   "R.",
+   "XJH2C",
+   "FAMOUS.",
+   "p"
+  ],
+  "page_seq_num": 411,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_forks_ver01\/data\/sn83045604\/0020219932A\/1895020301\/0411.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1895-02-03",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.9599231481552124,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_forks_ver01\/data\/sn83045604\/0020219932A\/1895020301\/0411\/002_0_95.jpg"
+ },
+ "id": 74
+}

@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768655,
+   "id": 1030001,
+   "lead_time": 2.053,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HUL086nlNJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_canada_ver01",
+  "box": [
+   0.18909291681253684,
+   0.03687915161952076,
+   0.4906991058925413,
+   0.2153951555290478
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_canada_ver01\/data\/sn83030214\/00175039375\/1908070701\/0121\/001_0_99.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_canada_ver01%2Fdata%2Fsn83030214%2F00175039375%2F1908070701%2F0121.jp2\/pct:18.9,3.69,30.17,17.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "RICHARD",
+   ".7.",
+   "BEAMISH.",
+   "JOSIAH",
+   "MARVEL."
+  ],
+  "page_seq_num": 121,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_canada_ver01\/data\/sn83030214\/00175039375\/1908070701\/0121.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1908-07-07",
+  "publisher": "New York Tribune",
+  "score": 0.9908198714256287,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_canada_ver01\/data\/sn83030214\/00175039375\/1908070701\/0121\/001_0_99.jpg"
+ },
+ "id": 1030
+}

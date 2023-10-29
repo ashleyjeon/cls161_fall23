@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767711,
+   "id": 1850001,
+   "lead_time": 1.635,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FRhZeWQMyZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_anita_ver01",
+  "box": [
+   0.35807589826912717,
+   0.11848738386824324,
+   0.4733978271484375,
+   0.30859880522218286
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_anita_ver01\/data\/sn85038531\/0041562122A\/1919060601\/0466\/007_0_93.jpg",
+  "geographic_coverage": [
+   "Tennessee--Hamilton--Chattanooga"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_anita_ver01%2Fdata%2Fsn85038531%2F0041562122A%2F1919060601%2F0466.jp2\/pct:35.8,11.85,11.54,19.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038531",
+  "name": "The Chattanooga news. [volume]",
+  "ocr": [
+   "PGGY",
+   "I",
+   "X",
+   "V",
+   "o",
+   ".",
+   "i",
+   "f"
+  ],
+  "page_seq_num": 466,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_anita_ver01\/data\/sn85038531\/0041562122A\/1919060601\/0466.jp2",
+  "place_of_publication": "Chattanooga, Tenn.",
+  "pub_date": "1919-06-06",
+  "publisher": "News Pub. Co.",
+  "score": 0.9351996183395386,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_anita_ver01\/data\/sn85038531\/0041562122A\/1919060601\/0466\/007_0_93.jpg"
+ },
+ "id": 1850
+}

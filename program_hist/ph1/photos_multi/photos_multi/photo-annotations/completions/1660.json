@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766316,
+   "id": 1660001,
+   "lead_time": 18.504,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oUH4KkQwLT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_ashland_ver01",
+  "box": [
+   0.3090168382755663,
+   0.536943359375,
+   0.5681595978913484,
+   0.8715287745276162
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_ashland_ver01\/data\/sn88086023\/00202194801\/1916110101\/0431\/008_0_97.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_ashland_ver01%2Fdata%2Fsn88086023%2F00202194801%2F1916110101%2F0431.jp2\/pct:30.9,53.7,25.92,33.46\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   "BANK",
+   "PRESIDENT",
+   "ADVISES",
+   "\"HARD",
+   "WORK\"",
+   "I",
+   "Ik",
+   "--vA?",
+   "m",
+   "(?-",
+   ";",
+   "'i",
+   "1",
+   "1",
+   "'",
+   "I",
+   "j",
+   "!",
+   "I",
+   "\"\"\"\"",
+   "m",
+   "!''",
+   "i",
+   "il'Wfc",
+   "iiiimmi",
+   "ill",
+   "Hi",
+   "ill",
+   "i",
+   "ii",
+   "i",
+   "1",
+   "f",
+   "hMuaOT",
+   "'",
+   "\"",
+   "'",
+   "tip",
+   "yf'",
+   "yf",
+   "if",
+   "iy",
+   "r",
+   ".",
+   "'",
+   "JOSEPH",
+   "T",
+   "KEMN&DY"
+  ],
+  "page_seq_num": 431,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_ashland_ver01\/data\/sn88086023\/00202194801\/1916110101\/0431.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1916-11-01",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.9787032008171082,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_ashland_ver01\/data\/sn88086023\/00202194801\/1916110101\/0431\/008_0_97.jpg"
+ },
+ "id": 1660
+}

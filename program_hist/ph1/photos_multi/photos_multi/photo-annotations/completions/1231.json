@@ -1,0 +1,112 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768104,
+   "id": 1231001,
+   "lead_time": 2.023,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "p2EF-Y4NIU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_chucktaylor_ver02",
+  "box": [
+   0.30485173275596217,
+   0.13454736754490557,
+   0.6939168944394678,
+   0.6293367865235858
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_chucktaylor_ver02\/data\/sn86058242\/00271745862\/1910101301\/0528\/004_0_90.jpg",
+  "geographic_coverage": [
+   "Indiana--Lake--Hammond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_chucktaylor_ver02%2Fdata%2Fsn86058242%2F00271745862%2F1910101301%2F0528.jp2\/pct:30.48,13.46,38.91,49.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn86058242",
+  "name": "The Lake County times. [volume]",
+  "ocr": [
+   "ROOSEVELT",
+   "GETS",
+   "INTO",
+   "LIE",
+   "INDIANA",
+   "CAMPAIGN",
+   "TODAY",
+   "'-",
+   "iff",
+   "'",
+   "-",
+   "-",
+   "-",
+   "-",
+   ",",
+   ".",
+   "r-",
+   "'",
+   "4",
+   "\"-",
+   "-",
+   "'",
+   "v",
+   ",",
+   "'",
+   "'",
+   ";",
+   "J-",
+   "zP",
+   "4&?&y",
+   "-",
+   "-",
+   "-",
+   "I",
+   "111",
+   "4",
+   "i:::r",
+   ",",
+   "fJ",
+   "II",
+   "Hill",
+   "\"",
+   "'",
+   "\"'",
+   "''\"",
+   "''f'Pij!'",
+   "-",
+   "'",
+   "'",
+   "jll",
+   "I",
+   "II",
+   "lllll",
+   "'",
+   "-",
+   "-",
+   "\"",
+   "'1S&i",
+   "5",
+   "111",
+   "I",
+   "j",
+   "ft"
+  ],
+  "page_seq_num": 528,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_chucktaylor_ver02\/data\/sn86058242\/00271745862\/1910101301\/0528.jp2",
+  "place_of_publication": "Hammond, Ind.",
+  "pub_date": "1910-10-13",
+  "publisher": null,
+  "score": 0.9013045430183411,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_chucktaylor_ver02\/data\/sn86058242\/00271745862\/1910101301\/0528\/004_0_90.jpg"
+ },
+ "id": 1231
+}

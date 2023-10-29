@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768026,
+   "id": 1907001,
+   "lead_time": 3.41,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "258qg4M1p7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_danvoorhees_ver01",
+  "box": [
+   0.45388095399803763,
+   0.07857032895019249,
+   0.8970283750422012,
+   0.28803859907054297
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_danvoorhees_ver01\/data\/sn87055779\/00296021416\/1919081001\/0524\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_danvoorhees_ver01%2Fdata%2Fsn87055779%2F00296021416%2F1919081001%2F0524.jp2\/pct:45.38,7.86,44.32,20.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   "miM",
+   "mi",
+   "I,",
+   "I,",
+   ".",
+   "....",
+   "mm",
+   "i",
+   "tri",
+   "2T",
+   "3",
+   "V",
+   ":J",
+   "a",
+   ".1",
+   "':r?",
+   "\u00f6i-n,",
+   "1",
+   "1",
+   "..i",
+   "n",
+   "ii",
+   "HI",
+   "\"",
+   "T-",
+   "V-",
+   "i-7if?",
+   ",",
+   "A",
+   "4",
+   "'",
+   "...",
+   "?",
+   ".",
+   "il!.",
+   "I'l",
+   "vOr",
+   "A-,",
+   ",,",
+   "v",
+   "v.",
+   "...",
+   "\"Saatt--",
+   "A",
+   "LOAD",
+   "OF",
+   "FROM",
+   "r",
+   "TT",
+   "FAfM",
+   "TO",
+   "MARK",
+   "CT",
+   "IN"
+  ],
+  "page_seq_num": 524,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_danvoorhees_ver01\/data\/sn87055779\/00296021416\/1919081001\/0524.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1919-08-10",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.9957519769668579,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_danvoorhees_ver01\/data\/sn87055779\/00296021416\/1919081001\/0524\/001_0_99.jpg"
+ },
+ "id": 1907
+}

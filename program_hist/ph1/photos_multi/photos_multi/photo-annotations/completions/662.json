@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673654,
+   "id": 662001,
+   "lead_time": 3.801,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gZEwXnfDLJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_fluttershy_ver01",
+  "box": [
+   0.33161582747054974,
+   0.2980391824033839,
+   0.661596088509285,
+   0.464352785885989
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_fluttershy_ver01\/data\/sn87065028\/00295878095\/1903042201\/0358\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Mississippi--Lowndes--Columbus"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_fluttershy_ver01%2Fdata%2Fsn87065028%2F00295878095%2F1903042201%2F0358.jp2\/pct:33.16,29.81,33.0,16.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn87065028",
+  "name": "The Columbus commercial.",
+  "ocr": [
+   "8tS2.vjr.J",
+   "ill",
+   "w",
+   "1-1",
+   "yllt",
+   "r",
+   "ar",
+   "J",
+   "\"",
+   "6",
+   ".-i-r",
+   "IT'S!",
+   "'ks",
+   "kra",
+   "1",
+   "1",
+   "n",
+   "H",
+   "i:i:sii)i:(",
+   "e",
+   "of",
+   "11.",
+   "a.",
+   "weaver."
+  ],
+  "page_seq_num": 358,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_fluttershy_ver01\/data\/sn87065028\/00295878095\/1903042201\/0358.jp2",
+  "place_of_publication": "Columbus, Miss.",
+  "pub_date": "1903-04-22",
+  "publisher": "J.T. Senter",
+  "score": 0.9839099049568176,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_fluttershy_ver01\/data\/sn87065028\/00295878095\/1903042201\/0358\/004_0_98.jpg"
+ },
+ "id": 662
+}

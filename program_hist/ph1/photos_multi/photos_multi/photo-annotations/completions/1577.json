@@ -1,0 +1,104 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772378,
+   "id": 1577001,
+   "lead_time": 1.534,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KSyni6fRwO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_jabbathehut_ver01",
+  "box": [
+   0.3579058825852133,
+   0.023404983967221207,
+   0.6354192549425234,
+   0.45537276774966295
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_jabbathehut_ver01\/data\/sn83045462\/00280658716\/1915110701\/0712\/002_0_93.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_jabbathehut_ver01%2Fdata%2Fsn83045462%2F00280658716%2F1915110701%2F0712.jp2\/pct:35.79,2.35,27.76,43.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "%",
+   "'*11.",
+   ".^ifi",
+   "MOF",
+   "HBHa",
+   "I",
+   "was",
+   "a",
+   "trainJennings.",
+   "When",
+   "Mr.",
+   ".",
+   "man,",
+   "one",
+   "of",
+   "his",
+   "brothers",
+   "xv<",
+   "This",
+   "disgusted",
+   "him",
+   "with",
+   "thi",
+   "started",
+   "him",
+   "drifting,",
+   "till",
+   "he",
+   "SaEnff*",
+   "\\",
+   "robber?",
+   "begins",
+   "A1",
+   "m^l",
+   "[cnnings",
+   "was",
+   "a",
+   "young",
+   "?j",
+   "is",
+   "killed",
+   "in",
+   "a",
+   "quarrel.",
+   "ngs",
+   "in",
+   "general,",
+   "and",
+   "it",
+   "got",
+   "in",
+   "with",
+   "a",
+   "gang",
+   "of"
+  ],
+  "page_seq_num": 712,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_jabbathehut_ver01\/data\/sn83045462\/00280658716\/1915110701\/0712.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1915-11-07",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9368657469749451,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_jabbathehut_ver01\/data\/sn83045462\/00280658716\/1915110701\/0712\/002_0_93.jpg"
+ },
+ "id": 1577
+}

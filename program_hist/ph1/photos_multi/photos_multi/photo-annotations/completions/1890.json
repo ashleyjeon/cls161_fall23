@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673578,
+   "id": 1890001,
+   "lead_time": 2.279,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GZoLNylPxL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_franklin_ver02",
+  "box": [
+   0.05327706425278275,
+   0.7138167567223123,
+   0.20094693148577655,
+   0.936006653983638
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_franklin_ver02\/data\/sn86079080\/00202190248\/1919020101\/0386\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Louisiana--Saint John the Baptist--Bonnet Carre",
+   "Louisiana--Saint John the Baptist--Edgard",
+   "Louisiana--Saint John the Baptist--Lucy",
+   "Louisiana--Saint John the Baptist--Reserve"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_franklin_ver02%2Fdata%2Fsn86079080%2F00202190248%2F1919020101%2F0386.jp2\/pct:5.32,71.39,14.77,22.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn86079080",
+  "name": "Le Meschace\u0301be\u0301. [volume]",
+  "ocr": [
+   "ARTHUR",
+   "!.",
+   "BALFOUR",
+   "-I"
+  ],
+  "page_seq_num": 386,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_franklin_ver02\/data\/sn86079080\/00202190248\/1919020101\/0386.jp2",
+  "place_of_publication": "[Lucy] La.",
+  "pub_date": "1919-02-01",
+  "publisher": "Prudent d'Artlys [i.e. Hippolyte de Bautte]",
+  "score": 0.98145592212677,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_franklin_ver02\/data\/sn86079080\/00202190248\/1919020101\/0386\/001_0_98.jpg"
+ },
+ "id": 1890
+}

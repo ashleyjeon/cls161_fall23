@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751330,
+   "id": 656001,
+   "lead_time": 2.587,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tpB4nX0TsJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_plato_ver01",
+  "box": [
+   0.1443648099064688,
+   0.032893315983204705,
+   0.3825831018223089,
+   0.4667970912176588
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_plato_ver01\/data\/sn83030193\/175044413\/1903040801\/1069\/008_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_plato_ver01%2Fdata%2Fsn83030193%2F175044413%2F1903040801%2F1069.jp2\/pct:14.43,3.29,23.83,43.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "VHICH",
+   "WAS",
+   "RAIDED",
+   "BY",
+   "POLICE",
+   "Thin",
+   "homo",
+   "nt",
+   "Xo",
+   "2S",
+   "Went",
+   "Twentieth",
+   "street",
+   "In",
+   "which",
+   "President",
+   "Roosevelt",
+   "was",
+   "born",
+   "wan",
+   "rallied",
+   "Hrt",
+   "night",
+   "liy",
+   "Cnpt",
+   "OConnor",
+   "nn1",
+   "two",
+   "detectives",
+   "The",
+   "raid",
+   "wns",
+   "inspired",
+   "byCaI",
+   "l",
+   "OConnor",
+   "belief",
+   "that",
+   "the",
+   "liouso",
+   "harbored",
+   "a",
+   "poolroom",
+   "It",
+   "Is"
+  ],
+  "page_seq_num": 1069,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_plato_ver01\/data\/sn83030193\/175044413\/1903040801\/1069.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1903-04-08",
+  "publisher": "[publisher not identified]",
+  "score": 0.9609614014625549,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_plato_ver01\/data\/sn83030193\/175044413\/1903040801\/1069\/008_0_96.jpg"
+ },
+ "id": 656
+}

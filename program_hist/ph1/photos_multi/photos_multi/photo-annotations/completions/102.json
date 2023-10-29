@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766544,
+   "id": 102001,
+   "lead_time": 2.872,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xf5vzrBlfx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_yes_ver01",
+  "box": [
+   0.34506877274371545,
+   0.7338898451951124,
+   0.6658630581996156,
+   0.9691085685161142
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_yes_ver01\/data\/sn84025841\/00175032307\/1896102401\/0180\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_yes_ver01%2Fdata%2Fsn84025841%2F00175032307%2F1896102401%2F0180.jp2\/pct:34.5,73.39,32.08,23.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025841",
+  "name": "Richmond planet. [volume]",
+  "ocr": [
+   "SasmlSm",
+   "ISAAC",
+   "JENKINS",
+   "i.yncheel.",
+   "booton,",
+   "hanged",
+   "anti",
+   "shot",
+   "in",
+   "Nansenioiitl",
+   "Co",
+   ",",
+   "Va.,",
+   "in",
+   "1KV?4.",
+   "Trieti",
+   "for",
+   "his",
+   "life",
+   "and",
+   "acquitted.",
+   "Defentled"
+  ],
+  "page_seq_num": 180,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_yes_ver01\/data\/sn84025841\/00175032307\/1896102401\/0180.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1896-10-24",
+  "publisher": "Planet Pub. Co.",
+  "score": 0.9846575856208801,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_yes_ver01\/data\/sn84025841\/00175032307\/1896102401\/0180\/001_0_98.jpg"
+ },
+ "id": 102
+}

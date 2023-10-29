@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747939,
+   "id": 1922001,
+   "lead_time": 1.628,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4HujNRNKD3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_dillpickle_ver01",
+  "box": [
+   0.3024501474308723,
+   0.6434062862313956,
+   0.4342086252627922,
+   0.8718523975072799
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_dillpickle_ver01\/data\/sn86063952\/00295864382\/1919122901\/0858\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_dillpickle_ver01%2Fdata%2Fsn86063952%2F00295864382%2F1919122901%2F0858.jp2\/pct:30.24,64.35,13.18,22.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "Oldest",
+   "Suffragist",
+   "Hopes",
+   "to",
+   "Cast",
+   "First",
+   "Ballot",
+   "for",
+   "President",
+   "at",
+   "Age",
+   "of",
+   "99",
+   "w",
+   "c",
+   "c",
+   "iL",
+   "a",
+   "'.I",
+   "t",
+   "r",
+   "4",
+   ".",
+   "I",
+   "8!",
+   "CT.\"",
+   "n",
+   "...",
+   "uff",
+   "1",
+   "1",
+   ":"
+  ],
+  "page_seq_num": 858,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864382\/1919122901\/0858.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1919-12-29",
+  "publisher": "Roy Hoffman",
+  "score": 0.9558361172676086,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864382\/1919122901\/0858\/004_0_95.jpg"
+ },
+ "id": 1922
+}

@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751081,
+   "id": 616001,
+   "lead_time": 3.32,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mAMVuigc_2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_cardinal_ver01",
+  "box": [
+   0.22912275886029718,
+   0.12522369794790666,
+   0.6437417594444215,
+   0.3566355641194818
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_cardinal_ver01\/data\/sn83025121\/00294552479\/1903050101\/0113\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_cardinal_ver01%2Fdata%2Fsn83025121%2F00294552479%2F1903050101%2F0113.jp2\/pct:22.91,12.53,41.47,23.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025121",
+  "name": "The Hawaiian gazette. [volume]",
+  "ocr": [
+   "THE",
+   "LEGISLATURE",
+   "OF",
+   "HAWAII",
+   "f",
+   "'",
+   "\"",
+   "'",
+   "Bk'1",
+   "'",
+   "9HHHHHHHNEffflHHiilift",
+   "&",
+   "UBHIRYR",
+   ".w.i,jj",
+   "vssiKSMssmssssmssssssssmimsfsisimwssamBmsM",
+   "nil,",
+   "1",
+   "1",
+   ",",
+   "iPiWfrwrrwt,M.t",
+   ",",
+   "i'",
+   ".''i\"wn.iiw",
+   "mww",
+   "wi",
+   "Ktgmmmmmm",
+   "11",
+   "ui'i'H",
+   "m.',v.&j",
+   "'",
+   "')",
+   "ESS-",
+   "w.w.v.otmw.w.,aw",
+   "gusfwjiyWAtaaw.'.wffw",
+   "m?i!!m!mwmmiik.mi.tJim.wMa",
+   "vuiAmmmw",
+   "WBHCWHBGHI",
+   "i"
+  ],
+  "page_seq_num": 113,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_cardinal_ver01\/data\/sn83025121\/00294552479\/1903050101\/0113.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1903-05-01",
+  "publisher": "Published ... by J.H. Black at the G.P.O.",
+  "score": 0.9746333956718445,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_cardinal_ver01\/data\/sn83025121\/00294552479\/1903050101\/0113\/003_0_97.jpg"
+ },
+ "id": 616
+}

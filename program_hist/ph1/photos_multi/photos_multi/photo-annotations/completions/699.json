@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748222,
+   "id": 699001,
+   "lead_time": 1.976,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-8pQ8Q8fEn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_ingalls_ver01",
+  "box": [
+   0.7066277230140006,
+   0.614473897068788,
+   0.8386038600808323,
+   0.7835954862993278
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_ingalls_ver01\/data\/sn84020274\/00294559772\/1904100801\/0165\/009_0_96.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_ingalls_ver01%2Fdata%2Fsn84020274%2F00294559772%2F1904100801%2F0165.jp2\/pct:70.66,61.45,13.2,16.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "i",
+   "A.",
+   "W.",
+   "SULIJVAN.",
+   "General",
+   "manager",
+   "of",
+   "the",
+   "Missouri",
+   "Pacific.",
+   "headquarters",
+   "yesterday.",
+   "Mr.",
+   "Sullivan",
+   "has",
+   "sssssssssssssssssssssssssssssssssssit!",
+   "SBBBBBBBBBBBBBBBBSaMsBBBBBBBBsHP",
+   "BBBBBBBBBBBBBBBidMsBBBSBttffB'",
+   "BSBBBBBBBBST",
+   ",",
+   "i&W!r-.BBBBBBa",
+   "S",
+   "IbbbbbbbbbbbbbKJI?",
+   "'ssVB2MaisAssssssssssssssss",
+   "BBBBBBBBsi",
+   "'.sISd",
+   "''afe",
+   "JlW",
+   "'",
+   "SBBBBBBBBsl",
+   "lSsBSB2",
+   "'",
+   "SBBBBBBBVsBBBBBBK'&;WiMr",
+   "'",
+   "BBBBBBBbWSBBBBBBUTIk&F",
+   "BBBBBBBBBBBSV",
+   "II",
+   "BBS",
+   "jl",
+   "j",
+   "P",
+   "'",
+   "1",
+   "1",
+   "i",
+   ",",
+   "rK.3BVSBBBBBBBBBBBBBBHl",
+   "BBBBsUKBBBBBBB",
+   ".IBBbBKbBBBBBBb!",
+   "BBBBBBBBBbVTVsBBBBBBL",
+   "\"",
+   "aSBBBBstfiSBBBBBBBBri",
+   "I",
+   "BSBSBBBBBBBBBBBBBBBBBMBBBBBBBBBBBBBBBBBBBBBsl"
+  ],
+  "page_seq_num": 165,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_ingalls_ver01\/data\/sn84020274\/00294559772\/1904100801\/0165.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1904-10-08",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9643706679344177,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_ingalls_ver01\/data\/sn84020274\/00294559772\/1904100801\/0165\/009_0_96.jpg"
+ },
+ "id": 699
+}

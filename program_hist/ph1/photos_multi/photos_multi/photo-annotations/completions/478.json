@@ -1,0 +1,106 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767248,
+   "id": 478001,
+   "lead_time": 3.155,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "K2TQ4Bo5PE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_folio_ver01",
+  "box": [
+   0.03602992425154916,
+   0.4248899991193639,
+   0.2875549779671193,
+   0.68273090356406
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_folio_ver01\/data\/sn92053934\/00212471902\/1901123101\/0116\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_folio_ver01%2Fdata%2Fsn92053934%2F00212471902%2F1901123101%2F0116.jp2\/pct:3.6,42.49,25.16,25.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "ROCK",
+   "ISLAND",
+   "-",
+   "-",
+   ":",
+   "'",
+   ":",
+   "!",
+   ":",
+   "i",
+   "....",
+   ".",
+   "-.,!s",
+   ".-",
+   "-hi",
+   ".",
+   "-",
+   "m4m",
+   "-",
+   "'",
+   ":",
+   ".",
+   "'",
+   "-';tv",
+   ".",
+   "..",
+   "One",
+   "of",
+   "tlio",
+   "best",
+   "equipped",
+   "clubliouses",
+   "in",
+   "the",
+   "Recently",
+   "remodeled",
+   "at",
+   "a",
+   "cost",
+   "of",
+   "$5,000",
+   "and",
+   "for",
+   "the",
+   "second",
+   "time",
+   "the",
+   "corner",
+   "of",
+   "Sixteentli",
+   "street",
+   "and",
+   "Tliird",
+   "avenue,",
+   "last",
+   "evening.",
+   "Located"
+  ],
+  "page_seq_num": 116,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_folio_ver01\/data\/sn92053934\/00212471902\/1901123101\/0116.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1901-12-31",
+  "publisher": "J.W. Potter",
+  "score": 0.9861034154891968,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_folio_ver01\/data\/sn92053934\/00212471902\/1901123101\/0116\/000_0_98.jpg"
+ },
+ "id": 478
+}

@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747189,
+   "id": 1138001,
+   "lead_time": 2.295,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1AJP8xEMBM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_flyingsquirrel_ver02",
+  "box": [
+   0.14825329973024104,
+   0.5351244406725364,
+   0.4025131704561379,
+   0.7737721169015929
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_flyingsquirrel_ver02\/data\/sn83025316\/00294554634\/1909111401\/0162\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Montana--Missoula--Missoula"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_flyingsquirrel_ver02%2Fdata%2Fsn83025316%2F00294554634%2F1909111401%2F0162.jp2\/pct:14.82,53.52,25.43,23.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025316",
+  "name": "The Daily Missoulian. [volume]",
+  "ocr": [
+   "COvm.AGuT",
+   "\"MeS",
+   "ea",
+   "tEwMG",
+   "WA",
+   "SENATOR",
+   "ALDRICH."
+  ],
+  "page_seq_num": 162,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_flyingsquirrel_ver02\/data\/sn83025316\/00294554634\/1909111401\/0162.jp2",
+  "place_of_publication": "Missoula, Mont.",
+  "pub_date": "1909-11-14",
+  "publisher": "Missoulian Pub. Co.",
+  "score": 0.9535706639289856,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_flyingsquirrel_ver02\/data\/sn83025316\/00294554634\/1909111401\/0162\/004_0_95.jpg"
+ },
+ "id": 1138
+}

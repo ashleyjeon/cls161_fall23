@@ -1,0 +1,86 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755137,
+   "id": 1385001,
+   "lead_time": 1.657,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ee6x4ejkTL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_copper_ver01",
+  "box": [
+   0.19534541829427082,
+   0.04791785978641805,
+   0.34236128743489586,
+   0.22975841796430704
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_copper_ver01\/data\/sn84037890\/0017504534A\/1912052201\/1027\/008_0_95.jpg",
+  "geographic_coverage": [
+   "Kentucky--Ohio--Hartford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_copper_ver01%2Fdata%2Fsn84037890%2F0017504534A%2F1912052201%2F1027.jp2\/pct:19.53,4.8,14.71,18.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn84037890",
+  "name": "The Hartford herald. [volume]",
+  "ocr": [
+   "BmmUt",
+   "tSPfi",
+   "H",
+   "LsBBBBBBBBBBBBBBBBBBBBBBBBBBBSM.flPi",
+   "Lsbbbbbbbbbbbbb!",
+   "HON.",
+   "J.",
+   "M.",
+   "STEVENSON,",
+   "Of",
+   "Winchester,",
+   "Ky",
+   "who",
+   "has",
+   "an",
+   "nounced",
+   "for",
+   "the",
+   "office",
+   "of",
+   "Chairman",
+   "of",
+   "the",
+   "Democratic",
+   "State",
+   "Central",
+   "and",
+   "Executhc",
+   "Committees,",
+   "to",
+   "be",
+   "chosen",
+   "at",
+   "the",
+   "State",
+   "Convention",
+   "on"
+  ],
+  "page_seq_num": 1027,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_copper_ver01\/data\/sn84037890\/0017504534A\/1912052201\/1027.jp2",
+  "place_of_publication": "Hartford, Ky.",
+  "pub_date": "1912-05-22",
+  "publisher": "Jno. P. Barrett & Co.",
+  "score": 0.9537891745567322,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_copper_ver01\/data\/sn84037890\/0017504534A\/1912052201\/1027\/008_0_95.jpg"
+ },
+ "id": 1385
+}

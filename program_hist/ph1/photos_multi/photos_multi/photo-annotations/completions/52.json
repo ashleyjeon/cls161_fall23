@@ -1,0 +1,40 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768402,
+   "id": 52001,
+   "lead_time": 2.008,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_grace_ver02",
+  "box": [
+   0.06476484026227679,
+   0.229443320867015,
+   0.33385053629628614,
+   0.3639181720721609
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_grace_ver02\/data\/sn83045604\/00202199355\/1895102001\/0260\/004_0_93.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_grace_ver02%2Fdata%2Fsn83045604%2F00202199355%2F1895102001%2F0260.jp2\/pct:6.47,22.95,26.91,13.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 260,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_grace_ver02\/data\/sn83045604\/00202199355\/1895102001\/0260.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1895-10-20",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.9337818622589111,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_grace_ver02\/data\/sn83045604\/00202199355\/1895102001\/0260\/004_0_93.jpg"
+ },
+ "id": 52
+}

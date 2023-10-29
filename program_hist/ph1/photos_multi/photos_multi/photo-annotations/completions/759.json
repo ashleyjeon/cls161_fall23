@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749327,
+   "id": 759001,
+   "lead_time": 1.644,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FRots_sghJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_hoosier_ver01",
+  "box": [
+   0.4235624767485119,
+   0.12982952896630734,
+   0.5466594254889455,
+   0.2895397728419735
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_hoosier_ver01\/data\/sn82015679\/00202191769\/1904031301\/0654\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Indiana--Marion--Indianapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_hoosier_ver01%2Fdata%2Fsn82015679%2F00202191769%2F1904031301%2F0654.jp2\/pct:42.35,12.99,12.31,15.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015679",
+  "name": "The Indianapolis journal. [volume]",
+  "ocr": [
+   "\"",
+   "'\"V\"",
+   "JrA",
+   "HJTjFgSuBl",
+   "Bb-bbbbbbbbbbbbbbBS",
+   "i",
+   "2",
+   "nFBBaBiBBBBiav",
+   "b1",
+   "bBbVbbBlbbb!",
+   "W",
+   "jTlH",
+   "Hl",
+   "VbbbbbbHS",
+   "..Jfc,",
+   "ETCflHEXlBBBBBBBBBBBBW-",
+   "H"
+  ],
+  "page_seq_num": 654,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_hoosier_ver01\/data\/sn82015679\/00202191769\/1904031301\/0654.jp2",
+  "place_of_publication": "Indianapolis [Ind.]",
+  "pub_date": "1904-03-13",
+  "publisher": "Douglass & Conner",
+  "score": 0.972790539264679,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_hoosier_ver01\/data\/sn82015679\/00202191769\/1904031301\/0654\/006_0_97.jpg"
+ },
+ "id": 759
+}

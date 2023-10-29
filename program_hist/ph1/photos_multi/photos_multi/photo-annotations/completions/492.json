@@ -1,0 +1,44 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754303,
+   "id": 492001,
+   "lead_time": 4.467,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_alf_ver01",
+  "box": [
+   0.7000400630424428,
+   0.03006191108062977,
+   0.9643423417985287,
+   0.1897239199728153
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_alf_ver01\/data\/sn83045462\/00280655429\/1901083101\/0443\/003_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_alf_ver01%2Fdata%2Fsn83045462%2F00280655429%2F1901083101%2F0443.jp2\/pct:70.0,3.01,26.44,15.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "IX",
+   "THE",
+   "WYOMING",
+   "1IAIII,",
+   "WHS."
+  ],
+  "page_seq_num": 443,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_alf_ver01\/data\/sn83045462\/00280655429\/1901083101\/0443.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1901-08-31",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9824015498161316,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_alf_ver01\/data\/sn83045462\/00280655429\/1901083101\/0443\/003_0_98.jpg"
+ },
+ "id": 492
+}

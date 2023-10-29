@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751442,
+   "id": 1342001,
+   "lead_time": 2.81,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wzvP6BIaWd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_baldwin_ver01",
+  "box": [
+   0.1898502083711846,
+   0.0705101886302314,
+   0.44121883557088354,
+   0.25590328039850135
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_baldwin_ver01\/data\/sn98066406\/00296023401\/1912101001\/0736\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Saint Clair--Yale"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_baldwin_ver01%2Fdata%2Fsn98066406%2F00296023401%2F1912101001%2F0736.jp2\/pct:18.98,7.06,25.14,18.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn98066406",
+  "name": "The Yale expositor.",
+  "ocr": [
+   "RECLAIMING",
+   "CUT",
+   "HARDWOOD",
+   "TIMBER",
+   "LAND",
+   "By",
+   "R.",
+   "S.",
+   "SHAW,",
+   "Dean",
+   "and",
+   "Director",
+   "Michigan",
+   "Agricultural",
+   "College.",
+   "?i::?s::i::i:;;i",
+   "l",
+   ",",
+   "i",
+   "la",
+   "II",
+   "4",
+   "'it",
+   "Jwf-",
+   "'",
+   "\"",
+   "Such",
+   "Land",
+   "Could",
+   "Easily",
+   "Be",
+   "Made",
+   "to",
+   "P",
+   "roduce",
+   "More",
+   "Pasture",
+   "by",
+   "Scattering"
+  ],
+  "page_seq_num": 736,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_baldwin_ver01\/data\/sn98066406\/00296023401\/1912101001\/0736.jp2",
+  "place_of_publication": "Yale, St. Clair County, Mich.",
+  "pub_date": "1912-10-10",
+  "publisher": "JAS. A. Menzies",
+  "score": 0.978631854057312,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_baldwin_ver01\/data\/sn98066406\/00296023401\/1912101001\/0736\/004_0_97.jpg"
+ },
+ "id": 1342
+}

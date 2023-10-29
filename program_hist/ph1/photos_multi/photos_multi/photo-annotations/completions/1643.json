@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768725,
+   "id": 1643001,
+   "lead_time": 1.743,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_gG8AurtI0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_flamingo_ver01",
+  "box": [
+   0.382042231184713,
+   0.06126240269419109,
+   0.6473484253615476,
+   0.22471236087488786
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_flamingo_ver01\/data\/sn83004226\/00202195878\/1916022501\/0754\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Kentucky--Lawrence--Louisa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_flamingo_ver01%2Fdata%2Fsn83004226%2F00202195878%2F1916022501%2F0754.jp2\/pct:38.2,6.13,26.54,16.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn83004226",
+  "name": "The Big Sandy news. [volume]",
+  "ocr": [
+   "REV.",
+   "M.",
+   "C.",
+   "4",
+   "REYNOLDS."
+  ],
+  "page_seq_num": 754,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_flamingo_ver01\/data\/sn83004226\/00202195878\/1916022501\/0754.jp2",
+  "place_of_publication": "Louisa, Ky.",
+  "pub_date": "1916-02-25",
+  "publisher": "Webb & Ferguson",
+  "score": 0.9831435084342957,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_flamingo_ver01\/data\/sn83004226\/00202195878\/1916022501\/0754\/001_0_98.jpg"
+ },
+ "id": 1643
+}

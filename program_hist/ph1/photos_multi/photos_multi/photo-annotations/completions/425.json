@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767584,
+   "id": 425001,
+   "lead_time": 1.828,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "SHTIQFGqKs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_higuchi_ver01",
+  "box": [
+   0.1721076072259093,
+   0.2877902491946062,
+   0.4307464293412939,
+   0.476504054896506
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_higuchi_ver01\/data\/sn82016014\/00295871209\/1900040401\/0020\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_higuchi_ver01%2Fdata%2Fsn82016014%2F00295871209%2F1900040401%2F0020.jp2\/pct:17.21,28.78,25.87,18.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016014",
+  "name": "The Topeka state journal. [volume]",
+  "ocr": [
+   "Admiral",
+   "Dewey,",
+   "Who",
+   "Says",
+   "He",
+   "\"Will",
+   "Bun",
+   "For",
+   "President."
+  ],
+  "page_seq_num": 20,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_higuchi_ver01\/data\/sn82016014\/00295871209\/1900040401\/0020.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1900-04-04",
+  "publisher": "F.P. MacLennan",
+  "score": 0.9850986003875732,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_higuchi_ver01\/data\/sn82016014\/00295871209\/1900040401\/0020\/003_0_98.jpg"
+ },
+ "id": 425
+}

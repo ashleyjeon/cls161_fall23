@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751076,
+   "id": 652001,
+   "lead_time": 25.073,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ag7kNyxtOt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "au_capote_ver01",
+  "box": [
+   0.28205794461797723,
+   0.5289929093985722,
+   0.41457957280385077,
+   0.6959326908506196
+  ],
+  "edition_seq_num": 1,
+  "filepath": "au_capote_ver01\/data\/sn85038485\/00340583164\/1903071201\/0830\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Alabama--Jefferson--Birmingham"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/au_capote_ver01%2Fdata%2Fsn85038485%2F00340583164%2F1903071201%2F0830.jp2\/pct:28.2,52.9,13.26,16.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038485",
+  "name": "Birmingham age-herald. [volume]",
+  "ocr": [
+   "J.",
+   "E.",
+   "MILES,",
+   "Who",
+   "Has",
+   "Just",
+   "Been",
+   "Selected",
+   "as",
+   "Physi",
+   "cal",
+   "Instructor.",
+   "Photo",
+   "by",
+   "Covell."
+  ],
+  "page_seq_num": 830,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/au_capote_ver01\/data\/sn85038485\/00340583164\/1903071201\/0830.jp2",
+  "place_of_publication": "Birmingham, Ala.",
+  "pub_date": "1903-07-12",
+  "publisher": "Age-Herald Co.",
+  "score": 0.9433101415634155,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/au_capote_ver01\/data\/sn85038485\/00340583164\/1903071201\/0830\/002_0_94.jpg"
+ },
+ "id": 652
+}

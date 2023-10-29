@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768757,
+   "id": 308001,
+   "lead_time": 2.219,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qVk-mI3cPm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_infiniti_ver03",
+  "box": [
+   0.377543825438355,
+   0.4173883396944554,
+   0.530383611904985,
+   0.6472679522397707
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_infiniti_ver03\/data\/sn86088652\/00200294294\/1899051001\/0653\/009_0_93.jpg",
+  "geographic_coverage": [
+   "Texas--Brazos--Bryan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_infiniti_ver03%2Fdata%2Fsn86088652%2F00200294294%2F1899051001%2F0653.jp2\/pct:37.75,41.74,15.29,22.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn86088652",
+  "name": "Bryan morning eagle. [volume]",
+  "ocr": [
+   "OKHKKAL",
+   "UAkCARAlKL"
+  ],
+  "page_seq_num": 653,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_infiniti_ver03\/data\/sn86088652\/00200294294\/1899051001\/0653.jp2",
+  "place_of_publication": "Bryan, Tex.",
+  "pub_date": "1899-05-10",
+  "publisher": "Connelly, Palmer & Carnes",
+  "score": 0.9312690496444702,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_infiniti_ver03\/data\/sn86088652\/00200294294\/1899051001\/0653\/009_0_93.jpg"
+ },
+ "id": 308
+}

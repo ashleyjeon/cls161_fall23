@@ -1,0 +1,106 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750946,
+   "id": 920001,
+   "lead_time": 3.401,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7hcBP25Fdq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_quine_ver01",
+  "box": [
+   0.267785504220546,
+   0.028932938848091116,
+   0.7485540981950431,
+   0.4307323356104036
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_quine_ver01\/data\/sn83030193\/175044589\/1906090801\/0674\/004_0_99.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_quine_ver01%2Fdata%2Fsn83030193%2F175044589%2F1906090801%2F0674.jp2\/pct:26.77,2.9,48.08,40.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "I",
+   "i",
+   "1",
+   "I",
+   "Babies",
+   "Who",
+   "Won",
+   "Prizes",
+   "at",
+   "the",
+   "Big",
+   "Coney",
+   "Island",
+   "Exhibition",
+   "of",
+   "Cherubs",
+   "2",
+   "G",
+   "reeC",
+   "b",
+   "I",
+   "iL",
+   "=",
+   "m",
+   "c",
+   "I",
+   "r",
+   "7",
+   "I",
+   "iIiff1iA",
+   "E14",
+   "j",
+   "t",
+   "I",
+   "I",
+   "T",
+   "I",
+   "1",
+   "1",
+   "1",
+   "C",
+   "iiI",
+   "i",
+   "I",
+   "I",
+   "I",
+   "=",
+   "L",
+   "C",
+   "tIt",
+   "V",
+   "r",
+   "or",
+   "ir",
+   "fOtflCeflejJ1",
+   "iiiidrc",
+   "tobbe"
+  ],
+  "page_seq_num": 674,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_quine_ver01\/data\/sn83030193\/175044589\/1906090801\/0674.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1906-09-08",
+  "publisher": "[publisher not identified]",
+  "score": 0.993854820728302,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_quine_ver01\/data\/sn83030193\/175044589\/1906090801\/0674\/004_0_99.jpg"
+ },
+ "id": 920
+}

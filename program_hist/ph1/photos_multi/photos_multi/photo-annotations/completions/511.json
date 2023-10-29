@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749350,
+   "id": 511001,
+   "lead_time": 2.966,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jfVdIXTlBR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.030600863264540756,
+   0.06660672474039375,
+   0.4836979565058371,
+   0.31786258850519755
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175041114\/1901121401\/0256\/002_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175041114%2F1901121401%2F0256.jp2\/pct:3.06,6.67,45.31,25.13\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "PART",
+   "OF",
+   "THE",
+   "KITCHEN*",
+   "GARDEN",
+   "CLASS",
+   "AT",
+   "THE",
+   "GOSPEL",
+   "SETTLEMENT,",
+   "XO.",
+   "211",
+   "CLINTON-ST."
+  ],
+  "page_seq_num": 256,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175041114\/1901121401\/0256.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1901-12-14",
+  "publisher": "New York Tribune",
+  "score": 0.9853218793869019,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175041114\/1901121401\/0256\/002_0_98.jpg"
+ },
+ "id": 511
+}

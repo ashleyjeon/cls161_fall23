@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747765,
+   "id": 390001,
+   "lead_time": 5.718,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iO4BEy_7QF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_imogen_ver01",
+  "box": [
+   0.04682560970908717,
+   0.6708793180534639,
+   0.22422503708000469,
+   0.8225655306773971
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_imogen_ver01\/data\/sn90061309\/00200292194\/1900062801\/0680\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Missouri--Monroe--Monroe City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_imogen_ver01%2Fdata%2Fsn90061309%2F00200292194%2F1900062801%2F0680.jp2\/pct:4.68,67.09,17.74,15.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn90061309",
+  "name": "Monroe City Democrat.",
+  "ocr": [
+   "Wt",
+   "ERECTED",
+   "IN",
+   "1869."
+  ],
+  "page_seq_num": 680,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_imogen_ver01\/data\/sn90061309\/00200292194\/1900062801\/0680.jp2",
+  "place_of_publication": "Monroe City, Mo.",
+  "pub_date": "1900-06-28",
+  "publisher": "Democrat Print. Co.",
+  "score": 0.954963743686676,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_imogen_ver01\/data\/sn90061309\/00200292194\/1900062801\/0680\/002_0_95.jpg"
+ },
+ "id": 390
+}

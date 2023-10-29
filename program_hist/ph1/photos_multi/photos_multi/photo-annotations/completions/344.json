@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764224,
+   "id": 344001,
+   "lead_time": 7.72,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "IBjEytAGm9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_exeter_ver01",
+  "box": [
+   0.02310750898620892,
+   0.6948164629014157,
+   0.5478994736649061,
+   0.9852342131388122
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_exeter_ver01\/data\/sn85066387\/00175037834\/1899050701\/0554\/000_0_96.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_exeter_ver01%2Fdata%2Fsn85066387%2F00175037834%2F1899050701%2F0554.jp2\/pct:2.31,69.49,52.48,29.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "Astronomical",
+   "Department",
+   "of",
+   "the",
+   "Manila",
+   "Observatory."
+  ],
+  "page_seq_num": 554,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_exeter_ver01\/data\/sn85066387\/00175037834\/1899050701\/0554.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1899-05-07",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9680786728858948,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_exeter_ver01\/data\/sn85066387\/00175037834\/1899050701\/0554\/000_0_96.jpg"
+ },
+ "id": 344
+}

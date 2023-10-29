@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767242,
+   "id": 1206001,
+   "lead_time": 2.736,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7yD1X95fkf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_klamath_ver01",
+  "box": [
+   0.15926211220877512,
+   0.057749962621881056,
+   0.29253055027553015,
+   0.24871857714591408
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_klamath_ver01\/data\/sn85066387\/00175046628\/1910070601\/0158\/011_0_96.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_klamath_ver01%2Fdata%2Fsn85066387%2F00175046628%2F1910070601%2F0158.jp2\/pct:15.92,5.78,13.33,19.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "Latest",
+   "Aspirant",
+   "For",
+   "State",
+   "Qffice"
+  ],
+  "page_seq_num": 158,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_klamath_ver01\/data\/sn85066387\/00175046628\/1910070601\/0158.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1910-07-06",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9664108753204346,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_klamath_ver01\/data\/sn85066387\/00175046628\/1910070601\/0158\/011_0_96.jpg"
+ },
+ "id": 1206
+}

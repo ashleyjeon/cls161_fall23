@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675584,
+   "id": 565001,
+   "lead_time": 1.711,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "d7ySHsBOaN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_jarvey_ver01",
+  "box": [
+   0.6230998753349563,
+   0.6305648714775448,
+   0.764304414463504,
+   0.8878901574534243
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_jarvey_ver01\/data\/sn85040705\/00414215014\/1902080701\/0225\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Forest--Wabeno"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_jarvey_ver01%2Fdata%2Fsn85040705%2F00414215014%2F1902080701%2F0225.jp2\/pct:62.3,63.06,14.13,25.74\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040705",
+  "name": "Northern Wisconsin advertiser. [volume]",
+  "ocr": [
+   "latest",
+   "Parisian",
+   "craze.",
+   "St.",
+   "John",
+   "Nw",
+   "York",
+   "society",
+   "man.",
+   "Is",
+   "the",
+   "American",
+   "to",
+   "adopt",
+   "It.",
+   "The",
+   "vests",
+   "are",
+   "of",
+   "beautiful",
+   "patterns.",
+   "is",
+   "the",
+   "waistcoat",
+   "and",
+   "the",
+   "\"gent\u201d",
+   "adorns",
+   "It",
+   "is",
+   "Saint",
+   "John",
+   "himself."
+  ],
+  "page_seq_num": 225,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_jarvey_ver01\/data\/sn85040705\/00414215014\/1902080701\/0225.jp2",
+  "place_of_publication": "Wabeno, Wis.",
+  "pub_date": "1902-08-07",
+  "publisher": "C.G. Himley",
+  "score": 0.9663551449775696,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_jarvey_ver01\/data\/sn85040705\/00414215014\/1902080701\/0225\/001_0_96.jpg"
+ },
+ "id": 565
+}

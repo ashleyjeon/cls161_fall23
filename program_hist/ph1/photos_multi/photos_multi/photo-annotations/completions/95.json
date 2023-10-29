@@ -1,0 +1,108 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750856,
+   "id": 95001,
+   "lead_time": 4.275,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aPhZ2t6mXd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_fleming_ver01",
+  "box": [
+   0.22588553506819928,
+   0.3754015324936144,
+   0.7405476554495389,
+   0.608461012392785
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_fleming_ver01\/data\/sn84020631\/00415628973\/1896121901\/1242\/000_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--Santa Fe--Santa Fe"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628973%2F1896121901%2F1242.jp2\/pct:22.58,37.55,51.47,23.31\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020631",
+  "name": "Santa Fe daily New Mexican. [volume]",
+  "ocr": [
+   "appears",
+   "by",
+   "the",
+   "record",
+   "of",
+   "the",
+   "smelters",
+   "of",
+   "Socorro,",
+   "and",
+   "the",
+   "estimates",
+   "of",
+   "ore",
+   "from",
+   "CP",
+   "LA",
+   "BELLE,",
+   "FROM",
+   "THE",
+   "SOUTH.",
+   "on",
+   "its",
+   "lands,",
+   "the",
+   "shipment",
+   "for",
+   "the",
+   "fiscal",
+   "year",
+   "ending",
+   "August",
+   "1,",
+   "1896,",
+   "amounted",
+   "to",
+   "4",
+   "U,'",
+   "i-",
+   "i",
+   "i",
+   "J8",
+   "devoted",
+   "to",
+   "stock",
+   "raising",
+   "and",
+   "mining,",
+   "and",
+   "the",
+   "trade",
+   "of",
+   "the",
+   "town",
+   "is",
+   "with",
+   "the",
+   "ranch"
+  ],
+  "page_seq_num": 1242,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_fleming_ver01\/data\/sn84020631\/00415628973\/1896121901\/1242.jp2",
+  "place_of_publication": "Santa Fe, N.M.",
+  "pub_date": "1896-12-19",
+  "publisher": "C.B. Hayward",
+  "score": 0.9763723015785217,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_fleming_ver01\/data\/sn84020631\/00415628973\/1896121901\/1242\/000_0_97.jpg"
+ },
+ "id": 95
+}

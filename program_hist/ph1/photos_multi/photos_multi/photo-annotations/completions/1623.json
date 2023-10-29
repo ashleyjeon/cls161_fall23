@@ -1,0 +1,113 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748451,
+   "id": 1623001,
+   "lead_time": 3.173,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-GE1G5uWqA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_cornwell_ver02",
+  "box": [
+   0.3987314652423469,
+   0.07492519471703506,
+   0.9343651523109243,
+   0.3938037704839939
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_cornwell_ver02\/data\/sn88056024\/00415666184\/1916101501\/0354\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Idaho--Ada--Boise"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_cornwell_ver02%2Fdata%2Fsn88056024%2F00415666184%2F1916101501%2F0354.jp2\/pct:39.87,7.5,53.57,31.89\/!500,500\/0\/default.jpg",
+  "lccn": "sn88056024",
+  "name": "Evening capital news.",
+  "ocr": [
+   "\u2756",
+   "r",
+   "ex",
+   "-",
+   "\u2022**\u2022**\u2014>",
+   "\u201e4",
+   "\"4",
+   "4",
+   "\"4",
+   "K&",
+   "\u00bb",
+   "f.",
+   "-",
+   "*",
+   "Wm",
+   "m",
+   "Ifl",
+   "f!",
+   "\u25a0v",
+   "M",
+   "?",
+   "X",
+   "3",
+   "V",
+   "g",
+   "\u25a0",
+   "*",
+   "D-",
+   "-",
+   "m",
+   "\\",
+   "\u00abil*",
+   "m",
+   "V'",
+   "\u2022t",
+   "it",
+   "SV",
+   "m",
+   "IwJ",
+   "\u25a0>'Pe.\\res",
+   "Famous",
+   "Painting",
+   "of",
+   "Aristomenes",
+   "and",
+   "the",
+   "Spartan",
+   "Women",
+   "at",
+   "Aegila\u2014An",
+   "Historic",
+   "Example",
+   "of",
+   "the",
+   "Value",
+   "of",
+   "Mili",
+   "tary",
+   "Training",
+   "for",
+   "Women",
+   "as",
+   "Wei",
+   "is"
+  ],
+  "page_seq_num": 354,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_cornwell_ver02\/data\/sn88056024\/00415666184\/1916101501\/0354.jp2",
+  "place_of_publication": "Boise, Idaho",
+  "pub_date": "1916-10-15",
+  "publisher": "Capital News Pub. Co.",
+  "score": 0.9872413873672485,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_cornwell_ver02\/data\/sn88056024\/00415666184\/1916101501\/0354\/001_0_98.jpg"
+ },
+ "id": 1623
+}

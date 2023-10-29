@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768169,
+   "id": 1832001,
+   "lead_time": 61.861,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3e-jDkibUd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_pepper_ver01",
+  "box": [
+   0.5643483365519663,
+   0.08548160346684162,
+   0.6966630914238062,
+   0.2753228765360048
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_pepper_ver01\/data\/sn86072054\/00415660443\/1918031301\/0589\/002_0_92.jpg",
+  "geographic_coverage": [
+   "West Virginia--Marion--Fairmont"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_pepper_ver01%2Fdata%2Fsn86072054%2F00415660443%2F1918031301%2F0589.jp2\/pct:56.43,8.55,13.24,18.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn86072054",
+  "name": "The West Virginian. [volume]",
+  "ocr": [
+   "If",
+   ",",
+   "HON.",
+   "MRS.",
+   "\"CDMSlBI*SPOH>",
+   "Despite",
+   "the",
+   "shocked",
+   "surprise",
+   "of",
+   "members",
+   "of",
+   "the",
+   "\"Four",
+   "the",
+   "Hon.",
+   "Mrs.",
+   "William",
+   "da",
+   "la",
+   "POer",
+   "esford,",
+   "of",
+   "New",
+   "York,",
+   "in",
+   "becoming",
+   "star.",
+   "She",
+   "is",
+   "a",
+   "sister",
+   "in",
+   "law",
+   "Lord",
+   "Dedes.",
+   "who",
+   "married",
+   "Helen"
+  ],
+  "page_seq_num": 589,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_pepper_ver01\/data\/sn86072054\/00415660443\/1918031301\/0589.jp2",
+  "place_of_publication": "Fairmont, W. Va.",
+  "pub_date": "1918-03-13",
+  "publisher": "Fairmont Printing and Publishing Company",
+  "score": 0.9283499121665955,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_pepper_ver01\/data\/sn86072054\/00415660443\/1918031301\/0589\/002_0_92.jpg"
+ },
+ "id": 1832
+}

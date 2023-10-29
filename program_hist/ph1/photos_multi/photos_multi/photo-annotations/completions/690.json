@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747735,
+   "id": 690001,
+   "lead_time": 3.155,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8P1vvqjGDA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_jamaica_ver01",
+  "box": [
+   0.5072602370689655,
+   0.6820076382775822,
+   0.9530685950969827,
+   0.9792146924515845
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_jamaica_ver01\/data\/sn83030214\/00175042143\/1903052401\/0483\/003_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_jamaica_ver01%2Fdata%2Fsn83030214%2F00175042143%2F1903052401%2F0483.jp2\/pct:50.72,68.21,44.59,29.73\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "P>OXER",
+   "WHO",
+   "LOOKED",
+   "AT",
+   "THE",
+   "CAMERA",
+   "GOT",
+   "A",
+   "HARD",
+   "I"
+  ],
+  "page_seq_num": 483,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_jamaica_ver01\/data\/sn83030214\/00175042143\/1903052401\/0483.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1903-05-24",
+  "publisher": "New York Tribune",
+  "score": 0.963018536567688,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_jamaica_ver01\/data\/sn83030214\/00175042143\/1903052401\/0483\/003_0_96.jpg"
+ },
+ "id": 690
+}

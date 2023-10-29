@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747937,
+   "id": 1772001,
+   "lead_time": 4.138,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pxMy_53P4M",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_gus_ver02",
+  "box": [
+   0.6518734596243149,
+   0.1024941837086397,
+   0.9417876267984927,
+   0.3711891841433575
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_gus_ver02\/data\/sn89058253\/0041562189A\/1918072601\/1051\/001_0_90.jpg",
+  "geographic_coverage": [
+   "Tennessee--Fayette--Somerville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_gus_ver02%2Fdata%2Fsn89058253%2F0041562189A%2F1918072601%2F1051.jp2\/pct:65.18,10.25,29.0,26.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058253",
+  "name": "The Fayette falcon.",
+  "ocr": [
+   "r2u",
+   "5.DEPT",
+   "OP",
+   "CONSERVE",
+   "SURPLUS",
+   "FOOD-THAT",
+   "IS",
+   "A",
+   "BIG",
+   "DUTY",
+   "OF",
+   "HOUSEWIVES",
+   "4",
+   "!\"tM",
+   "'Jw",
+   "imvMv",
+   "if.",
+   "'J",
+   "Ski'"
+  ],
+  "page_seq_num": 1051,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_gus_ver02\/data\/sn89058253\/0041562189A\/1918072601\/1051.jp2",
+  "place_of_publication": "Somerville, Tenn.",
+  "pub_date": "1918-07-26",
+  "publisher": "W.T. Loggins",
+  "score": 0.9098722338676453,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_gus_ver02\/data\/sn89058253\/0041562189A\/1918072601\/1051\/001_0_90.jpg"
+ },
+ "id": 1772
+}

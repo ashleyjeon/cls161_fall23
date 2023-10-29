@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611744391,
+   "id": 1191001,
+   "lead_time": 3.195,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LV01_SgK-Y",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_leviathan_ver01",
+  "box": [
+   0.8463460394104112,
+   0.12547283908523085,
+   0.9834481698495371,
+   0.40495888060365276
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_leviathan_ver01\/data\/sn83045462\/00280656379\/1910042001\/0575\/003_0_96.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_leviathan_ver01%2Fdata%2Fsn83045462%2F00280656379%2F1910042001%2F0575.jp2\/pct:84.63,12.55,13.72,27.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "DEFEAT",
+   "OF",
+   "With",
+   "Tariff",
+   "and",
+   "Other",
+   "Contributory",
+   "Causes.",
+   "Democrats",
+   "Elated.",
+   "I",
+   "-",
+   "-S*'",
+   ".'.*Mrak?",
+   "A.\/s",
+   "?a|n&",
+   "'",
+   "*",
+   "Wsp'",
+   "BEHIRwHt-''E^':'::'&",
+   "'*:"
+  ],
+  "page_seq_num": 575,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_leviathan_ver01\/data\/sn83045462\/00280656379\/1910042001\/0575.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1910-04-20",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9624173045158386,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_leviathan_ver01\/data\/sn83045462\/00280656379\/1910042001\/0575\/003_0_96.jpg"
+ },
+ "id": 1191
+}

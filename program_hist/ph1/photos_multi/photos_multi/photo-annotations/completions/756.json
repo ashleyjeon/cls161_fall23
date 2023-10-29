@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752471,
+   "id": 756001,
+   "lead_time": 2.23,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3f1H3B7wdw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_irving_ver01",
+  "box": [
+   0.520488143775971,
+   0.33577154513397905,
+   0.589459940730474,
+   0.39730652684000284
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_irving_ver01\/data\/sn86091109\/00295867875\/1904021601\/1065\/010_0_93.jpg",
+  "geographic_coverage": [
+   "Idaho--Nez Perce--Lewiston"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_irving_ver01%2Fdata%2Fsn86091109%2F00295867875%2F1904021601%2F1065.jp2\/pct:52.04,33.58,6.9,6.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091109",
+  "name": "Lewiston evening teller. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 1065,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_irving_ver01\/data\/sn86091109\/00295867875\/1904021601\/1065.jp2",
+  "place_of_publication": "Lewiston, Idaho",
+  "pub_date": "1904-02-16",
+  "publisher": "Teller Pub. Co.",
+  "score": 0.9344102144241333,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_irving_ver01\/data\/sn86091109\/00295867875\/1904021601\/1065\/010_0_93.jpg"
+ },
+ "id": 756
+}

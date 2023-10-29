@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764234,
+   "id": 1629001,
+   "lead_time": 2.396,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ntAUOEVYc0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_gorn_ver01",
+  "box": [
+   0.03510719690567408,
+   0.6045588153437275,
+   0.33167488554604035,
+   0.9262939276977363
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_gorn_ver01\/data\/sn84037217\/00415664977\/1916072101\/0010\/001_0_98.jpg",
+  "geographic_coverage": [
+   "West Virginia--Greenbrier--Lewisburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_gorn_ver01%2Fdata%2Fsn84037217%2F00415664977%2F1916072101%2F0010.jp2\/pct:3.51,60.46,29.66,32.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn84037217",
+  "name": "Greenbrier independent. [volume]",
+  "ocr": [
+   "JOHNSTON",
+   "E.",
+   "BELL.",
+   "Johnston",
+   "E.",
+   "Bell",
+   "was",
+   "bora",
+   "at",
+   "member",
+   "of",
+   "Old",
+   "Stone",
+   "Church"
+  ],
+  "page_seq_num": 10,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_gorn_ver01\/data\/sn84037217\/00415664977\/1916072101\/0010.jp2",
+  "place_of_publication": "Lewisburg, Va. [W. Va.]",
+  "pub_date": "1916-07-21",
+  "publisher": "Joseph Granville",
+  "score": 0.9879916310310364,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_gorn_ver01\/data\/sn84037217\/00415664977\/1916072101\/0010\/001_0_98.jpg"
+ },
+ "id": 1629
+}

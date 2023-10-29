@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746830,
+   "id": 1595001,
+   "lead_time": 4.217,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "H-n8GeLjom",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_bode_ver03",
+  "box": [
+   0.5638225971240003,
+   0.05798770859499177,
+   0.9705498862605524,
+   0.3943020771244891
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_bode_ver03\/data\/sn83045081\/print\/1915033001\/4111\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Maryland--Baltimore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_bode_ver03%2Fdata%2Fsn83045081%2Fprint%2F1915033001%2F4111.jp2\/pct:56.38,5.8,40.68,33.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045081",
+  "name": "Der Deutsche correspondent. [volume]",
+  "ocr": [
+   "W,",
+   "CmliMlit",
+   "Im",
+   "'Uoittittlilion,",
+   "ist",
+   "kil",
+   "l",
+   "\"Mlkit'l",
+   "Hjtti'Wch",
+   "Mellschliit.\"",
+   "KlmMliii",
+   "slilch'",
+   "n",
+   "zu",
+   "kim",
+   "Mlkim:",
+   "AinkM",
+   "iwu",
+   "Hllstiuwlt'",
+   "sMm",
+   "lit'MW'uki",
+   "Pfalz",
+   "zum",
+   "HjM'k'u",
+   "ljaln",
+   "u.'",
+   "Ver\u00f6ffentlicht",
+   "im",
+   "Auftrage",
+   "de-",
+   "Hill",
+   "Campagne-Comites.",
+   "Frcd.",
+   "P.",
+   "Rost,",
+   "Vorsitzer.",
+   "James",
+   "Earey,",
+   "Sekret\u00e4r."
+  ],
+  "page_seq_num": 4111,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_bode_ver03\/data\/sn83045081\/print\/1915033001\/4111.jp2",
+  "place_of_publication": "Baltimore, Md.",
+  "pub_date": "1915-03-30",
+  "publisher": "F. Raine",
+  "score": 0.9577031135559082,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_bode_ver03\/data\/sn83045081\/print\/1915033001\/4111\/000_0_95.jpg"
+ },
+ "id": 1595
+}

@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766713,
+   "id": 1716001,
+   "lead_time": 2.146,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4ODxBXwLWH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_hodag_ver01",
+  "box": [
+   0.1819518889806501,
+   0.13794306636465875,
+   0.3421307304123863,
+   0.3840892213369756
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_hodag_ver01\/data\/sn86086499\/00414214423\/1917081001\/0247\/016_0_96.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Milwaukee--Wauwatosa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_hodag_ver01%2Fdata%2Fsn86086499%2F00414214423%2F1917081001%2F0247.jp2\/pct:18.19,13.8,16.02,24.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086499",
+  "name": "Wauwatosa news. [volume]",
+  "ocr": [
+   "harry",
+   "chapman",
+   "gilbert",
+   "IJrsf",
+   "K",
+   "|"
+  ],
+  "page_seq_num": 247,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_hodag_ver01\/data\/sn86086499\/00414214423\/1917081001\/0247.jp2",
+  "place_of_publication": "Wauwatosa, Wis.",
+  "pub_date": "1917-08-10",
+  "publisher": "Wauwatosa Printing",
+  "score": 0.9604805111885071,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_hodag_ver01\/data\/sn86086499\/00414214423\/1917081001\/0247\/016_0_96.jpg"
+ },
+ "id": 1716
+}

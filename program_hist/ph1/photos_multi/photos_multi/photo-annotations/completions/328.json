@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751113,
+   "id": 328001,
+   "lead_time": 2.372,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "at81yuE-so",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_kaiser_ver01",
+  "box": [
+   0.7197863503437926,
+   0.2431914377795048,
+   0.9370236097954274,
+   0.4715462729568881
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_kaiser_ver01\/data\/sn83030214\/00175037032\/1899070901\/0185\/000_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_kaiser_ver01%2Fdata%2Fsn83030214%2F00175037032%2F1899070901%2F0185.jp2\/pct:71.97,24.32,21.73,22.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "*.",
+   "WILLIAM",
+   "I*.",
+   "QOEB_n_,",
+   "?",
+   "-",
+   "the",
+   "uf"
+  ],
+  "page_seq_num": 185,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_kaiser_ver01\/data\/sn83030214\/00175037032\/1899070901\/0185.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1899-07-09",
+  "publisher": "New York Tribune",
+  "score": 0.9483177065849304,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_kaiser_ver01\/data\/sn83030214\/00175037032\/1899070901\/0185\/000_0_94.jpg"
+ },
+ "id": 328
+}

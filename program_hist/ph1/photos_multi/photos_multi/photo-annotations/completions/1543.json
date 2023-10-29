@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767782,
+   "id": 1543001,
+   "lead_time": 2.053,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ds205qAZVp",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_grindylow_ver01",
+  "box": [
+   0.4853880585537372,
+   0.6883917374463013,
+   0.6374389023237436,
+   0.8831676601464271
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_grindylow_ver01\/data\/sn85040652\/00414215579\/1915092501\/1117\/005_0_90.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Iron--Hurley"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_grindylow_ver01%2Fdata%2Fsn85040652%2F00414215579%2F1915092501%2F1117.jp2\/pct:48.53,68.84,15.21,19.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040652",
+  "name": "Iron County news. [volume]",
+  "ocr": [
+   "Harry",
+   "Gaspar."
+  ],
+  "page_seq_num": 1117,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_grindylow_ver01\/data\/sn85040652\/00414215579\/1915092501\/1117.jp2",
+  "place_of_publication": "Hurley, Wis.",
+  "pub_date": "1915-09-25",
+  "publisher": "F.A. Emunson",
+  "score": 0.9042725563049316,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_grindylow_ver01\/data\/sn85040652\/00414215579\/1915092501\/1117\/005_0_90.jpg"
+ },
+ "id": 1543
+}

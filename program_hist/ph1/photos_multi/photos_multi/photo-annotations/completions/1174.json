@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766356,
+   "id": 1174001,
+   "lead_time": 2.239,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6ZI5chgRgi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_hufnagel_ver02",
+  "box": [
+   0.18378230276087879,
+   0.05131601489153031,
+   0.4315642036326494,
+   0.350411528886132
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_hufnagel_ver02\/data\/97071090\/00200298135\/1910051301\/1539\/007_0_97.jpg",
+  "geographic_coverage": [
+
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_hufnagel_ver02%2Fdata%2F97071090%2F00200298135%2F1910051301%2F1539.jp2\/pct:18.37,5.14,24.78,29.91\/!500,500\/0\/default.jpg",
+  "lccn": "97071090",
+  "name": "Medford mail tribune. (Medford, Or.) 1909-1989. [online resource]",
+  "ocr": [
+   "Damrosch",
+   "to",
+   "Be",
+   "Here",
+   "Monday"
+  ],
+  "page_seq_num": 1539,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_hufnagel_ver02\/data\/97071090\/00200298135\/1910051301\/1539.jp2",
+  "place_of_publication": "Oregon.",
+  "pub_date": "1910-05-13",
+  "publisher": null,
+  "score": 0.9768692851066589,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_hufnagel_ver02\/data\/97071090\/00200298135\/1910051301\/1539\/007_0_97.jpg"
+ },
+ "id": 1174
+}

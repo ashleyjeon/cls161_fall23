@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673594,
+   "id": 1386001,
+   "lead_time": 1.969,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5Me1fIvWN7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_coyote_ver02",
+  "box": [
+   0.045584411310007324,
+   0.037636998188064756,
+   0.21975414031142487,
+   0.25851856369570075
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_coyote_ver02\/data\/sn83045398\/0029602501A\/1913053001\/0540\/014_0_94.jpg",
+  "geographic_coverage": [
+   "New Mexico--Taos--Taos"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_coyote_ver02%2Fdata%2Fsn83045398%2F0029602501A%2F1913053001%2F0540.jp2\/pct:4.55,3.77,17.42,22.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045398",
+  "name": "La revista de Taos. [volume]",
+  "ocr": [
+   "X",
+   "f",
+   "\u00ed",
+   ".",
+   "(",
+   "'",
+   "1",
+   "\"",
+   "f",
+   ".",
+   "'",
+   "\"'",
+   "-.'",
+   ".'\"'X.",
+   "V",
+   "-J",
+   "Prof.",
+   "M.",
+   "C.",
+   "MARTINEZ,",
+   "SANADOR",
+   "PODEROSO,",
+   "119",
+   "1-2",
+   "South",
+   "Spring",
+   "St.,",
+   "Loo",
+   "Angeles,",
+   "California."
+  ],
+  "page_seq_num": 540,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_coyote_ver02\/data\/sn83045398\/0029602501A\/1913053001\/0540.jp2",
+  "place_of_publication": "Taos, Nuevo Me\u0301xico",
+  "pub_date": "1913-05-30",
+  "publisher": "Jose\u0301 Montaner",
+  "score": 0.9449295401573181,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_coyote_ver02\/data\/sn83045398\/0029602501A\/1913053001\/0540\/014_0_94.jpg"
+ },
+ "id": 1386
+}

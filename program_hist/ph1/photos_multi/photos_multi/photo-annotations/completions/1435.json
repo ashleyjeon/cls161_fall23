@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755057,
+   "id": 1435001,
+   "lead_time": 4.964,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Rwvhk94obB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ak_caribou_ver01",
+  "box": [
+   0.36758392858856725,
+   0.06681477357269051,
+   0.7869530380211532,
+   0.29619930985664766
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ak_caribou_ver01\/data\/sn82014189\/00279525954\/1913022701\/0501\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Alaska--Skagway"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ak_caribou_ver01%2Fdata%2Fsn82014189%2F00279525954%2F1913022701%2F0501.jp2\/pct:36.75,6.69,41.94,22.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014189",
+  "name": "The daily Alaskan. [volume]",
+  "ocr": [
+   "SETTLEMENT",
+   "Of",
+   "Mine",
+   "at",
+   "38",
+   "|**r",
+   "<*nt",
+   "Copper",
+   "??rf."
+  ],
+  "page_seq_num": 501,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ak_caribou_ver01\/data\/sn82014189\/00279525954\/1913022701\/0501.jp2",
+  "place_of_publication": "Skagway, Alaska",
+  "pub_date": "1913-02-27",
+  "publisher": "Town & Jensen",
+  "score": 0.9960618615150452,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ak_caribou_ver01\/data\/sn82014189\/00279525954\/1913022701\/0501\/001_0_99.jpg"
+ },
+ "id": 1435
+}

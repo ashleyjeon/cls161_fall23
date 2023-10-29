@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752260,
+   "id": 40001,
+   "lead_time": 3.367,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9oA6aWG_Bn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_agate_ver01",
+  "box": [
+   0.30077932016386993,
+   0.041944316559774014,
+   0.5650388139109391,
+   0.20405901575381039
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_agate_ver01\/data\/sn86074064\/00383343616\/1895030501\/0353\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Mississippi--Hinds--Jackson",
+   "Mississippi--Lincoln--Brookhaven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_agate_ver01%2Fdata%2Fsn86074064%2F00383343616%2F1895030501%2F0353.jp2\/pct:30.07,4.2,26.43,16.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074064",
+  "name": "Mississippi leader.",
+  "ocr": [
+   "THE",
+   "JOHNSON",
+   "TRIO,",
+   "OF",
+   "CHICAGO.",
+   "MBS.",
+   "1..",
+   "(i.",
+   "JOHNSON",
+   "AND",
+   "DALU1ITEUS,",
+   "WHO",
+   "WILT.",
+   "SOON",
+   "VISIT",
+   "MIHSISSllOO",
+   "CANVASS",
+   "THE",
+   "STATE",
+   "FOB",
+   "1\u2018I.OH",
+   "1HITI0N."
+  ],
+  "page_seq_num": 353,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_agate_ver01\/data\/sn86074064\/00383343616\/1895030501\/0353.jp2",
+  "place_of_publication": "Jackson, Miss.",
+  "pub_date": "1895-03-05",
+  "publisher": "B.T. Hobbs",
+  "score": 0.9835637807846069,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_agate_ver01\/data\/sn86074064\/00383343616\/1895030501\/0353\/001_0_98.jpg"
+ },
+ "id": 40
+}

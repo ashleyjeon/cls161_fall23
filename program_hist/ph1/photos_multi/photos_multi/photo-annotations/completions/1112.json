@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767222,
+   "id": 1112001,
+   "lead_time": 2.186,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PrLswbndwe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_madison_ver01",
+  "box": [
+   0.1484849328536828,
+   0.0328558296992861,
+   0.26040974340259654,
+   0.18353071541621768
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_madison_ver01\/data\/sn82014086\/00415620895\/1909060501\/0308\/007_0_97.jpg",
+  "geographic_coverage": [
+   "Connecticut--New London--Norwich"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_madison_ver01%2Fdata%2Fsn82014086%2F00415620895%2F1909060501%2F0308.jp2\/pct:14.84,3.29,11.2,15.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014086",
+  "name": "Norwich bulletin. [volume]",
+  "ocr": [
+   "LTMAN",
+   "W.",
+   "WHITING,",
+   "For",
+   "Alderman."
+  ],
+  "page_seq_num": 308,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_madison_ver01\/data\/sn82014086\/00415620895\/1909060501\/0308.jp2",
+  "place_of_publication": "Norwich, Conn.",
+  "pub_date": "1909-06-05",
+  "publisher": "Bulletin Co.",
+  "score": 0.9733405709266663,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_madison_ver01\/data\/sn82014086\/00415620895\/1909060501\/0308\/007_0_97.jpg"
+ },
+ "id": 1112
+}

@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767334,
+   "id": 25001,
+   "lead_time": 2.234,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "uYtPO41a3U",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_bravo_ver01",
+  "box": [
+   0.33020809813041907,
+   0.22313718201256938,
+   0.6748866792359104,
+   0.5226234025572427
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895122101\/1190\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_bravo_ver01%2Fdata%2Fsn84025828%2F00294555705%2F1895122101%2F1190.jp2\/pct:33.02,22.32,34.47,29.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "HON.",
+   "ROBERT",
+   "S.",
+   "ILES,",
+   "Our",
+   "Popular.",
+   "County",
+   "Attorney."
+  ],
+  "page_seq_num": 1190,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895122101\/1190.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1895-12-21",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9667565226554871,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895122101\/1190\/000_0_96.jpg"
+ },
+ "id": 25
+}

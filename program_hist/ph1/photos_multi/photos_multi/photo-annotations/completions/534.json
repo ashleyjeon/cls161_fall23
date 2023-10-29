@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750814,
+   "id": 534001,
+   "lead_time": 1.688,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PF4r5IcFDJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_bravo_ver01",
+  "box": [
+   0.18966541967577677,
+   0.20941807270867951,
+   0.31391653299058564,
+   0.44567766402229847
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_bravo_ver01\/data\/sn84028140\/0023728365A\/1901012801\/0396\/005_0_93.jpg",
+  "geographic_coverage": [
+   "Ohio--Summit--Akron"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_bravo_ver01%2Fdata%2Fsn84028140%2F0023728365A%2F1901012801%2F0396.jp2\/pct:18.96,20.95,12.43,23.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn84028140",
+  "name": "Akron daily Democrat. [volume]",
+  "ocr": [
+   "Photo",
+   "by",
+   "JUcDoruld,",
+   "Albany.",
+   "i.vwisKxW",
+   "ill",
+   "tOivJSJvwvJvv"
+  ],
+  "page_seq_num": 396,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_bravo_ver01\/data\/sn84028140\/0023728365A\/1901012801\/0396.jp2",
+  "place_of_publication": "Akron, Ohio",
+  "pub_date": "1901-01-28",
+  "publisher": "William B. and Russell T. Dobson",
+  "score": 0.9379698634147644,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_bravo_ver01\/data\/sn84028140\/0023728365A\/1901012801\/0396\/005_0_93.jpg"
+ },
+ "id": 534
+}

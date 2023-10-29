@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767276,
+   "id": 926001,
+   "lead_time": 2.044,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "abg4sK-NZx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_iceland_ver01",
+  "box": [
+   0.3522467335528026,
+   0.14414006684002004,
+   0.6404681467573575,
+   0.450261023152186
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_iceland_ver01\/data\/sn83030214\/00175041552\/1907033101\/0655\/001_0_93.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_iceland_ver01%2Fdata%2Fsn83030214%2F00175041552%2F1907033101%2F0655.jp2\/pct:35.22,14.42,28.83,30.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "Four",
+   "Hundred",
+   "Feet",
+   "Above",
+   "Ground."
+  ],
+  "page_seq_num": 655,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_iceland_ver01\/data\/sn83030214\/00175041552\/1907033101\/0655.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1907-03-31",
+  "publisher": "New York Tribune",
+  "score": 0.9327268004417419,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_iceland_ver01\/data\/sn83030214\/00175041552\/1907033101\/0655\/001_0_93.jpg"
+ },
+ "id": 926
+}

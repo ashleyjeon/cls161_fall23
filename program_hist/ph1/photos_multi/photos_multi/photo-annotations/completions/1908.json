@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755036,
+   "id": 1908001,
+   "lead_time": 1.695,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "59jgGWm7UT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_feature_ver01",
+  "box": [
+   0.14582207267033734,
+   0.049395996591319206,
+   0.26513248434276626,
+   0.2316455011782439
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_feature_ver01\/data\/sn92053934\/00295872809\/1919120301\/0488\/013_0_91.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_feature_ver01%2Fdata%2Fsn92053934%2F00295872809%2F1919120301%2F0488.jp2\/pct:14.58,4.94,11.94,18.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "GOVERNMENT",
+   "NAMES",
+   "MAN",
+   "WHO",
+   "INVENTED",
+   "THE",
+   "DEPTH",
+   "CHARGE",
+   ".",
+   "Mlnkler.",
+   "The",
+   "man,",
+   "Chester",
+   "T,"
+  ],
+  "page_seq_num": 488,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_feature_ver01\/data\/sn92053934\/00295872809\/1919120301\/0488.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1919-12-03",
+  "publisher": "J.W. Potter",
+  "score": 0.9103270173072815,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_feature_ver01\/data\/sn92053934\/00295872809\/1919120301\/0488\/013_0_91.jpg"
+ },
+ "id": 1908
+}

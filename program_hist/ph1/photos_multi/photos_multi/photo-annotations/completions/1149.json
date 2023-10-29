@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746313,
+   "id": 1149001,
+   "lead_time": 2.712,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7gGg2m-D5A",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_seven_ver02",
+  "box": [
+   0.2113549066730951,
+   0.3362676711309524,
+   0.7556143887997875,
+   0.7557034931485616
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_seven_ver02\/data\/sn95047417\/00175043913\/1909042301\/0535\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Florida--Leon--Tallahassee"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_seven_ver02%2Fdata%2Fsn95047417%2F00175043913%2F1909042301%2F0535.jp2\/pct:21.13,33.63,54.43,41.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn95047417",
+  "name": "The weekly true Democrat.",
+  "ocr": [
+   "HON",
+   "JOHN",
+   "P",
+   "STOKE",
+   "STOKEof",
+   "of",
+   "Pentacola",
+   "Elected",
+   "E1ec",
+   "ed",
+   "as",
+   "SpeaktrJPro",
+   "Speaker",
+   "Pro",
+   ">",
+   "ro",
+   "Tom",
+   "of",
+   "the",
+   "thaHouse",
+   "theHouse",
+   "0",
+   "e",
+   "n",
+   "House",
+   "of",
+   "Representatives",
+   "Representativesmost",
+   "p",
+   "w"
+  ],
+  "page_seq_num": 535,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_seven_ver02\/data\/sn95047417\/00175043913\/1909042301\/0535.jp2",
+  "place_of_publication": "Tallahassee, Fla.",
+  "pub_date": "1909-04-23",
+  "publisher": "John G. Collins",
+  "score": 0.979720950126648,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_seven_ver02\/data\/sn95047417\/00175043913\/1909042301\/0535\/000_0_97.jpg"
+ },
+ "id": 1149
+}

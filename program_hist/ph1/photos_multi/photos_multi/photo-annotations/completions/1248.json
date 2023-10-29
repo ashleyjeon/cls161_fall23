@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747638,
+   "id": 1248001,
+   "lead_time": 31.104,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "G4b0QKOGsR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_harlequin_ver01",
+  "box": [
+   0.1610676236576385,
+   0.2045222575588698,
+   0.5364293033011986,
+   0.42040263469143385
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_harlequin_ver01\/data\/sn83025316\/00212476717\/1911050201\/0019\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Montana--Missoula--Missoula"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_harlequin_ver01%2Fdata%2Fsn83025316%2F00212476717%2F1911050201%2F0019.jp2\/pct:16.1,20.46,37.54,21.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025316",
+  "name": "The Daily Missoulian. [volume]",
+  "ocr": [
+   "..",
+   "'6",
+   "Uneeratyof",
+   "aada",
+   "asbal",
+   "tamjut",
+   "aried",
+   "romJaan",
+   "ora",
+   "turof",
+   "heUniedStaee"
+  ],
+  "page_seq_num": 19,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_harlequin_ver01\/data\/sn83025316\/00212476717\/1911050201\/0019.jp2",
+  "place_of_publication": "Missoula, Mont.",
+  "pub_date": "1911-05-02",
+  "publisher": "Missoulian Pub. Co.",
+  "score": 0.9871009588241577,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_harlequin_ver01\/data\/sn83025316\/00212476717\/1911050201\/0019\/003_0_98.jpg"
+ },
+ "id": 1248
+}

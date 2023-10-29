@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766538,
+   "id": 658001,
+   "lead_time": 65.137,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KQ5aCwEiTh",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_goldeneye_ver01",
+  "box": [
+   0.28513623847336067,
+   0.35295918266180204,
+   0.7141680750969701,
+   0.6169459412344014
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_goldeneye_ver01\/data\/sn83025294\/00212476833\/1903040401\/0973\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_goldeneye_ver01%2Fdata%2Fsn83025294%2F00212476833%2F1903040401%2F0973.jp2\/pct:28.51,35.3,42.91,26.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025294",
+  "name": "The Butte inter mountain. [volume]",
+  "ocr": [
+   ",",
+   "..",
+   "HOME",
+   "OF",
+   "THE",
+   "NEW",
+   "YORK",
+   "DENTISTS",
+   "SYMONS'"
+  ],
+  "page_seq_num": 973,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476833\/1903040401\/0973.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1903-04-04",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9628604650497437,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476833\/1903040401\/0973\/000_0_96.jpg"
+ },
+ "id": 658
+}

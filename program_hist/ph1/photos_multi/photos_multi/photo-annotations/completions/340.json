@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748908,
+   "id": 340001,
+   "lead_time": 1.799,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DqNkPM9P6s",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ncu_hawk_ver02",
+  "box": [
+   0.283911715320894,
+   0.23501279932507396,
+   0.5285075944440276,
+   0.4389541638874947
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ncu_hawk_ver02\/data\/sn84020731\/00416157133\/1899011901\/0249\/003_0_93.jpg",
+  "geographic_coverage": [
+   "North Carolina--Durham--Durham",
+   "North Carolina--Orange--Hillsboro"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ncu_hawk_ver02%2Fdata%2Fsn84020731%2F00416157133%2F1899011901%2F0249.jp2\/pct:28.39,23.51,24.46,20.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020731",
+  "name": "The Durham recorder. [volume]",
+  "ocr": [
+   "'",
+   "..1.",
+   ".",
+   "COL.",
+   "JULIAN",
+   "J",
+   "1",
+   "V",
+   "'",
+   "-.1",
+   "At",
+   "9.",
+   ":4",
+   "-4",
+   "8.",
+   "CARR."
+  ],
+  "page_seq_num": 249,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ncu_hawk_ver02\/data\/sn84020731\/00416157133\/1899011901\/0249.jp2",
+  "place_of_publication": "Durham, N.C.",
+  "pub_date": "1899-01-19",
+  "publisher": "J.D. Cameron",
+  "score": 0.9304137229919434,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ncu_hawk_ver02\/data\/sn84020731\/00416157133\/1899011901\/0249\/003_0_93.jpg"
+ },
+ "id": 340
+}

@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748211,
+   "id": 1533001,
+   "lead_time": 3.403,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "T894Ldl_Z4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_killdeer_ver01",
+  "box": [
+   0.4468338975628603,
+   0.06130744377430928,
+   0.5832780634315269,
+   0.42405460996177574
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_killdeer_ver01\/data\/sn84031081\/00296025434\/1914090701\/0588\/012_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_killdeer_ver01%2Fdata%2Fsn84031081%2F00296025434%2F1914090701%2F0588.jp2\/pct:44.68,6.14,13.65,36.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn84031081",
+  "name": "Albuquerque morning journal. [volume]",
+  "ocr": [
+   "j",
+   "The,",
+   "Daily",
+   "Hint",
+   "from",
+   "Paris.",
+   "'",
+   "'",
+   "i",
+   "i",
+   "'",
+   ".",
+   "v",
+   "'n'",
+   "i",
+   "1",
+   "1",
+   "-",
+   "-",
+   "i",
+   "if",
+   "1",
+   "LM",
+   ";",
+   "t",
+   "J",
+   "'ii,i",
+   "i",
+   "i",
+   "m",
+   "ni",
+   "i",
+   "I",
+   "I",
+   "4f",
+   "J11",
+   "k,",
+   "X.a.ia.,1",
+   "Kfrttall.",
+   "l.irntki.",
+   "11.14",
+   "lw",
+   "llmw",
+   "IfNMf",
+   "Old",
+   "fashioned",
+   "frock,",
+   "lines",
+   "motlcrntsea",
+   "Into",
+   "n",
+   "tdvanc",
+   "sty;.",
+   "It",
+   "Ii",
+   "of",
+   "wh!t",
+   "voile;",
+   "each",
+   "plaltel",
+   "f:ounc",
+   "edged",
+   "with",
+   "narrow",
+   "moire",
+   "rlhbon.",
+   "Fins",
+   "nt.it"
+  ],
+  "page_seq_num": 588,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_killdeer_ver01\/data\/sn84031081\/00296025434\/1914090701\/0588.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1914-09-07",
+  "publisher": "Democrat Pub. Co.",
+  "score": 0.9726879596710205,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_killdeer_ver01\/data\/sn84031081\/00296025434\/1914090701\/0588\/012_0_97.jpg"
+ },
+ "id": 1533
+}

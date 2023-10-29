@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755139,
+   "id": 1775001,
+   "lead_time": 1.978,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gnh0z27FTY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_cheddar_ver01",
+  "box": [
+   0.43397056392678174,
+   0.6477958356130396,
+   0.5551927732200028,
+   0.8365082880573086
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_cheddar_ver01\/data\/sn86063952\/00295864333\/1918022001\/0379\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_cheddar_ver01%2Fdata%2Fsn86063952%2F00295864333%2F1918022001%2F0379.jp2\/pct:43.39,64.78,12.13,18.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "ft",
+   "V",
+   "V",
+   "'onarJLtIut",
+   ".",
+   "Tranklyn",
+   "farnum"
+  ],
+  "page_seq_num": 379,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_cheddar_ver01\/data\/sn86063952\/00295864333\/1918022001\/0379.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1918-02-20",
+  "publisher": "Roy Hoffman",
+  "score": 0.961967408657074,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_cheddar_ver01\/data\/sn86063952\/00295864333\/1918022001\/0379\/005_0_96.jpg"
+ },
+ "id": 1775
+}

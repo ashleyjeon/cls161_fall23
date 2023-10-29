@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751108,
+   "id": 559001,
+   "lead_time": 1.837,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7ndK8Dab5k",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_bravo_ver01",
+  "box": [
+   0.04068393275337083,
+   0.5136826427742904,
+   0.29868288460732645,
+   0.8243978575327511
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_bravo_ver01\/data\/sn84028140\/00237283570\/1902020401\/0033\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Ohio--Summit--Akron"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_bravo_ver01%2Fdata%2Fsn84028140%2F00237283570%2F1902020401%2F0033.jp2\/pct:4.06,51.37,25.8,31.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn84028140",
+  "name": "Akron daily Democrat. [volume]",
+  "ocr": [
+   "Countess",
+   "Whose",
+   "Title",
+   "Is",
+   "JJ",
+   "II",
+   "'\"-",
+   "\"",
+   "\"",
+   "i",
+   "ui-i--i",
+   "TTTCe",
+   "I",
+   "mil",
+   "nl",
+   "i",
+   "iW-",
+   "-",
+   "'",
+   "a",
+   "Not",
+   "Recognized."
+  ],
+  "page_seq_num": 33,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_bravo_ver01\/data\/sn84028140\/00237283570\/1902020401\/0033.jp2",
+  "place_of_publication": "Akron, Ohio",
+  "pub_date": "1902-02-04",
+  "publisher": "William B. and Russell T. Dobson",
+  "score": 0.9717878699302673,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_bravo_ver01\/data\/sn84028140\/00237283570\/1902020401\/0033\/005_0_97.jpg"
+ },
+ "id": 559
+}

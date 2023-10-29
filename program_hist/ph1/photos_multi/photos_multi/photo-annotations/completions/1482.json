@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746952,
+   "id": 1482001,
+   "lead_time": 4.42,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MhRaA6Uc8K",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_ibiza_ver01",
+  "box": [
+   0.2770299047828289,
+   0.32326724965085263,
+   0.4699153700138525,
+   0.45439209476594
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_ibiza_ver01\/data\/sn95076626\/00279523465\/1914050701\/0561\/002_0_97.jpg",
+  "geographic_coverage": [
+   "South Dakota--Haakon--Philip"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_ibiza_ver01%2Fdata%2Fsn95076626%2F00279523465%2F1914050701%2F0561.jp2\/pct:27.7,32.33,19.29,13.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn95076626",
+  "name": "Philip weekly review and Bad River news. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 561,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_ibiza_ver01\/data\/sn95076626\/00279523465\/1914050701\/0561.jp2",
+  "place_of_publication": "Philip, Stanley County, S.D.",
+  "pub_date": "1914-05-07",
+  "publisher": "J.D. Rainey",
+  "score": 0.972464382648468,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_ibiza_ver01\/data\/sn95076626\/00279523465\/1914050701\/0561\/002_0_97.jpg"
+ },
+ "id": 1482
+}

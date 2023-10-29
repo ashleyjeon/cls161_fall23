@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743364,
+   "id": 1682001,
+   "lead_time": 1.986,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QTv0Fwws-w",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_ashland_ver01",
+  "box": [
+   0.29332124001068594,
+   0.4161230365881759,
+   0.5377902685035586,
+   0.7667532360062617
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_ashland_ver01\/data\/sn88086023\/00202194382\/1916030901\/1130\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_ashland_ver01%2Fdata%2Fsn88086023%2F00202194382%2F1916030901%2F1130.jp2\/pct:29.33,41.62,24.45,35.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   "MOTHER",
+   "SEEKS",
+   "SOMEONE",
+   "TO",
+   "ADOPT",
+   "GIRLS"
+  ],
+  "page_seq_num": 1130,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_ashland_ver01\/data\/sn88086023\/00202194382\/1916030901\/1130.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1916-03-09",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.9716286063194275,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_ashland_ver01\/data\/sn88086023\/00202194382\/1916030901\/1130\/003_0_97.jpg"
+ },
+ "id": 1682
+}

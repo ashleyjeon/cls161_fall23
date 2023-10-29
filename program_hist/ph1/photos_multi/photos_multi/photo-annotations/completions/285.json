@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772470,
+   "id": 285001,
+   "lead_time": 3.871,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "NqtfR2t4IF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_universal_ver01",
+  "box": [
+   0.4999650569120563,
+   0.030057675370546145,
+   0.9327394422087425,
+   0.25608745824510804
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_universal_ver01\/data\/sn83030214\/00175036866\/1898061201\/0251\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_universal_ver01%2Fdata%2Fsn83030214%2F00175036866%2F1898061201%2F0251.jp2\/pct:49.99,3.01,43.28,22.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 251,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_universal_ver01\/data\/sn83030214\/00175036866\/1898061201\/0251.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-06-12",
+  "publisher": "New York Tribune",
+  "score": 0.9888433218002319,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_universal_ver01\/data\/sn83030214\/00175036866\/1898061201\/0251\/001_0_98.jpg"
+ },
+ "id": 285
+}

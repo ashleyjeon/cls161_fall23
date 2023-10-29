@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749237,
+   "id": 223001,
+   "lead_time": 806.517,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZBa1Pvg12G",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_fairplay_ver01",
+  "box": [
+   0.6775118904824583,
+   0.12483755595376046,
+   0.9343864488305512,
+   0.26061690481085525
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1897072901\/0336\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Colorado--Otero--Rocky Ford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_fairplay_ver01%2Fdata%2Fsn90051265%2F00383340974%2F1897072901%2F0336.jp2\/pct:67.75,12.49,25.69,13.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn90051265",
+  "name": "Rocky Ford enterprise.",
+  "ocr": [
+   "NAVAJO",
+   "FAITH",
+   "MISSION.",
+   "KMV.",
+   "IIOWAKO",
+   "It.",
+   "A.NTKS",
+   "ANI\u00bb",
+   "NVIMM.",
+   "SI"
+  ],
+  "page_seq_num": 336,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1897072901\/0336.jp2",
+  "place_of_publication": "Rocky Ford, Colo.",
+  "pub_date": "1897-07-29",
+  "publisher": "Enterprise Pub. Co.",
+  "score": 0.9721888303756714,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1897072901\/0336\/000_0_97.jpg"
+ },
+ "id": 223
+}

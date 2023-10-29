@@ -1,0 +1,95 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675499,
+   "id": 898001,
+   "lead_time": 402.07,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PeZMFp783H",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_goodman2_ver01",
+  "box": [
+   0.31116089935636626,
+   0.270049833915603,
+   0.6922561345006496,
+   0.4888090214259188
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_goodman2_ver01\/data\/sn83030272\/100481236\/1906031801\/0314\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_goodman2_ver01%2Fdata%2Fsn83030272%2F100481236%2F1906031801%2F0314.jp2\/pct:31.11,27.01,38.11,21.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "oj",
+   "<",
+   "f",
+   "t",
+   "j",
+   "i",
+   "+",
+   "i",
+   "aA",
+   "i",
+   "f",
+   "t",
+   "l",
+   "SM",
+   "1",
+   "JP4",
+   "t",
+   "R",
+   "SOUTW",
+   "HUNGlRrAN",
+   "TOWN",
+   "Y",
+   "1i",
+   "u",
+   "crtt",
+   "rtt",
+   "L",
+   "t",
+   "1",
+   "t",
+   "I",
+   "Jf",
+   "i",
+   ">",
+   "f",
+   "i2",
+   "i",
+   "co",
+   "C",
+   "f",
+   "<",
+   "1",
+   "<",
+   "a",
+   "f"
+  ],
+  "page_seq_num": 314,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_goodman2_ver01\/data\/sn83030272\/100481236\/1906031801\/0314.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1906-03-18",
+  "publisher": "Benj. H. Day",
+  "score": 0.9778459668159485,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_goodman2_ver01\/data\/sn83030272\/100481236\/1906031801\/0314\/001_0_97.jpg"
+ },
+ "id": 898
+}

@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752825,
+   "id": 30001,
+   "lead_time": 8.262,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "q7UMN0jfZb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_diamondback_ver02",
+  "box": [
+   0.7969625146166621,
+   0.1296420678507641,
+   0.916259898022302,
+   0.23660719566143074
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_diamondback_ver02\/data\/sn94056852\/00296024909\/1895011901\/0142\/002_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--San Miguel--Las Vegas"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_diamondback_ver02%2Fdata%2Fsn94056852%2F00296024909%2F1895011901%2F0142.jp2\/pct:79.69,12.97,11.93,10.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn94056852",
+  "name": "El independiente. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 142,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_diamondback_ver02\/data\/sn94056852\/00296024909\/1895011901\/0142.jp2",
+  "place_of_publication": "Las Vegas, Nuevo Me\u0301xico",
+  "pub_date": "1895-01-19",
+  "publisher": "La Ci\u0301a. Publicista de \"El Independiente\"",
+  "score": 0.9757807850837708,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_diamondback_ver02\/data\/sn94056852\/00296024909\/1895011901\/0142\/002_0_97.jpg"
+ },
+ "id": 30
+}

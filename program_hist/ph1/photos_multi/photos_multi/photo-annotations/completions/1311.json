@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768371,
+   "id": 1311001,
+   "lead_time": 2.657,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pNS5nNcQJ1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_protoss_ver01",
+  "box": [
+   0.495841100579853,
+   0.40607166168173814,
+   0.6154444329092436,
+   0.5851485756692142
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_protoss_ver01\/data\/sn83045462\/00280658121\/1912121301\/0525\/009_0_90.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_protoss_ver01%2Fdata%2Fsn83045462%2F00280658121%2F1912121301%2F0525.jp2\/pct:49.58,40.61,11.97,17.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "MISS",
+   "LILLIAN",
+   "M.",
+   "N."
+  ],
+  "page_seq_num": 525,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_protoss_ver01\/data\/sn83045462\/00280658121\/1912121301\/0525.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1912-12-13",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9022162556648254,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_protoss_ver01\/data\/sn83045462\/00280658121\/1912121301\/0525\/009_0_90.jpg"
+ },
+ "id": 1311
+}

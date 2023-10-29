@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749505,
+   "id": 1679001,
+   "lead_time": 2.27,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Z9FxNGG8d1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_curtin_ver01",
+  "box": [
+   0.28231886595283,
+   0.03812778579605209,
+   0.4202628757642663,
+   0.21169889223325503
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_curtin_ver01\/data\/sn83045211\/00237280076\/1916081701\/0598\/009_0_96.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_curtin_ver01%2Fdata%2Fsn83045211%2F00237280076%2F1916081701%2F0598.jp2\/pct:28.23,3.82,13.8,17.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "ij",
+   "'''R",
+   "ij$K",
+   "I'lioto",
+   "by",
+   "Sclinmbcre",
+   "JULES",
+   "MASTBAUM",
+   "A",
+   "lnborntory",
+   "for",
+   "the",
+   "study",
+   "of",
+   "in",
+   "fantile",
+   "paralysis",
+   "is",
+   "being",
+   "con",
+   "structed",
+   "at",
+   "the",
+   "Jewish",
+   "Hospital.",
+   "It",
+   "is",
+   "tho",
+   "gift",
+   "of",
+   "Mr.",
+   "Mnstbnum,",
+   "who",
+   "is",
+   "a",
+   "director",
+   "of",
+   "tho",
+   "institution."
+  ],
+  "page_seq_num": 598,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_curtin_ver01\/data\/sn83045211\/00237280076\/1916081701\/0598.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1916-08-17",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9609087109565735,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_curtin_ver01\/data\/sn83045211\/00237280076\/1916081701\/0598\/009_0_96.jpg"
+ },
+ "id": 1679
+}

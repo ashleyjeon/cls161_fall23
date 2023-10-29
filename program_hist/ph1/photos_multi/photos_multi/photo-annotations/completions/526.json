@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675945,
+   "id": 526001,
+   "lead_time": 5.874,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aEQE1IUq4H",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_hayden_ver01",
+  "box": [
+   0.19166795807245493,
+   0.26469866713340817,
+   0.5757688337465832,
+   0.41151426885339065
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_hayden_ver01\/data\/sn84020274\/00211109324\/1901082501\/0415\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_hayden_ver01%2Fdata%2Fsn84020274%2F00211109324%2F1901082501%2F0415.jp2\/pct:19.16,26.47,38.42,14.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   ".",
+   "IIMSHDHrVnr?ntf$siSM&'",
+   "\"SPPVTHfRfiBHrSB",
+   "JBaaWammaaamWf\"'",
+   "l",
+   "':",
+   "sVM9",
+   "By",
+   "a",
+   "Republic",
+   "Photographer."
+  ],
+  "page_seq_num": 415,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_hayden_ver01\/data\/sn84020274\/00211109324\/1901082501\/0415.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1901-08-25",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9240038990974426,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_hayden_ver01\/data\/sn84020274\/00211109324\/1901082501\/0415\/006_0_92.jpg"
+ },
+ "id": 526
+}

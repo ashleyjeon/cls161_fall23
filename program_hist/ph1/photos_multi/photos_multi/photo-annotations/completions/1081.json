@@ -1,0 +1,113 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768067,
+   "id": 1081001,
+   "lead_time": 3.057,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EGdi5-05Lw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_quailvalley_ver01",
+  "box": [
+   0.18698594280492478,
+   0.07464034175459956,
+   0.31191948863947505,
+   0.2921688195430871
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_quailvalley_ver01\/data\/sn85042462\/00175035783\/1909053101\/0739\/013_0_91.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_quailvalley_ver01%2Fdata%2Fsn85042462%2F00175035783%2F1909053101%2F0739.jp2\/pct:18.69,7.47,12.5,21.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "JAPANESE",
+   "OFFICER",
+   "ON",
+   "VISIT",
+   "IN",
+   "U.",
+   "S.",
+   "VICE",
+   "ADMIRAL",
+   "BOTOKICHI",
+   "URIU",
+   "of",
+   "Japan,",
+   "who",
+   "has",
+   "come",
+   "to",
+   "America",
+   "to",
+   "attend",
+   "the",
+   "reunion",
+   "the",
+   "class",
+   "of",
+   "'81",
+   "at",
+   "Annapolis,",
+   "Is,",
+   "next",
+   "to",
+   "Admiral",
+   "Dewey,",
+   "the",
+   "ranking",
+   "graduate",
+   "of",
+   "that",
+   "Institution.",
+   "He",
+   "was",
+   "second",
+   "in",
+   "command",
+   "under",
+   "Admiral",
+   "Togo",
+   "in",
+   "the",
+   "war",
+   "between",
+   "Russia",
+   "and",
+   "Japan,",
+   "his",
+   "squadron",
+   "sinking",
+   "several",
+   "Russian",
+   "He",
+   "will",
+   "attend",
+   "the",
+   "graduation"
+  ],
+  "page_seq_num": 739,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035783\/1909053101\/0739.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1909-05-31",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9141678214073181,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035783\/1909053101\/0739\/013_0_91.jpg"
+ },
+ "id": 1081
+}

@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741122,
+   "id": 1265001,
+   "lead_time": 2.205,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MDei8z-4nZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_arminius_ver01",
+  "box": [
+   0.21052968457397003,
+   0.325474119406142,
+   0.328650599561827,
+   0.5021541378648233
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_arminius_ver01\/data\/sn88064469\/0020029919A\/1911121901\/0404\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Louisiana--Caddo--Shreveport"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_arminius_ver01%2Fdata%2Fsn88064469%2F0020029919A%2F1911121901%2F0404.jp2\/pct:21.05,32.55,11.82,17.67\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064469",
+  "name": "The Caucasian.",
+  "ocr": [
+   "i",
+   ".yy",
+   "Photo",
+   "by",
+   "American",
+   "Press",
+   "Assocsition."
+  ],
+  "page_seq_num": 404,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_arminius_ver01\/data\/sn88064469\/0020029919A\/1911121901\/0404.jp2",
+  "place_of_publication": "Shreveport, La.",
+  "pub_date": "1911-12-19",
+  "publisher": "Caucasian Pub. Co.",
+  "score": 0.9832910299301147,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_arminius_ver01\/data\/sn88064469\/0020029919A\/1911121901\/0404\/003_0_98.jpg"
+ },
+ "id": 1265
+}

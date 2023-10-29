@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768439,
+   "id": 1515001,
+   "lead_time": 1.801,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "RBuPWHw7CR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_knowledge_ver01",
+  "box": [
+   0.1555501403470636,
+   0.06229546617119859,
+   0.28580904904658083,
+   0.21869424927286255
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_knowledge_ver01\/data\/sn92053934\/00202193870\/1914101601\/0537\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_knowledge_ver01%2Fdata%2Fsn92053934%2F00202193870%2F1914101601%2F0537.jp2\/pct:15.55,6.23,13.03,15.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "Speaker",
+   "at",
+   "Sunday",
+   "School",
+   "Convention",
+   "r",
+   "Dr.",
+   "Franklin",
+   "McElfresh."
+  ],
+  "page_seq_num": 537,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_knowledge_ver01\/data\/sn92053934\/00202193870\/1914101601\/0537.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1914-10-16",
+  "publisher": "J.W. Potter",
+  "score": 0.976402759552002,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_knowledge_ver01\/data\/sn92053934\/00202193870\/1914101601\/0537\/005_0_97.jpg"
+ },
+ "id": 1515
+}

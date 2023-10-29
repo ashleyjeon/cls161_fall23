@@ -1,0 +1,119 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747677,
+   "id": 644001,
+   "lead_time": 4.372,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5IWkFdyGR0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_augurey_ver01",
+  "box": [
+   0.8444733815213128,
+   0.050155973281124394,
+   0.9598547005753139,
+   0.2395722907455788
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_augurey_ver01\/data\/sn85040749\/00271769155\/1903092201\/0094\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Marathon--Wausau"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_augurey_ver01%2Fdata%2Fsn85040749%2F00271769155%2F1903092201%2F0094.jp2\/pct:84.44,5.02,11.54,18.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040749",
+  "name": "Wausau pilot. [volume]",
+  "ocr": [
+   "RENOMINATED",
+   "FOR",
+   "MATOiiALIY",
+   "OF",
+   "GrtLAIER",
+   "NEW",
+   "YORK",
+   "SETH",
+   "LOW.",
+   "Seth",
+   "Low,",
+   "renominated",
+   "for",
+   "Mayor",
+   "of",
+   "Greater",
+   "New.",
+   "York,",
+   "is",
+   "now",
+   "nearing",
+   "the",
+   "end",
+   "of",
+   "his",
+   "first",
+   "term",
+   "in",
+   "that",
+   "oftlce.",
+   "lie",
+   "resigned",
+   "the",
+   "presidency",
+   "of",
+   "Columbia",
+   "University",
+   "iu",
+   "1901",
+   "to",
+   "make",
+   "the",
+   "campaign",
+   "again?*",
+   "Tamuinuy",
+   "and",
+   "was",
+   "elected",
+   "by",
+   "the",
+   "non-partisan",
+   "voters",
+   "of",
+   "the",
+   "metropolis.",
+   "Mr.",
+   "Low",
+   "was",
+   "born",
+   "in",
+   "Brooklyn",
+   "and",
+   "be",
+   "gan",
+   "life",
+   "in",
+   "his",
+   "father\u2019s",
+   "importing",
+   "house."
+  ],
+  "page_seq_num": 94,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_augurey_ver01\/data\/sn85040749\/00271769155\/1903092201\/0094.jp2",
+  "place_of_publication": "Wausau, Wis.",
+  "pub_date": "1903-09-22",
+  "publisher": "E.B. Thayer",
+  "score": 0.916231632232666,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_augurey_ver01\/data\/sn85040749\/00271769155\/1903092201\/0094\/008_0_91.jpg"
+ },
+ "id": 644
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768560,
+   "id": 1076001,
+   "lead_time": 1.643,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "da239PKv2s",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_india_ver01",
+  "box": [
+   0.4303795095189846,
+   0.14366167571743824,
+   0.6927129856148677,
+   0.49346176664921937
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_india_ver01\/data\/sn83045433\/100493524\/1908072601\/0169\/008_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_india_ver01%2Fdata%2Fsn83045433%2F100493524%2F1908072601%2F0169.jp2\/pct:43.03,14.37,26.24,34.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "I",
+   "IRaIa",
+   "MANAGERS",
+   "OF",
+   "NATIONAL",
+   "LEAGUE",
+   "LEADERS",
+   "Fred",
+   "Clarke",
+   "Piftsburg",
+   "Pi",
+   "rsburg"
+  ],
+  "page_seq_num": 169,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_india_ver01\/data\/sn83045433\/100493524\/1908072601\/0169.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1908-07-26",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9776856899261475,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_india_ver01\/data\/sn83045433\/100493524\/1908072601\/0169\/008_0_97.jpg"
+ },
+ "id": 1076
+}

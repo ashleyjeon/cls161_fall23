@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748053,
+   "id": 412001,
+   "lead_time": 2.665,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QILUCUOXsB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.019278694393462286,
+   0.6283176641949153,
+   0.17120862405242637,
+   0.7927130230402543
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040869\/1900052701\/0510\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040869%2F1900052701%2F0510.jp2\/pct:1.92,62.84,15.2,16.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "F.",
+   "\u25a0\"",
+   "ALLEN.",
+   "Captain",
+   "Yale",
+   "'Varsity",
+   "crew."
+  ],
+  "page_seq_num": 510,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040869\/1900052701\/0510.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-05-27",
+  "publisher": "New York Tribune",
+  "score": 0.9807438254356384,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040869\/1900052701\/0510\/001_0_98.jpg"
+ },
+ "id": 412
+}

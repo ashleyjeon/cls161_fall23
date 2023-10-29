@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746300,
+   "id": 104001,
+   "lead_time": 115.664,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "uTk0poWbzE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_infiniti_ver03",
+  "box": [
+   0.7758040889616935,
+   0.2230212655484951,
+   0.8962950347572245,
+   0.3519840644801267
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896120101\/1194\/000_0_94.jpg",
+  "geographic_coverage": [
+   "Texas--Brazos--Bryan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_infiniti_ver03%2Fdata%2Fsn88083938%2F00200294269%2F1896120101%2F1194.jp2\/pct:77.58,22.31,12.05,12.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn88083938",
+  "name": "The Bryan daily eagle.",
+  "ocr": [
+   "the",
+   "zSilT",
+   "I",
+   ":",
+   "Cre",
+   "dljwjr.eJ",
+   "t5",
+   "i",
+   "!T.",
+   "-'"
+  ],
+  "page_seq_num": 1194,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896120101\/1194.jp2",
+  "place_of_publication": "Bryan, Tex.",
+  "pub_date": "1896-12-01",
+  "publisher": "Connelly, Palmer & Carnes",
+  "score": 0.9462884068489075,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896120101\/1194\/000_0_94.jpg"
+ },
+ "id": 104
+}

@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768610,
+   "id": 213001,
+   "lead_time": 5.696,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "88OqHuCrN7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_ephemera_ver01",
+  "box": [
+   0.28028727686682414,
+   0.3730728232492769,
+   0.5359010918195858,
+   0.5115405184820213
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_ephemera_ver01\/data\/sn92053934\/00212471860\/1897062501\/0062\/013_0_91.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_ephemera_ver01%2Fdata%2Fsn92053934%2F00212471860%2F1897062501%2F0062.jp2\/pct:28.02,37.31,25.57,13.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "HEW",
+   "BLACK",
+   "HAWK",
+   "TO",
+   "WEB",
+   "INN."
+  ],
+  "page_seq_num": 62,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_ephemera_ver01\/data\/sn92053934\/00212471860\/1897062501\/0062.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1897-06-25",
+  "publisher": "J.W. Potter",
+  "score": 0.9190337061882019,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_ephemera_ver01\/data\/sn92053934\/00212471860\/1897062501\/0062\/013_0_91.jpg"
+ },
+ "id": 213
+}

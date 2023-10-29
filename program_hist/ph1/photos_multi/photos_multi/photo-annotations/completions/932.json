@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611744374,
+   "id": 932001,
+   "lead_time": 939.056,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "X18VA12lBK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_quebec_ver01",
+  "box": [
+   0.2959834350711395,
+   0.04919458666877567,
+   0.5577479771205357,
+   0.32305530912253033
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_quebec_ver01\/data\/sn84026749\/100492763\/1907011601\/0287\/015_0_94.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_quebec_ver01%2Fdata%2Fsn84026749%2F100492763%2F1907011601%2F0287.jp2\/pct:29.59,4.92,26.18,27.39\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "U",
+   "0MRS",
+   "MRS",
+   "CURTIS",
+   "CURTISCharming",
+   "CURTISChnrming",
+   "CURTISCharming",
+   "Charming",
+   "Hostess",
+   "Who",
+   "Will",
+   "Bu",
+   "B",
+   "Welcomed",
+   "on",
+   "Her",
+   "Return",
+   "to",
+   "Washington"
+  ],
+  "page_seq_num": 287,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_quebec_ver01\/data\/sn84026749\/100492763\/1907011601\/0287.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1907-01-16",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9470542669296265,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_quebec_ver01\/data\/sn84026749\/100492763\/1907011601\/0287\/015_0_94.jpg"
+ },
+ "id": 932
+}

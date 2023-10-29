@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741111,
+   "id": 1678001,
+   "lead_time": 1.929,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rEUApPCGpC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_indurain_ver01",
+  "box": [
+   0.02410072273861578,
+   0.195283530276495,
+   0.1558714341952314,
+   0.3274901120753757
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_indurain_ver01\/data\/sn85058396\/print\/1916070801\/0005\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_indurain_ver01%2Fdata%2Fsn85058396%2Fprint%2F1916070801%2F0005.jp2\/pct:2.41,19.53,13.18,13.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "Mies",
+   "Leila",
+   "Rich."
+  ],
+  "page_seq_num": 5,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_indurain_ver01\/data\/sn85058396\/print\/1916070801\/0005.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1916-07-08",
+  "publisher": "W. Glasmann",
+  "score": 0.9813542366027832,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_indurain_ver01\/data\/sn85058396\/print\/1916070801\/0005\/005_0_98.jpg"
+ },
+ "id": 1678
+}

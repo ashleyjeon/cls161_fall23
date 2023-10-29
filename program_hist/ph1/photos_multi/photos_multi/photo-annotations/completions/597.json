@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768663,
+   "id": 597001,
+   "lead_time": 3.406,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ifaW_Pcotc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_ballet_ver01",
+  "box": [
+   0.49546720705664826,
+   0.07883288813572303,
+   0.882102936545026,
+   0.3395728530670081
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_ballet_ver01\/data\/sn90059446\/00199919891\/1902110101\/0309\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Minnesota--Hennepin--Minneapolis",
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_ballet_ver01%2Fdata%2Fsn90059446%2F00199919891%2F1902110101%2F0309.jp2\/pct:49.54,7.89,38.67,26.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059446",
+  "name": "Backbone. [volume]",
+  "ocr": [
+   "i\"",
+   "\u25a0\u00bb",
+   "'",
+   "'",
+   "V",
+   ";",
+   "Si",
+   "\/",
+   "\/\/",
+   "*\u2019",
+   "L\\J",
+   "V",
+   "v",
+   "-X>jg-\\y",
+   "!yl",
+   ">",
+   "v",
+   "\u00abl",
+   "i.\"",
+   "Mr",
+   ";",
+   "CURES",
+   "LIQUOR",
+   "AND",
+   "DRUG",
+   "HABITS.",
+   "NO",
+   "HYPODERMICS.",
+   "NO",
+   "PUBLICITY.",
+   "607",
+   "SOUTH",
+   "TENTH",
+   "ST..",
+   "ST.",
+   "ANTHONY",
+   "INSTITUTE",
+   "NO",
+   "NAUSEATING",
+   "DRUGS.",
+   "NO",
+   "FAILURES.",
+   "MINNEAPOLIS,",
+   "MINN."
+  ],
+  "page_seq_num": 309,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_ballet_ver01\/data\/sn90059446\/00199919891\/1902110101\/0309.jp2",
+  "place_of_publication": "St. Paul, Minn. ;",
+  "pub_date": "1902-11-01",
+  "publisher": "Prohibition State Central Committee",
+  "score": 0.9680569171905518,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_ballet_ver01\/data\/sn90059446\/00199919891\/1902110101\/0309\/000_0_96.jpg"
+ },
+ "id": 597
+}

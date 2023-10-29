@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751157,
+   "id": 1560001,
+   "lead_time": 7.203,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "x7L2obm9ZT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_holmium_ver01",
+  "box": [
+   0.3867413657052176,
+   0.0505608807476312,
+   0.6745656850386639,
+   0.2004381487227293
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_holmium_ver01\/data\/sn86069675\/00280762866\/1915072801\/0259\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Montgomery--Mount Sterling"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_holmium_ver01%2Fdata%2Fsn86069675%2F00280762866%2F1915072801%2F0259.jp2\/pct:38.67,5.06,28.79,14.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069675",
+  "name": "The Mt. Sterling advocate.",
+  "ocr": [
+   "BANK",
+   "STREET",
+   "LOOKING",
+   "NORTH",
+   "KKOM",
+   "C.",
+   "&",
+   "0.",
+   "DEPOT"
+  ],
+  "page_seq_num": 259,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_holmium_ver01\/data\/sn86069675\/00280762866\/1915072801\/0259.jp2",
+  "place_of_publication": "Mt. Sterling, Ky.",
+  "pub_date": "1915-07-28",
+  "publisher": "Harris and Mason",
+  "score": 0.976173460483551,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_holmium_ver01\/data\/sn86069675\/00280762866\/1915072801\/0259\/003_0_97.jpg"
+ },
+ "id": 1560
+}

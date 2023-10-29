@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743344,
+   "id": 1998001,
+   "lead_time": 196.163,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "p50pMbofh8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_canaan_ver01",
+  "box": [
+   0.05424733241970876,
+   0.24508295941457875,
+   0.17889471991742542,
+   0.46017711488160795
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_canaan_ver01\/data\/sn82014086\/00295866299\/1920061901\/0505\/006_0_91.jpg",
+  "geographic_coverage": [
+   "Connecticut--New London--Norwich"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_canaan_ver01%2Fdata%2Fsn82014086%2F00295866299%2F1920061901%2F0505.jp2\/pct:5.42,24.51,12.47,21.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014086",
+  "name": "Norwich bulletin. [volume]",
+  "ocr": [
+   "Will",
+   "Sail",
+   "Shamrock",
+   "IV",
+   "Y",
+   "V",
+   "'",
+   "'",
+   "\"v",
+   "I",
+   "'",
+   "f",
+   "Y",
+   "'YVJ",
+   "--",
+   "I",
+   "I",
+   "i",
+   "Captain",
+   "Albert",
+   "H.",
+   "Turner,",
+   "who",
+   "will",
+   "sail",
+   "the",
+   "Upton",
+   "cup",
+   "challenger",
+   "Sham",
+   "rock",
+   "IV.",
+   "Ho",
+   "is",
+   "now",
+   "at",
+   "City",
+   "Island",
+   "outfitting",
+   "his",
+   "charge."
+  ],
+  "page_seq_num": 505,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_canaan_ver01\/data\/sn82014086\/00295866299\/1920061901\/0505.jp2",
+  "place_of_publication": "Norwich, Conn.",
+  "pub_date": "1920-06-19",
+  "publisher": "Bulletin Co.",
+  "score": 0.9152307510375977,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_canaan_ver01\/data\/sn82014086\/00295866299\/1920061901\/0505\/006_0_91.jpg"
+ },
+ "id": 1998
+}

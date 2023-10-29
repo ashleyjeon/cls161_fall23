@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674727,
+   "id": 859001,
+   "lead_time": 0.988,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_xD8pIeQ2K",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_toyfoxterrier_ver02",
+  "box": [
+   0.43913945792609177,
+   0.1583473157582793,
+   0.5710055937826883,
+   0.317350039692045
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655697\/1906052301\/0560\/007_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_toyfoxterrier_ver02%2Fdata%2Fsn83045462%2F00280655697%2F1906052301%2F0560.jp2\/pct:43.91,15.84,13.19,15.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Minister",
+   "Carbo."
+  ],
+  "page_seq_num": 560,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655697\/1906052301\/0560.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1906-05-23",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9506686329841614,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655697\/1906052301\/0560\/007_0_95.jpg"
+ },
+ "id": 859
+}

@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768387,
+   "id": 96001,
+   "lead_time": 4.239,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "M5sjnSlW34",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_abbott_ver01",
+  "box": [
+   0.25898586366234755,
+   0.29828119157843985,
+   0.5935073480373476,
+   0.46002558556852174
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_abbott_ver01\/data\/sn95073194\/00206539288\/1896030401\/0155\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Nebraska--Platte--Columbus"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_abbott_ver01%2Fdata%2Fsn95073194%2F00206539288%2F1896030401%2F0155.jp2\/pct:25.89,29.83,33.46,16.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn95073194",
+  "name": "The Columbus journal.",
+  "ocr": [
+   ";",
+   "j",
+   "i",
+   "j",
+   "'",
+   "j",
+   "1",
+   "1",
+   "1",
+   "1",
+   "1",
+   "i",
+   "1",
+   "1",
+   "LLsLsLsMLsLsLsLsLsLsLsLs3LBflLsLs3iE2ifl",
+   "fcgjgf-j",
+   "IHllsls9lslsHislslsBislsMislslsHHPV",
+   "L--vJ",
+   "-",
+   "-i-",
+   "r",
+   ".z",
+   "'tr",
+   "a",
+   ".'rl''4AtlgMBiM!llPv.",
+   "--.VfzAsrj-jf",
+   "?5MPC-jrV",
+   "kZ.iSi.rm'-",
+   "\"",
+   "Ar",
+   "-.",
+   "niifniT'r",
+   "B",
+   "-\"-",
+   "i.i",
+   "\"iiwrtsrafc",
+   "THE",
+   "LIMIT",
+   "OF",
+   "FORESTS",
+   "IN",
+   "THE",
+   "EXTREME",
+   "NORTH."
+  ],
+  "page_seq_num": 155,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_abbott_ver01\/data\/sn95073194\/00206539288\/1896030401\/0155.jp2",
+  "place_of_publication": "Columbus, Neb.",
+  "pub_date": "1896-03-04",
+  "publisher": "M.K. Turner & Co.",
+  "score": 0.9802220463752747,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_abbott_ver01\/data\/sn95073194\/00206539288\/1896030401\/0155\/001_0_98.jpg"
+ },
+ "id": 96
+}

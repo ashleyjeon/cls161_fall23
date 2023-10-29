@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762863,
+   "id": 615001,
+   "lead_time": 1.698,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kSdLsu60uX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.3095641459170494,
+   0.21735890487710258,
+   0.6641878638283941,
+   0.5308767566369303
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555730\/1902100401\/1024\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555730%2F1902100401%2F1024.jp2\/pct:30.95,21.74,35.47,31.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "MR.",
+   "JOHN",
+   "T.",
+   "CONNERY.",
+   "The",
+   "Able",
+   "Business",
+   "Manage",
+   "of",
+   "the",
+   "Youghlogheny",
+   "and",
+   "Lehigh",
+   "Coal",
+   "Company,",
+   "4.",
+   "N'W'BjHIbjBjBjBjB)BjBjBj1BjBjBjBjV",
+   "fAti&a2t7'i.",
+   "BJBJBJlVSBBBJHiBtt!",
+   "r'!SjTl4KBJBJBJBJBSSSS9",
+   "w4rwH&x''MB&",
+   ".bjbjbjbjH",
+   "SlIP!''",
+   "-",
+   "YbjBbj",
+   "K",
+   "BJBJBJBJH",
+   ";M?'4fe''lftHfe'-r",
+   ":''''i",
+   "bjbjHbjH",
+   "\"W'iStK&''\"",
+   "-",
+   "$S3BJBJBJM",
+   "tt!?&i'",
+   "Vt?iRMMBi",
+   "fKI",
+   "i;tili!BBIBJBJBJBJBJB",
+   "'ifflBjsjsjsjsjsBBJW",
+   "BJsjSjsjsjsjfisBBjSjsjSXzSBJflHBAuMBjj",
+   ";'b1bjb)b)b)V",
+   "HIHijHBfl",
+   "jlJBB)B)B)B)B)B)B)B)bY",
+   ".IIHB",
+   "BBBBBBBBH'iBBBBBBBBBBBBBBBBBBBBBBBfl"
+  ],
+  "page_seq_num": 1024,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555730\/1902100401\/1024.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1902-10-04",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9522138833999634,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555730\/1902100401\/1024\/000_0_95.jpg"
+ },
+ "id": 615
+}

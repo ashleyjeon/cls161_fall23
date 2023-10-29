@@ -1,0 +1,111 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675664,
+   "id": 1259001,
+   "lead_time": 1.653,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "uKVg3MiVdO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_aluminum_ver01",
+  "box": [
+   0.010752960290322756,
+   0.22391832358722757,
+   0.31918897575506283,
+   0.5153646996980223
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_aluminum_ver01\/data\/sn85052141\/00175045399\/1911092801\/0706\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Kentucky--Fulton--Hickman"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_aluminum_ver01%2Fdata%2Fsn85052141%2F00175045399%2F1911092801%2F0706.jp2\/pct:1.07,22.4,30.85,29.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052141",
+  "name": "The Hickman courier. [volume]",
+  "ocr": [
+   "Mr",
+   "Mitchell",
+   "King",
+   "of",
+   "Atlanta",
+   "tin",
+   "who",
+   "i",
+   "mnrrlrd",
+   "In",
+   "November",
+   "Imt.",
+   "Minn",
+   "Jrunotto",
+   "HwKt",
+   "ntul",
+   "n",
+   "pulr",
+   "member",
+   "of",
+   "Souther",
+   "society",
+   "Him",
+   "ui'",
+   "lnrn",
+   "blu",
+   "i)fi",
+   "ami",
+   "dark",
+   "brown",
+   "hnlr",
+   "and",
+   "tho",
+   "swaying",
+   "grace",
+   "of",
+   "nT",
+   "Houtlirrn",
+   "ixiuity",
+   "Jusl",
+   "now",
+   "h",
+   "and",
+   "hrr",
+   "husband",
+   "and",
+   "a",
+   "party",
+   "of",
+   "t-w",
+   "'\"",
+   "r",
+   "traveling",
+   "In",
+   "Kuropa",
+   "V'",
+   "j",
+   "qHKaE",
+   ".BNKLHHV!-",
+   ".",
+   ".",
+   "-"
+  ],
+  "page_seq_num": 706,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_aluminum_ver01\/data\/sn85052141\/00175045399\/1911092801\/0706.jp2",
+  "place_of_publication": "Hickman, Ky.",
+  "pub_date": "1911-09-28",
+  "publisher": "Warren & Martin",
+  "score": 0.9578399658203125,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_aluminum_ver01\/data\/sn85052141\/00175045399\/1911092801\/0706\/003_0_95.jpg"
+ },
+ "id": 1259
+}

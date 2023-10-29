@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766566,
+   "id": 1467001,
+   "lead_time": 8.539,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_fairfax_ver01",
+  "box": [
+   0.5709741717803849,
+   0.057217384357436514,
+   0.8318536355833693,
+   0.29881684289784555
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_fairfax_ver01\/data\/sn85042354\/00383343057\/1914072001\/0949\/010_0_97.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_fairfax_ver01%2Fdata%2Fsn85042354%2F00383343057%2F1914072001%2F0949.jp2\/pct:57.09,5.73,26.09,24.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "An",
+   "Assassin's",
+   "Work-First",
+   "Picture",
+   "of",
+   "Austria's",
+   "Slain",
+   "Royal",
+   "Couple",
+   "Lying",
+   "in",
+   "State",
+   "in",
+   "Vienna",
+   "Chapel",
+   "ft",
+   "r",
+   "mH",
+   "ii",
+   "I",
+   "IfiCl",
+   "&Sfl3",
+   "m",
+   "!",
+   "I",
+   "l",
+   "I,",
+   "V",
+   "fl",
+   "f*.",
+   "!",
+   "!",
+   "j",
+   "I",
+   "i",
+   ".\u2022>",
+   "BOP1ES",
+   "of",
+   "ASSASSINATED",
+   "ROYAL",
+   "COUPLE",
+   "Of",
+   "AUSTRIA",
+   "LYING",
+   "in",
+   "STATE",
+   "-",
+   "\u2022"
+  ],
+  "page_seq_num": 949,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_fairfax_ver01\/data\/sn85042354\/00383343057\/1914072001\/0949.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1914-07-20",
+  "publisher": "J. Milton Davidson",
+  "score": 0.978090763092041,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_fairfax_ver01\/data\/sn85042354\/00383343057\/1914072001\/0949\/010_0_97.jpg"
+ },
+ "id": 1467
+}

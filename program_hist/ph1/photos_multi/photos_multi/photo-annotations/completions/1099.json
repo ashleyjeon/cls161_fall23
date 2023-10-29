@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767416,
+   "id": 1099001,
+   "lead_time": 4.015,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "juxmD49ccv",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_ellis_ver01",
+  "box": [
+   0.5386137150958717,
+   0.03475963497097384,
+   0.9216232875366722,
+   0.32287127202712984
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_ellis_ver01\/data\/sn86092066\/00414186555\/1909111701\/0556\/003_0_99.jpg",
+  "geographic_coverage": [
+   "West Virginia--Mercer--Bluefield"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_ellis_ver01%2Fdata%2Fsn86092066%2F00414186555%2F1909111701%2F0556.jp2\/pct:53.86,3.48,38.31,28.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092066",
+  "name": "Bluefield evening leader. [volume]",
+  "ocr": [
+   "\u2022",
+   "I",
+   "i",
+   "\u2022",
+   "1",
+   "II",
+   "\u25a0",
+   "\u25a0\u25a0",
+   "\u2014.",
+   "mmm",
+   "m",
+   "r",
+   "r",
+   ".",
+   "\u2014",
+   "T-",
+   "-innM1\u2014IMWMH\u2014\u2014",
+   "Kid",
+   "Connor",
+   "Franz",
+   "tin;",
+   "sheriff",
+   "and",
+   "Con",
+   "Kidder",
+   "in",
+   "tin*",
+   "wild",
+   "lire",
+   "ope-ratic",
+   "success",
+   "\"The",
+   "Red",
+   "Mill\u201d",
+   "at",
+   "the",
+   "Klks",
+   "Opera",
+   "House.",
+   "Wedne",
+   "24."
+  ],
+  "page_seq_num": 556,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_ellis_ver01\/data\/sn86092066\/00414186555\/1909111701\/0556.jp2",
+  "place_of_publication": "Bluefield, W. Va.",
+  "pub_date": "1909-11-17",
+  "publisher": "Leader Publ. Co.",
+  "score": 0.9948676824569702,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_ellis_ver01\/data\/sn86092066\/00414186555\/1909111701\/0556\/003_0_99.jpg"
+ },
+ "id": 1099
+}

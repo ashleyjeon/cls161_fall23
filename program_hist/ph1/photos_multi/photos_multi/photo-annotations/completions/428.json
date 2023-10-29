@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768624,
+   "id": 428001,
+   "lead_time": 4.226,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "015l3cTbDr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_belle_ver01",
+  "box": [
+   0.7079484617555296,
+   0.22319806386625965,
+   0.9527963415368811,
+   0.3355985084225616
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_belle_ver01\/data\/sn85033078\/0027176859A\/1900081601\/0574\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Wood--Wisconsin Rapids"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_belle_ver01%2Fdata%2Fsn85033078%2F0027176859A%2F1900081601%2F0574.jp2\/pct:70.79,22.32,24.49,11.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033078",
+  "name": "Wood County reporter. [volume]",
+  "ocr": [
+   "Coye",
+   "Fnrnitnre",
+   "Cos,,",
+   "Stevens",
+   "Point."
+  ],
+  "page_seq_num": 574,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_belle_ver01\/data\/sn85033078\/0027176859A\/1900081601\/0574.jp2",
+  "place_of_publication": "Grand Rapids [i.e. Wisconsin Rapids], Wis.",
+  "pub_date": "1900-08-16",
+  "publisher": "[J.N. Brundage]",
+  "score": 0.9880689978599548,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_belle_ver01\/data\/sn85033078\/0027176859A\/1900081601\/0574\/004_0_98.jpg"
+ },
+ "id": 428
+}

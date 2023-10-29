@@ -1,0 +1,85 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749440,
+   "id": 935001,
+   "lead_time": 1.353,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GWK7zMJWDR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_russell_ver01",
+  "box": [
+   0.3941182180419648,
+   0.00994267445130107,
+   0.6235376223169192,
+   0.3232648381927134
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_russell_ver01\/data\/sn83030193\/175044620\/1907042001\/0279\/011_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_russell_ver01%2Fdata%2Fsn83030193%2F175044620%2F1907042001%2F0279.jp2\/pct:39.41,1.0,22.95,31.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "Nen",
+   "Head",
+   "of",
+   "Detective",
+   "Bureau",
+   "in",
+   "Charge",
+   "i",
+   "wi5r",
+   "r",
+   "taa",
+   "4",
+   "s",
+   "sa",
+   "i4",
+   "tI4",
+   "d",
+   "y",
+   "f",
+   "I",
+   "1",
+   "I",
+   "1",
+   "fttr",
+   "t14",
+   "4",
+   "M1",
+   "past",
+   "V",
+   "t",
+   "r",
+   "vT4",
+   "c",
+   "q",
+   "i",
+   "1i"
+  ],
+  "page_seq_num": 279,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_russell_ver01\/data\/sn83030193\/175044620\/1907042001\/0279.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1907-04-20",
+  "publisher": "[publisher not identified]",
+  "score": 0.9847166538238525,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_russell_ver01\/data\/sn83030193\/175044620\/1907042001\/0279\/011_0_98.jpg"
+ },
+ "id": 935
+}

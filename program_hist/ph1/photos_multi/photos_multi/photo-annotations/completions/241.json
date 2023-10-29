@@ -1,0 +1,45 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748153,
+   "id": 241001,
+   "lead_time": 6.908,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_belle_ver01",
+  "box": [
+   0.569550561123207,
+   0.34813868158764694,
+   0.8228851818647541,
+   0.518615575494933
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_belle_ver01\/data\/sn85033078\/00271768588\/1898041401\/0255\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Wood--Wisconsin Rapids"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768588%2F1898041401%2F0255.jp2\/pct:56.95,34.82,25.34,17.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033078",
+  "name": "Wood County reporter. [volume]",
+  "ocr": [
+   "locomotive",
+   "Wrecked",
+   "by",
+   "a",
+   "Boiler",
+   "Explosion."
+  ],
+  "page_seq_num": 255,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_belle_ver01\/data\/sn85033078\/00271768588\/1898041401\/0255.jp2",
+  "place_of_publication": "Grand Rapids [i.e. Wisconsin Rapids], Wis.",
+  "pub_date": "1898-04-14",
+  "publisher": "[J.N. Brundage]",
+  "score": 0.9887716174125671,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_belle_ver01\/data\/sn85033078\/00271768588\/1898041401\/0255\/000_0_98.jpg"
+ },
+ "id": 241
+}

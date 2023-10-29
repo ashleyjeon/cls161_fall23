@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675020,
+   "id": 1418001,
+   "lead_time": 5.133,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EzJxAkGZpH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_abolitionist_ver02",
+  "box": [
+   0.5768157238096703,
+   0.17542369410676775,
+   0.7034829928180364,
+   0.37801720961084906
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_abolitionist_ver02\/data\/sn86074033\/00199916415\/1913083001\/0095\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Mississippi--Hancock--Bay Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_abolitionist_ver02%2Fdata%2Fsn86074033%2F00199916415%2F1913083001%2F0095.jp2\/pct:57.68,17.55,12.67,20.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074033",
+  "name": "The sea coast echo. [volume]",
+  "ocr": [
+   "Pedro",
+   "Betancourt."
+  ],
+  "page_seq_num": 95,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_abolitionist_ver02\/data\/sn86074033\/00199916415\/1913083001\/0095.jp2",
+  "place_of_publication": "Bay Saint Louis, Miss.",
+  "pub_date": "1913-08-30",
+  "publisher": "Charles G. Moreau",
+  "score": 0.9775705337524414,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_abolitionist_ver02\/data\/sn86074033\/00199916415\/1913083001\/0095\/003_0_97.jpg"
+ },
+ "id": 1418
+}

@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768840,
+   "id": 619001,
+   "lead_time": 1.736,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "d80XibYl9k",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_oscar_ver01",
+  "box": [
+   0.29244402188183416,
+   0.08573472124975433,
+   0.5523786175975484,
+   0.31082074413926014
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_oscar_ver01\/data\/sn84026749\/100492210\/1903042601\/0414\/018_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_oscar_ver01%2Fdata%2Fsn84026749%2F100492210%2F1903042601%2F0414.jp2\/pct:29.24,8.58,26.0,22.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "FIVE",
+   "NEW",
+   "NE",
+   "W",
+   "MEMBERS",
+   "OF",
+   "OFTHE",
+   "OFI",
+   "I",
+   "THE",
+   "WASHINGTON",
+   "WASHING",
+   "TON",
+   "TEAM",
+   "I",
+   "I",
+   "I",
+   "II",
+   "I",
+   "ISKLBACH",
+   "I",
+   "SKLBACH",
+   "MOHAN",
+   "MOHANDK",
+   "MflRANflOB1NlON",
+   "OIL",
+   "OILROBINSON",
+   "I",
+   "II",
+   "ROBINSON",
+   "MARTIN",
+   "DK",
+   "DI",
+   "MOXTREVILLE",
+   "MONTREVILLEi"
+  ],
+  "page_seq_num": 414,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_oscar_ver01\/data\/sn84026749\/100492210\/1903042601\/0414.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1903-04-26",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9711679816246033,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_oscar_ver01\/data\/sn84026749\/100492210\/1903042601\/0414\/018_0_97.jpg"
+ },
+ "id": 619
+}

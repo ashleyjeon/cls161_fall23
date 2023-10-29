@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755135,
+   "id": 638001,
+   "lead_time": 4.896,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DezXXlVhw9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_ingalls_ver01",
+  "box": [
+   0.03665261863204844,
+   0.05971529721394437,
+   0.9448333217928637,
+   0.32066827623295213
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_ingalls_ver01\/data\/sn84020274\/00294559668\/1903112701\/0576\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_ingalls_ver01%2Fdata%2Fsn84020274%2F00294559668%2F1903112701%2F0576.jp2\/pct:3.66,5.98,90.82,26.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "B)BWCB'",
+   "BB'BMBlBiBMBK",
+   "BUk",
+   "HBBBBBBMm",
+   "BBK2KJStSiBK",
+   "ssWcSiissssFjrEPS'ssssKlBssssssssssssssssssss",
+   "w",
+   "A",
+   "w",
+   "Li",
+   "1",
+   "1",
+   "1",
+   "1",
+   "1",
+   "lM",
+   "'",
+   "jbbJ",
+   "'",
+   "'",
+   "\"4Hhb",
+   "v--",
+   "iiLntfl.lw",
+   "pnepne-slinlKin",
+   "a",
+   ".",
+   "-ii",
+   ".",
+   ".",
+   ".",
+   ".",
+   "...",
+   ".",
+   ".",
+   ",",
+   ".",
+   "i",
+   ".,",
+   "--..",
+   "..",
+   ".",
+   "..,",
+   ".",
+   "hi",
+   ",.",
+   ",",
+   ".,...,.",
+   "..",
+   ",",
+   ".....,.,",
+   ".........",
+   "-.,,",
+   ".,-.",
+   "i'-i",
+   "ii",
+   ".'",
+   "...",
+   "-",
+   ".",
+   "--",
+   "...",
+   "..",
+   "f",
+   "-",
+   "-,-.,.",
+   ".,",
+   "t",
+   "m",
+   "t",
+   "t-",
+   "t",
+   "t",
+   "t"
+  ],
+  "page_seq_num": 576,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_ingalls_ver01\/data\/sn84020274\/00294559668\/1903112701\/0576.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1903-11-27",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9929031729698181,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_ingalls_ver01\/data\/sn84020274\/00294559668\/1903112701\/0576\/003_0_99.jpg"
+ },
+ "id": 638
+}

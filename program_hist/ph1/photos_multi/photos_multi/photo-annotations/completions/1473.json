@@ -1,0 +1,102 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767590,
+   "id": 1473001,
+   "lead_time": 1.898,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "peCQVQ2Y2r",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_colfax_ver01",
+  "box": [
+   0.3219709100350034,
+   0.0907406761532738,
+   0.450438464701417,
+   0.2552341037326389
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_colfax_ver01\/data\/sn87055779\/00295871982\/1914022501\/0614\/014_0_93.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_colfax_ver01%2Fdata%2Fsn87055779%2F00295871982%2F1914022501%2F0614.jp2\/pct:32.19,9.08,12.85,16.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   "-:",
+   "'",
+   "'CMy",
+   "III",
+   "1",
+   ".",
+   ".",
+   "'",
+   "'V.-.",
+   "W",
+   "1",
+   ",",
+   "I",
+   "\"",
+   "-.S",
+   "-",
+   ".",
+   "I'M",
+   ":.t",
+   "-;.'",
+   "4'",
+   "w",
+   ":",
+   "j",
+   "::?",
+   ".",
+   "Ii",
+   "?",
+   "I",
+   ":",
+   "..-viix-.'.",
+   ",",
+   ":.'...",
+   ":\":",
+   ".:",
+   "'",
+   "'",
+   "V'-",
+   "::'",
+   "V.",
+   "'",
+   ".:",
+   "-.'.-.v.-.",
+   ".",
+   "?'",
+   "'.",
+   "'",
+   "'",
+   "ii",
+   "El",
+   "MISS",
+   "NETTIE",
+   "E.BOGARDUS"
+  ],
+  "page_seq_num": 614,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_colfax_ver01\/data\/sn87055779\/00295871982\/1914022501\/0614.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1914-02-25",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.9361681938171387,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_colfax_ver01\/data\/sn87055779\/00295871982\/1914022501\/0614\/014_0_93.jpg"
+ },
+ "id": 1473
+}

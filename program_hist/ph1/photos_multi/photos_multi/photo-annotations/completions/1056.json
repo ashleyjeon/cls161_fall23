@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751481,
+   "id": 1056001,
+   "lead_time": 2.166,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aDu5eSjfQH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_charo_ver01",
+  "box": [
+   0.5373596668657689,
+   0.16814864780786662,
+   0.678950199554735,
+   0.3095086680673811
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_charo_ver01\/data\/sn86069496\/00175044309\/1908090201\/0299\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Adair--Columbia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_charo_ver01%2Fdata%2Fsn86069496%2F00175044309%2F1908090201%2F0299.jp2\/pct:53.73,16.82,14.16,14.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069496",
+  "name": "The Adair County news. [volume]",
+  "ocr": [
+   "JOHN",
+   "y",
+   "HAYES",
+   "THE",
+   "MABATHON",
+   "WINNER"
+  ],
+  "page_seq_num": 299,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_charo_ver01\/data\/sn86069496\/00175044309\/1908090201\/0299.jp2",
+  "place_of_publication": "Columbia, Ky.",
+  "pub_date": "1908-09-02",
+  "publisher": "Chas. S. Harris",
+  "score": 0.9780965447425842,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_charo_ver01\/data\/sn86069496\/00175044309\/1908090201\/0299\/000_0_97.jpg"
+ },
+ "id": 1056
+}

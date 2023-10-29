@@ -1,0 +1,110 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766613,
+   "id": 1194001,
+   "lead_time": 9.274,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "bw3QGi8MiK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_klamath_ver01",
+  "box": [
+   0.15560954441534025,
+   0.04292904621845967,
+   0.428530056677132,
+   0.3823520969700169
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_klamath_ver01\/data\/sn85066387\/00175046586\/1910042101\/0489\/009_0_97.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_klamath_ver01%2Fdata%2Fsn85066387%2F00175046586%2F1910042101%2F0489.jp2\/pct:15.56,4.3,27.3,33.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "Expect",
+   "Meet",
+   "to",
+   "Make",
+   "Automobile",
+   "History",
+   "Four",
+   "of",
+   "the",
+   "officials",
+   "who",
+   "will",
+   "have",
+   "charge",
+   "of",
+   "the",
+   "big",
+   "automobile",
+   "track",
+   "meet",
+   "to",
+   "be",
+   "held",
+   "by",
+   "the",
+   "Shriners",
+   "on",
+   "the",
+   "Ingleside",
+   "track",
+   "ne",
+   "xt",
+   "Saturday",
+   "and",
+   "Sunday.",
+   "They",
+   "are:",
+   "Upper",
+   "left",
+   "\u2014",
+   "A.",
+   "L.",
+   "McMurtry,",
+   "chairman",
+   "of",
+   "the",
+   "tech",
+   "nical",
+   "committee",
+   "of",
+   "the",
+   "A.",
+   "A.",
+   "A.",
+   "Upper",
+   "right",
+   "\u2014",
+   "Charles",
+   "H.",
+   "Warner,.",
+   "official"
+  ],
+  "page_seq_num": 489,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_klamath_ver01\/data\/sn85066387\/00175046586\/1910042101\/0489.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1910-04-21",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9701523780822754,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_klamath_ver01\/data\/sn85066387\/00175046586\/1910042101\/0489\/009_0_97.jpg"
+ },
+ "id": 1194
+}

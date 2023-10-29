@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746850,
+   "id": 931001,
+   "lead_time": 1.888,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "blZ1qygPX0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_oak_ver02",
+  "box": [
+   0.5194356247292028,
+   0.14108932684667363,
+   0.746288068166432,
+   0.36883533074989083
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_oak_ver02\/data\/sn92051487\/00271763542\/1907080201\/0408\/011_0_97.jpg",
+  "geographic_coverage": [
+   "Connecticut--Fairfield--Newtown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_oak_ver02%2Fdata%2Fsn92051487%2F00271763542%2F1907080201%2F0408.jp2\/pct:51.94,14.11,22.69,22.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051487",
+  "name": "The Newtown bee.",
+  "ocr": [
+   "V",
+   "a'",
+   "CHARLES",
+   "A.",
+   "MALLORY",
+   "OF",
+   "SHERMAN."
+  ],
+  "page_seq_num": 408,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_oak_ver02\/data\/sn92051487\/00271763542\/1907080201\/0408.jp2",
+  "place_of_publication": "Newtown, Conn.",
+  "pub_date": "1907-08-02",
+  "publisher": "A.A. Bensel",
+  "score": 0.9713789224624634,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_oak_ver02\/data\/sn92051487\/00271763542\/1907080201\/0408\/011_0_97.jpg"
+ },
+ "id": 931
+}

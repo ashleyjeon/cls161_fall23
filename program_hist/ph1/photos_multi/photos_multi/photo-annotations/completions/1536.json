@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767557,
+   "id": 1536001,
+   "lead_time": 24.217,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dkzJJkECDQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_fir_ver01",
+  "box": [
+   0.2668329790742746,
+   0.3435627612951088,
+   0.7181452886499587,
+   0.5763679084855524
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_fir_ver01\/data\/sn88085187\/00211108381\/1914100701\/0898\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_fir_ver01%2Fdata%2Fsn88085187%2F00211108381%2F1914100701%2F0898.jp2\/pct:26.68,34.36,45.14,23.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "WOMEN",
+   "WEEP",
+   "AS",
+   "DAILY",
+   "DEATH",
+   "LIST",
+   "GOES",
+   "UP",
+   "SCENE",
+   "IN",
+   "FRONT",
+   "Ot.'",
+   "THE",
+   "OFFICIAL",
+   "HI",
+   "I.LETIN",
+   "BOARD",
+   "AT",
+   "111",
+   "IIA-PESTH.",
+   "HI",
+   "MiAKV",
+   "WIVES",
+   "AND",
+   "Mill",
+   "111",
+   "If-",
+   "WHO",
+   "li\\ll",
+   ".",
+   "MH>K",
+   "OVER",
+   "THE",
+   "HEAVY",
+   "DEATH",
+   "LISTS",
+   "OF",
+   "THE",
+   "tl",
+   "HTIIIAN",
+   "AHMV."
+  ],
+  "page_seq_num": 898,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_fir_ver01\/data\/sn88085187\/00211108381\/1914100701\/0898.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1914-10-07",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9437595009803772,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_fir_ver01\/data\/sn88085187\/00211108381\/1914100701\/0898\/004_0_94.jpg"
+ },
+ "id": 1536
+}

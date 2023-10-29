@@ -1,0 +1,86 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741405,
+   "id": 1918001,
+   "lead_time": 2.365,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3dFQxQNkMY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_james_ver01",
+  "box": [
+   0.0930147622886144,
+   0.3567341040583458,
+   0.24058498468185005,
+   0.5944716909941842
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_james_ver01\/data\/sn89058370\/0041562127A\/1919062501\/0109\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Tennessee--Blount--Maryville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_james_ver01%2Fdata%2Fsn89058370%2F0041562127A%2F1919062501%2F0109.jp2\/pct:9.3,35.68,14.76,23.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058370",
+  "name": "The Maryville times.",
+  "ocr": [
+   "Methodist",
+   "Centenary",
+   "Celebration",
+   "'",
+   ",",
+   "J",
+   "f",
+   "jit",
+   ":",
+   "?\"",
+   "MME.",
+   "BLANCHE",
+   "YURKA",
+   "creates",
+   "the",
+   "role",
+   "of",
+   "Understanding;,",
+   "lead",
+   "ing",
+   "female",
+   "part",
+   "in",
+   "\"The",
+   "Wayfarer\"",
+   ",",
+   "pageant,",
+   "which",
+   "will",
+   "be",
+   "presented",
+   "at",
+   "'",
+   "the",
+   "Methodist",
+   "Centenary",
+   "celebration"
+  ],
+  "page_seq_num": 109,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_james_ver01\/data\/sn89058370\/0041562127A\/1919062501\/0109.jp2",
+  "place_of_publication": "Maryville, Tenn.",
+  "pub_date": "1919-06-25",
+  "publisher": "A.J. Neff & Sons",
+  "score": 0.915495753288269,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_james_ver01\/data\/sn89058370\/0041562127A\/1919062501\/0109\/008_0_91.jpg"
+ },
+ "id": 1918
+}

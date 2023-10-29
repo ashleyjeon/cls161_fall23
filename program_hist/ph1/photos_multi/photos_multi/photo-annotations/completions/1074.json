@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611682527,
+   "id": 1074001,
+   "lead_time": 8.037,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cKM-BQJKHQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_edenville_ver01",
+  "box": [
+   0.16516163228186376,
+   0.5010640805865972,
+   0.2932416600603519,
+   0.6804455161164095
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_edenville_ver01\/data\/sn83016689\/00279551485\/1908082201\/0172\/008_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_edenville_ver01%2Fdata%2Fsn83016689%2F00279551485%2F1908082201%2F0172.jp2\/pct:16.51,50.11,12.81,17.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "-",
+   "\u25a0",
+   "Jfi",
+   "ML-",
+   "a",
+   "and",
+   "JKANKTTK",
+   "<tHKRWOOI).",
+   "Willi",
+   "Ihw",
+   "Tiger",
+   "l.llles.",
+   "In",
+   "the",
+   "Aveuio"
+  ],
+  "page_seq_num": 172,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551485\/1908082201\/0172.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1908-08-22",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9802024960517883,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551485\/1908082201\/0172\/008_0_98.jpg"
+ },
+ "id": 1074
+}

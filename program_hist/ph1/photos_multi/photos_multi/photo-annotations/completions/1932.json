@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764551,
+   "id": 1932001,
+   "lead_time": 1.688,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tCgf9xTnqc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_dillpickle_ver01",
+  "box": [
+   0.28734072119788784,
+   0.48450043565946116,
+   0.40797630242541827,
+   0.7234648510925752
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_dillpickle_ver01\/data\/sn86063952\/00295864412\/1920121301\/0729\/009_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_dillpickle_ver01%2Fdata%2Fsn86063952%2F00295864412%2F1920121301%2F0729.jp2\/pct:28.73,48.46,12.07,23.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "sS.",
+   "1",
+   ";V",
+   "s",
+   "-",
+   "i",
+   "srsr",
+   "-",
+   ".",
+   "-rt",
+   "h-M",
+   "j",
+   "n'iliy",
+   "do",
+   "Poe",
+   "of",
+   "St.",
+   "Tanl.",
+   "who,",
+   "according",
+   "to",
+   "the",
+   ".",
+   "fans,",
+   "separated",
+   "from",
+   "the",
+   "featherweight",
+   "crown",
+   "only",
+   "Jh",
+   "v",
+   "..",
+   "p",
+   "i",
+   "-",
+   "v",
+   "'j",
+   "oi",
+   "vat",
+   "(Ve.j",
+   "I",
+   "J",
+   "I",
+   "rf",
+   "Ipr-",
+   "I",
+   "ft'",
+   "vTl",
+   ":",
+   "4"
+  ],
+  "page_seq_num": 729,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864412\/1920121301\/0729.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1920-12-13",
+  "publisher": "Roy Hoffman",
+  "score": 0.9773947596549988,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864412\/1920121301\/0729\/009_0_97.jpg"
+ },
+ "id": 1932
+}

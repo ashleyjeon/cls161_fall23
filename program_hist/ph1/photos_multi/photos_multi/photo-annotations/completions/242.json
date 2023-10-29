@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675893,
+   "id": 242001,
+   "lead_time": 131.056,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "S8EYUTrihL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_universal_ver01",
+  "box": [
+   0.019471648656767742,
+   0.2580438051698667,
+   0.18117071164939572,
+   0.4432632631119616
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_universal_ver01\/data\/sn83030214\/00175036878\/1898072301\/0417\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_universal_ver01%2Fdata%2Fsn83030214%2F00175036878%2F1898072301%2F0417.jp2\/pct:1.94,25.81,16.17,18.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "IEUTENANT",
+   "RICHMOND",
+   "PEAJMON",
+   "HOBSON"
+  ],
+  "page_seq_num": 417,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_universal_ver01\/data\/sn83030214\/00175036878\/1898072301\/0417.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-07-23",
+  "publisher": "New York Tribune",
+  "score": 0.979009747505188,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_universal_ver01\/data\/sn83030214\/00175036878\/1898072301\/0417\/001_0_97.jpg"
+ },
+ "id": 242
+}

@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750836,
+   "id": 1444001,
+   "lead_time": 3.406,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mwNhIgT8nW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_sastre_ver01",
+  "box": [
+   0.5955130440848214,
+   0.04357259946636915,
+   0.9824881417410715,
+   0.5235895242414248
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_sastre_ver01\/data\/sn83045396\/print\/1913092301\/1312\/007_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_sastre_ver01%2Fdata%2Fsn83045396%2Fprint%2F1913092301%2F1312.jp2\/pct:59.55,4.36,38.7,48.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045396",
+  "name": "The Salt Lake tribune. [volume]",
+  "ocr": [
+   "SEPTEMBER",
+   "23,",
+   "1913.",
+   "'",
+   "'",
+   "W0y",
+   "Jfe",
+   "?",
+   "\"\"f",
+   "'V",
+   "'l,",
+   "'",
+   "'",
+   "35",
+   "and",
+   "37",
+   "Wcst",
+   "2nd",
+   "South",
+   "P",
+   "Salt",
+   "Lake",
+   "City,"
+  ],
+  "page_seq_num": 1312,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_sastre_ver01\/data\/sn83045396\/print\/1913092301\/1312.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1913-09-23",
+  "publisher": "Tribune Pub. Co.",
+  "score": 0.9792202711105347,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_sastre_ver01\/data\/sn83045396\/print\/1913092301\/1312\/007_0_97.jpg"
+ },
+ "id": 1444
+}

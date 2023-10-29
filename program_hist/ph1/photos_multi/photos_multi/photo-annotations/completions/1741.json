@@ -1,0 +1,113 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767018,
+   "id": 1741001,
+   "lead_time": 4.327,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iMa6QLVd6Z",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_ghana_ver01",
+  "box": [
+   0.6111375488878902,
+   0.2765631823806289,
+   0.8477682349439642,
+   0.5990910816390075
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_ghana_ver01\/data\/sn84026749\/00280764401\/1917081101\/0603\/012_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_ghana_ver01%2Fdata%2Fsn84026749%2F00280764401%2F1917081101%2F0603.jp2\/pct:61.11,27.66,23.67,32.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "Phptograph",
+   "Taken\"",
+   "Today",
+   "of",
+   "Mrs.",
+   "Humiston",
+   "Leavr",
+   "ing",
+   "The",
+   "Times",
+   "Building",
+   "BsssHFr1BN-i2sH",
+   "KBuBssBsBKMtKr?B",
+   "aHaitiKHniMii",
+   "ssHIEsBiLa",
+   "v",
+   "'S-?4f?ivkIHIB",
+   "Mrs.",
+   "Grace",
+   "Humiston.",
+   "now",
+   "invcstiiratine",
+   "the",
+   "Brandon",
+   "murder",
+   "for",
+   "The",
+   "Times",
+   "and",
+   "the",
+   "family",
+   "of",
+   "the",
+   "murdered",
+   "younfr",
+   "wife,",
+   "is",
+   "a",
+   "woman",
+   "who",
+   "has",
+   "been",
+   "honored",
+   "by",
+   "appointment",
+   "as",
+   "one",
+   "of",
+   "the",
+   "Assistant",
+   "Attorney",
+   "Generals",
+   "of",
+   "the",
+   "United",
+   "States.",
+   "Her",
+   "achieveemnts",
+   "as",
+   "a",
+   "lawyer",
+   "and",
+   "investigator",
+   "are"
+  ],
+  "page_seq_num": 603,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_ghana_ver01\/data\/sn84026749\/00280764401\/1917081101\/0603.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1917-08-11",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9544159770011902,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_ghana_ver01\/data\/sn84026749\/00280764401\/1917081101\/0603\/012_0_95.jpg"
+ },
+ "id": 1741
+}

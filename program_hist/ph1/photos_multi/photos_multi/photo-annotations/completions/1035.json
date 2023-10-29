@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675758,
+   "id": 1035001,
+   "lead_time": 2.106,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eJPA8gS5T6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_edenville_ver01",
+  "box": [
+   0.03363018621343018,
+   0.5294934926096746,
+   0.1689993591801608,
+   0.7058586373293143
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_edenville_ver01\/data\/sn83016689\/00279551497\/1908101001\/0466\/008_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_edenville_ver01%2Fdata%2Fsn83016689%2F00279551497%2F1908101001%2F0466.jp2\/pct:3.36,52.95,13.54,17.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "OTIS",
+   "SKIIVXICR.",
+   "Is",
+   "the",
+   "Detroit",
+   "opera",
+   "house",
+   "the",
+   "Hitter"
+  ],
+  "page_seq_num": 466,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551497\/1908101001\/0466.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1908-10-10",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9789299964904785,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551497\/1908101001\/0466\/008_0_97.jpg"
+ },
+ "id": 1035
+}

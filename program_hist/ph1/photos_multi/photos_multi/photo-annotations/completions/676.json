@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673427,
+   "id": 676001,
+   "lead_time": 3.825,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zikltpGffc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_decartes_ver01",
+  "box": [
+   0.4530619498385916,
+   0.37668680420980594,
+   0.7039008419861554,
+   0.5544202263626138
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_decartes_ver01\/data\/sn83030272\/100479825\/1903050301\/0045\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_decartes_ver01%2Fdata%2Fsn83030272%2F100479825%2F1903050301%2F0045.jp2\/pct:45.3,37.67,25.09,17.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "I",
+   "Iham",
+   "i",
+   "iI",
+   "III",
+   "RACING",
+   "AT",
+   "WEYMOUTH",
+   "APRIL",
+   "IL",
+   "ILF",
+   "11Fran"
+  ],
+  "page_seq_num": 45,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_decartes_ver01\/data\/sn83030272\/100479825\/1903050301\/0045.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1903-05-03",
+  "publisher": "Benj. H. Day",
+  "score": 0.9755175113677979,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_decartes_ver01\/data\/sn83030272\/100479825\/1903050301\/0045\/001_0_97.jpg"
+ },
+ "id": 676
+}

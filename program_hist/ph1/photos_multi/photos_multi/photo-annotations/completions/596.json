@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749633,
+   "id": 596001,
+   "lead_time": 1.689,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EDF68ZQwJX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_haiti_ver01",
+  "box": [
+   0.33906795333305845,
+   0.09104310559369057,
+   0.653045595721869,
+   0.4237388937964644
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_haiti_ver01\/data\/sn83030214\/00175042039\/1902092801\/0493\/002_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_haiti_ver01%2Fdata%2Fsn83030214%2F00175042039%2F1902092801%2F0493.jp2\/pct:33.9,9.11,31.4,33.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 493,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_haiti_ver01\/data\/sn83030214\/00175042039\/1902092801\/0493.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1902-09-28",
+  "publisher": "New York Tribune",
+  "score": 0.9849138855934143,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_haiti_ver01\/data\/sn83030214\/00175042039\/1902092801\/0493\/002_0_98.jpg"
+ },
+ "id": 596
+}

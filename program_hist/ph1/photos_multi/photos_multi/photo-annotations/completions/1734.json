@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769110,
+   "id": 1734001,
+   "lead_time": 3.024,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LawBoAaFqF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_nazareth_ver01",
+  "box": [
+   0.8519890603054775,
+   0.05146810446575189,
+   0.9773215696478732,
+   0.203061107465416
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_nazareth_ver01\/data\/sn83016689\/00414181806\/1917092901\/0810\/015_0_94.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_nazareth_ver01%2Fdata%2Fsn83016689%2F00414181806%2F1917092901%2F0810.jp2\/pct:85.19,5.15,12.54,15.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "--TV*",
+   "Ajf\u2019",
+   "y",
+   "-*",
+   ",",
+   "-",
+   "AKA",
+   "IIIOMiU",
+   "W",
+   "ith",
+   "Tlis",
+   "A",
+   "vtsfowC",
+   "I*",
+   "C*(H1I\u00ab<1"
+  ],
+  "page_seq_num": 810,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_nazareth_ver01\/data\/sn83016689\/00414181806\/1917092901\/0810.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1917-09-29",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9427934288978577,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_nazareth_ver01\/data\/sn83016689\/00414181806\/1917092901\/0810\/015_0_94.jpg"
+ },
+ "id": 1734
+}

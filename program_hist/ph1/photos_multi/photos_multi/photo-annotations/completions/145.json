@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768823,
+   "id": 145001,
+   "lead_time": 1.779,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PiXne-ArtE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_kauai_ver01",
+  "box": [
+   0.34840561558710653,
+   0.3310494139241767,
+   0.6338164621831462,
+   0.47710861767993096
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0544\/001_0_94.jpg",
+  "geographic_coverage": [
+   "South Dakota--Union--Elk Point"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523593%2F1896052101%2F0544.jp2\/pct:34.84,33.11,28.55,14.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022137",
+  "name": "Union County courier. [volume]",
+  "ocr": [
+   "Miss",
+   "Kate",
+   "Ci'tlhiKs.",
+   "I'rof.",
+   "Homer",
+   "H.",
+   "Miller.",
+   "Miss",
+   "\"ora",
+   "llusson."
+  ],
+  "page_seq_num": 544,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0544.jp2",
+  "place_of_publication": "Elk Point, Union County, D.T. [S.D.]",
+  "pub_date": "1896-05-21",
+  "publisher": "C.F. Mallahan",
+  "score": 0.9475193023681641,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0544\/001_0_94.jpg"
+ },
+ "id": 145
+}

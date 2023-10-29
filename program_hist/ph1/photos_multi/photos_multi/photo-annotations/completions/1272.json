@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767922,
+   "id": 1272001,
+   "lead_time": 2.132,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KKL4bYDzyp",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_bowtruckle_ver02",
+  "box": [
+   0.6986250700774016,
+   0.125195391424771,
+   0.829421149359809,
+   0.2481616053087958
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_bowtruckle_ver02\/data\/sn86086186\/00414215130\/1911022401\/0498\/006_0_95.jpg",
+  "geographic_coverage": [
+   "Wisconsin--La Crosse--La Crosse"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_bowtruckle_ver02%2Fdata%2Fsn86086186%2F00414215130%2F1911022401%2F0498.jp2\/pct:69.86,12.52,13.08,12.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086186",
+  "name": "Nord stern. [volume]",
+  "ocr": [
+   "\/'\u2022",
+   "*",
+   ",",
+   "-y",
+   "B\u00e4",
+   "'",
+   ".",
+   "Tut",
+   "bin."
+  ],
+  "page_seq_num": 498,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_bowtruckle_ver02\/data\/sn86086186\/00414215130\/1911022401\/0498.jp2",
+  "place_of_publication": "La Crosse, Wis.",
+  "pub_date": "1911-02-24",
+  "publisher": "C. Halbwachs",
+  "score": 0.958398163318634,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_bowtruckle_ver02\/data\/sn86086186\/00414215130\/1911022401\/0498\/006_0_95.jpg"
+ },
+ "id": 1272
+}

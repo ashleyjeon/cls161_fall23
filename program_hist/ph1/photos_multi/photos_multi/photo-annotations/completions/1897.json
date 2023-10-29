@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766955,
+   "id": 1897001,
+   "lead_time": 20.588,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0XgHaFHFj3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_quarterman_ver03",
+  "box": [
+   0.308253494916896,
+   0.04815227912147704,
+   0.7268748896699377,
+   0.2540116554234215
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_quarterman_ver03\/data\/sn83030431\/00212474496\/1919121401\/0329\/005_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_quarterman_ver03%2Fdata%2Fsn83030431%2F00212474496%2F1919121401%2F0329.jp2\/pct:30.82,4.82,41.87,20.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030431",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "world,",
+   "that",
+   "whatsoever",
+   "a",
+   "man"
+  ],
+  "page_seq_num": 329,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_quarterman_ver03\/data\/sn83030431\/00212474496\/1919121401\/0329.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1919-12-14",
+  "publisher": "Sun Print. and Pub. Co.",
+  "score": 0.9409034848213196,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_quarterman_ver03\/data\/sn83030431\/00212474496\/1919121401\/0329\/005_0_94.jpg"
+ },
+ "id": 1897
+}

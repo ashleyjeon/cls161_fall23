@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611761343,
+   "id": 1683001,
+   "lead_time": 177.041,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TrFYu_zcVc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_lightningbolt_ver03",
+  "box": [
+   0.17219192693846144,
+   0.051301606586742494,
+   0.4867777632485971,
+   0.2866241947764571
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_lightningbolt_ver03\/data\/sn87007277\/00415662427\/1916072801\/0224\/007_0_97.jpg",
+  "geographic_coverage": [
+   "Mississippi--Amite--Liberty"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_lightningbolt_ver03%2Fdata%2Fsn87007277%2F00415662427%2F1916072801%2F0224.jp2\/pct:17.21,5.14,31.46,23.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn87007277",
+  "name": "The Southern herald.",
+  "ocr": [
+   "LEARNING",
+   "HOW",
+   "TO",
+   "DIG",
+   "A",
+   "TRENCH"
+  ],
+  "page_seq_num": 224,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_lightningbolt_ver03\/data\/sn87007277\/00415662427\/1916072801\/0224.jp2",
+  "place_of_publication": "Liberty, Miss.",
+  "pub_date": "1916-07-28",
+  "publisher": "P.R. Brewer",
+  "score": 0.9753987789154053,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_lightningbolt_ver03\/data\/sn87007277\/00415662427\/1916072801\/0224\/007_0_97.jpg"
+ },
+ "id": 1683
+}

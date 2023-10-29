@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752481,
+   "id": 583001,
+   "lead_time": 1.775,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yK2oKSU_Jo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_brown_ver01",
+  "box": [
+   0.04696102996370686,
+   0.4052416957210333,
+   0.11697812815803793,
+   0.5066841365956304
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_brown_ver01\/data\/sn85030821\/00212472906\/1902080101\/0300\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Kansas--Sherman--Goodland"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_brown_ver01%2Fdata%2Fsn85030821%2F00212472906%2F1902080101%2F0300.jp2\/pct:4.69,40.53,7.01,10.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn85030821",
+  "name": "The Goodland republic. [volume]",
+  "ocr": [
+   "I",
+   "j",
+   "I",
+   "j",
+   ";",
+   "f\"v",
+   "..."
+  ],
+  "page_seq_num": 300,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_brown_ver01\/data\/sn85030821\/00212472906\/1902080101\/0300.jp2",
+  "place_of_publication": "Goodland, Kan.",
+  "pub_date": "1902-08-01",
+  "publisher": "Stewart Co.",
+  "score": 0.9648711085319519,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_brown_ver01\/data\/sn85030821\/00212472906\/1902080101\/0300\/002_0_96.jpg"
+ },
+ "id": 583
+}

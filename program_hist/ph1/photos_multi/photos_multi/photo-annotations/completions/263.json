@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763721,
+   "id": 263001,
+   "lead_time": 2.286,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zNEYiCmm02",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_anthony_ver01",
+  "box": [
+   0.37062979711571276,
+   0.7238759408346036,
+   0.5905046150576492,
+   0.9573477396150915
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_anthony_ver01\/data\/sn85032019\/00280760997\/1898042701\/0445\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_anthony_ver01%2Fdata%2Fsn85032019%2F00280760997%2F1898042701%2F0445.jp2\/pct:37.06,72.39,21.99,23.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn85032019",
+  "name": "The Advocate and news. [volume]",
+  "ocr": [
+   "i",
+   ".",
+   "..",
+   "\"..V;..'",
+   ".AW;",
+   "v",
+   ".If",
+   ";:.':Y;:'",
+   ".",
+   "i",
+   "r",
+   "h'vv'-'i",
+   "Ul",
+   "1i",
+   "fc'.iMifcl'iitliiniiilM'",
+   "in",
+   "-tutii",
+   "lV,",
+   "rr'',-'-:-'-lJ",
+   "PROF,",
+   "E.",
+   "E.",
+   "FAVILLS."
+  ],
+  "page_seq_num": 445,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_anthony_ver01\/data\/sn85032019\/00280760997\/1898042701\/0445.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1898-04-27",
+  "publisher": "Geo. B. Harrison & Co.",
+  "score": 0.9682592749595642,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_anthony_ver01\/data\/sn85032019\/00280760997\/1898042701\/0445\/000_0_96.jpg"
+ },
+ "id": 263
+}

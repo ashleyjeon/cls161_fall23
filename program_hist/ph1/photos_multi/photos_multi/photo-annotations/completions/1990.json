@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769099,
+   "id": 1990001,
+   "lead_time": 1.728,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ayrRRSiqlJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_fairbanks_ver01",
+  "box": [
+   0.37802943958367463,
+   0.19740240697366782,
+   0.4958456896860665,
+   0.4629368963876636
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_fairbanks_ver01\/data\/sn87055779\/00296021453\/1920012201\/0589\/013_0_93.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_fairbanks_ver01%2Fdata%2Fsn87055779%2F00296021453%2F1920012201%2F0589.jp2\/pct:37.8,19.75,11.79,26.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   "I",
+   "!",
+   "!",
+   "j",
+   "I",
+   "!",
+   "i",
+   "j",
+   "j",
+   "j",
+   "f",
+   "StV-i",
+   "i",
+   "0SM",
+   "I",
+   "f",
+   "I;",
+   "vAV",
+   ":S",
+   "?",
+   "lrvvf",
+   "u,myGe,uus",
+   "V,",
+   "Horace",
+   "tSVadc",
+   "t.",
+   ".r\u00fc",
+   ".",
+   "'Zi-",
+   "\"",
+   "I",
+   "r?.-",
+   "-",
+   ";-;t.;s.H\u00c4",
+   "?t-",
+   "?.:,:..",
+   "v",
+   "v'--.-vju--"
+  ],
+  "page_seq_num": 589,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_fairbanks_ver01\/data\/sn87055779\/00296021453\/1920012201\/0589.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1920-01-22",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.9339621663093567,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_fairbanks_ver01\/data\/sn87055779\/00296021453\/1920012201\/0589\/013_0_93.jpg"
+ },
+ "id": 1990
+}

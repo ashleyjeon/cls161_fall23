@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768540,
+   "id": 1967001,
+   "lead_time": 2.439,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ny0kexOlmf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_iron_ver01",
+  "box": [
+   0.2276136360916437,
+   0.4184918786725427,
+   0.3660239799349916,
+   0.5854783278245193
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_iron_ver01\/data\/sn86069309\/00280763652\/1920092201\/0660\/006_0_96.jpg",
+  "geographic_coverage": [
+   "Kentucky--Breckinridge--Cloverport",
+   "Kentucky--Breckinridge--Hardinsburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_iron_ver01%2Fdata%2Fsn86069309%2F00280763652%2F1920092201%2F0660.jp2\/pct:22.76,41.85,13.85,16.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069309",
+  "name": "The Breckenridge news.",
+  "ocr": [
+   "i",
+   "'\"'",
+   ".BBOfciiBBHiil",
+   "(.",
+   ".",
+   "JBlPBBBBflBs'",
+   "'IBBbI",
+   "-",
+   "bBBBCBJI",
+   "Sw",
+   "bBSbJBBJI",
+   "'t",
+   "JHI",
+   "'',",
+   "Mtk-kwWt",
+   "'",
+   "'",
+   "jsBBBBBa",
+   "'bBsBSw",
+   "flpBBBBJ",
+   "jMBBBBBBBBBBBBBBssBB'.f",
+   "JkjH",
+   "BBBBBBBBBBBBBBBBBBVBBBVilBBBBBBaBWr",
+   "GENERAL",
+   "E.",
+   "H.",
+   "WOOD8,",
+   "President",
+   "Kentucky",
+   "Farm",
+   "Bureau",
+   "Federation.",
+   "v"
+  ],
+  "page_seq_num": 660,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_iron_ver01\/data\/sn86069309\/00280763652\/1920092201\/0660.jp2",
+  "place_of_publication": "Cloverport, Ky.",
+  "pub_date": "1920-09-22",
+  "publisher": "John D. Babbage",
+  "score": 0.9636756777763367,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_iron_ver01\/data\/sn86069309\/00280763652\/1920092201\/0660\/006_0_96.jpg"
+ },
+ "id": 1967
+}

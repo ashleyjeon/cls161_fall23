@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768998,
+   "id": 501001,
+   "lead_time": 1.933,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3idC0EJ7TK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "au_capote_ver01",
+  "box": [
+   0.040682441548327085,
+   0.4728406607543841,
+   0.28830093782474764,
+   0.6455390349323674
+  ],
+  "edition_seq_num": 1,
+  "filepath": "au_capote_ver01\/data\/sn86072192\/00340583152\/1901080401\/0322\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Alabama--Jefferson--Birmingham"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/au_capote_ver01%2Fdata%2Fsn86072192%2F00340583152%2F1901080401%2F0322.jp2\/pct:4.06,47.29,24.77,17.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn86072192",
+  "name": "The Age-herald. [volume]",
+  "ocr": [
+   "\u00ab>\u00bb",
+   "MISS",
+   "LUCIE",
+   "E.",
+   "WINTER",
+   "OF",
+   "MONTGOMERY."
+  ],
+  "page_seq_num": 322,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/au_capote_ver01\/data\/sn86072192\/00340583152\/1901080401\/0322.jp2",
+  "place_of_publication": "Birmingham, Ala.",
+  "pub_date": "1901-08-04",
+  "publisher": "Age-Herald",
+  "score": 0.9802802205085754,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/au_capote_ver01\/data\/sn86072192\/00340583152\/1901080401\/0322\/000_0_98.jpg"
+ },
+ "id": 501
+}

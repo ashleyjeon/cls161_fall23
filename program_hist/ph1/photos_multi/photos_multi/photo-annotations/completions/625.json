@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743077,
+   "id": 625001,
+   "lead_time": 2.475,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_dearfield_ver01",
+  "box": [
+   0.1723004249724514,
+   0.23078973388671875,
+   0.7688902704883872,
+   0.5875442708333334
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_dearfield_ver01\/data\/sn85067315\/00383341085\/1903121701\/0361\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Colorado--Fremont--Canon City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_dearfield_ver01%2Fdata%2Fsn85067315%2F00383341085%2F1903121701%2F0361.jp2\/pct:17.23,23.08,59.66,35.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn85067315",
+  "name": "Can\u0303on City record. [volume]",
+  "ocr": [
+   "Sangre",
+   "de",
+   "Christo",
+   "Range.",
+   "Jfs",
+   "seen",
+   "from",
+   "the",
+   "Canon",
+   "City",
+   "and",
+   "Cripple",
+   "Creek",
+   "Hail",
+   "way."
+  ],
+  "page_seq_num": 361,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_dearfield_ver01\/data\/sn85067315\/00383341085\/1903121701\/0361.jp2",
+  "place_of_publication": "Can\u0303on City, Colo.",
+  "pub_date": "1903-12-17",
+  "publisher": "W.B. Felton",
+  "score": 0.9762815237045288,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_dearfield_ver01\/data\/sn85067315\/00383341085\/1903121701\/0361\/001_0_97.jpg"
+ },
+ "id": 625
+}

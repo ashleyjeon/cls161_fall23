@@ -1,0 +1,112 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748263,
+   "id": 1131001,
+   "lead_time": 5.72,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aZMwcRMnd5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_mecca_ver01",
+  "box": [
+   0.29204871632228385,
+   0.027622855227926502,
+   0.5670800324912383,
+   0.24298269852347995
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_mecca_ver01\/data\/sn85066387\/00175046458\/1909061201\/0237\/011_0_96.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_mecca_ver01%2Fdata%2Fsn85066387%2F00175046458%2F1909061201%2F0237.jp2\/pct:29.2,2.77,27.51,21.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "From",
+   "Flowers",
+   "to",
+   "Snow,",
+   "Auto",
+   "Party",
+   "Makes",
+   "Notable",
+   "Trip",
+   ".*.",
+   "._^",
+   "I,'",
+   "\\u25a0\u2022\u2022'",
+   "'\\u25a0",
+   ".\"",
+   ":;-'\u2022\\u25a0",
+   "-",
+   "'-",
+   "-",
+   "'",
+   "\u2014",
+   "\u2014",
+   "J\u2014",
+   ":",
+   ";\u2014;",
+   "\u2014",
+   "-",
+   "\u2014",
+   "'\u2014",
+   "\u2014",
+   ".",
+   ";",
+   "..",
+   ";;",
+   "\u2014",
+   "\u2014^",
+   "\u2014",
+   "*",
+   "|",
+   ",",
+   "Halsey",
+   "W.-",
+   "Smith",
+   "and",
+   "party,",
+   "of",
+   "friends",
+   "taking",
+   "a",
+   "Studebaker",
+   "E-M-F",
+   "\"30\"",
+   "to",
+   "Lake",
+   "Tahoe",
+   "on",
+   "5.",
+   "It",
+   "was",
+   "the",
+   "first",
+   "automobile",
+   "to"
+  ],
+  "page_seq_num": 237,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_mecca_ver01\/data\/sn85066387\/00175046458\/1909061201\/0237.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1909-06-12",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9660202860832214,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_mecca_ver01\/data\/sn85066387\/00175046458\/1909061201\/0237\/011_0_96.jpg"
+ },
+ "id": 1131
+}

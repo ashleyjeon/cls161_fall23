@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746006,
+   "id": 566001,
+   "lead_time": 1.559,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3_dpjND5b7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.7815561740197868,
+   0.3261284090729378,
+   0.9278379065968166,
+   0.4945792873861336
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761035\/1902020801\/0226\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761035%2F1902020801%2F0226.jp2\/pct:78.15,32.62,14.63,16.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "EX-JUDGE",
+   "WILLIAM",
+   "H.",
+   "BARNUM.",
+   "Vice-president",
+   "of",
+   "the",
+   "Iroquois",
+   "Club,",
+   "who",
+   "is",
+   "one",
+   "of",
+   "the",
+   "most",
+   "prominent",
+   "at",
+   "torneys",
+   "in",
+   "this",
+   "country,",
+   "and",
+   "In",
+   "all",
+   "things",
+   "he",
+   "is",
+   "a",
+   "thorough",
+   "Jeffersonian",
+   "mmmlmm",
+   "''",
+   "VmmmmH",
+   "BFmmmf(H5fc",
+   "uRmmH",
+   "mfce\"-",
+   "EL--",
+   "'immmmmml",
+   "fiv",
+   "'",
+   "mHkJP",
+   ".mmmmmm!",
+   "mmBKrHTmmBBBW"
+  ],
+  "page_seq_num": 226,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761035\/1902020801\/0226.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1902-02-08",
+  "publisher": "Julius F. Taylor",
+  "score": 0.977612316608429,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761035\/1902020801\/0226\/001_0_97.jpg"
+ },
+ "id": 566
+}

@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767319,
+   "id": 1517001,
+   "lead_time": 6.076,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6M_Gbz7jY_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_indianpaintbrush_ver01",
+  "box": [
+   0.1682913520119407,
+   0.05283064750041191,
+   0.4291725158691406,
+   0.22237279586926076
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_indianpaintbrush_ver01\/data\/sn83025316\/00212476742\/1914041301\/1014\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Montana--Missoula--Missoula"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_indianpaintbrush_ver01%2Fdata%2Fsn83025316%2F00212476742%2F1914041301%2F1014.jp2\/pct:16.82,5.29,26.09,16.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025316",
+  "name": "The Daily Missoulian. [volume]",
+  "ocr": [
+   "QPEN",
+   "SPRING",
+   "WORK",
+   "AT",
+   "FOREST",
+   "NURSERY",
+   "NURSERY"
+  ],
+  "page_seq_num": 1014,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_indianpaintbrush_ver01\/data\/sn83025316\/00212476742\/1914041301\/1014.jp2",
+  "place_of_publication": "Missoula, Mont.",
+  "pub_date": "1914-04-13",
+  "publisher": "Missoulian Pub. Co.",
+  "score": 0.9787108302116394,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_indianpaintbrush_ver01\/data\/sn83025316\/00212476742\/1914041301\/1014\/006_0_97.jpg"
+ },
+ "id": 1517
+}

@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767908,
+   "id": 846001,
+   "lead_time": 1.908,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mEYNdcpcUl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_ferdinand_ver01",
+  "box": [
+   0.49464555220170453,
+   0.0437606526926224,
+   0.6409741950757576,
+   0.29035461513349625
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_ferdinand_ver01\/data\/sn85047084\/00294557441\/1905100701\/0374\/007_0_94.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_ferdinand_ver01%2Fdata%2Fsn85047084%2F00294557441%2F1905100701%2F0374.jp2\/pct:49.46,4.38,14.64,24.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "4",
+   ".JVC",
+   "StC",
+   "\"",
+   "2",
+   "re",
+   "l-L--l",
+   "PRINCE",
+   "FKRDINANDO",
+   "OF",
+   "SAVOY."
+  ],
+  "page_seq_num": 374,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_ferdinand_ver01\/data\/sn85047084\/00294557441\/1905100701\/0374.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1905-10-07",
+  "publisher": "[publisher not identified]",
+  "score": 0.944193959236145,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_ferdinand_ver01\/data\/sn85047084\/00294557441\/1905100701\/0374\/007_0_94.jpg"
+ },
+ "id": 846
+}

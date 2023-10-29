@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743124,
+   "id": 1039001,
+   "lead_time": 1.645,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Qp--MW-rTX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.3892605114324158,
+   0.55464318273906,
+   0.6902538567816969,
+   0.8261634665911163
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761059\/1908061301\/0024\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761059%2F1908061301%2F0024.jp2\/pct:38.92,55.47,30.1,27.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "PETER",
+   "M.",
+   "HOFFMAN.",
+   "The",
+   "up-to-date",
+   "Coroner",
+   "of",
+   "Cook",
+   "County,",
+   "who",
+   "has",
+   "been",
+   "Indorsed",
+   "for",
+   "re",
+   "election",
+   "to",
+   "his",
+   "present",
+   "position.",
+   "by",
+   "the",
+   "Chicago",
+   "Undertakers",
+   "Association."
+  ],
+  "page_seq_num": 24,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761059\/1908061301\/0024.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1908-06-13",
+  "publisher": "Julius F. Taylor",
+  "score": 0.9731680154800415,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761059\/1908061301\/0024\/001_0_97.jpg"
+ },
+ "id": 1039
+}

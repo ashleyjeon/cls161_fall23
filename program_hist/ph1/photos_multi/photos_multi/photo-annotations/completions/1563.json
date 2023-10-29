@@ -1,0 +1,85 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749323,
+   "id": 1563001,
+   "lead_time": 1.558,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mqR7KH8K-X",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_reed_ver02",
+  "box": [
+   0.4351974984873896,
+   0.3991099390490302,
+   0.5592614878778872,
+   0.6137545647749042
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_reed_ver02\/data\/sn96088356\/00295868594\/1915102201\/0302\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Athena"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_reed_ver02%2Fdata%2Fsn96088356%2F00295868594%2F1915102201%2F0302.jp2\/pct:43.51,39.92,12.41,21.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn96088356",
+  "name": "The Athena press. [volume]",
+  "ocr": [
+   "Frank",
+   "L.",
+   "Polk;",
+   "corporation",
+   "counsel",
+   "of",
+   "New",
+   "Vork",
+   "City,",
+   "has",
+   "bean",
+   "appointed",
+   "counselor",
+   "of",
+   "the",
+   "stats",
+   "department",
+   "He",
+   "It",
+   "a",
+   "graduate",
+   "of",
+   "Yale",
+   "and",
+   "of",
+   "Co",
+   "lumbia",
+   "law",
+   "school",
+   "and",
+   "a",
+   "veteran",
+   "of",
+   "the",
+   "Spanish-American",
+   "war."
+  ],
+  "page_seq_num": 302,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_reed_ver02\/data\/sn96088356\/00295868594\/1915102201\/0302.jp2",
+  "place_of_publication": "Athena, Umatilla County, Or.",
+  "pub_date": "1915-10-22",
+  "publisher": "J.W. Smith",
+  "score": 0.9796788692474365,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_reed_ver02\/data\/sn96088356\/00295868594\/1915102201\/0302\/005_0_97.jpg"
+ },
+ "id": 1563
+}

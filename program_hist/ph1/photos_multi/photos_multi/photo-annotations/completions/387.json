@@ -1,0 +1,92 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768581,
+   "id": 387001,
+   "lead_time": 3.496,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ievFxN2uUU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "created_at": 1611768585,
+   "id": 387002,
+   "lead_time": 5054.223,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ievFxN2uUU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_gaines_ver01",
+  "box": [
+   0.04559086886319247,
+   0.11400433421536327,
+   0.4382764296098189,
+   0.3646249482125947
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_gaines_ver01\/data\/sn84020274\/00211109105\/1900112501\/0476\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_gaines_ver01%2Fdata%2Fsn84020274%2F00211109105%2F1900112501%2F0476.jp2\/pct:4.55,11.41,39.27,25.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   ".",
+   "t",
+   ",,",
+   ",",
+   ".",
+   "\"",
+   ",",
+   "-Til",
+   "plEMsissggggggsaggggggMgWgB",
+   "View",
+   "of",
+   "ike",
+   "Ba.ndstaLnd",
+   "in",
+   "ihe",
+   "PiaLza.",
+   "Tower",
+   "of",
+   "tlve",
+   "Stadium",
+   "Entra.rvce",
+   "at",
+   "ihe",
+   "Left."
+  ],
+  "page_seq_num": 476,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_gaines_ver01\/data\/sn84020274\/00211109105\/1900112501\/0476.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1900-11-25",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9772874116897583,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_gaines_ver01\/data\/sn84020274\/00211109105\/1900112501\/0476\/002_0_97.jpg"
+ },
+ "id": 387
+}

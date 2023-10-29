@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749486,
+   "id": 92001,
+   "lead_time": 4.397,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zX6hrYHYtd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_fleming_ver01",
+  "box": [
+   0.0680048434765308,
+   0.7289407176356162,
+   0.40297342275644277,
+   0.8697258118660219
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_fleming_ver01\/data\/sn84020631\/00415628973\/1896121901\/1244\/002_0_95.jpg",
+  "geographic_coverage": [
+   "New Mexico--Santa Fe--Santa Fe"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_fleming_ver01%2Fdata%2Fsn84020631%2F00415628973%2F1896121901%2F1244.jp2\/pct:6.8,72.9,33.5,14.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020631",
+  "name": "Santa Fe daily New Mexican. [volume]",
+  "ocr": [
+   "it",
+   "II",
+   "...",
+   "t",
+   ",",
+   "fit..",
+   "wswi.",
+   "wa",
+   "r,",
+   ".",
+   "....",
+   "r"
+  ],
+  "page_seq_num": 1244,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_fleming_ver01\/data\/sn84020631\/00415628973\/1896121901\/1244.jp2",
+  "place_of_publication": "Santa Fe, N.M.",
+  "pub_date": "1896-12-19",
+  "publisher": "C.B. Hayward",
+  "score": 0.9512199759483337,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_fleming_ver01\/data\/sn84020631\/00415628973\/1896121901\/1244\/002_0_95.jpg"
+ },
+ "id": 92
+}

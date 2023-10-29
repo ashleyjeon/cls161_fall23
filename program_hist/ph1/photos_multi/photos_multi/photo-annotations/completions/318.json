@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758556,
+   "id": 318001,
+   "lead_time": 8.662,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LJuFGdJrDi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_exeter_ver01",
+  "box": [
+   0.16385204761059252,
+   0.12928794209614633,
+   0.8417523159388045,
+   0.4574975060721721
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_exeter_ver01\/data\/sn85066387\/00175037822\/1899032601\/0550\/007_0_97.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_exeter_ver01%2Fdata%2Fsn85066387%2F00175037822%2F1899032601%2F0550.jp2\/pct:16.38,12.93,67.8,32.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "GRACE",
+   "THE",
+   "PEOPLE'S",
+   "PLAYGROUND",
+   "BY",
+   "THE",
+   "SEA."
+  ],
+  "page_seq_num": 550,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_exeter_ver01\/data\/sn85066387\/00175037822\/1899032601\/0550.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1899-03-26",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9738591909408569,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_exeter_ver01\/data\/sn85066387\/00175037822\/1899032601\/0550\/007_0_97.jpg"
+ },
+ "id": 318
+}

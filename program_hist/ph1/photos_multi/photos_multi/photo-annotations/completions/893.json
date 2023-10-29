@@ -1,0 +1,112 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752011,
+   "id": 893001,
+   "lead_time": 3.46,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KTrmVIJjA4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.5317853614859989,
+   0.3183647647980721,
+   0.9820813185623557,
+   0.4600032683341734
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107406\/1906081801\/0334\/007_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107406%2F1906081801%2F0334.jp2\/pct:53.17,31.84,45.03,14.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "WINNING",
+   "THE",
+   "U.",
+   "&",
+   "U.",
+   "$10,000",
+   "STAKE",
+   "IN",
+   "I",
+   "'-.'-",
+   "\"",
+   "t",
+   "-",
+   "CTf-'-.ler",
+   "\"'*\u2022-",
+   "\u2014~\"",
+   "\u2022*\u25a0'",
+   "s--*--*\":",
+   "\u25a0",
+   "'",
+   "'",
+   "i.iW",
+   "IT.",
+   "\u2022",
+   "\u2014",
+   "_^____",
+   "I",
+   "\u2014_\u2014_\u2014_\u2014\u2014_\u2014",
+   "-_\u0084_\u201e",
+   "urs.",
+   "oauaHTS.",
+   ",ft",
+   "\u00ab\u25a0\u2022\u00ab",
+   "\u2122\u00ab-",
+   "o",
+   "*-\u00bb",
+   "THI",
+   "810",
+   "RACE",
+   "NEAR",
+   "CLEVELAND.",
+   "'\"\u00b0\u00b0\"\"\"",
+   "\"-",
+   "\"*",
+   "ANN",
+   "OIRECT,",
+   "LITHE",
+   "OAUGMTER",
+   "OF",
+   "\u25a0\u00bb'",
+   "\"\u25a0",
+   "*\u00a3'",
+   "M|(|t",
+   "W|N",
+   "\u201e",
+   "\u201e",
+   "N|%M",
+   ",",
+   "N",
+   "THt",
+   "THIRD",
+   "HEAT."
+  ],
+  "page_seq_num": 334,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107406\/1906081801\/0334.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1906-08-18",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9808552861213684,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107406\/1906081801\/0334\/007_0_98.jpg"
+ },
+ "id": 893
+}

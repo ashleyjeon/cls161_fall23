@@ -1,0 +1,105 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763933,
+   "id": 1844001,
+   "lead_time": 1.539,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xj_2ONJP1G",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_felwort_ver01",
+  "box": [
+   0.7894184890302639,
+   0.11169378339082085,
+   0.9258184340393659,
+   0.46386962437253365
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918060101\/1284\/003_0_94.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_felwort_ver01%2Fdata%2Fsn92070582%2F00280774078%2F1918060101%2F1284.jp2\/pct:78.94,11.17,13.64,35.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070582",
+  "name": "The evening herald. [volume]",
+  "ocr": [
+   "FOR",
+   "WOMEN",
+   "AND",
+   "CHILDREN",
+   "fi",
+   "p",
+   "t'l",
+   "'Pirn",
+   "!if",
+   "...''.-",
+   ".1",
+   "F'vs;-",
+   ";",
+   "......",
+   "z",
+   ".'",
+   "'",
+   "'",
+   "'",
+   "t-",
+   "?",
+   "\"",
+   ".--i",
+   "A-",
+   "-",
+   "7",
+   ",",
+   ",\",",
+   ".",
+   ",",
+   "i",
+   ".",
+   "4",
+   "t",
+   "V,,",
+   "t",
+   "t",
+   "A",
+   "'.',",
+   "v",
+   "?",
+   "w",
+   "'",
+   ".",
+   "J",
+   "V",
+   "ty",
+   "iu",
+   ",..",
+   "!",
+   "t",
+   ",....i.",
+   "1",
+   ".",
+   ".",
+   "."
+  ],
+  "page_seq_num": 1284,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918060101\/1284.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1918-06-01",
+  "publisher": "The Evening Herald",
+  "score": 0.9431339502334595,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918060101\/1284\/003_0_94.jpg"
+ },
+ "id": 1844
+}

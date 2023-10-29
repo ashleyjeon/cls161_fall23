@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752868,
+   "id": 1751001,
+   "lead_time": 4.117,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yrgY7b-16b",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_detroit_ver02",
+  "box": [
+   0.3094627855175698,
+   0.1408773960755498,
+   0.6787133310355392,
+   0.3058527918617981
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_detroit_ver02\/data\/sn98066406\/00296023437\/1917112901\/0287\/007_0_95.jpg",
+  "geographic_coverage": [
+   "Michigan--Saint Clair--Yale"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_detroit_ver02%2Fdata%2Fsn98066406%2F00296023437%2F1917112901%2F0287.jp2\/pct:30.94,14.09,36.93,16.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn98066406",
+  "name": "The Yale expositor.",
+  "ocr": [
+   ",",
+   ":-.;",
+   ".",
+   ".",
+   "j..V.V",
+   "h",
+   "wrf'ti.\"-",
+   "ifcTA-",
+   "'rJ;'",
+   "'",
+   "''V.'.",
+   "\"i",
+   "Vr",
+   "T",
+   "'",
+   "Mrc",
+   "'7'",
+   "'",
+   "'",
+   "VJ",
+   "Vale's",
+   "New",
+   "Methodist",
+   "Episcopal",
+   "Church,",
+   "Corner",
+   "Main",
+   "and",
+   "North",
+   "Streets.",
+   "HKV.",
+   "WALMttiX",
+   "(iKACIl"
+  ],
+  "page_seq_num": 287,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_detroit_ver02\/data\/sn98066406\/00296023437\/1917112901\/0287.jp2",
+  "place_of_publication": "Yale, St. Clair County, Mich.",
+  "pub_date": "1917-11-29",
+  "publisher": "JAS. A. Menzies",
+  "score": 0.9573175311088562,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_detroit_ver02\/data\/sn98066406\/00296023437\/1917112901\/0287\/007_0_95.jpg"
+ },
+ "id": 1751
+}

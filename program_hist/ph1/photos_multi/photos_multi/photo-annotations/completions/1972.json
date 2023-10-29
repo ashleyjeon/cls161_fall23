@@ -1,0 +1,109 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767804,
+   "id": 1972001,
+   "lead_time": 1.838,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "t3QdaAyBZT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_fennel_ver02",
+  "box": [
+   0.6239310187730562,
+   0.55415936127252,
+   0.7427798389170687,
+   0.7990850808357429
+  ],
+  "edition_seq_num": 2,
+  "filepath": "njr_fennel_ver02\/data\/sn85035720\/00383340822\/1920090202\/0616\/007_0_95.jpg",
+  "geographic_coverage": [
+   "New Jersey--Middlesex--Perth Amboy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_fennel_ver02%2Fdata%2Fsn85035720%2F00383340822%2F1920090202%2F0616.jp2\/pct:62.39,55.42,11.89,24.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn85035720",
+  "name": "Perth Amboy evening news. [volume]",
+  "ocr": [
+   "AWAKENS",
+   "AFTER",
+   "TWO",
+   "YEARS\u2019",
+   "SLEEP",
+   "HRS.",
+   "CHARLES",
+   "JORGCHSOH",
+   "\\>Ai",
+   "KuijHA,",
+   "Wis.\u2014Mrs.",
+   "Clara",
+   "Jorgenson,",
+   "of",
+   "Racine,",
+   "Wis.,",
+   "who",
+   "sud",
+   "denly",
+   "awakened",
+   "from",
+   "a",
+   "two-year",
+   "sleep,",
+   "is",
+   "steadily",
+   "recovering.",
+   "Dhr",
+   "ing",
+   "the",
+   "two",
+   "years",
+   "she",
+   "was",
+   "fed",
+   "by",
+   "attendants",
+   "like",
+   "a",
+   "baby:",
+   "\"Though",
+   "I",
+   "couldn\u2019t",
+   "open",
+   "my",
+   "eyes,",
+   "utter",
+   "a",
+   "word",
+   "or",
+   "move",
+   "a",
+   "muscle,",
+   "I",
+   "knew",
+   "each",
+   "day\u2019s",
+   "events",
+   "and",
+   "heard"
+  ],
+  "page_seq_num": 616,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_fennel_ver02\/data\/sn85035720\/00383340822\/1920090202\/0616.jp2",
+  "place_of_publication": "Perth Amboy, N.J.",
+  "pub_date": "1920-09-02",
+  "publisher": "Perth Amboy Evening News Co.",
+  "score": 0.9538209438323975,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_fennel_ver02\/data\/sn85035720\/00383340822\/1920090202\/0616\/007_0_95.jpg"
+ },
+ "id": 1972
+}

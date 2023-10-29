@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611756944,
+   "id": 1702001,
+   "lead_time": 1614.221,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KO4d-KBbF8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_hincapie_ver01",
+  "box": [
+   0.029529276028485367,
+   0.1571554810606834,
+   0.7032062369333186,
+   0.46791057723709994
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_hincapie_ver01\/data\/sn85058396\/print\/1917021001\/0436\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_hincapie_ver01%2Fdata%2Fsn85058396%2Fprint%2F1917021001%2F0436.jp2\/pct:2.95,15.72,67.37,31.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "WOMAN",
+   "DEPOSITOR",
+   "GMNG",
+   "HER",
+   "FINGER",
+   "PRINTS",
+   "FOR",
+   "RECORD",
+   "ZZZXTX",
+   "MIT",
+   "RTF",
+   "BORGALOFF",
+   "was",
+   "elaborate",
+   "checks",
+   "and",
+   "balances",
+   "and",
+   "alarms",
+   "which",
+   "bankers",
+   "use",
+   "to",
+   "protect",
+   "the",
+   "trust",
+   "they",
+   "have"
+  ],
+  "page_seq_num": 436,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_hincapie_ver01\/data\/sn85058396\/print\/1917021001\/0436.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1917-02-10",
+  "publisher": "W. Glasmann",
+  "score": 0.9519920349121094,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_hincapie_ver01\/data\/sn85058396\/print\/1917021001\/0436\/000_0_95.jpg"
+ },
+ "id": 1702
+}

@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754428,
+   "id": 1031001,
+   "lead_time": 1.845,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "caWFCXm4xa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_llano_ver01",
+  "box": [
+   0.7060473290559287,
+   0.08841437688784136,
+   0.8465440981856016,
+   0.3364452149110527
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_llano_ver01\/data\/sn85066387\/00175047955\/1908111601\/0374\/006_0_98.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_llano_ver01%2Fdata%2Fsn85066387%2F00175047955%2F1908111601%2F0374.jp2\/pct:70.6,8.85,14.05,24.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "Brother",
+   "of",
+   "Heney",
+   "Guards",
+   "His",
+   "Affairs",
+   "Benjamin",
+   "Heney"
+  ],
+  "page_seq_num": 374,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_llano_ver01\/data\/sn85066387\/00175047955\/1908111601\/0374.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1908-11-16",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9806406497955322,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_llano_ver01\/data\/sn85066387\/00175047955\/1908111601\/0374\/006_0_98.jpg"
+ },
+ "id": 1031
+}

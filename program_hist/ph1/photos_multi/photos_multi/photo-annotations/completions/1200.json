@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757286,
+   "id": 1200001,
+   "lead_time": 6.652,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WGnHoEo0lj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_fifteen_ver01",
+  "box": [
+   0.22883175580929488,
+   0.29171548485339976,
+   0.7594537678554919,
+   0.44111223347271894
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_fifteen_ver01\/data\/sn85058397\/paper\/1910082001\/0409\/001_0_90.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_fifteen_ver01%2Fdata%2Fsn85058397%2Fpaper%2F1910082001%2F0409.jp2\/pct:22.88,29.18,53.07,14.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058397",
+  "name": "The Evening standard. [volume]",
+  "ocr": [
+   "Bellehaveo",
+   "Home",
+   "of",
+   "Mrs",
+   "Rida",
+   "Johnson",
+   "Young",
+   "Greenwich",
+   "Conn"
+  ],
+  "page_seq_num": 409,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_fifteen_ver01\/data\/sn85058397\/paper\/1910082001\/0409.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1910-08-20",
+  "publisher": "W. Glasmann",
+  "score": 0.9075074791908264,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_fifteen_ver01\/data\/sn85058397\/paper\/1910082001\/0409\/001_0_90.jpg"
+ },
+ "id": 1200
+}

@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767219,
+   "id": 149001,
+   "lead_time": 1.97,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ciDz-EmvQb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_gold_ver01",
+  "box": [
+   0.17028613586827857,
+   0.15062627729201158,
+   0.3224479062126873,
+   0.51122983356862
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_gold_ver01\/data\/sn82016413\/00237286054\/1896040101\/0626\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_gold_ver01%2Fdata%2Fsn82016413%2F00237286054%2F1896040101%2F0626.jp2\/pct:17.02,15.07,15.22,36.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016413",
+  "name": "Evening bulletin. [volume]",
+  "ocr": [
+   "tm",
+   "maxLfJmmmf",
+   ";",
+   ".",
+   "4t",
+   ",",
+   "i'tsl",
+   "4tr",
+   "f",
+   "m",
+   ",",
+   "f'",
+   "Cv4",
+   "Aw''",
+   "'fm",
+   "tf",
+   ";",
+   "JMU",
+   "At",
+   "'",
+   "UUy",
+   "lift",
+   "in",
+   "it,",
+   "mm",
+   "s",
+   "?r",
+   ".,.",
+   ",",
+   "4Rr",
+   "'",
+   ",A.i",
+   "y",
+   "\"aAmim.",
+   "m",
+   "&",
+   "&:",
+   ":;;;?-",
+   "jaei.",
+   "i",
+   "-",
+   ",",
+   "j",
+   "\"",
+   "tWmwmA",
+   "MiMMhrnSt",
+   "v'rxwrryarsmaatr",
+   "m&t",
+   "yjjf",
+   "..",
+   ".-.-;.-",
+   "\"",
+   "'",
+   "Trr\"r"
+  ],
+  "page_seq_num": 626,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_gold_ver01\/data\/sn82016413\/00237286054\/1896040101\/0626.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1896-04-01",
+  "publisher": "[publisher not identified]",
+  "score": 0.9589738845825195,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_gold_ver01\/data\/sn82016413\/00237286054\/1896040101\/0626\/003_0_95.jpg"
+ },
+ "id": 149
+}

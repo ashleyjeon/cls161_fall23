@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748257,
+   "id": 773001,
+   "lead_time": 1.918,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VyNoSHthyZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_oasis_ver01",
+  "box": [
+   0.5709988582835478,
+   0.6898849703741412,
+   0.7023176843979779,
+   0.8507142303683234
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_oasis_ver01\/data\/sn85042462\/00175047293\/1905052101\/0298\/011_0_95.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_oasis_ver01%2Fdata%2Fsn85042462%2F00175047293%2F1905052101%2F0298.jp2\/pct:57.09,68.99,13.14,16.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "REFORMER,",
+   "IS",
+   "DYING",
+   "MARY",
+   "A.",
+   "LIVERMORE",
+   "Known",
+   "Woman",
+   "Is",
+   "in",
+   "Seml.Con.",
+   "scious",
+   "Condition",
+   "and",
+   "Fail"
+  ],
+  "page_seq_num": 298,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_oasis_ver01\/data\/sn85042462\/00175047293\/1905052101\/0298.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1905-05-21",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9528411626815796,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_oasis_ver01\/data\/sn85042462\/00175047293\/1905052101\/0298\/011_0_95.jpg"
+ },
+ "id": 773
+}

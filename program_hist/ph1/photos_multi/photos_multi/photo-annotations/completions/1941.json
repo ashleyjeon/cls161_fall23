@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764239,
+   "id": 1941001,
+   "lead_time": 1.997,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zV9w-UI3Yq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_ambrosia_ver01",
+  "box": [
+   0.14578167084724672,
+   0.1713563112641482,
+   0.2866432128414031,
+   0.3165633516738253
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_ambrosia_ver01\/data\/sn83030313\/00271744080\/1920010701\/0211\/004_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_ambrosia_ver01%2Fdata%2Fsn83030313%2F00271744080%2F1920010701%2F0211.jp2\/pct:14.57,17.14,14.09,14.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030313",
+  "name": "The New York herald. [volume]",
+  "ocr": [
+   "j",
+   "'",
+   "I",
+   "IBS",
+   "mmj",
+   "gjj",
+   "VILLI",
+   "AM"
+  ],
+  "page_seq_num": 211,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_ambrosia_ver01\/data\/sn83030313\/00271744080\/1920010701\/0211.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1920-01-07",
+  "publisher": "James Gordon Bennett",
+  "score": 0.9719430208206177,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_ambrosia_ver01\/data\/sn83030313\/00271744080\/1920010701\/0211\/004_0_97.jpg"
+ },
+ "id": 1941
+}

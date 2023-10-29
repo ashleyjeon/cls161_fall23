@@ -1,0 +1,96 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675732,
+   "id": 661001,
+   "lead_time": 2.224,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dIgJK5sP6e",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_golf_ver04",
+  "box": [
+   0.2240608595800525,
+   0.042062425197959524,
+   0.7868999971805282,
+   0.3054749894119071
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_golf_ver04\/data\/sn84028490\/00237289389\/1903081801\/0869\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Ohio--Stark--Canton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_golf_ver04%2Fdata%2Fsn84028490%2F00237289389%2F1903081801%2F0869.jp2\/pct:22.4,4.21,56.29,26.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn84028490",
+  "name": "The Stark County Democrat. [volume]",
+  "ocr": [
+   "POE",
+   "MiI-'",
+   ".'\"",
+   "'",
+   "'",
+   "I",
+   "-",
+   "'",
+   "-i:lij-,iiit-tiiiuiri-i-",
+   "3vamESnnHflHBMKE2Sfl$EL'",
+   "B!2kMfjm&MnmnMJi&",
+   "..j.\".vkki",
+   ".",
+   "KifflMfliaP&yPWaaMWaaWlWW",
+   "WMMBMBWf",
+   "JwMff",
+   "famsfc",
+   "MalMTwEsriSPMs",
+   "Bam",
+   "BBlJlMMBiMBlMmLff",
+   ".",
+   "rjtMaaaaMBBaMBaaagwtlBlBMBaaaMgaafSfaSi",
+   "I",
+   "aWelflPOT,ififfimtMaESalai",
+   "II",
+   "BjWHKsEjLSclaMVaaM",
+   "I",
+   "u",
+   "v",
+   "U",
+   "--rfr,r",
+   "'",
+   "iHi",
+   "liil",
+   "mmmmtL",
+   "Hg\"!iT.IJJllJUMMlMOM",
+   "0",
+   ")",
+   "PIX7'",
+   "X",
+   "..PA.TEIAI2CH.",
+   "OF",
+   "VENICE",
+   "IN",
+   "HI1",
+   "BARGE,",
+   "iff"
+  ],
+  "page_seq_num": 869,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_golf_ver04\/data\/sn84028490\/00237289389\/1903081801\/0869.jp2",
+  "place_of_publication": "Canton, Ohio",
+  "pub_date": "1903-08-18",
+  "publisher": "W. & G. Dunbar, Jr.",
+  "score": 0.986068844795227,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_golf_ver04\/data\/sn84028490\/00237289389\/1903081801\/0869\/001_0_98.jpg"
+ },
+ "id": 661
+}

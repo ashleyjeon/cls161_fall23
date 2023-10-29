@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767611,
+   "id": 1970001,
+   "lead_time": 1.985,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "x5U2lKaVw8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_quercitron_ver01",
+  "box": [
+   0.04703383083461002,
+   0.4285429954528809,
+   0.28614067688614925,
+   0.6800315856933594
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_quercitron_ver01\/data\/sn83045774\/00271744092\/1920101701\/0593\/005_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_quercitron_ver01%2Fdata%2Fsn83045774%2F00271744092%2F1920101701%2F0593.jp2\/pct:4.7,42.86,23.92,25.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045774",
+  "name": "The New York herald. [volume]",
+  "ocr": [
+   "\\\\",
+   "Edna",
+   "Hihhard,",
+   "who",
+   "hart",
+   "an",
+   "im*",
+   "\\V",
+   "?'",
+   "port",
+   "a",
+   "n",
+   "f",
+   "part",
+   "in",
+   "\"The",
+   "Dad",
+   "Man.\""
+  ],
+  "page_seq_num": 593,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_quercitron_ver01\/data\/sn83045774\/00271744092\/1920101701\/0593.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1920-10-17",
+  "publisher": "Sun-Herald",
+  "score": 0.9009721279144287,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_quercitron_ver01\/data\/sn83045774\/00271744092\/1920101701\/0593\/005_0_90.jpg"
+ },
+ "id": 1970
+}

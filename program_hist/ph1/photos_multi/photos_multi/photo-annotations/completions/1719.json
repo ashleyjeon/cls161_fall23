@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748243,
+   "id": 1719001,
+   "lead_time": 13.422,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o4fapLzwoJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_eadweard_ver01",
+  "box": [
+   0.05193754588588003,
+   0.8077441967212475,
+   0.17941906577662417,
+   0.9739607926253434
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_eadweard_ver01\/data\/sn90061556\/00200292066\/1917081801\/0259\/007_0_92.jpg",
+  "geographic_coverage": [
+   "Missouri--Jackson--Kansas City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_eadweard_ver01%2Fdata%2Fsn90061556%2F00200292066%2F1917081801%2F0259.jp2\/pct:5.19,80.78,12.75,16.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn90061556",
+  "name": "The Kansas City sun.",
+  "ocr": [
+   "DR.",
+   "LON",
+   "M,",
+   "TILLMAN,",
+   "Grand",
+   "Medical",
+   "Examiner",
+   "of",
+   "the",
+   "Fellows",
+   "of",
+   "Missouri,",
+   "and",
+   "one",
+   "of",
+   "Kan",
+   "sa",
+   "City's",
+   "most",
+   "efficient",
+   "and",
+   "ful",
+   "young",
+   "physicians."
+  ],
+  "page_seq_num": 259,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_eadweard_ver01\/data\/sn90061556\/00200292066\/1917081801\/0259.jp2",
+  "place_of_publication": "Kansas City, Mo.",
+  "pub_date": "1917-08-18",
+  "publisher": "N.C. Crews",
+  "score": 0.9270654320716858,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_eadweard_ver01\/data\/sn90061556\/00200292066\/1917081801\/0259\/007_0_92.jpg"
+ },
+ "id": 1719
+}

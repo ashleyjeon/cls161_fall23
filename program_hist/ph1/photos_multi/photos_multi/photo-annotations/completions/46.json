@@ -1,0 +1,86 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763935,
+   "id": 46001,
+   "lead_time": 1.667,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Qw10iHFw_1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_bravo_ver01",
+  "box": [
+   0.3049838043922602,
+   0.21917964371730891,
+   0.6673314294149709,
+   0.49254594472205915
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895041301\/0748\/002_0_93.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_bravo_ver01%2Fdata%2Fsn84025828%2F00294555705%2F1895041301%2F0748.jp2\/pct:30.49,21.92,36.24,27.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "HEHV)-TP",
+   "fJ",
+   "..",
+   ".",
+   ".",
+   ".",
+   ".1",
+   "Hf'",
+   "V",
+   "'",
+   "W.1",
+   ".",
+   "&aMf&tii.",
+   "J",
+   "-",
+   "?",
+   "iXEHSBHHHHHHHHHHHHHHHHHHHHHHHlWrT?",
+   "vi",
+   "MBEIk",
+   "t",
+   "!V",
+   "mPSBBBBBBV?''",
+   "IfiMvsia",
+   "aSSSSSSSSSSSSSSSSJBISjSa'",
+   "SHSBk?x\"",
+   "SSSSSSSSSSSSSSSflfifiBSAkt",
+   "SESBh$V",
+   "HbusjfeBKi",
+   "SBBBBBBBBBBBBBBBBBBBBBBBBBBJlt",
+   "SBBBBBBBBBBBBBBBBBBBBBBBBBJpSvr'1",
+   "'SBBBBBBBBBBBBBBBBBBBB6&v",
+   "VBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBSBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBK1!!",
+   "HON.",
+   "HIRAM",
+   "J.",
+   "JONES.",
+   ".v'.vfH"
+  ],
+  "page_seq_num": 748,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895041301\/0748.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1895-04-13",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9324572086334229,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895041301\/0748\/002_0_93.jpg"
+ },
+ "id": 46
+}

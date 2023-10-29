@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750805,
+   "id": 734001,
+   "lead_time": 3.57,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "RbZFNxChpW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.14437164564717395,
+   0.5632766342491656,
+   0.48322481635257003,
+   0.682525661051222
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107340\/1904031701\/0622\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107340%2F1904031701%2F0622.jp2\/pct:14.43,56.33,33.89,11.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "field",
+   "HnADQL'Aivrnnft",
+   "or",
+   "Tim",
+   "oknerai-",
+   "in-Arr-ciiiirr",
+   "or",
+   "iitaff",
+   "and",
+   "orncsM",
+   "watcimno",
+   "uam",
+   "AKriI.I.I.UV",
+   "ptIACTICK",
+   "KnOM",
+   "a",
+   "PIBTAKCH",
+   "(f*m-n",
+   "a",
+   "|>hotos;r*ph",
+   "takrn",
+   "durlns;",
+   "th'",
+   "r\u00ab-\u00bbr.t",
+   "<",
+   "md",
+   "BjHmm",
+   "and",
+   "atllred",
+   "for",
+   "eirlunlve",
+   "publication",
+   "la",
+   "the",
+   "I'nil'd",
+   "Rttiti",
+   "by",
+   "a",
+   "corresponded",
+   "t",
+   "of",
+   "the",
+   "S'rKtpiptr",
+   "Rnterprls*",
+   "A**orlatlon.)"
+  ],
+  "page_seq_num": 622,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107340\/1904031701\/0622.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1904-03-17",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9855217933654785,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107340\/1904031701\/0622\/002_0_98.jpg"
+ },
+ "id": 734
+}

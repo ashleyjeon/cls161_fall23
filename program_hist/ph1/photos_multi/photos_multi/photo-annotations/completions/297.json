@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768504,
+   "id": 297001,
+   "lead_time": 1.991,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tnXOd-c4Ch",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_blueberry_ver01",
+  "box": [
+   0.2102354462902578,
+   0.5251207575008131,
+   0.5000598025000956,
+   0.7152753897780247
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_blueberry_ver01\/data\/sn85066408\/00271766865\/1898011301\/0081\/001_0_96.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_blueberry_ver01%2Fdata%2Fsn85066408%2F00271766865%2F1898011301%2F0081.jp2\/pct:21.02,52.52,28.99,19.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066408",
+  "name": "L'Italia. [volume]",
+  "ocr": [
+   "I",
+   "LAUDARI",
+   "DEL",
+   "GIORNO",
+   "D\u2019OGGI:",
+   "Griffo",
+   "o",
+   "F.",
+   "Mc.Conncl",
+   "che",
+   "batterono",
+   "ieri",
+   "a",
+   "V\u00e0lleio"
+  ],
+  "page_seq_num": 81,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_blueberry_ver01\/data\/sn85066408\/00271766865\/1898011301\/0081.jp2",
+  "place_of_publication": "San Francisco, Calif.",
+  "pub_date": "1898-01-13",
+  "publisher": "Italian Pub. Co.",
+  "score": 0.9617448449134827,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_blueberry_ver01\/data\/sn85066408\/00271766865\/1898011301\/0081\/001_0_96.jpg"
+ },
+ "id": 297
+}

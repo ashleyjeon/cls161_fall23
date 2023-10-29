@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746884,
+   "id": 1288001,
+   "lead_time": 5.074,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6rHk-qwpIR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_cardinal_ver01",
+  "box": [
+   0.3255987696423809,
+   0.02857289554730242,
+   0.6238935532983642,
+   0.2456684493655596
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_cardinal_ver01\/data\/sn83025121\/00294552339\/1911031401\/0733\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_cardinal_ver01%2Fdata%2Fsn83025121%2F00294552339%2F1911031401%2F0733.jp2\/pct:32.55,2.86,29.83,21.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025121",
+  "name": "The Hawaiian gazette. [volume]",
+  "ocr": [
+   "JSBSlJUi",
+   "l1t5JSSSigJStIlliW",
+   "ffiiiligiillWitmMiirtH",
+   "ANALYSES",
+   "OF",
+   "POi",
+   "SHOW",
+   "AS",
+   "RULE",
+   "VERY",
+   "POOR",
+   "QUALITY",
+   "looooHfirmKfiMHtllBLMorPSBffS",
+   "vt",
+   "2Aii",
+   "BMTiTff",
+   "TrffiloMoooH",
+   "c",
+   "WAITINO",
+   "TOR",
+   "THEIR",
+   "POI",
+   "Pcoplo",
+   "in",
+   "Kawniahao",
+   "grounds",
+   "ready",
+   "for",
+   "tho",
+   "coming",
+   "of",
+   "Board",
+   "of",
+   "Health",
+   "pol",
+   "supplies",
+   "t"
+  ],
+  "page_seq_num": 733,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_cardinal_ver01\/data\/sn83025121\/00294552339\/1911031401\/0733.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1911-03-14",
+  "publisher": "Published ... by J.H. Black at the G.P.O.",
+  "score": 0.9731035232543945,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_cardinal_ver01\/data\/sn83025121\/00294552339\/1911031401\/0733\/005_0_97.jpg"
+ },
+ "id": 1288
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751088,
+   "id": 23001,
+   "lead_time": 3.616,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LrVM3Ldbwk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_batman_ver01",
+  "box": [
+   0.07175202673294125,
+   0.10560074785798332,
+   0.2518982047891795,
+   0.32329085697092413
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_batman_ver01\/data\/sn86063242\/00206533183\/1895081501\/0166\/007_0_91.jpg",
+  "geographic_coverage": [
+   "Kentucky--Wolfe--Hazel Green"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_batman_ver01%2Fdata%2Fsn86063242%2F00206533183%2F1895081501%2F0166.jp2\/pct:7.17,10.57,18.02,21.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063242",
+  "name": "The Hazel Green herald. [volume]",
+  "ocr": [
+   "-",
+   "f",
+   "flTj",
+   "-",
+   "JLl",
+   "ilk-",
+   "S",
+   "US",
+   "f",
+   "rJS",
+   "FT",
+   "4SU"
+  ],
+  "page_seq_num": 166,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_batman_ver01\/data\/sn86063242\/00206533183\/1895081501\/0166.jp2",
+  "place_of_publication": "Hazel Green, Wolfe County, Ky.",
+  "pub_date": "1895-08-15",
+  "publisher": "Spencer Cooper",
+  "score": 0.9109119176864624,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_batman_ver01\/data\/sn86063242\/00206533183\/1895081501\/0166\/007_0_91.jpg"
+ },
+ "id": 23
+}

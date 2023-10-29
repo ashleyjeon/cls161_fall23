@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769060,
+   "id": 460001,
+   "lead_time": 1.834,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YFC2O-U4s4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_index_ver01",
+  "box": [
+   0.3401463292973303,
+   0.5295755038917286,
+   0.5222730303144122,
+   0.6914236075816101
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_index_ver01\/data\/sn83045604\/00202199720\/1900102101\/0352\/005_0_90.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_index_ver01%2Fdata%2Fsn83045604%2F00202199720%2F1900102101%2F0352.jp2\/pct:34.01,52.96,18.22,16.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 352,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_index_ver01\/data\/sn83045604\/00202199720\/1900102101\/0352.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1900-10-21",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.9074272513389587,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_index_ver01\/data\/sn83045604\/00202199720\/1900102101\/0352\/005_0_90.jpg"
+ },
+ "id": 460
+}

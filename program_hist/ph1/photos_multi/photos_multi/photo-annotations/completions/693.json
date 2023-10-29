@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746974,
+   "id": 693001,
+   "lead_time": 1.99,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rTbGLoyayi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_mission_ver01",
+  "box": [
+   0.6590587395502682,
+   0.5230898163436069,
+   0.8086235193362795,
+   0.6577550444542883
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_mission_ver01\/data\/sn84029386\/00295871507\/1904081801\/1020\/006_0_91.jpg",
+  "geographic_coverage": [
+   "Kansas--Dickinson--Abilene"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_mission_ver01%2Fdata%2Fsn84029386%2F00295871507%2F1904081801%2F1020.jp2\/pct:65.9,52.31,14.96,13.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn84029386",
+  "name": "Abilene weekly reflector. [volume]",
+  "ocr": [
+   "hit",
+   "w",
+   "1",
+   "VW",
+   "IK",
+   "...",
+   "BatPRESS",
+   "OP",
+   "ALL",
+   "RUSSIA."
+  ],
+  "page_seq_num": 1020,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_mission_ver01\/data\/sn84029386\/00295871507\/1904081801\/1020.jp2",
+  "place_of_publication": "Abilene, Kan.",
+  "pub_date": "1904-08-18",
+  "publisher": "Reflector Pub.",
+  "score": 0.9105581641197205,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_mission_ver01\/data\/sn84029386\/00295871507\/1904081801\/1020\/006_0_91.jpg"
+ },
+ "id": 693
+}

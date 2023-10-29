@@ -1,0 +1,116 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751490,
+   "id": 1292001,
+   "lead_time": 1.813,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UUwB1E0WGA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_hemlock_ver01",
+  "box": [
+   0.29546668643043156,
+   0.6721742555120526,
+   0.4303522019159226,
+   0.9650619542075635
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_hemlock_ver01\/data\/sn83016689\/00279551850\/1911060901\/0696\/007_0_94.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_hemlock_ver01%2Fdata%2Fsn83016689%2F00279551850%2F1911060901%2F0696.jp2\/pct:29.54,67.22,13.49,29.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "BEAUTIFUL",
+   "ATLANTA",
+   "WIDOW",
+   "TO",
+   "MARRY",
+   "NAVAL",
+   "OFFICER",
+   "\u25a0rm\u00dfHnP",
+   "msBI",
+   "n\u00df*",
+   "'",
+   "*",
+   "\u2022'",
+   "\u25a0Bay",
+   "a",
+   "or",
+   "\\",
+   "-",
+   ".-'V",
+   "Mr",
+   "+",
+   "V",
+   "i~",
+   "\u2022",
+   "Mrs.",
+   "Beasts",
+   "Draper",
+   "McKeldin.",
+   "She",
+   "la",
+   "the",
+   "widow",
+   "of",
+   "the",
+   "late",
+   "James",
+   "McKeldin,",
+   "of",
+   "Atlanta,",
+   "and",
+   "will",
+   "marry,",
+   "this",
+   "month,",
+   "Lleut.-Coni.",
+   "Leigh",
+   "Car",
+   "lyle",
+   "Palmer,",
+   "U.",
+   "8",
+   "N.",
+   "She",
+   "Is",
+   "wealthy",
+   "and",
+   "a",
+   "southern",
+   "society",
+   "leader,",
+   "with",
+   "a",
+   "home",
+   "also",
+   "In",
+   "Washington.",
+   "Palmer"
+  ],
+  "page_seq_num": 696,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_hemlock_ver01\/data\/sn83016689\/00279551850\/1911060901\/0696.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1911-06-09",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9451481699943542,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_hemlock_ver01\/data\/sn83016689\/00279551850\/1911060901\/0696\/007_0_94.jpg"
+ },
+ "id": 1292
+}

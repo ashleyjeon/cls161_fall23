@@ -1,0 +1,44 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752007,
+   "id": 1155001,
+   "lead_time": 2.355,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_rubidoux_ver01",
+  "box": [
+   0.05621540185176965,
+   0.6388975796634204,
+   0.684855316624497,
+   0.9650281096157962
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_rubidoux_ver01\/data\/sn85042462\/00175035850\/1910031301\/0283\/001_0_97.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_rubidoux_ver01%2Fdata%2Fsn85042462%2F00175035850%2F1910031301%2F0283.jp2\/pct:5.62,63.89,62.87,32.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "\u2014Photcx",
+   "by",
+   "Graham",
+   "Photo",
+   "Co."
+  ],
+  "page_seq_num": 283,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_rubidoux_ver01\/data\/sn85042462\/00175035850\/1910031301\/0283.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1910-03-13",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9716274738311768,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_rubidoux_ver01\/data\/sn85042462\/00175035850\/1910031301\/0283\/001_0_97.jpg"
+ },
+ "id": 1155
+}

@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766458,
+   "id": 774001,
+   "lead_time": 1.82,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cmcJiPs4LJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_carmine_ver01",
+  "box": [
+   0.379826635084042,
+   0.45916636871727,
+   0.5128203601371951,
+   0.679719851968067
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905042201\/0775\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_carmine_ver01%2Fdata%2Fsn82015415%2F00237284008%2F1905042201%2F0775.jp2\/pct:37.98,45.92,13.3,22.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015415",
+  "name": "The Hawaiian star. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 775,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905042201\/0775.jp2",
+  "place_of_publication": "Honolulu [Oahu]",
+  "pub_date": "1905-04-22",
+  "publisher": "Hawaiian Star Newspaper Association",
+  "score": 0.9780404567718506,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905042201\/0775\/002_0_97.jpg"
+ },
+ "id": 774
+}

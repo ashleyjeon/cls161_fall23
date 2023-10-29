@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741092,
+   "id": 1519001,
+   "lead_time": 1.767,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZDnFcE0_7W",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_indianpaintbrush_ver01",
+  "box": [
+   0.3061935996359783,
+   0.3922614311204806,
+   0.4315487258685975,
+   0.539507507647156
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_indianpaintbrush_ver01\/data\/sn83025316\/00212476742\/1914032501\/0819\/012_0_95.jpg",
+  "geographic_coverage": [
+   "Montana--Missoula--Missoula"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_indianpaintbrush_ver01%2Fdata%2Fsn83025316%2F00212476742%2F1914032501%2F0819.jp2\/pct:30.61,39.23,12.54,14.73\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025316",
+  "name": "The Daily Missoulian. [volume]",
+  "ocr": [
+   "JOHN",
+   "G.",
+   "WOOLLEY."
+  ],
+  "page_seq_num": 819,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_indianpaintbrush_ver01\/data\/sn83025316\/00212476742\/1914032501\/0819.jp2",
+  "place_of_publication": "Missoula, Mont.",
+  "pub_date": "1914-03-25",
+  "publisher": "Missoulian Pub. Co.",
+  "score": 0.9563519954681396,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_indianpaintbrush_ver01\/data\/sn83025316\/00212476742\/1914032501\/0819\/012_0_95.jpg"
+ },
+ "id": 1519
+}

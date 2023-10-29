@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751183,
+   "id": 589001,
+   "lead_time": 1.767,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "X8Rkta6pGD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_gilia_ver01",
+  "box": [
+   0.0844183356927739,
+   0.28074893164762965,
+   0.1910916335291142,
+   0.37865959208523237
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_gilia_ver01\/data\/sn84025811\/00211100503\/1902103101\/0646\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_gilia_ver01%2Fdata%2Fsn84025811%2F00211100503%2F1902103101%2F0646.jp2\/pct:8.44,28.08,10.67,9.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025811",
+  "name": "The Seattle Republican. [volume]",
+  "ocr": [
+   "SENATOR",
+   "HEMRICH."
+  ],
+  "page_seq_num": 646,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_gilia_ver01\/data\/sn84025811\/00211100503\/1902103101\/0646.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1902-10-31",
+  "publisher": "Republican Pub. Co.",
+  "score": 0.9821072220802307,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_gilia_ver01\/data\/sn84025811\/00211100503\/1902103101\/0646\/000_0_98.jpg"
+ },
+ "id": 589
+}

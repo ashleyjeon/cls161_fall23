@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768881,
+   "id": 140001,
+   "lead_time": 1.806,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3AGOBawdkB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_arbok_ver04",
+  "box": [
+   0.10363323070384838,
+   0.14371766463569974,
+   0.19438853322723765,
+   0.22426497749660326
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_arbok_ver04\/data\/sn88064122\/00295874168\/1896112101\/0278\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Louisiana--Terrebonne--Houma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_arbok_ver04%2Fdata%2Fsn88064122%2F00295874168%2F1896112101%2F0278.jp2\/pct:10.36,14.38,9.08,8.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064122",
+  "name": "The Houma courier.",
+  "ocr": [
+   "\u25a0"
+  ],
+  "page_seq_num": 278,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_arbok_ver04\/data\/sn88064122\/00295874168\/1896112101\/0278.jp2",
+  "place_of_publication": "Houma, La.",
+  "pub_date": "1896-11-21",
+  "publisher": "E.F. Bazet",
+  "score": 0.9750562906265259,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_arbok_ver04\/data\/sn88064122\/00295874168\/1896112101\/0278\/000_0_97.jpg"
+ },
+ "id": 140
+}

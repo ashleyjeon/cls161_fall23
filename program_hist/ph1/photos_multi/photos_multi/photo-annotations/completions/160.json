@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763548,
+   "id": 160001,
+   "lead_time": 1.038,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "AtmSKmBMoY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_ozzyosbourne_ver01",
+  "box": [
+   0.23201332092285157,
+   0.7206436740896089,
+   0.32060159955705914,
+   0.8206452750117401
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_ozzyosbourne_ver01\/data\/sn85026941\/0017503402A\/1897050701\/0076\/001_0_92.jpg",
+  "geographic_coverage": [
+   "Virginia--Shenandoah--Woodstock"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_ozzyosbourne_ver01%2Fdata%2Fsn85026941%2F0017503402A%2F1897050701%2F0076.jp2\/pct:23.2,72.07,8.86,10.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn85026941",
+  "name": "Shenandoah herald. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 76,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_ozzyosbourne_ver01\/data\/sn85026941\/0017503402A\/1897050701\/0076.jp2",
+  "place_of_publication": "Woodstock, Va.",
+  "pub_date": "1897-05-07",
+  "publisher": "Gatewood & Trout",
+  "score": 0.9280345439910889,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_ozzyosbourne_ver01\/data\/sn85026941\/0017503402A\/1897050701\/0076\/001_0_92.jpg"
+ },
+ "id": 160
+}

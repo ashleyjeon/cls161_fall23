@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750913,
+   "id": 1821001,
+   "lead_time": 2482.443,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "OW73FJm_we",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_gilamonster_ver01",
+  "box": [
+   0.06674081617112688,
+   0.6008936045121174,
+   0.5191022087545956,
+   0.8548166137015886
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_gilamonster_ver01\/data\/sn87062055\/00211106761\/1918012501\/0521\/007_0_98.jpg",
+  "geographic_coverage": [
+   "Arizona--Coconino--Flagstaff"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_gilamonster_ver01%2Fdata%2Fsn87062055%2F00211106761%2F1918012501%2F0521.jp2\/pct:6.67,60.09,45.24,25.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn87062055",
+  "name": "The Coconino sun.",
+  "ocr": [
+   "Marines",
+   "aid",
+   "Red",
+   "Cross",
+   "RodeoI",
+   "I",
+   "fhc",
+   "TZU.,ia",
+   "I",
+   "..."
+  ],
+  "page_seq_num": 521,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_gilamonster_ver01\/data\/sn87062055\/00211106761\/1918012501\/0521.jp2",
+  "place_of_publication": "Flagstaff, Ariz.",
+  "pub_date": "1918-01-25",
+  "publisher": "C.M. Funston",
+  "score": 0.9851203560829163,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_gilamonster_ver01\/data\/sn87062055\/00211106761\/1918012501\/0521\/007_0_98.jpg"
+ },
+ "id": 1821
+}

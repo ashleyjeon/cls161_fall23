@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747845,
+   "id": 1873001,
+   "lead_time": 51.756,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jz84Enq4dL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_carla_ver01",
+  "box": [
+   0.2774049342042506,
+   0.5697109375,
+   0.6374528114030067,
+   0.8326358506944445
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_carla_ver01\/data\/sn98069867\/00415621681\/1919111501\/0292\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Tennessee--Shelby--Memphis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_carla_ver01%2Fdata%2Fsn98069867%2F00415621681%2F1919111501%2F0292.jp2\/pct:27.74,56.98,36.01,26.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn98069867",
+  "name": "The news scimitar.",
+  "ocr": [
+   "QUINTET",
+   "OF",
+   "FEMININE",
+   "BEAUTIES",
+   "WHO",
+   "ARE",
+   "AMONG",
+   "THOSE",
+   "ENTERED",
+   "UN",
+   "MAKtiUflttrm",
+   "wimmi",
+   ".",
+   "\"'ir'mmVWi",
+   "x'",
+   ".",
+   ".",
+   "W&HN&S"
+  ],
+  "page_seq_num": 292,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_carla_ver01\/data\/sn98069867\/00415621681\/1919111501\/0292.jp2",
+  "place_of_publication": "Memphis, Tenn.",
+  "pub_date": "1919-11-15",
+  "publisher": "Gilbert D. Raine",
+  "score": 0.9634164571762085,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_carla_ver01\/data\/sn98069867\/00415621681\/1919111501\/0292\/005_0_96.jpg"
+ },
+ "id": 1873
+}

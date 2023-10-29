@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747210,
+   "id": 326001,
+   "lead_time": 6.73,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qqdxaEjYXt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_emerson_ver01",
+  "box": [
+   0.2444481967894499,
+   0.7458170614564675,
+   0.5902802018094654,
+   0.9391473244986246
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899073001\/0158\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_emerson_ver01%2Fdata%2Fsn99021999%2F00206539483%2F1899073001%2F0158.jp2\/pct:24.44,74.59,34.59,19.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "BEFORE",
+   "CALOOCAN."
+  ],
+  "page_seq_num": 158,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899073001\/0158.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1899-07-30",
+  "publisher": "Edward Rosewater",
+  "score": 0.9704042673110962,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899073001\/0158\/002_0_97.jpg"
+ },
+ "id": 326
+}

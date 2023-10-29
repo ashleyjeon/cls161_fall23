@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747667,
+   "id": 1475001,
+   "lead_time": 2.341,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "USO1tuxz8U",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_klingon_ver01",
+  "box": [
+   0.035206974613284724,
+   0.2167770279037369,
+   0.15909576416015625,
+   0.3768520464354537
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_klingon_ver01\/data\/sn85042224\/00383345571\/1914091201\/0134\/002_0_94.jpg",
+  "geographic_coverage": [
+   "North Dakota--Cass--Fargo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_klingon_ver01%2Fdata%2Fsn85042224%2F00383345571%2F1914091201%2F0134.jp2\/pct:3.52,21.68,12.39,16.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042224",
+  "name": "The Fargo forum and daily republican. [volume]",
+  "ocr": [
+   "ik",
+   "^'ivM",
+   "mz",
+   "wW",
+   "AMWaxaanaMiMy,",
+   "woewerfdi"
+  ],
+  "page_seq_num": 134,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_klingon_ver01\/data\/sn85042224\/00383345571\/1914091201\/0134.jp2",
+  "place_of_publication": "Fargo, N.D.",
+  "pub_date": "1914-09-12",
+  "publisher": "A.W. Edwards & H.C. Plumley",
+  "score": 0.9490964412689209,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_klingon_ver01\/data\/sn85042224\/00383345571\/1914091201\/0134\/002_0_94.jpg"
+ },
+ "id": 1475
+}

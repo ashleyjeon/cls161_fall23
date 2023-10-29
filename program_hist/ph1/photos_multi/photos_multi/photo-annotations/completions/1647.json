@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763743,
+   "id": 1647001,
+   "lead_time": 3.997,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1-wM-h79tu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_aberdeen_ver01",
+  "box": [
+   0.0798169621881449,
+   0.32251347221343624,
+   0.3782993532576651,
+   0.5025107194537576
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_aberdeen_ver01\/data\/sn89052040\/0041421423A\/1916021001\/0732\/006_0_96.jpg",
+  "geographic_coverage": [
+   "Colorado--Weld--New Raymer",
+   "Colorado--Weld--Raymer"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_aberdeen_ver01%2Fdata%2Fsn89052040%2F0041421423A%2F1916021001%2F0732.jp2\/pct:7.98,32.26,29.85,18.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn89052040",
+  "name": "The Raymer enterprise.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 732,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_aberdeen_ver01\/data\/sn89052040\/0041421423A\/1916021001\/0732.jp2",
+  "place_of_publication": "New Raymer, Weld County, Colo.",
+  "pub_date": "1916-02-10",
+  "publisher": "S.P. Majors",
+  "score": 0.9671403765678406,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_aberdeen_ver01\/data\/sn89052040\/0041421423A\/1916021001\/0732\/006_0_96.jpg"
+ },
+ "id": 1647
+}

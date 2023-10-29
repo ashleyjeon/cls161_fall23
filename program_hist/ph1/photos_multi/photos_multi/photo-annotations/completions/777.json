@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772608,
+   "id": 777001,
+   "lead_time": 2.524,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3QHzSvORua",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_dubois_ver01",
+  "box": [
+   0.19292355040043735,
+   0.13722185407366072,
+   0.7887313331713517,
+   0.585369873046875
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_dubois_ver01\/data\/sn83032040\/00296026037\/1905020901\/0662\/000_0_94.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Cameron--Emporium"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_dubois_ver01%2Fdata%2Fsn83032040%2F00296026037%2F1905020901%2F0662.jp2\/pct:19.29,13.73,59.59,44.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn83032040",
+  "name": "Cameron County press. [volume]",
+  "ocr": [
+   "i\",",
+   "|",
+   "J",
+   "he",
+   "Colonial",
+   "Dames",
+   "with",
+   "Miss",
+   "Bob",
+   "White",
+   "Co.,"
+  ],
+  "page_seq_num": 662,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_dubois_ver01\/data\/sn83032040\/00296026037\/1905020901\/0662.jp2",
+  "place_of_publication": "Emporium, Cameron County, Pa.",
+  "pub_date": "1905-02-09",
+  "publisher": "C.B. Gould",
+  "score": 0.9488884806632996,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_dubois_ver01\/data\/sn83032040\/00296026037\/1905020901\/0662\/000_0_94.jpg"
+ },
+ "id": 777
+}

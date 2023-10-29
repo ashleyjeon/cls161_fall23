@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674721,
+   "id": 1937001,
+   "lead_time": 36.627,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oUoD54JgS4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_fiji_ver01",
+  "box": [
+   0.3821004754779884,
+   0.6931430954335854,
+   0.6084149907364637,
+   0.9579773597150345
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_fiji_ver01\/data\/sn88084272\/00294553496\/1920082101\/0583\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Texas--El Paso--El Paso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_fiji_ver01%2Fdata%2Fsn88084272%2F00294553496%2F1920082101%2F0583.jp2\/pct:38.21,69.32,22.64,26.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn88084272",
+  "name": "El Paso herald.",
+  "ocr": [
+   "I",
+   "r",
+   "z\"\"\"'\"",
+   ";",
+   "'",
+   "'",
+   "j,.,,.,!'.",
+   "\".Till",
+   "mrsX\"",
+   "ftrcetxtrjajtfit..",
+   "POM",
+   "a",
+   "competitive",
+   "field",
+   "of",
+   "several",
+   "hundred",
+   "gills",
+   "tlese",
+   "pretty",
+   "misses",
+   "selected",
+   "as",
+   "possessing",
+   "the",
+   "cutest",
+   "ankles",
+   "in",
+   "Hew",
+   "York",
+   "aty.",
+   "Miss\"",
+   "Furman",
+   "(left)",
+   "was",
+   "awarded",
+   "the",
+   "first",
+   "prize",
+   "of",
+   "$S0O,",
+   "while",
+   "Miss",
+   "Virginia",
+   "(right)",
+   "captured",
+   "second",
+   "prize,",
+   "a",
+   "pair",
+   "of",
+   "gold",
+   "slippers.",
+   "The",
+   "competition,",
+   "put",
+   "for",
+   "ward",
+   "by",
+   "a",
+   "prominent",
+   "shoe",
+   "sales",
+   "concern,",
+   "attracted",
+   "considerable",
+   "attention",
+   "in"
+  ],
+  "page_seq_num": 583,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_fiji_ver01\/data\/sn88084272\/00294553496\/1920082101\/0583.jp2",
+  "place_of_publication": "El Paso, Tex.",
+  "pub_date": "1920-08-21",
+  "publisher": "Herald News Co.",
+  "score": 0.9610201120376587,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_fiji_ver01\/data\/sn88084272\/00294553496\/1920082101\/0583\/007_0_96.jpg"
+ },
+ "id": 1937
+}

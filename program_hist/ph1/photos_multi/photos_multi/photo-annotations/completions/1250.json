@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766841,
+   "id": 1250001,
+   "lead_time": 2.244,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2Pb_2nVv7A",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_albatross_ver01",
+  "box": [
+   0.7158047588551102,
+   0.2474396250425363,
+   0.8418893860158138,
+   0.39447769192731963
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_albatross_ver01\/data\/sn86069180\/00100481674\/1911121001\/0440\/009_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Jefferson--Louisville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_albatross_ver01%2Fdata%2Fsn86069180%2F00100481674%2F1911121001%2F0440.jp2\/pct:71.58,24.75,12.61,14.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069180",
+  "name": "Kentucky Irish American.",
+  "ocr": [
+   "John",
+   "M.",
+   "Hennessy.",
+   "J"
+  ],
+  "page_seq_num": 440,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_albatross_ver01\/data\/sn86069180\/00100481674\/1911121001\/0440.jp2",
+  "place_of_publication": "Louisville, Ky.",
+  "pub_date": "1911-12-10",
+  "publisher": "William M. Higgins",
+  "score": 0.9737507104873657,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_albatross_ver01\/data\/sn86069180\/00100481674\/1911121001\/0440\/009_0_97.jpg"
+ },
+ "id": 1250
+}

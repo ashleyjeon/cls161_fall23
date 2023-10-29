@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766917,
+   "id": 991001,
+   "lead_time": 1.757,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9CHrmFTzp7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_egypt_ver01",
+  "box": [
+   0.7449578517853959,
+   0.07325004343785545,
+   0.9798545674148538,
+   0.29685450879093334
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_egypt_ver01\/data\/sn83030214\/00175039235\/1907090701\/0152\/004_0_93.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_egypt_ver01%2Fdata%2Fsn83030214%2F00175039235%2F1907090701%2F0152.jp2\/pct:74.49,7.33,23.49,22.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "MAX",
+   "DUTZMANN",
+   "Voic<>",
+   "Culture.",
+   "Studio",
+   "817-M^",
+   "hone:",
+   "6136",
+   "Columbus",
+   "Carnegie",
+   "HaJ"
+  ],
+  "page_seq_num": 152,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_egypt_ver01\/data\/sn83030214\/00175039235\/1907090701\/0152.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1907-09-07",
+  "publisher": "New York Tribune",
+  "score": 0.936424732208252,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_egypt_ver01\/data\/sn83030214\/00175039235\/1907090701\/0152\/004_0_93.jpg"
+ },
+ "id": 991
+}

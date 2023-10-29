@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751143,
+   "id": 628001,
+   "lead_time": 1.634,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9QUT8I_UFV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_edsel_ver01",
+  "box": [
+   0.6383805814951715,
+   0.3261743188706574,
+   0.7868775937012656,
+   0.4718995126387954
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_edsel_ver01\/data\/sn89081022\/00212472281\/1903011401\/0032\/000_0_93.jpg",
+  "geographic_coverage": [
+   "Minnesota--Kandiyohi--Willmar"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_edsel_ver01%2Fdata%2Fsn89081022%2F00212472281%2F1903011401%2F0032.jp2\/pct:63.83,32.62,14.85,14.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn89081022",
+  "name": "Willmar tribune. [volume]",
+  "ocr": [
+   "PROP",
+   "S.",
+   "O.",
+   "TJOSVOLD"
+  ],
+  "page_seq_num": 32,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_edsel_ver01\/data\/sn89081022\/00212472281\/1903011401\/0032.jp2",
+  "place_of_publication": "Willmar, Minn.",
+  "pub_date": "1903-01-14",
+  "publisher": "[publisher not identified]",
+  "score": 0.938039243221283,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_edsel_ver01\/data\/sn89081022\/00212472281\/1903011401\/0032\/000_0_93.jpg"
+ },
+ "id": 628
+}

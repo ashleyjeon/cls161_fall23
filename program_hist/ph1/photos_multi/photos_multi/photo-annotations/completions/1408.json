@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768459,
+   "id": 1408001,
+   "lead_time": 2.598,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FQtpDyQuOr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_elizabeth_ver01",
+  "box": [
+   0.3178287176363625,
+   0.3219790012716389,
+   0.6878968011189036,
+   0.5527304596752286
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_elizabeth_ver01\/data\/sn85040721\/00271769556\/1913111401\/0454\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Dodge--Watertown",
+   "Wisconsin--Jefferson--Watertown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_elizabeth_ver01%2Fdata%2Fsn85040721%2F00271769556%2F1913111401%2F0454.jp2\/pct:31.78,32.2,37.01,23.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040721",
+  "name": "The Watertown weekly leader. [volume]",
+  "ocr": [
+   "The",
+   "striking",
+   "street",
+   "car",
+   "men",
+   "of",
+   "Indianapolis",
+   "and",
+   "their",
+   "sympathizers",
+   "have",
+   "been",
+   "resorting",
+   "to",
+   "violence,",
+   "INDIANAPOLIS",
+   "CAR",
+   "BARNS"
+  ],
+  "page_seq_num": 454,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_elizabeth_ver01\/data\/sn85040721\/00271769556\/1913111401\/0454.jp2",
+  "place_of_publication": "Watertown, Jefferson County, Wis.",
+  "pub_date": "1913-11-14",
+  "publisher": "W.L. Swift",
+  "score": 0.982370138168335,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_elizabeth_ver01\/data\/sn85040721\/00271769556\/1913111401\/0454\/004_0_98.jpg"
+ },
+ "id": 1408
+}

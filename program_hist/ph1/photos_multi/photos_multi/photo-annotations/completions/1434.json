@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764202,
+   "id": 1434001,
+   "lead_time": 1.78,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Xwd6cMhwOU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_grosbeak_ver01",
+  "box": [
+   0.3700728951546914,
+   0.06716394744463415,
+   0.5154650300518235,
+   0.28039555901649016
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_grosbeak_ver01\/data\/sn85042399\/00200298640\/1913042801\/0775\/006_0_96.jpg",
+  "geographic_coverage": [
+   "Oregon--Jackson--Ashland"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_grosbeak_ver01%2Fdata%2Fsn85042399%2F00200298640%2F1913042801%2F0775.jp2\/pct:37.0,6.72,14.54,21.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042399",
+  "name": "Ashland tidings. [volume]",
+  "ocr": [
+   "LINDLEY",
+   "M.",
+   "GARRISON.",
+   "Former",
+   "New",
+   "Jersey",
+   "Vice",
+   "Chan",
+   "cellor",
+   "Now",
+   "Secretary",
+   "of",
+   "War.",
+   "V",
+   "r",
+   "f",
+   "W",
+   "-1"
+  ],
+  "page_seq_num": 775,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_grosbeak_ver01\/data\/sn85042399\/00200298640\/1913042801\/0775.jp2",
+  "place_of_publication": "Ashland, Or.",
+  "pub_date": "1913-04-28",
+  "publisher": "J.M. Sutton",
+  "score": 0.965498149394989,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_grosbeak_ver01\/data\/sn85042399\/00200298640\/1913042801\/0775\/006_0_96.jpg"
+ },
+ "id": 1434
+}

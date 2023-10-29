@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748073,
+   "id": 1485001,
+   "lead_time": 2.965,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wXa5xOMtSl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_eliot_ver01",
+  "box": [
+   0.3447576719341856,
+   0.5748119698061963,
+   0.4793856904000947,
+   0.7975879849282457
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_eliot_ver01\/data\/sn86091188\/00295869136\/1914081301\/0335\/009_0_98.jpg",
+  "geographic_coverage": [
+   "Idaho--Lemhi--Salmon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_eliot_ver01%2Fdata%2Fsn86091188%2F00295869136%2F1914081301%2F0335.jp2\/pct:34.47,57.49,13.47,22.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091188",
+  "name": "The Idaho recorder. [volume]",
+  "ocr": [
+   "JOHN",
+   "LAWRENCE",
+   "CALDWELL",
+   "John",
+   "Lawrsnc*",
+   "CsidwaM",
+   "I*",
+   "ths",
+   "new",
+   "Amsrisan",
+   "mlniatsr",
+   "te",
+   "Persia-",
+   "H*",
+   "Is",
+   "*",
+   "lawyer",
+   "of",
+   "Fort",
+   "Scctt.",
+   "Kan,",
+   "has",
+   "boon",
+   "\u00bb",
+   "stats",
+   "sonstor",
+   "and",
+   "candidat*",
+   "for",
+   "ten",
+   "grcaa.",
+   "and",
+   "In",
+   "1*10",
+   "was",
+   "a",
+   "dslogat*",
+   "te"
+  ],
+  "page_seq_num": 335,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_eliot_ver01\/data\/sn86091188\/00295869136\/1914081301\/0335.jp2",
+  "place_of_publication": "Salmon City, Idaho",
+  "pub_date": "1914-08-13",
+  "publisher": "J.E. Booth",
+  "score": 0.9840518236160278,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_eliot_ver01\/data\/sn86091188\/00295869136\/1914081301\/0335\/009_0_98.jpg"
+ },
+ "id": 1485
+}

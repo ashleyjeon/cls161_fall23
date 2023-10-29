@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747731,
+   "id": 462001,
+   "lead_time": 2.96,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "84Oe-QQW4S",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_gaylord_ver02",
+  "box": [
+   0.491310257434062,
+   0.41650867955721677,
+   0.9447190859439142,
+   0.6373757816992525
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_gaylord_ver02\/data\/sn85033781\/00296023826\/1901020101\/1223\/005_0_91.jpg",
+  "geographic_coverage": [
+   "Michigan--Van Buren--Paw Paw"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_gaylord_ver02%2Fdata%2Fsn85033781%2F00296023826%2F1901020101%2F1223.jp2\/pct:49.13,41.66,45.35,22.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033781",
+  "name": "The true northerner. [volume]",
+  "ocr": [
+   "Eyes",
+   "Fitted",
+   "by",
+   "Latest",
+   "and",
+   "Most",
+   "Approved",
+   "Methods-",
+   "SATISFACTION",
+   "GUAHANTBBD.",
+   "RAY",
+   "E.",
+   "CHAPPELL,",
+   "-",
+   "-",
+   ".",
+   "-",
+   "Graduate",
+   "Optician.",
+   "At",
+   "G.",
+   "E.",
+   "Chappeli's",
+   "Jewelry",
+   "Store.",
+   "X",
+   "EYES",
+   "TESTED",
+   "FREE."
+  ],
+  "page_seq_num": 1223,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_gaylord_ver02\/data\/sn85033781\/00296023826\/1901020101\/1223.jp2",
+  "place_of_publication": "Paw Paw, Mich.",
+  "pub_date": "1901-02-01",
+  "publisher": "John B. Butler",
+  "score": 0.9175145626068115,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_gaylord_ver02\/data\/sn85033781\/00296023826\/1901020101\/1223\/005_0_91.jpg"
+ },
+ "id": 462
+}

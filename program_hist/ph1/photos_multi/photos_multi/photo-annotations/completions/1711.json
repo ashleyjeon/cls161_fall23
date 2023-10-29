@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675933,
+   "id": 1711001,
+   "lead_time": 3.258,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EHX0D2L45P",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ncu_fisher_ver01",
+  "box": [
+   0.11896833348655361,
+   0.36677823713525237,
+   0.4101409912109375,
+   0.5431009094045741
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ncu_fisher_ver01\/data\/sn91068161\/00296024156\/1917112201\/0376\/002_0_99.jpg",
+  "geographic_coverage": [
+   "North Carolina--Henderson--Hendersonville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ncu_fisher_ver01%2Fdata%2Fsn91068161%2F00296024156%2F1917112201%2F0376.jp2\/pct:11.89,36.68,29.12,17.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn91068161",
+  "name": "French Broad hustler. [volume]",
+  "ocr": [
+   "A-,;.",
+   "V:",
+   "v",
+   "T?",
+   ":",
+   ":.",
+   ";",
+   "i",
+   "TYPICAL",
+   "WHEAT",
+   "FIELD."
+  ],
+  "page_seq_num": 376,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ncu_fisher_ver01\/data\/sn91068161\/00296024156\/1917112201\/0376.jp2",
+  "place_of_publication": "Hendersonville, N.C.",
+  "pub_date": "1917-11-22",
+  "publisher": "Mutual Print. Co.",
+  "score": 0.9913022518157959,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ncu_fisher_ver01\/data\/sn91068161\/00296024156\/1917112201\/0376\/002_0_99.jpg"
+ },
+ "id": 1711
+}

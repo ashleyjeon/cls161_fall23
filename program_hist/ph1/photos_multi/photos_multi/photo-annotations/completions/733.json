@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766990,
+   "id": 733001,
+   "lead_time": 7.351,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yYC-6KfsAQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_four_ver02",
+  "box": [
+   0.5480666182970217,
+   0.10727370445939309,
+   0.9087043010013204,
+   0.3151358201347963
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_four_ver02\/data\/sn95047324\/00100479187\/1904042201\/0291\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Florida--Charlotte--Punta Gorda"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_four_ver02%2Fdata%2Fsn95047324%2F00100479187%2F1904042201%2F0291.jp2\/pct:54.8,10.73,36.07,20.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn95047324",
+  "name": "The Punta Gorda herald. [volume]",
+  "ocr": [
+   "c",
+   "J",
+   "<",
+   "oo",
+   "oor",
+   "r",
+   "l",
+   "A",
+   "4",
+   "4",
+   "4I",
+   "1r4",
+   "rr",
+   "I",
+   "I",
+   "1",
+   "1i1",
+   "f7",
+   "S",
+   "iE",
+   "iEJ",
+   "i1",
+   "J",
+   "L",
+   "i",
+   "iA",
+   "A",
+   "A",
+   "Fs2b",
+   "4",
+   "4",
+   "l",
+   "S",
+   "PALACE",
+   "OF",
+   "EDUCATION",
+   "WORLDS",
+   "FAIH",
+   "FAIHi3huovIiut",
+   "Mouth",
+   "Iuicuuk",
+   "Liiu",
+   "gruiitui",
+   "ituuil",
+   "tuuluu4iIIg",
+   "euIciiiiu1i",
+   "iii",
+   "Ii",
+   "Iht",
+   "11",
+   "4"
+  ],
+  "page_seq_num": 291,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_four_ver02\/data\/sn95047324\/00100479187\/1904042201\/0291.jp2",
+  "place_of_publication": "Punta Gorda, Fla.",
+  "pub_date": "1904-04-22",
+  "publisher": "A.P. Jordan",
+  "score": 0.9665772914886475,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_four_ver02\/data\/sn95047324\/00100479187\/1904042201\/0291\/002_0_96.jpg"
+ },
+ "id": 733
+}

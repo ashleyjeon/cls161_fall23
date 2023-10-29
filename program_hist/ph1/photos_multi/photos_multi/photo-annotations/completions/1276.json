@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743085,
+   "id": 1276001,
+   "lead_time": 8.165,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yNF-F4k_hM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iahi_ames_ver01",
+  "box": [
+   0.050978604604747534,
+   0.061423507391237746,
+   0.44088911221401417,
+   0.3033419119420048
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iahi_ames_ver01\/data\/sn83025186\/00202198417\/1911061601\/1178\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Iowa--Polk--Des Moines"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iahi_ames_ver01%2Fdata%2Fsn83025186%2F00202198417%2F1911061601%2F1178.jp2\/pct:5.09,6.15,39.0,24.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025186",
+  "name": "Iowa state bystander. [volume]",
+  "ocr": [
+   "3sr..",
+   "5",
+   "WwVf",
+   "r^4",
+   "SOME",
+   "OF",
+   "THE",
+   "IOWA",
+   "STATE",
+   "FAIR",
+   "GROUND",
+   "SCENES."
+  ],
+  "page_seq_num": 1178,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iahi_ames_ver01\/data\/sn83025186\/00202198417\/1911061601\/1178.jp2",
+  "place_of_publication": "Des Moines, Iowa",
+  "pub_date": "1911-06-16",
+  "publisher": "Iowa State Bystander Pub. Co.",
+  "score": 0.975978434085846,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iahi_ames_ver01\/data\/sn83025186\/00202198417\/1911061601\/1178\/002_0_97.jpg"
+ },
+ "id": 1276
+}

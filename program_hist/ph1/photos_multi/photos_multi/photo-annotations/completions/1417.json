@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673738,
+   "id": 1417001,
+   "lead_time": 1.869,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "a21TdbXLOV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_hawaii_ver01",
+  "box": [
+   0.4510856161312181,
+   0.14845463565192843,
+   0.5764147700095663,
+   0.3406265184562847
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_hawaii_ver01\/data\/sn99062034\/0027952309A\/1913060501\/0829\/009_0_97.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lake--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_hawaii_ver01%2Fdata%2Fsn99062034%2F0027952309A%2F1913060501%2F0829.jp2\/pct:45.1,14.85,12.54,19.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn99062034",
+  "name": "The Madison daily leader. [volume]",
+  "ocr": [
+   "Will",
+   "Be",
+   "Dropped",
+   "From",
+   "Pay",
+   "roll",
+   "by",
+   "Frisco",
+   "Receivers."
+  ],
+  "page_seq_num": 829,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_hawaii_ver01\/data\/sn99062034\/0027952309A\/1913060501\/0829.jp2",
+  "place_of_publication": "Madison, S.D.",
+  "pub_date": "1913-06-05",
+  "publisher": "J.F. Stahl",
+  "score": 0.9709422588348389,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_hawaii_ver01\/data\/sn99062034\/0027952309A\/1913060501\/0829\/009_0_97.jpg"
+ },
+ "id": 1417
+}

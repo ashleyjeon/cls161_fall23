@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747918,
+   "id": 1458001,
+   "lead_time": 1.59,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "g7YQoopWgj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_judaspriest_ver01",
+  "box": [
+   0.46072913435554763,
+   0.45298242436392205,
+   0.6005454801454198,
+   0.576169272945146
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_judaspriest_ver01\/data\/sn85052076\/00280763536\/1913071001\/0648\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Berea"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_judaspriest_ver01%2Fdata%2Fsn85052076%2F00280763536%2F1913071001%2F0648.jp2\/pct:46.07,45.3,13.99,12.32\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052076",
+  "name": "The citizen. [volume]",
+  "ocr": [
+   "George",
+   "Candee",
+   "aaaaaaaaaaaaaB-",
+   "aaaaaaaaaaB"
+  ],
+  "page_seq_num": 648,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_judaspriest_ver01\/data\/sn85052076\/00280763536\/1913071001\/0648.jp2",
+  "place_of_publication": "Berea, Ky.",
+  "pub_date": "1913-07-10",
+  "publisher": "T.G. Pasco",
+  "score": 0.9747974872589111,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_judaspriest_ver01\/data\/sn85052076\/00280763536\/1913071001\/0648\/004_0_97.jpg"
+ },
+ "id": 1458
+}

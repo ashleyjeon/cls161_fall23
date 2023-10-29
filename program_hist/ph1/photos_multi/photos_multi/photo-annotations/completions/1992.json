@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768331,
+   "id": 1992001,
+   "lead_time": 2.762,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wAIrEJe0fq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_quarterman_ver03",
+  "box": [
+   0.1734670634305211,
+   0.18982156958739804,
+   0.4670601743030785,
+   0.4648103798087522
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_quarterman_ver03\/data\/sn83030273\/00212474551\/1920070401\/0279\/004_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_quarterman_ver03%2Fdata%2Fsn83030273%2F00212474551%2F1920070401%2F0279.jp2\/pct:17.34,18.99,29.36,27.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030273",
+  "name": "The Sun and the New York herald. [volume]",
+  "ocr": [
+   "r",
+   "ti",
+   "i",
+   "ii",
+   "i",
+   "(SEN.",
+   "J.",
+   "Q.",
+   "HARBORD",
+   "U.S.A"
+  ],
+  "page_seq_num": 279,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_quarterman_ver03\/data\/sn83030273\/00212474551\/1920070401\/0279.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1920-07-04",
+  "publisher": "Sun-Herald",
+  "score": 0.971908688545227,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_quarterman_ver03\/data\/sn83030273\/00212474551\/1920070401\/0279\/004_0_97.jpg"
+ },
+ "id": 1992
+}

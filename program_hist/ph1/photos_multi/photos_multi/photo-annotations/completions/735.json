@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766346,
+   "id": 735001,
+   "lead_time": 3.219,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mVc-Bl-2n6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_framebones_ver01",
+  "box": [
+   0.13584557996058738,
+   0.7471259235265653,
+   0.5661803964768726,
+   0.9827378990406194
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_framebones_ver01\/data\/sn99063957\/00280760468\/1904112801\/0283\/004_0_99.jpg",
+  "geographic_coverage": [
+   "Oregon--Marion--Salem"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_framebones_ver01%2Fdata%2Fsn99063957%2F00280760468%2F1904112801%2F0283.jp2\/pct:13.58,74.72,43.04,23.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063957",
+  "name": "Daily capital journal.",
+  "ocr": [
+   "THE",
+   "KINO",
+   "AND",
+   "QVEEN",
+   "IN",
+   "\"BEL3",
+   "AZZAK.\""
+  ],
+  "page_seq_num": 283,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_framebones_ver01\/data\/sn99063957\/00280760468\/1904112801\/0283.jp2",
+  "place_of_publication": "Salem, Oregon",
+  "pub_date": "1904-11-28",
+  "publisher": null,
+  "score": 0.9916061162948608,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_framebones_ver01\/data\/sn99063957\/00280760468\/1904112801\/0283\/004_0_99.jpg"
+ },
+ "id": 735
+}

@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748282,
+   "id": 1995001,
+   "lead_time": 1.543,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7LHVYkQh_s",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_julich_ver01",
+  "box": [
+   0.5695143696126903,
+   0.0552277262804109,
+   0.7032293340816709,
+   0.30049089529738576
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_julich_ver01\/data\/sn85058396\/print\/1920032001\/0892\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_julich_ver01%2Fdata%2Fsn85058396%2Fprint%2F1920032001%2F0892.jp2\/pct:56.95,5.53,13.38,24.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "ALFhlLDE",
+   "Bf?N$CHOLD",
+   "STOCKHOLM",
+   "Enter",
+   "now",
+   "tho",
+   "-",
+   "American",
+   "ncwsle!",
+   "Mra.",
+   "Alfhildo",
+   "Bernschold,",
+   "whose",
+   "parento",
+   "llvo",
+   "jn",
+   "Chicago,",
+   "aollo",
+   "papers",
+   "at",
+   "Regorlnea",
+   "gatan,",
+   "Stockholm'o'buoloot",
+   "comer.",
+   "Prlncov",
+   "Erlck",
+   "pauses",
+   "hor",
+   "ntnnd",
+   "often",
+   "and",
+   "buys",
+   "papers",
+   "from",
+   "Alf",
+   "hilde.",
+   "She",
+   "omlleo",
+   "and",
+   "ho",
+   "aminos."
+  ],
+  "page_seq_num": 892,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_julich_ver01\/data\/sn85058396\/print\/1920032001\/0892.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1920-03-20",
+  "publisher": "W. Glasmann",
+  "score": 0.9816732406616211,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_julich_ver01\/data\/sn85058396\/print\/1920032001\/0892\/006_0_98.jpg"
+ },
+ "id": 1995
+}

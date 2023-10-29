@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673587,
+   "id": 1576001,
+   "lead_time": 1.829,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "64zV4mtljQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_grant_ver01",
+  "box": [
+   0.2952030644272313,
+   0.19388392289029302,
+   0.4231912439519709,
+   0.35421363895405455
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_grant_ver01\/data\/sn96076572\/00415669689\/1915020701\/0064\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_grant_ver01%2Fdata%2Fsn96076572%2F00415669689%2F1915020701%2F0064.jp2\/pct:29.52,19.39,12.8,16.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn96076572",
+  "name": "Detroiter Abend-Post.",
+  "ocr": [
+   "'",
+   "4",
+   "'",
+   "'\"\"\"\"'-..A",
+   ",;",
+   ":",
+   ".",
+   "-,i",
+   "I",
+   ".",
+   ",",
+   "z",
+   ".",
+   "4",
+   ":i4",
+   "\u00fci",
+   "t",
+   "1",
+   "?",
+   ".",
+   "..",
+   "r",
+   "'",
+   "tJ",
+   ")t",
+   "'",
+   "j",
+   "fi;",
+   "'",
+   "v'",
+   "..",
+   "j",
+   "Jrvin",
+   "(5obb."
+  ],
+  "page_seq_num": 64,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_grant_ver01\/data\/sn96076572\/00415669689\/1915020701\/0064.jp2",
+  "place_of_publication": "Detroit [Mich.]",
+  "pub_date": "1915-02-07",
+  "publisher": "August Marxhausen",
+  "score": 0.9858511090278625,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_grant_ver01\/data\/sn96076572\/00415669689\/1915020701\/0064\/005_0_98.jpg"
+ },
+ "id": 1576
+}

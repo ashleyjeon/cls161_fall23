@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763550,
+   "id": 1962001,
+   "lead_time": 1.802,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "B50BthLCoz",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_carril_ver02",
+  "box": [
+   0.01362487234152467,
+   0.5927520729127711,
+   0.31448746115605924,
+   0.9582351536205124
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_carril_ver02\/data\/sn83030214\/0020653249A\/1920031401\/0398\/002_0_92.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_carril_ver02%2Fdata%2Fsn83030214%2F0020653249A%2F1920031401%2F0398.jp2\/pct:1.36,59.28,30.09,36.55\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "Wff",
+   "W\/",
+   "*f",
+   "f",
+   "in",
+   "the",
+   "act",
+   "with",
+   "a",
+   "is"
+  ],
+  "page_seq_num": 398,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_carril_ver02\/data\/sn83030214\/0020653249A\/1920031401\/0398.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1920-03-14",
+  "publisher": "New York Tribune",
+  "score": 0.9289553761482239,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_carril_ver02\/data\/sn83030214\/0020653249A\/1920031401\/0398\/002_0_92.jpg"
+ },
+ "id": 1962
+}

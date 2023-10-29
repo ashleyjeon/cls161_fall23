@@ -1,0 +1,119 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746302,
+   "id": 1632001,
+   "lead_time": 2.029,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xxQzkOxFMY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_greenville_ver01",
+  "box": [
+   0.29258255646607584,
+   0.0630954557746798,
+   0.553733968289099,
+   0.22345801148072308
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_greenville_ver01\/data\/sn85042354\/00383343124\/1916030901\/0020\/011_0_96.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_greenville_ver01%2Fdata%2Fsn85042354%2F00383343124%2F1916030901%2F0020.jp2\/pct:29.25,6.31,26.12,16.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "!",
+   ",",
+   "I",
+   "i",
+   "SAVE",
+   "THE",
+   "H\u00b0",
+   "f",
+   "Weather,",
+   "Foe",
+   "of",
+   "Infanis,",
+   "Uncle",
+   "Sam",
+   "Plans",
+   "lo",
+   "Battle!",
+   "BABIES!",
+   "*",
+   "rk",
+   "f",
+   "\u00bb1",
+   ".",
+   "WL*",
+   "!",
+   "\u25a0*.",
+   "j",
+   "\u25a0",
+   "*",
+   "\u2014",
+   "\u00c0",
+   ">",
+   "ri",
+   "^",
+   "JM-",
+   "*'-",
+   "-***",
+   "j",
+   "-J",
+   "\u2022'",
+   "\"",
+   "-",
+   ",",
+   "'-iitlJ",
+   "f",
+   "o",
+   "gyU",
+   "-",
+   "v",
+   "-",
+   "\u00d6\u00bb,",
+   ".",
+   "MwMt",
+   "\\",
+   "Tjfli",
+   "f\u2014JP",
+   "^|",
+   ",",
+   "\"-",
+   "t",
+   "\u00b0",
+   "V.\u2014-",
+   "-",
+   "\u25a0",
+   "jr",
+   "\/",
+   "i",
+   "V",
+   "UN",
+   "\u25a0"
+  ],
+  "page_seq_num": 20,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_greenville_ver01\/data\/sn85042354\/00383343124\/1916030901\/0020.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1916-03-09",
+  "publisher": "J. Milton Davidson",
+  "score": 0.9641741514205933,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_greenville_ver01\/data\/sn85042354\/00383343124\/1916030901\/0020\/011_0_96.jpg"
+ },
+ "id": 1632
+}

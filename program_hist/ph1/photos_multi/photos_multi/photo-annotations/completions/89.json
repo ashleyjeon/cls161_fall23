@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675550,
+   "id": 89001,
+   "lead_time": 2.807,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fhd5gmwnTW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_dysprosium_ver01",
+  "box": [
+   0.36078434724074143,
+   0.5569833414444071,
+   0.5084077761723444,
+   0.701420411368869
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_dysprosium_ver01\/data\/sn88076998\/00199918163\/1896102301\/0376\/002_0_94.jpg",
+  "geographic_coverage": [
+   "North Dakota--Griggs--Cooperstown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_dysprosium_ver01%2Fdata%2Fsn88076998%2F00199918163%2F1896102301%2F0376.jp2\/pct:36.07,55.7,14.77,14.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn88076998",
+  "name": "Griggs courier.",
+  "ocr": [
+   "JohnG.",
+   "Ilalland."
+  ],
+  "page_seq_num": 376,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_dysprosium_ver01\/data\/sn88076998\/00199918163\/1896102301\/0376.jp2",
+  "place_of_publication": "Cooperstown, Griggs Co., Dak. [N.D.]",
+  "pub_date": "1896-10-23",
+  "publisher": "Fred'k H. Adams",
+  "score": 0.9416950345039368,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_dysprosium_ver01\/data\/sn88076998\/00199918163\/1896102301\/0376\/002_0_94.jpg"
+ },
+ "id": 89
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766978,
+   "id": 1013001,
+   "lead_time": 4.064,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wkRIHhAVju",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_jamaica_ver01",
+  "box": [
+   0.02313245208569745,
+   0.2942562736041173,
+   0.4543437851207882,
+   0.5014113873667062
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_jamaica_ver01\/data\/sn83030214\/00175039296\/1908010501\/0073\/003_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_jamaica_ver01%2Fdata%2Fsn83030214%2F00175039296%2F1908010501%2F0073.jp2\/pct:2.31,29.43,43.13,20.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "A",
+   "SKI",
+   "TRAGEDY."
+  ],
+  "page_seq_num": 73,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_jamaica_ver01\/data\/sn83030214\/00175039296\/1908010501\/0073.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1908-01-05",
+  "publisher": "New York Tribune",
+  "score": 0.9713648557662964,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_jamaica_ver01\/data\/sn83030214\/00175039296\/1908010501\/0073\/003_0_97.jpg"
+ },
+ "id": 1013
+}

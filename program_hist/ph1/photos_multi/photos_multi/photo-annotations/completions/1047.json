@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764215,
+   "id": 1047001,
+   "lead_time": 1.985,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2T5CB9H64s",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_dogwood_ver01",
+  "box": [
+   0.5679106001420454,
+   0.3682184932889808,
+   0.8286342921401515,
+   0.6764130105151348
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908100501\/0059\/005_0_94.jpg",
+  "geographic_coverage": [
+   "Connecticut--New Haven--New Haven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_dogwood_ver01%2Fdata%2Fsn92051397%2F00271764145%2F1908100501%2F0059.jp2\/pct:56.79,36.83,26.08,30.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051397",
+  "name": "The morning journal-courier.",
+  "ocr": [
+   "CARDINAL",
+   "S",
+   "'!",
+   "1",
+   "(",
+   "f",
+   "1",
+   "Jkv",
+   "i",
+   "f",
+   "it.",
+   "frf",
+   "?",
+   "Wi",
+   "'",
+   "I'll",
+   "\"\"",
+   "f-",
+   "It",
+   "f",
+   "t",
+   "1",
+   "o",
+   "l",
+   "r",
+   "y",
+   "s",
+   "ft1y",
+   "V"
+  ],
+  "page_seq_num": 59,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908100501\/0059.jp2",
+  "place_of_publication": "New Haven, Conn.",
+  "pub_date": "1908-10-05",
+  "publisher": "J.B. Carrington",
+  "score": 0.9499642252922058,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908100501\/0059\/005_0_94.jpg"
+ },
+ "id": 1047
+}

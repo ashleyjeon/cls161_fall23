@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751446,
+   "id": 168001,
+   "lead_time": 3.288,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1090MjjB7R",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.17761301480140643,
+   0.5190039454279719,
+   0.4317684455031569,
+   0.6304311494569521
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555717\/1897032701\/0487\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555717%2F1897032701%2F0487.jp2\/pct:17.76,51.91,25.42,11.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "EPWOIITI!",
+   "HOUSE."
+  ],
+  "page_seq_num": 487,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1897032701\/0487.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1897-03-27",
+  "publisher": "Henry F. Donovan",
+  "score": 0.976317286491394,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1897032701\/0487\/001_0_97.jpg"
+ },
+ "id": 168
+}

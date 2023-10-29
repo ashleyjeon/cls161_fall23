@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747704,
+   "id": 762001,
+   "lead_time": 3.344,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "79ZAmhnguX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_dogwood_ver01",
+  "box": [
+   0.06180170835074732,
+   0.20038302464468669,
+   0.3092592853610798,
+   0.3574431528269626
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_dogwood_ver01\/data\/sn88085187\/00211108149\/1904053001\/0551\/016_0_95.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_dogwood_ver01%2Fdata%2Fsn88085187%2F00211108149%2F1904053001%2F0551.jp2\/pct:6.18,20.04,24.75,15.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "SPEAKER'S",
+   "STAND",
+   "\\T",
+   "GETTYBBI",
+   "RG."
+  ],
+  "page_seq_num": 551,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_dogwood_ver01\/data\/sn88085187\/00211108149\/1904053001\/0551.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1904-05-30",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9588555097579956,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_dogwood_ver01\/data\/sn88085187\/00211108149\/1904053001\/0551\/016_0_95.jpg"
+ },
+ "id": 762
+}

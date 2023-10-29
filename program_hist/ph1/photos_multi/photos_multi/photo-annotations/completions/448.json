@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769077,
+   "id": 448001,
+   "lead_time": 2.185,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jp50pt3OxC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_atherton_ver01",
+  "box": [
+   0.18842162061857698,
+   0.569601119460168,
+   0.31781176539342143,
+   0.6760095459391955
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_atherton_ver01\/data\/sn84026355\/00237281950\/1900071401\/0095\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Lackawanna--Scranton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_atherton_ver01%2Fdata%2Fsn84026355%2F00237281950%2F1900071401%2F0095.jp2\/pct:18.84,56.97,12.94,10.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026355",
+  "name": "The Scranton tribune. [volume]",
+  "ocr": [
+   "nesbitt",
+   "HU.L."
+  ],
+  "page_seq_num": 95,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_atherton_ver01\/data\/sn84026355\/00237281950\/1900071401\/0095.jp2",
+  "place_of_publication": "Scranton, Pa.",
+  "pub_date": "1900-07-14",
+  "publisher": "Tribune Pub. Co.",
+  "score": 0.9493666887283325,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_atherton_ver01\/data\/sn84026355\/00237281950\/1900071401\/0095\/002_0_94.jpg"
+ },
+ "id": 448
+}

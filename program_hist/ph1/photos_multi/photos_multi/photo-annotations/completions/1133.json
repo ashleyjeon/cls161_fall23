@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675510,
+   "id": 1133001,
+   "lead_time": 2.057,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UdLEfwzefS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_ford_ver02",
+  "box": [
+   0.7115368863720914,
+   0.5175290240921788,
+   0.9620580631933171,
+   0.6803739384851357
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_ford_ver02\/data\/2010270500\/00211102639\/1909100801\/0255\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Nebraska--Dakota--Dakota City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_ford_ver02%2Fdata%2F2010270500%2F00211102639%2F1909100801%2F0255.jp2\/pct:71.15,51.76,25.06,16.29\/!500,500\/0\/default.jpg",
+  "lccn": "2010270500",
+  "name": "Dakota County herald.",
+  "ocr": [
+   "ADVISORY",
+   "STAFF",
+   "OF",
+   "THE",
+   "CENSUS",
+   "DEPARTMENT.",
+   "1",
+   "r",
+   "?",
+   "-O1",
+   "f",
+   "v.",
+   "A-v",
+   "n",
+   "t",
+   ",",
+   "-",
+   "j",
+   "A4",
+   "!"
+  ],
+  "page_seq_num": 255,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_ford_ver02\/data\/2010270500\/00211102639\/1909100801\/0255.jp2",
+  "place_of_publication": "Dakota City, Neb.",
+  "pub_date": "1909-10-08",
+  "publisher": "J.L. McKean",
+  "score": 0.953742504119873,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_ford_ver02\/data\/2010270500\/00211102639\/1909100801\/0255\/000_0_95.jpg"
+ },
+ "id": 1133
+}

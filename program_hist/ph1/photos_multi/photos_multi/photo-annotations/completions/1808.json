@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675598,
+   "id": 1808001,
+   "lead_time": 3.071,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HXe4WU1ESd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_hershey_ver01",
+  "box": [
+   0.3749061452260926,
+   0.07753775621715345,
+   0.4887598564622356,
+   0.2691096757587634
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_hershey_ver01\/data\/sn85038411\/00296028319\/1918082301\/0141\/010_0_96.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Dauphin--Harrisburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_hershey_ver01%2Fdata%2Fsn85038411%2F00296028319%2F1918082301%2F0141.jp2\/pct:37.49,7.76,11.39,19.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038411",
+  "name": "Harrisburg telegraph. [volume]",
+  "ocr": [
+   "Arrives",
+   "Across",
+   "Waters",
+   "URM",
+   "JAMESON",
+   "LEWIS"
+  ],
+  "page_seq_num": 141,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_hershey_ver01\/data\/sn85038411\/00296028319\/1918082301\/0141.jp2",
+  "place_of_publication": "Harrisburg, Pa.",
+  "pub_date": "1918-08-23",
+  "publisher": "C.H. Bergner",
+  "score": 0.9635671973228455,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_hershey_ver01\/data\/sn85038411\/00296028319\/1918082301\/0141\/010_0_96.jpg"
+ },
+ "id": 1808
+}

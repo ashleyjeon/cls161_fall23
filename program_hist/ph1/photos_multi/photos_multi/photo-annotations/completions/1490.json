@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749226,
+   "id": 1490001,
+   "lead_time": 2.023,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lmYzFWhPQa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_hornedowl_ver01",
+  "box": [
+   0.08267946465070858,
+   0.31634933592888076,
+   0.32244127850199855,
+   0.5794511813561893
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_hornedowl_ver01\/data\/sn84020558\/00202192087\/1914082801\/0148\/004_0_91.jpg",
+  "geographic_coverage": [
+   "Arizona--Maricopa--Phoenix"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_hornedowl_ver01%2Fdata%2Fsn84020558%2F00202192087%2F1914082801%2F0148.jp2\/pct:8.26,31.64,23.98,26.32\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020558",
+  "name": "Arizona republican. [volume]",
+  "ocr": [
+   "agreement",
+   "between",
+   "the",
+   "three",
+   "55",
+   "seen",
+   "the",
+   "jjostoffiee",
+   "grow",
+   "from",
+   "its",
+   "in-",
+   "'"
+  ],
+  "page_seq_num": 148,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_hornedowl_ver01\/data\/sn84020558\/00202192087\/1914082801\/0148.jp2",
+  "place_of_publication": "Phoenix, Ariz.",
+  "pub_date": "1914-08-28",
+  "publisher": "Republican Pub. Co.",
+  "score": 0.9128782749176025,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_hornedowl_ver01\/data\/sn84020558\/00202192087\/1914082801\/0148\/004_0_91.jpg"
+ },
+ "id": 1490
+}

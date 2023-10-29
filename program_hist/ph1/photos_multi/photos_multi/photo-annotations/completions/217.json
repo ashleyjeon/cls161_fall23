@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673550,
+   "id": 217001,
+   "lead_time": 2.363,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vhS5LuFWev",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_lotus_ver01",
+  "box": [
+   0.013786294754599731,
+   0.6411902126736111,
+   0.24090533845136963,
+   0.8614162326388889
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_lotus_ver01\/data\/sn83030214\/00175039144\/1897091201\/0201\/001_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_lotus_ver01%2Fdata%2Fsn83030214%2F00175039144%2F1897091201%2F0201.jp2\/pct:1.37,64.12,22.72,22.03\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "\/",
+   "\/",
+   "\\",
+   "?",
+   "?f"
+  ],
+  "page_seq_num": 201,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_lotus_ver01\/data\/sn83030214\/00175039144\/1897091201\/0201.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-09-12",
+  "publisher": "New York Tribune",
+  "score": 0.9427973031997681,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_lotus_ver01\/data\/sn83030214\/00175039144\/1897091201\/0201\/001_0_94.jpg"
+ },
+ "id": 217
+}

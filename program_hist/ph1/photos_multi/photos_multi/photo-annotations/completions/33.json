@@ -1,0 +1,80 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763940,
+   "id": 33001,
+   "lead_time": 1.413,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YBwbzGYkfT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_beaver_ver01",
+  "box": [
+   0.6109095885690334,
+   0.3265653211016988,
+   0.8698073530619124,
+   0.6191342375999274
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_beaver_ver01\/data\/sn92070477\/00280773505\/1895022701\/0442\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New Mexico--Grant--Silver City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_beaver_ver01%2Fdata%2Fsn92070477%2F00280773505%2F1895022701%2F0442.jp2\/pct:61.09,32.66,25.89,29.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070477",
+  "name": "The eagle.",
+  "ocr": [
+   "as",
+   "it",
+   "most",
+   "states",
+   "east,",
+   ".",
+   ":-yv",
+   "If",
+   "-if",
+   "\u00e9",
+   "fy",
+   ",",
+   "i",
+   "'",
+   "-v",
+   "C?r",
+   "-",
+   "-",
+   "y",
+   "-i",
+   "Jf",
+   "HON.",
+   ",1.",
+   "W.",
+   "KI.KMINO.",
+   "IMIKSI",
+   "DF.NT",
+   "IIOAItl)",
+   "Ol''",
+   "It",
+   "K"
+  ],
+  "page_seq_num": 442,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_beaver_ver01\/data\/sn92070477\/00280773505\/1895022701\/0442.jp2",
+  "place_of_publication": "Silver City, N.M.",
+  "pub_date": "1895-02-27",
+  "publisher": "Loomis & Oakes",
+  "score": 0.9834291934967041,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_beaver_ver01\/data\/sn92070477\/00280773505\/1895022701\/0442\/001_0_98.jpg"
+ },
+ "id": 33
+}

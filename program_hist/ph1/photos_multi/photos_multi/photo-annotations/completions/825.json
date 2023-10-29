@@ -1,0 +1,45 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673501,
+   "id": 825001,
+   "lead_time": 2.249,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_barberry_ver04",
+  "box": [
+   0.24940032958984376,
+   0.1439074191399076,
+   0.3870991617838542,
+   0.3017714038915433
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_barberry_ver04\/data\/sn92070553\/00280774509\/1905052501\/0321\/001_0_92.jpg",
+  "geographic_coverage": [
+   "New Mexico--Taos--Red River"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_barberry_ver04%2Fdata%2Fsn92070553%2F00280774509%2F1905052501%2F0321.jp2\/pct:24.94,14.4,13.77,15.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070553",
+  "name": "Red River prospector.",
+  "ocr": [
+   "that",
+   "is",
+   "apparently",
+   "more",
+   "artistic",
+   "for"
+  ],
+  "page_seq_num": 321,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_barberry_ver04\/data\/sn92070553\/00280774509\/1905052501\/0321.jp2",
+  "place_of_publication": "Red River, Taos County, N.M.",
+  "pub_date": "1905-05-25",
+  "publisher": "Fremont C. Stevens",
+  "score": 0.9237607717514038,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_barberry_ver04\/data\/sn92070553\/00280774509\/1905052501\/0321\/001_0_92.jpg"
+ },
+ "id": 825
+}

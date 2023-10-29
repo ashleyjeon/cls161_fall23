@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673451,
+   "id": 528001,
+   "lead_time": 1.835,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2lvTI-1Mik",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_abe_ver01",
+  "box": [
+   0.30423780168805803,
+   0.14932090428737704,
+   0.5546830676850818,
+   0.4118208746062666
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_abe_ver01\/data\/sn87062245\/100492866\/1901101301\/0135\/004_0_96.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_abe_ver01%2Fdata%2Fsn87062245%2F100492866%2F1901101301%2F0135.jp2\/pct:30.42,14.94,25.05,26.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn87062245",
+  "name": "The Washington times.",
+  "ocr": [
+   "yesterday",
+   "1BiHBS",
+   "ff5iaifMilEjfSNfti",
+   "jii",
+   "stwv",
+   "5",
+   "c",
+   "M4mmwmmwmmmgk",
+   "MATTHEW",
+   "G",
+   "EMERY",
+   "Jf",
+   "lHHBfcSfiJsira",
+   "iaSSiigsisaL",
+   "fc",
+   "tfSrsgsr",
+   "TJ",
+   "sm",
+   "gas-",
+   "v",
+   "s",
+   "-",
+   "JfJ"
+  ],
+  "page_seq_num": 135,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_abe_ver01\/data\/sn87062245\/100492866\/1901101301\/0135.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1901-10-13",
+  "publisher": "Times Co.",
+  "score": 0.9683336019515991,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_abe_ver01\/data\/sn87062245\/100492866\/1901101301\/0135\/004_0_96.jpg"
+ },
+ "id": 528
+}

@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767858,
+   "id": 695001,
+   "lead_time": 1.999,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dFRtT4w3ln",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_plato_ver01",
+  "box": [
+   0.3826957476709318,
+   0.3558328092512568,
+   0.6229926524238326,
+   0.8972525572942527
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_plato_ver01\/data\/sn83030193\/175044450\/1904010701\/0080\/015_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_plato_ver01%2Fdata%2Fsn83030193%2F175044450%2F1904010701%2F0080.jp2\/pct:38.26,35.59,24.03,54.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "ar",
+   "JIMMY",
+   "BRiTT",
+   "AND",
+   "fllS",
+   "QUEER",
+   "CROUCH",
+   "THE",
+   "CROCH",
+   "IS",
+   "POPULAR",
+   "AMONG",
+   "FIGHTERS",
+   "ON",
+   "THE",
+   "COAST",
+   "JEFFRIES",
+   "PROBABLY",
+   "ORIGINATED",
+   "IT",
+   "EDDIE",
+   "HANLON",
+   "IS",
+   "FAMOUS",
+   "FOR",
+   "HIS",
+   "CROUCH",
+   "TOO",
+   "I"
+  ],
+  "page_seq_num": 80,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_plato_ver01\/data\/sn83030193\/175044450\/1904010701\/0080.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1904-01-07",
+  "publisher": "[publisher not identified]",
+  "score": 0.9004896879196167,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_plato_ver01\/data\/sn83030193\/175044450\/1904010701\/0080\/015_0_90.jpg"
+ },
+ "id": 695
+}

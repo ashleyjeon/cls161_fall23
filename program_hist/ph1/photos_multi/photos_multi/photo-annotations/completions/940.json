@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673668,
+   "id": 940001,
+   "lead_time": 2.323,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3iEwMCikUo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_pomo_ver01",
+  "box": [
+   0.5712854678814228,
+   0.012347565110782943,
+   0.8501961781428411,
+   0.21902628470457883
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_pomo_ver01\/data\/sn85042462\/00175047475\/1907103101\/1005\/006_0_97.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_pomo_ver01%2Fdata%2Fsn85042462%2F00175047475%2F1907103101%2F1005.jp2\/pct:57.12,1.24,27.9,20.67\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "MAUDE",
+   "POWELL,",
+   "WHO",
+   "WILL",
+   "APPEAR",
+   "IN",
+   "CONCERT",
+   "OF",
+   "PHILHAR.",
+   "MONIC",
+   "COURSE",
+   "FRIDAY",
+   "EVENING."
+  ],
+  "page_seq_num": 1005,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_pomo_ver01\/data\/sn85042462\/00175047475\/1907103101\/1005.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1907-10-31",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9786723852157593,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_pomo_ver01\/data\/sn85042462\/00175047475\/1907103101\/1005\/006_0_97.jpg"
+ },
+ "id": 940
+}

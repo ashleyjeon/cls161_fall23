@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767698,
+   "id": 1506001,
+   "lead_time": 1.892,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "g4uFJyEWWR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uriv_elodia_ver01",
+  "box": [
+   0.30219211235731663,
+   0.09854353007985585,
+   0.4344699151501684,
+   0.32767011158501924
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uriv_elodia_ver01\/data\/sn85066408\/00271767158\/1914083001\/1079\/006_0_97.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uriv_elodia_ver01%2Fdata%2Fsn85066408%2F00271767158%2F1914083001%2F1079.jp2\/pct:30.21,9.86,13.23,22.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066408",
+  "name": "L'Italia. [volume]",
+  "ocr": [
+   "CRONACA",
+   "TEATRALI",
+   "La",
+   "serata",
+   "d'onore",
+   "di",
+   "M.",
+   "Agugiia",
+   "neirAmleto\""
+  ],
+  "page_seq_num": 1079,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uriv_elodia_ver01\/data\/sn85066408\/00271767158\/1914083001\/1079.jp2",
+  "place_of_publication": "San Francisco, Calif.",
+  "pub_date": "1914-08-30",
+  "publisher": "Italian Pub. Co.",
+  "score": 0.9754619598388672,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uriv_elodia_ver01\/data\/sn85066408\/00271767158\/1914083001\/1079\/006_0_97.jpg"
+ },
+ "id": 1506
+}

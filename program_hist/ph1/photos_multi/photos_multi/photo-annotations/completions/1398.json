@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751478,
+   "id": 1398001,
+   "lead_time": 2.427,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "IOxkE3jkze",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_gray_ver01",
+  "box": [
+   0.0120697021484375,
+   0.06159721264998878,
+   0.30465668026763615,
+   0.2854659036396033
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_gray_ver01\/data\/sn85038615\/00175031972\/1913020201\/1133\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_gray_ver01%2Fdata%2Fsn85038615%2F00175031972%2F1913020201%2F1133.jp2\/pct:1.2,6.16,29.26,22.39\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038615",
+  "name": "The times dispatch. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 1133,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_gray_ver01\/data\/sn85038615\/00175031972\/1913020201\/1133.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1913-02-02",
+  "publisher": "Times-Dispatch Co.",
+  "score": 0.978661835193634,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_gray_ver01\/data\/sn85038615\/00175031972\/1913020201\/1133\/002_0_97.jpg"
+ },
+ "id": 1398
+}

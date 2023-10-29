@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747456,
+   "id": 717001,
+   "lead_time": 2.307,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8EJeCifXwK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_jarvey_ver01",
+  "box": [
+   0.5201924266557119,
+   0.5192681093096234,
+   0.8063325964070187,
+   0.7032177530073221
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_jarvey_ver01\/data\/sn85040705\/00414215014\/1904122901\/1256\/000_0_93.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Forest--Wabeno"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_jarvey_ver01%2Fdata%2Fsn85040705%2F00414215014%2F1904122901%2F1256.jp2\/pct:52.01,51.93,28.62,18.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040705",
+  "name": "Northern Wisconsin advertiser. [volume]",
+  "ocr": [
+   "Lesson",
+   "in",
+   "Fire",
+   "Fighting\u2014Maids",
+   "Learn",
+   "to",
+   "Handle",
+   "Portable",
+   "Extinguishers."
+  ],
+  "page_seq_num": 1256,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_jarvey_ver01\/data\/sn85040705\/00414215014\/1904122901\/1256.jp2",
+  "place_of_publication": "Wabeno, Wis.",
+  "pub_date": "1904-12-29",
+  "publisher": "C.G. Himley",
+  "score": 0.9377279877662659,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_jarvey_ver01\/data\/sn85040705\/00414215014\/1904122901\/1256\/000_0_93.jpg"
+ },
+ "id": 717
+}

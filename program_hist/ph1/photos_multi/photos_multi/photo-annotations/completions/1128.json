@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743361,
+   "id": 1128001,
+   "lead_time": 4.894,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "coZ1rJrnTH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_rubidoux_ver01",
+  "box": [
+   0.3027949882542483,
+   0.08382531677144199,
+   0.5675685196977607,
+   0.34658726865739775
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_rubidoux_ver01\/data\/sn85042462\/00175035825\/1909110201\/0024\/009_0_94.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_rubidoux_ver01%2Fdata%2Fsn85042462%2F00175035825%2F1909110201%2F0024.jp2\/pct:30.27,8.39,26.48,26.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "Cet",
+   "Municipal",
+   "Band",
+   "Contra",
+   "ct",
+   "i"
+  ],
+  "page_seq_num": 24,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_rubidoux_ver01\/data\/sn85042462\/00175035825\/1909110201\/0024.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1909-11-02",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9499419927597046,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_rubidoux_ver01\/data\/sn85042462\/00175035825\/1909110201\/0024\/009_0_94.jpg"
+ },
+ "id": 1128
+}

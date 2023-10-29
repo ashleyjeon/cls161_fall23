@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755040,
+   "id": 836001,
+   "lead_time": 1.852,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7B6qDR7piB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_endive_ver01",
+  "box": [
+   0.07316452337771046,
+   0.04782580544069505,
+   0.3586210704985119,
+   0.19065225920541942
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_endive_ver01\/data\/sn86090528\/0029586445A\/1905111001\/0293\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Grady--Chickasha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_endive_ver01%2Fdata%2Fsn86090528%2F0029586445A%2F1905111001%2F0293.jp2\/pct:7.31,4.79,28.55,14.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090528",
+  "name": "The Chickasha daily express.",
+  "ocr": [
+   "Vest",
+   "Hill",
+   "Hospital",
+   ".",
+   "I..",
+   "I'FTKRS,",
+   "PHYSICIAN",
+   "ANI",
+   "Sl'KGKON",
+   "Lnxzsz",
+   "Jl"
+  ],
+  "page_seq_num": 293,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_endive_ver01\/data\/sn86090528\/0029586445A\/1905111001\/0293.jp2",
+  "place_of_publication": "Chickasha, Indian Territory [Okla.]",
+  "pub_date": "1905-11-10",
+  "publisher": "A.M. Dawson",
+  "score": 0.9662773013114929,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_endive_ver01\/data\/sn86090528\/0029586445A\/1905111001\/0293\/005_0_96.jpg"
+ },
+ "id": 836
+}

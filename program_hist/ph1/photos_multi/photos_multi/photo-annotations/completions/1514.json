@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768407,
+   "id": 1514001,
+   "lead_time": 1.773,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "sGGZma60zu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_quarren_ver01",
+  "box": [
+   0.34338817156585755,
+   0.09737414405459449,
+   0.9112523236864518,
+   0.67613647097633
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_quarren_ver01\/data\/sn83045462\/00280658868\/1914011101\/0230\/000_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_quarren_ver01%2Fdata%2Fsn83045462%2F00280658868%2F1914011101%2F0230.jp2\/pct:34.33,9.74,56.79,57.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Rising",
+   "out",
+   "of",
+   "the",
+   "white",
+   "smother",
+   "under",
+   "the",
+   "derelict's",
+   "bows",
+   "they",
+   "next",
+   "saw",
+   "htm."
+  ],
+  "page_seq_num": 230,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_quarren_ver01\/data\/sn83045462\/00280658868\/1914011101\/0230.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1914-01-11",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9710221886634827,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_quarren_ver01\/data\/sn83045462\/00280658868\/1914011101\/0230\/000_0_97.jpg"
+ },
+ "id": 1514
+}

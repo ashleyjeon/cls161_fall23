@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675094,
+   "id": 1749001,
+   "lead_time": 1.861,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9-bb5lU-9_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_greenville_ver01",
+  "box": [
+   0.4367319277276709,
+   0.05857431124290956,
+   0.5656497702173019,
+   0.22666716436660855
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_greenville_ver01\/data\/sn85042354\/00383342971\/1917060201\/0053\/012_0_90.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_greenville_ver01%2Fdata%2Fsn85042354%2F00383342971%2F1917060201%2F0053.jp2\/pct:43.67,5.86,12.9,16.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "\u25a0\u00bb\u00ab\"\u00bb*\u2022",
+   "HOEY",
+   "BRIDE",
+   "OF",
+   "ALBERT",
+   "C.",
+   "FOI",
+   "''\u2022Hi",
+   "t",
+   "\u2022&>",
+   "f",
+   "\\",
+   "\u00abL.",
+   "(\/",
+   "I",
+   "$",
+   "MRS.",
+   "ALBERT",
+   "C.",
+   "FOX,"
+  ],
+  "page_seq_num": 53,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_greenville_ver01\/data\/sn85042354\/00383342971\/1917060201\/0053.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1917-06-02",
+  "publisher": "J. Milton Davidson",
+  "score": 0.906283974647522,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_greenville_ver01\/data\/sn85042354\/00383342971\/1917060201\/0053\/012_0_90.jpg"
+ },
+ "id": 1749
+}

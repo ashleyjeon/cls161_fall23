@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746983,
+   "id": 208001,
+   "lead_time": 1.657,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CaortKROfW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_willys_ver01",
+  "box": [
+   0.32319869587128175,
+   0.29776551018912967,
+   0.7379921489858372,
+   0.707099097863535
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_willys_ver01\/data\/sn83030214\/00175039132\/1897081501\/0260\/000_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_willys_ver01%2Fdata%2Fsn83030214%2F00175039132%2F1897081501%2F0260.jp2\/pct:32.31,29.78,41.48,40.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "&.ING",
+   "GARLOS",
+   "OF",
+   "PORTUGAL."
+  ],
+  "page_seq_num": 260,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_willys_ver01\/data\/sn83030214\/00175039132\/1897081501\/0260.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-08-15",
+  "publisher": "New York Tribune",
+  "score": 0.9813873767852783,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_willys_ver01\/data\/sn83030214\/00175039132\/1897081501\/0260\/000_0_98.jpg"
+ },
+ "id": 208
+}

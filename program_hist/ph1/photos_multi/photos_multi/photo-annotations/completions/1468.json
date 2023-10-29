@@ -1,0 +1,108 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768765,
+   "id": 1468001,
+   "lead_time": 1.863,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "k0H5velr1z",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_fir_ver01",
+  "box": [
+   0.6120516615778976,
+   0.2047867295511026,
+   0.7301531169075448,
+   0.6613740520023994
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_fir_ver01\/data\/sn88085187\/0021110837A\/1914022801\/0412\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_fir_ver01%2Fdata%2Fsn88085187%2F0021110837A%2F1914022801%2F0412.jp2\/pct:61.2,20.48,11.82,45.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "SOCIETY",
+   "GIRL",
+   "TO",
+   "DANCE",
+   "BAREFOOT",
+   "AT",
+   "'GETTE",
+   "SHOW",
+   "WASHINGTON,",
+   "U.",
+   "C,",
+   "Feb.",
+   "28.",
+   "\u2014Miss",
+   "Effle",
+   "Baker,",
+   "daughter",
+   "of",
+   "Dr.",
+   "Frank",
+   "Baker",
+   "of",
+   "Washington,",
+   "noted",
+   "for",
+   "her",
+   "graceful",
+   "dancing,",
+   "is",
+   "to",
+   "be",
+   "a",
+   "feature",
+   "in",
+   "the",
+   "suffrage",
+   "play",
+   "given",
+   "by",
+   "the",
+   "Congressional",
+   "Union",
+   "for",
+   "Suffrage.",
+   "She",
+   "will",
+   "give",
+   "her",
+   "solo",
+   "dance",
+   "of",
+   "\"triumphant",
+   "Joy\"",
+   "as",
+   "a",
+   "curtain",
+   "raiser",
+   "before",
+   "the"
+  ],
+  "page_seq_num": 412,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_fir_ver01\/data\/sn88085187\/0021110837A\/1914022801\/0412.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1914-02-28",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9571688771247864,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_fir_ver01\/data\/sn88085187\/0021110837A\/1914022801\/0412\/004_0_95.jpg"
+ },
+ "id": 1468
+}

@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673561,
+   "id": 1188001,
+   "lead_time": 1.633,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MHho08r8IA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_mecca_ver01",
+  "box": [
+   0.5721909649359119,
+   0.04150946040882487,
+   0.9777311404690335,
+   0.2436322275965834
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_mecca_ver01\/data\/sn85066387\/00175046653\/1910093001\/0669\/017_0_95.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_mecca_ver01%2Fdata%2Fsn85066387%2F00175046653%2F1910093001%2F0669.jp2\/pct:57.21,4.16,40.56,20.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "SEVEN",
+   "PASSENGER",
+   "DISPLAYED",
+   "The",
+   "new",
+   "high",
+   "grade",
+   "seven",
+   "passenger",
+   "191",
+   "1",
+   "Lozier.",
+   "Thosz",
+   "in",
+   "the",
+   "car",
+   "are,",
+   "reading",
+   "from",
+   "left",
+   "to",
+   "righii",
+   "P.",
+   "5.",
+   "Cole",
+   "at",
+   "*",
+   "~",
+   "the",
+   "and",
+   "S.",
+   "Harris."
+  ],
+  "page_seq_num": 669,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_mecca_ver01\/data\/sn85066387\/00175046653\/1910093001\/0669.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1910-09-30",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9586181640625,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_mecca_ver01\/data\/sn85066387\/00175046653\/1910093001\/0669\/017_0_95.jpg"
+ },
+ "id": 1188
+}

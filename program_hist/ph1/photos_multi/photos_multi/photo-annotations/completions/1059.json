@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768430,
+   "id": 1059001,
+   "lead_time": 1.828,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "n1yjsDoHxK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_columbia_ver01",
+  "box": [
+   0.05178151645388477,
+   0.5750665256550218,
+   0.26967802649845657,
+   0.8375388066320961
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_columbia_ver01\/data\/sn88085947\/00211108587\/1908021201\/0213\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Washington--Spokane--Spokane"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_columbia_ver01%2Fdata%2Fsn88085947%2F00211108587%2F1908021201%2F0213.jp2\/pct:5.17,57.51,21.79,26.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085947",
+  "name": "The Spokane press. [volume]",
+  "ocr": [
+   "This",
+   "Cfot",
+   "Cost",
+   "1",
+   "*",
+   "\u2014",
+   "\u2022\u2022",
+   ".\u25a0\u25a0'\u25a0:\u25a0:\u25a0>",
+   "ANNA",
+   "HELD",
+   "HOLDS",
+   "HER",
+   "$25,000",
+   "UP",
+   "FOR",
+   "THE",
+   "CAMERA",
+   "TO"
+  ],
+  "page_seq_num": 213,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_columbia_ver01\/data\/sn88085947\/00211108587\/1908021201\/0213.jp2",
+  "place_of_publication": "Spokane, Wash.",
+  "pub_date": "1908-02-12",
+  "publisher": "Press Pub. Co.",
+  "score": 0.969683825969696,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_columbia_ver01\/data\/sn88085947\/00211108587\/1908021201\/0213\/002_0_96.jpg"
+ },
+ "id": 1059
+}

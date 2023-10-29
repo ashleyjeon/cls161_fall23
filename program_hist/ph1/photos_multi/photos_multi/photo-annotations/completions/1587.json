@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768995,
+   "id": 1587001,
+   "lead_time": 1.28,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qc8dD-1IZH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_indigo_ver01",
+  "box": [
+   0.6745369576119088,
+   0.08744235859012536,
+   0.900214062939893,
+   0.44199534163655424
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_indigo_ver01\/data\/sn82014682\/00212471033\/1915031301\/0808\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_indigo_ver01%2Fdata%2Fsn82014682%2F00212471033%2F1915031301%2F0808.jp2\/pct:67.45,8.75,22.57,35.46\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014682",
+  "name": "Honolulu star-bulletin. [volume]",
+  "ocr": [
+   "\"",
+   "'",
+   "f",
+   "...",
+   ".-A",
+   "t",
+   "-ft",
+   "c10a-;",
+   "-'-",
+   "A",
+   ":",
+   "mi",
+   ".",
+   ".",
+   "'J-",
+   "v.",
+   ".-..",
+   "a",
+   ".",
+   ".-'",
+   ".",
+   "...",
+   "I;",
+   "MARION",
+   "DOWSETT",
+   "WORTHINGTON."
+  ],
+  "page_seq_num": 808,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_indigo_ver01\/data\/sn82014682\/00212471033\/1915031301\/0808.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1915-03-13",
+  "publisher": "[P.T. Gialanella]",
+  "score": 0.9307123422622681,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_indigo_ver01\/data\/sn82014682\/00212471033\/1915031301\/0808\/003_0_93.jpg"
+ },
+ "id": 1587
+}

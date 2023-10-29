@@ -1,0 +1,120 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673471,
+   "id": 480001,
+   "lead_time": 1.817,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4ulfs_a5ZM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_estlund_ver01",
+  "box": [
+   0.6851008193297956,
+   0.3480600135694058,
+   0.9356585808520047,
+   0.596994178662808
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_estlund_ver01\/data\/sn99063956\/00280760419\/1901121301\/0342\/002_0_99.jpg",
+  "geographic_coverage": [
+   "Oregon--Marion--Salem"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_estlund_ver01%2Fdata%2Fsn99063956%2F00280760419%2F1901121301%2F0342.jp2\/pct:68.51,34.81,25.06,24.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063956",
+  "name": "The daily journal.",
+  "ocr": [
+   "COUNTRY",
+   "WATCHING",
+   "MRS1DALE",
+   "Woman",
+   "Accused",
+   "of",
+   "Poisoning",
+   "Her",
+   "Child",
+   "Is",
+   "an",
+   "Inscrutltablc",
+   "Mystery.",
+   "IM",
+   "lXIjibIIIIIIIVl'",
+   "tf9sllSsEHliBBlBsBlV",
+   "VlsalllllSsalllliaSaillllllliiife.",
+   "B",
+   "iiUujuflu",
+   "TVaiisiiiiHBBV",
+   "isllllllllllllllllllllllBr",
+   "K",
+   "BLbIIIHv",
+   "'aslliHilSaJasr",
+   "\"sasllllllllllllllllMr",
+   "UHEjXTy",
+   "aLk",
+   "J",
+   "JP",
+   "KakFa-t",
+   "SktV",
+   "ShCsTatUMsP",
+   "B",
+   "IwlBaVK",
+   "ZsiBiflBHBlBiiiHVi)Vl'9s5S",
+   "Here",
+   "Is",
+   "anew",
+   "nocture",
+   "ot",
+   "Mrs,",
+   "Dale,",
+   "I",
+   "poisoning",
+   "nor",
+   "child.",
+   "Iter",
+   "hunand",
+   "still",
+   "I",
+   "io",
+   "tlfv",
+   "for",
+   "it",
+   "nvniiiai",
+   "hi.r",
+   "who",
+   "was",
+   "iirrocted",
+   "in",
+   "Hobok",
+   "on",
+   "accused",
+   "if",
+   "relueos",
+   "to",
+   "cumo",
+   "on",
+   "from",
+   "Chicago",
+   "and"
+  ],
+  "page_seq_num": 342,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_estlund_ver01\/data\/sn99063956\/00280760419\/1901121301\/0342.jp2",
+  "place_of_publication": "Salem, Or.",
+  "pub_date": "1901-12-13",
+  "publisher": "Hofer Bros.",
+  "score": 0.990294337272644,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_estlund_ver01\/data\/sn99063956\/00280760419\/1901121301\/0342\/002_0_99.jpg"
+ },
+ "id": 480
+}

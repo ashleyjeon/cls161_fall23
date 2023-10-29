@@ -1,0 +1,85 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767348,
+   "id": 184001,
+   "lead_time": 1.831,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FphJ1kWtot",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_dantley_ver01",
+  "box": [
+   0.35941009818926656,
+   0.8072456044769803,
+   0.6349812111659356,
+   0.946178314890826
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_dantley_ver01\/data\/sn85058130\/206534618\/1897031001\/0642\/003_0_92.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_dantley_ver01%2Fdata%2Fsn85058130%2F206534618%2F1897031001%2F0642.jp2\/pct:35.94,80.73,27.56,13.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058130",
+  "name": "The Salt Lake herald. [volume]",
+  "ocr": [
+   "1",
+   "I",
+   "J",
+   "J",
+   "t",
+   ">",
+   "t",
+   "i",
+   "i",
+   "i",
+   "1",
+   "vember",
+   "26",
+   "1867",
+   "at",
+   "Pinto",
+   "Washington",
+   "county",
+   "His",
+   "education",
+   "was",
+   "obtained",
+   "in",
+   "the",
+   "public",
+   "schools",
+   "supplemented",
+   "with",
+   "a",
+   "year",
+   "at",
+   "the",
+   "Provo",
+   "Brigham",
+   "Young",
+   "academy"
+  ],
+  "page_seq_num": 642,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_dantley_ver01\/data\/sn85058130\/206534618\/1897031001\/0642.jp2",
+  "place_of_publication": "Salt Lake City [Utah]",
+  "pub_date": "1897-03-10",
+  "publisher": "[W.C. Dunbar & E.L. Sloan]",
+  "score": 0.9262062907218933,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_dantley_ver01\/data\/sn85058130\/206534618\/1897031001\/0642\/003_0_92.jpg"
+ },
+ "id": 184
+}

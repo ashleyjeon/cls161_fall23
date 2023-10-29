@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749279,
+   "id": 1222001,
+   "lead_time": 2.001,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BV763XODIN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_edelbrock_ver01",
+  "box": [
+   0.29448381774628646,
+   0.03841177265295822,
+   0.5637575842339896,
+   0.29922708232751055
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_edelbrock_ver01\/data\/sn82016014\/00295870722\/1910082701\/0601\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_edelbrock_ver01%2Fdata%2Fsn82016014%2F00295870722%2F1910082701%2F0601.jp2\/pct:29.44,3.85,26.93,26.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016014",
+  "name": "The Topeka state journal. [volume]",
+  "ocr": [
+   "!",
+   "X3",
+   "i",
+   "1",
+   "Harry",
+   "Bulger",
+   "In",
+   "\"Th",
+   "Yrx",
+   "i",
+   "III",
+   "e",
+   "Flirting",
+   "Princess.\""
+  ],
+  "page_seq_num": 601,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_edelbrock_ver01\/data\/sn82016014\/00295870722\/1910082701\/0601.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1910-08-27",
+  "publisher": "F.P. MacLennan",
+  "score": 0.9649562835693359,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_edelbrock_ver01\/data\/sn82016014\/00295870722\/1910082701\/0601\/007_0_96.jpg"
+ },
+ "id": 1222
+}

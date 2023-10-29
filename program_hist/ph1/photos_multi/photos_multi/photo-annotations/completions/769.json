@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675566,
+   "id": 769001,
+   "lead_time": 3.857,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "O26Tb05r7k",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_merckx_ver01",
+  "box": [
+   0.6934538691876883,
+   0.7688847484923246,
+   0.9456071705908455,
+   0.9483346182839912
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_merckx_ver01\/data\/sn83045396\/print\/1904032701\/0390\/003_0_92.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_merckx_ver01%2Fdata%2Fsn83045396%2Fprint%2F1904032701%2F0390.jp2\/pct:69.34,76.89,25.22,17.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045396",
+  "name": "The Salt Lake tribune. [volume]",
+  "ocr": [
+   "910,000",
+   "purchase",
+   "made",
+   "by",
+   "Mrs,",
+   "Edwin",
+   "F.",
+   "Holmes,",
+   "comer",
+   "State",
+   "--",
+   "and'",
+   "North.",
+   "Temple",
+   "stroets,",
+   "through",
+   "tho",
+   "Home",
+   "Trust",
+   "&",
+   "Savings",
+   "Co."
+  ],
+  "page_seq_num": 390,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_merckx_ver01\/data\/sn83045396\/print\/1904032701\/0390.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1904-03-27",
+  "publisher": "Tribune Pub. Co.",
+  "score": 0.9297050833702087,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_merckx_ver01\/data\/sn83045396\/print\/1904032701\/0390\/003_0_92.jpg"
+ },
+ "id": 769
+}

@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769144,
+   "id": 1914001,
+   "lead_time": 3.754,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nAEWPnIWzX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_julich_ver01",
+  "box": [
+   0.03132704904878618,
+   0.28463453988857157,
+   0.3196362122322888,
+   0.5158282197897557
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_julich_ver01\/data\/sn85058396\/print\/1919042401\/0341\/004_0_90.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_julich_ver01%2Fdata%2Fsn85058396%2Fprint%2F1919042401%2F0341.jp2\/pct:3.13,28.47,28.84,23.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 341,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_julich_ver01\/data\/sn85058396\/print\/1919042401\/0341.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1919-04-24",
+  "publisher": "W. Glasmann",
+  "score": 0.9002753496170044,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_julich_ver01\/data\/sn85058396\/print\/1919042401\/0341\/004_0_90.jpg"
+ },
+ "id": 1914
+}

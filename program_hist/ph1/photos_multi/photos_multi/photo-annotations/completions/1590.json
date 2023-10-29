@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766864,
+   "id": 1590001,
+   "lead_time": 3.407,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vdy4-RoQ7F",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_japan_ver01",
+  "box": [
+   0.616567132411859,
+   0.05579429797911912,
+   0.8884408804086539,
+   0.25369114107853463
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_japan_ver01\/data\/sn86088527\/00200297891\/1915092101\/0126\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Texas--Nueces--Corpus Christi"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_japan_ver01%2Fdata%2Fsn86088527%2F00200297891%2F1915092101%2F0126.jp2\/pct:61.65,5.58,27.19,19.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn86088527",
+  "name": "Corpus Christi caller and daily herald. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 126,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_japan_ver01\/data\/sn86088527\/00200297891\/1915092101\/0126.jp2",
+  "place_of_publication": "Corpus Christi, Tex.",
+  "pub_date": "1915-09-21",
+  "publisher": "Caller Pub. Co.",
+  "score": 0.9876799583435059,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_japan_ver01\/data\/sn86088527\/00200297891\/1915092101\/0126\/002_0_98.jpg"
+ },
+ "id": 1590
+}

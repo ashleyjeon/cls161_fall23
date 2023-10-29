@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768082,
+   "id": 1271001,
+   "lead_time": 2.053,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-gR6T9qFDG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_hemlock_ver01",
+  "box": [
+   0.6914774001174717,
+   0.10903223505559957,
+   0.82272025550096,
+   0.29379097920543745
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_hemlock_ver01\/data\/sn83016689\/00279551825\/1911032001\/0134\/008_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_hemlock_ver01%2Fdata%2Fsn83016689%2F00279551825%2F1911032001%2F0134.jp2\/pct:69.14,10.91,13.13,18.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "SUFFERS",
+   "SERIOUS",
+   "RELAPSE;",
+   "CONDITION",
+   "IS",
+   "CRITICAL",
+   "\u25a0L,",
+   ";",
+   "\u2018",
+   "nminOTmuLifliimimgfi\u00df",
+   "TOM",
+   "L.",
+   "JOHNSON."
+  ],
+  "page_seq_num": 134,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_hemlock_ver01\/data\/sn83016689\/00279551825\/1911032001\/0134.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1911-03-20",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9797295331954956,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_hemlock_ver01\/data\/sn83016689\/00279551825\/1911032001\/0134\/008_0_97.jpg"
+ },
+ "id": 1271
+}

@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768427,
+   "id": 929001,
+   "lead_time": 1.878,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-Nz2Xwcuz7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_atoka_ver01",
+  "box": [
+   0.3351498086243043,
+   0.03776073052736026,
+   0.6281516468768803,
+   0.29549605949189034
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_atoka_ver01\/data\/sn93066071\/00237280969\/1907061301\/0977\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Beaver--Beaver"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_atoka_ver01%2Fdata%2Fsn93066071%2F00237280969%2F1907061301%2F0977.jp2\/pct:33.51,3.78,29.31,25.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn93066071",
+  "name": "The Beaver herald. [volume]",
+  "ocr": [
+   "INMAN,",
+   "WEALTHY",
+   "WIDOW,",
+   "SAID",
+   "TO",
+   "BE",
+   "ENGAGED",
+   "TO",
+   "JAMES",
+   "B.",
+   "DUKE.",
+   "Report",
+   "comes",
+   "from",
+   "Atlanta,",
+   "Ga.,",
+   "that",
+   "Mrs.",
+   "Inman,",
+   "widow",
+   "of",
+   "tho",
+   "Into",
+   "Wil",
+   "liam",
+   "Iumnn,",
+   "Is",
+   "to",
+   "bo",
+   "man",
+   "led",
+   "to",
+   "James",
+   "B.",
+   "Duke,",
+   "president",
+   "of",
+   "the",
+   "American",
+   "Tobacco",
+   "company.",
+   "Mr.",
+   "Duko",
+   "was",
+   "divorced",
+   "from",
+   "his",
+   "first",
+   "wlfo",
+   "a",
+   "yenr",
+   "ngo.",
+   "lie",
+   "lias",
+   "a",
+   "fortune",
+   "estimated",
+   "variously",
+   "at",
+   "from",
+   "$25,000,000",
+   "to",
+   "$75,000,000,",
+   "and",
+   "Mrs.",
+   "Inmnn",
+   "has",
+   "the",
+   "millions",
+   "left",
+   "by",
+   "her",
+   "Into",
+   "husband."
+  ],
+  "page_seq_num": 977,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_atoka_ver01\/data\/sn93066071\/00237280969\/1907061301\/0977.jp2",
+  "place_of_publication": "Beaver, O.T. [Okla.]",
+  "pub_date": "1907-06-13",
+  "publisher": "Lily and Dolly Wright",
+  "score": 0.9223831295967102,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_atoka_ver01\/data\/sn93066071\/00237280969\/1907061301\/0977\/006_0_92.jpg"
+ },
+ "id": 929
+}

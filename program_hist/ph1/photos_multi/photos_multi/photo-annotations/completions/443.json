@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749400,
+   "id": 443001,
+   "lead_time": 1.722,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "svbqRiTWbH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_gaines_ver01",
+  "box": [
+   0.41889093764659713,
+   0.5542679598498903,
+   0.554089869968335,
+   0.7304527767525868
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_gaines_ver01\/data\/sn84020274\/00211109087\/1900091201\/0222\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_gaines_ver01%2Fdata%2Fsn84020274%2F00211109087%2F1900091201%2F0222.jp2\/pct:41.88,55.43,13.52,17.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "MICnAEL",
+   "T.",
+   "CHURCniliL.",
+   "Who",
+   "succeeds",
+   "tlie",
+   "late",
+   "Ken",
+   "F.",
+   "Rraly",
+   ".is",
+   "Constable",
+   "of",
+   "JudRc",
+   "SiiauM-",
+   "ViV",
+   "-",
+   "-",
+   "-"
+  ],
+  "page_seq_num": 222,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_gaines_ver01\/data\/sn84020274\/00211109087\/1900091201\/0222.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1900-09-12",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9859980344772339,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_gaines_ver01\/data\/sn84020274\/00211109087\/1900091201\/0222\/000_0_98.jpg"
+ },
+ "id": 443
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611744387,
+   "id": 563001,
+   "lead_time": 10.295,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "OLX3nU4jcH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_evart_ver01",
+  "box": [
+   0.5977529565568667,
+   0.335970739416174,
+   0.9115693238926115,
+   0.5150203395534206
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_evart_ver01\/data\/sn97070614\/00296023644\/1902121901\/0157\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Michigan--Shiawassee--Owosso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_evart_ver01%2Fdata%2Fsn97070614%2F00296023644%2F1902121901%2F0157.jp2\/pct:59.77,33.6,31.39,17.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn97070614",
+  "name": "The Owosso times.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 157,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_evart_ver01\/data\/sn97070614\/00296023644\/1902121901\/0157.jp2",
+  "place_of_publication": "Owosso, Mich.",
+  "pub_date": "1902-12-19",
+  "publisher": "Edmund O. Dewey",
+  "score": 0.9677360653877258,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_evart_ver01\/data\/sn97070614\/00296023644\/1902121901\/0157\/002_0_96.jpg"
+ },
+ "id": 563
+}

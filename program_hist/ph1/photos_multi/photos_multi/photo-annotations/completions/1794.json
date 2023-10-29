@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766821,
+   "id": 1794001,
+   "lead_time": 3.414,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_felwort_ver01",
+  "box": [
+   0.5583356282357393,
+   0.39587051666926343,
+   0.8045962392998655,
+   0.5506223151486823
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918062201\/1472\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_felwort_ver01%2Fdata%2Fsn92070582%2F00280774078%2F1918062201%2F1472.jp2\/pct:55.83,39.59,24.63,15.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070582",
+  "name": "The evening herald. [volume]",
+  "ocr": [
+   "r\",?'..",
+   ":w:'",
+   "\"'--1;",
+   "CHEA.iSlRY",
+   "pn",
+   "'",
+   "l.t",
+   "..",
+   "I",
+   "h",
+   ".",
+   "ti",
+   "n",
+   "litih-",
+   "a",
+   "l.iii\"",
+   "Mill,",
+   "i",
+   "l",
+   ".",
+   "-",
+   "i",
+   ",,",
+   "i",
+   "MS'i3r",
+   "DEPAR'IMENT",
+   "is",
+   "t",
+   ".",
+   "\"",
+   "h",
+   "c",
+   "l.i",
+   "v",
+   "a",
+   "m",
+   "a"
+  ],
+  "page_seq_num": 1472,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918062201\/1472.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1918-06-22",
+  "publisher": "The Evening Herald",
+  "score": 0.9894160628318787,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918062201\/1472\/001_0_98.jpg"
+ },
+ "id": 1794
+}

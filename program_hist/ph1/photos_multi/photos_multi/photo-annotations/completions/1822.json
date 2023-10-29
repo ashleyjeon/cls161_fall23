@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767625,
+   "id": 1822001,
+   "lead_time": 2.167,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3e2kXEByKi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_incadove_ver01",
+  "box": [
+   0.3689628765240126,
+   0.12404339234814062,
+   0.643939285019111,
+   0.3396142284110866
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_incadove_ver01\/data\/sn84024827\/0021110479A\/1918061601\/0619\/003_0_91.jpg",
+  "geographic_coverage": [
+   "Arizona--Cochise--Bisbee"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_incadove_ver01%2Fdata%2Fsn84024827%2F0021110479A%2F1918061601%2F0619.jp2\/pct:36.89,12.41,27.5,21.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024827",
+  "name": "Bisbee daily review. [volume]",
+  "ocr": [
+   "ir",
+   "r",
+   "v",
+   "t",
+   "-"
+  ],
+  "page_seq_num": 619,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_incadove_ver01\/data\/sn84024827\/0021110479A\/1918061601\/0619.jp2",
+  "place_of_publication": "Bisbee, Ariz.",
+  "pub_date": "1918-06-16",
+  "publisher": "W.B. Kelly",
+  "score": 0.9189426302909851,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_incadove_ver01\/data\/sn84024827\/0021110479A\/1918061601\/0619\/003_0_91.jpg"
+ },
+ "id": 1822
+}

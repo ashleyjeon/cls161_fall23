@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772513,
+   "id": 550001,
+   "lead_time": 1.705,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZfE0V-dFzf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_lila_ver02",
+  "box": [
+   0.8505161552672174,
+   0.1257509321564046,
+   0.9729219667471138,
+   0.2911631266276042
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_lila_ver02\/data\/sn88064176\/00211100898\/1902030101\/0043\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Louisiana--Grant--Colfax"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_lila_ver02%2Fdata%2Fsn88064176%2F00211100898%2F1902030101%2F0043.jp2\/pct:85.05,12.58,12.25,16.55\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064176",
+  "name": "The Colfax chronicle. [volume]",
+  "ocr": [
+   "A",
+   "T"
+  ],
+  "page_seq_num": 43,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_lila_ver02\/data\/sn88064176\/00211100898\/1902030101\/0043.jp2",
+  "place_of_publication": "Colfax, Grant Parish, La.",
+  "pub_date": "1902-03-01",
+  "publisher": "H.G. Goodwyn",
+  "score": 0.9271228909492493,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_lila_ver02\/data\/sn88064176\/00211100898\/1902030101\/0043\/006_0_92.jpg"
+ },
+ "id": 550
+}

@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766761,
+   "id": 1093001,
+   "lead_time": 2.171,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Oa3gLNqNZ8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_egypt_ver01",
+  "box": [
+   0.02730017019553743,
+   0.08691685374190168,
+   0.3318094264522853,
+   0.23026982749380717
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_egypt_ver01\/data\/sn83030214\/00175039557\/1909093001\/0693\/003_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_egypt_ver01%2Fdata%2Fsn83030214%2F00175039557%2F1909093001%2F0693.jp2\/pct:2.73,8.7,30.46,14.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "LITTLE",
+   "ACTORS",
+   "IN",
+   "CIVIO",
+   "PLAY",
+   "AT",
+   "I'l-BLIG",
+   "SCHOOL",
+   "6."
+  ],
+  "page_seq_num": 693,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_egypt_ver01\/data\/sn83030214\/00175039557\/1909093001\/0693.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1909-09-30",
+  "publisher": "New York Tribune",
+  "score": 0.9721489548683167,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_egypt_ver01\/data\/sn83030214\/00175039557\/1909093001\/0693\/003_0_97.jpg"
+ },
+ "id": 1093
+}

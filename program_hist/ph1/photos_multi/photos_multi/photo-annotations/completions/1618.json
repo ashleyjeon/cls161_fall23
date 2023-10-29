@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675520,
+   "id": 1618001,
+   "lead_time": 1.856,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DImKuxJ2Ls",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.0498102673313074,
+   0.23070192302205075,
+   0.2001083775570518,
+   0.45492101185856465
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761072\/1916072901\/0371\/000_0_92.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761072%2F1916072901%2F0371.jp2\/pct:4.98,23.08,15.03,22.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "Photo",
+   "by",
+   "American",
+   "Press",
+   "Association.",
+   "y'1(w",
+   "v",
+   ",",
+   "$"
+  ],
+  "page_seq_num": 371,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761072\/1916072901\/0371.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1916-07-29",
+  "publisher": "Julius F. Taylor",
+  "score": 0.9271127581596375,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761072\/1916072901\/0371\/000_0_92.jpg"
+ },
+ "id": 1618
+}

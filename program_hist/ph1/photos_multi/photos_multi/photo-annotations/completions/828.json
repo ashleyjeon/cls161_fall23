@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674684,
+   "id": 828001,
+   "lead_time": 1.639,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WTGlo5thTW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_frederick_ver03",
+  "box": [
+   0.1317739299699372,
+   0.2625227330094677,
+   0.40959515291101795,
+   0.5222662456965043
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_frederick_ver03\/data\/sn89060092\/00279521754\/1905100601\/0356\/004_0_92.jpg",
+  "geographic_coverage": [
+   "Maryland--Frederick--Frederick"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_frederick_ver03%2Fdata%2Fsn89060092%2F00279521754%2F1905100601%2F0356.jp2\/pct:13.17,26.26,27.79,25.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn89060092",
+  "name": "The citizen.",
+  "ocr": [
+   "FOR",
+   "COUNTY",
+   "COMMISSIONERS.",
+   "JOHN",
+   "HIMES.",
+   "JAMES",
+   "O.",
+   "HARN'.",
+   "EDWARD",
+   "CRUM.",
+   "Certainly",
+   "Ihree",
+   "substantial",
+   "and",
+   "business",
+   "looking.men",
+   "are",
+   "these",
+   "candidates",
+   "for",
+   "County",
+   "Commissioners",
+   "They",
+   "are",
+   "highly",
+   "spoken",
+   "of",
+   "on",
+   "all",
+   "sides",
+   "and",
+   "will",
+   "command",
+   "the",
+   "situation",
+   "later",
+   "on.",
+   "Look",
+   "out",
+   "j",
+   "i",
+   "|",
+   ",",
+   "I",
+   "j",
+   "j",
+   "|",
+   "j",
+   "j",
+   "I",
+   "I"
+  ],
+  "page_seq_num": 356,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_frederick_ver03\/data\/sn89060092\/00279521754\/1905100601\/0356.jp2",
+  "place_of_publication": "Frederick City, Md.",
+  "pub_date": "1905-10-06",
+  "publisher": "Baughman Bros.",
+  "score": 0.9267969727516174,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_frederick_ver03\/data\/sn89060092\/00279521754\/1905100601\/0356\/004_0_92.jpg"
+ },
+ "id": 828
+}

@@ -1,0 +1,92 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749495,
+   "id": 726001,
+   "lead_time": 3.899,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JOqlul83d4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_issue_ver01",
+  "box": [
+   0.4373021631615949,
+   0.04986833423200628,
+   0.8148785524061383,
+   0.26402150531893925
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_issue_ver01\/data\/sn93055779\/00295873474\/1904060601\/1193\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Illinois--Alexander County--Cairo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_issue_ver01%2Fdata%2Fsn93055779%2F00295873474%2F1904060601%2F1193.jp2\/pct:43.73,4.99,37.76,21.42\/!500,500\/0\/default.jpg",
+  "lccn": "sn93055779",
+  "name": "The Cairo bulletin.",
+  "ocr": [
+   "EXCAVATING",
+   "MACHINERY",
+   "ON",
+   "LINE",
+   "OF",
+   "PANAMA",
+   "picture",
+   "s;:.iws",
+   "some",
+   "ni",
+   "tie",
+   "novo!",
+   "excavating,",
+   "machinery",
+   "which",
+   "Th",
+   "t'anal",
+   "by",
+   "tin",
+   "n",
+   "and",
+   "which",
+   "is",
+   "one",
+   "of",
+   "tin",
+   "lew",
+   "ciaaset",
+   "CANAL.",
+   "was",
+   "installed",
+   "along",
+   "th",
+   "lillt",
+   "nt",
+   "thf",
+   "lie",
+   "Americas",
+   "nt",
+   "appiianees",
+   "which"
+  ],
+  "page_seq_num": 1193,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_issue_ver01\/data\/sn93055779\/00295873474\/1904060601\/1193.jp2",
+  "place_of_publication": "Cairo, Ill.",
+  "pub_date": "1904-06-06",
+  "publisher": "Bulletin Co.",
+  "score": 0.9847798943519592,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_issue_ver01\/data\/sn93055779\/00295873474\/1904060601\/1193\/000_0_98.jpg"
+ },
+ "id": 726
+}

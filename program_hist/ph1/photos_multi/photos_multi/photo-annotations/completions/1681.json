@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673490,
+   "id": 1681001,
+   "lead_time": 1.901,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QxjAfu1dFU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_dawson_ver01",
+  "box": [
+   0.03197973445234006,
+   0.0517498703138926,
+   0.28934442686978246,
+   0.30792225448418004
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_dawson_ver01\/data\/sn86092536\/00414186415\/1916060501\/0854\/000_0_98.jpg",
+  "geographic_coverage": [
+   "West Virginia--Ohio--Wheeling"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_dawson_ver01%2Fdata%2Fsn86092536%2F00414186415%2F1916060501%2F0854.jp2\/pct:3.19,5.18,25.74,25.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092536",
+  "name": "The Wheeling intelligencer. [volume]",
+  "ocr": [
+   "State",
+   "s",
+   "Republican",
+   "Voters"
+  ],
+  "page_seq_num": 854,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_dawson_ver01\/data\/sn86092536\/00414186415\/1916060501\/0854.jp2",
+  "place_of_publication": "Wheeling, W. Va.",
+  "pub_date": "1916-06-05",
+  "publisher": "Intelligencer Pub. Co.",
+  "score": 0.9849971532821655,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_dawson_ver01\/data\/sn86092536\/00414186415\/1916060501\/0854\/000_0_98.jpg"
+ },
+ "id": 1681
+}

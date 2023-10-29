@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754307,
+   "id": 909001,
+   "lead_time": 3.827,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FvOEB6SbyV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_beryl_ver01",
+  "box": [
+   0.035800216461530636,
+   0.27867723317737697,
+   0.187773223450405,
+   0.41302773441734875
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_beryl_ver01\/data\/sn86074065\/00383343665\/1906031401\/0243\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Mississippi--Lincoln--Brookhaven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_beryl_ver01%2Fdata%2Fsn86074065%2F00383343665%2F1906031401%2F0243.jp2\/pct:3.58,27.87,15.2,13.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074065",
+  "name": "The Semi-weekly leader.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 243,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_beryl_ver01\/data\/sn86074065\/00383343665\/1906031401\/0243.jp2",
+  "place_of_publication": "Brookhaven, Miss.",
+  "pub_date": "1906-03-14",
+  "publisher": "B.T. Hobbs",
+  "score": 0.9518697261810303,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_beryl_ver01\/data\/sn86074065\/00383343665\/1906031401\/0243\/004_0_95.jpg"
+ },
+ "id": 909
+}

@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767516,
+   "id": 444001,
+   "lead_time": 5.155,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "t-C7UjZSFn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_fiji_ver01",
+  "box": [
+   0.024891563551894695,
+   0.03007023280944201,
+   0.338562815568409,
+   0.2443115151277442
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900100601\/0076\/008_0_95.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_fiji_ver01%2Fdata%2Fsn83030214%2F00175040936%2F1900100601%2F0076.jp2\/pct:2.48,3.01,31.37,21.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "pnSy",
+   "yon^s",
+   "jM\u00a3F",
+   "AURELIA",
+   "OSBORN",
+   "FOX",
+   "MEMORIAL",
+   "HOSPIT4X.",
+   "Oneonta,",
+   "N.",
+   "T.",
+   "Dedicated",
+   "yesterday."
+  ],
+  "page_seq_num": 76,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900100601\/0076.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-10-06",
+  "publisher": "New York Tribune",
+  "score": 0.9572818279266357,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_fiji_ver01\/data\/sn83030214\/00175040936\/1900100601\/0076\/008_0_95.jpg"
+ },
+ "id": 444
+}

@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747982,
+   "id": 1298001,
+   "lead_time": 1.687,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1UXCrk7zFh",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_judaspriest_ver01",
+  "box": [
+   0.6318138343992208,
+   0.3439266268767458,
+   0.7720188754844163,
+   0.5118821923737198
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_judaspriest_ver01\/data\/sn85052076\/00280763524\/1911072701\/1100\/009_0_92.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Berea"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_judaspriest_ver01%2Fdata%2Fsn85052076%2F00280763524%2F1911072701%2F1100.jp2\/pct:63.18,34.4,14.03,16.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052076",
+  "name": "The citizen. [volume]",
+  "ocr": [
+   "Miss",
+   "Blanche",
+   "Thurston",
+   "Conservatory",
+   "of",
+   "Music",
+   "and",
+   "has",
+   "had",
+   "seyoral",
+   "years",
+   "successful",
+   "experience",
+   "in",
+   "teaching.",
+   "Wo",
+   "bid",
+   "her",
+   "welcome",
+   "to",
+   "our",
+   "happy",
+   "family",
+   "of",
+   "workers",
+   "In",
+   "Berea."
+  ],
+  "page_seq_num": 1100,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_judaspriest_ver01\/data\/sn85052076\/00280763524\/1911072701\/1100.jp2",
+  "place_of_publication": "Berea, Ky.",
+  "pub_date": "1911-07-27",
+  "publisher": "T.G. Pasco",
+  "score": 0.9202063083648682,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_judaspriest_ver01\/data\/sn85052076\/00280763524\/1911072701\/1100\/009_0_92.jpg"
+ },
+ "id": 1298
+}

@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764231,
+   "id": 1407001,
+   "lead_time": 4.016,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "a_YoszgJpx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_dominica_ver01",
+  "box": [
+   0.1989840937878799,
+   0.4313686151848298,
+   0.34154568963605725,
+   0.5124489716757761
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_dominica_ver01\/data\/sn00065154\/00279523258\/1913082901\/0135\/006_0_96.jpg",
+  "geographic_coverage": [
+   "South Dakota--Grant--Milbank"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_dominica_ver01%2Fdata%2Fsn00065154%2F00279523258%2F1913082901%2F0135.jp2\/pct:19.89,43.14,14.26,8.11\/!500,500\/0\/default.jpg",
+  "lccn": "sn00065154",
+  "name": "The herald-advance.",
+  "ocr": [
+   ".jbsl"
+  ],
+  "page_seq_num": 135,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_dominica_ver01\/data\/sn00065154\/00279523258\/1913082901\/0135.jp2",
+  "place_of_publication": "Milbank, S.D.",
+  "pub_date": "1913-08-29",
+  "publisher": "W.W. Downie",
+  "score": 0.9639914035797119,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_dominica_ver01\/data\/sn00065154\/00279523258\/1913082901\/0135\/006_0_96.jpg"
+ },
+ "id": 1407
+}

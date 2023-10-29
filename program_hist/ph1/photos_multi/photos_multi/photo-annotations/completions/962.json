@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746944,
+   "id": 962001,
+   "lead_time": 2.624,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "41xHhG--__",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_juliet_ver01",
+  "box": [
+   0.8350349925710708,
+   0.6050643787283823,
+   0.9650660529900889,
+   0.7536690573349935
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_juliet_ver01\/data\/sn88077573\/00237289158\/1907082401\/0762\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Ohio--Marion--Marion"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_juliet_ver01%2Fdata%2Fsn88077573%2F00237289158%2F1907082401%2F0762.jp2\/pct:83.5,60.51,13.01,14.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn88077573",
+  "name": "The Marion daily mirror.",
+  "ocr": [
+   "EDWARD",
+   "B.",
+   "MOORE."
+  ],
+  "page_seq_num": 762,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_juliet_ver01\/data\/sn88077573\/00237289158\/1907082401\/0762.jp2",
+  "place_of_publication": "Marion, Ohio",
+  "pub_date": "1907-08-24",
+  "publisher": "Mirror Pub. Co.",
+  "score": 0.9340553283691406,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_juliet_ver01\/data\/sn88077573\/00237289158\/1907082401\/0762\/006_0_93.jpg"
+ },
+ "id": 962
+}

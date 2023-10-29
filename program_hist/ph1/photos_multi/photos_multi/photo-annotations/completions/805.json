@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762885,
+   "id": 805001,
+   "lead_time": 1.598,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7lp7vaFP5u",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_oasis_ver01",
+  "box": [
+   0.2941879162685477,
+   0.49248180801062275,
+   0.5684722973574265,
+   0.7197088886507981
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905042301\/0852\/009_0_90.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_oasis_ver01%2Fdata%2Fsn85042462%2F0017504727A%2F1905042301%2F0852.jp2\/pct:29.41,49.25,27.43,22.73\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "MINING",
+   "AND",
+   "STOCK",
+   "EXCHANGE",
+   "IS",
+   "ORGANIZED.",
+   "CHAIRMAN",
+   "W.",
+   "T.",
+   "GOODHUE"
+  ],
+  "page_seq_num": 852,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905042301\/0852.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1905-04-23",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9023002982139587,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_oasis_ver01\/data\/sn85042462\/0017504727A\/1905042301\/0852\/009_0_90.jpg"
+ },
+ "id": 805
+}

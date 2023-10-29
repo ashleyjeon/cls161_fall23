@@ -1,0 +1,80 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758045,
+   "id": 1579001,
+   "lead_time": 223.196,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "hpRUl2D1L7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_fayette_ver01",
+  "box": [
+   0.4406837514354816,
+   0.08460884774330177,
+   0.5688753191771645,
+   0.2882922155544089
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_fayette_ver01\/data\/sn85038411\/00296028150\/1915040601\/0066\/020_0_95.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Dauphin--Harrisburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_fayette_ver01%2Fdata%2Fsn85038411%2F00296028150%2F1915040601%2F0066.jp2\/pct:44.06,8.47,12.82,20.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038411",
+  "name": "Harrisburg telegraph. [volume]",
+  "ocr": [
+   "ON",
+   "FIRST",
+   "Little",
+   "Mildred",
+   "Rebekah",
+   "Gives",
+   "Out",
+   "the",
+   "Favors",
+   "Herself",
+   "vV",
+   ".\u2022",
+   "J",
+   ",\u00ab-",
+   "3",
+   "\/",
+   "i",
+   "\u25a0*",
+   "*",
+   "H",
+   "I",
+   ".",
+   "\u2022",
+   "-",
+   "\u2022",
+   "i",
+   "ww",
+   "'",
+   "M",
+   "\u25a0L",
+   "\u25a0"
+  ],
+  "page_seq_num": 66,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_fayette_ver01\/data\/sn85038411\/00296028150\/1915040601\/0066.jp2",
+  "place_of_publication": "Harrisburg, Pa.",
+  "pub_date": "1915-04-06",
+  "publisher": "C.H. Bergner",
+  "score": 0.95784991979599,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_fayette_ver01\/data\/sn85038411\/00296028150\/1915040601\/0066\/020_0_95.jpg"
+ },
+ "id": 1579
+}

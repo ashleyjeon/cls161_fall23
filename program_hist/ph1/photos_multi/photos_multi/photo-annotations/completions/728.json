@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767984,
+   "id": 728001,
+   "lead_time": 2.477,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GwbpA_-1d5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_norris_ver01",
+  "box": [
+   0.5018550456449345,
+   0.28596802381893854,
+   0.8675456089256084,
+   0.4468257412588669
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_norris_ver01\/data\/sn99021999\/00280778187\/1904080701\/0219\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_norris_ver01%2Fdata%2Fsn99021999%2F00280778187%2F1904080701%2F0219.jp2\/pct:50.18,28.6,36.57,16.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "-",
+   "sv",
+   "THE",
+   "BOTANICAL",
+   "GARDEN",
+   "OP",
+   "TUB",
+   "UNIVERSITY",
+   "OP",
+   "HALLE",
+   "WHERE",
+   "TUB",
+   "'A",
+   ".",
+   ",",
+   "v",
+   "a",
+   "!",
+   "arvirrhrr",
+   ".f.",
+   "im",
+   "1"
+  ],
+  "page_seq_num": 219,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_norris_ver01\/data\/sn99021999\/00280778187\/1904080701\/0219.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1904-08-07",
+  "publisher": "Edward Rosewater",
+  "score": 0.9826679825782776,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_norris_ver01\/data\/sn99021999\/00280778187\/1904080701\/0219\/002_0_98.jpg"
+ },
+ "id": 728
+}

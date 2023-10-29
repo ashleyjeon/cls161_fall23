@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750849,
+   "id": 1301001,
+   "lead_time": 8.796,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "njk_lrn9kV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_carmela_ver01",
+  "box": [
+   0.16242617476808116,
+   0.06716996474231747,
+   0.43210842589224985,
+   0.23614779136163724
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_carmela_ver01\/data\/sn91064011\/00332896143\/1911050601\/0088\/012_0_94.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_carmela_ver01%2Fdata%2Fsn91064011%2F00332896143%2F1911050601%2F0088.jp2\/pct:16.24,6.72,26.97,16.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn91064011",
+  "name": "Newark evening star and Newark advertiser. [volume]",
+  "ocr": [
+   "THE",
+   "GLIDDEN",
+   "PA",
+   "THFINDERS",
+   "Scene",
+   "on",
+   "the",
+   "route",
+   "of",
+   "the",
+   "QlldJen",
+   "reciprocity",
+   "tour.",
+   "Pathfinders",
+   "near",
+   "South?"
+  ],
+  "page_seq_num": 88,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_carmela_ver01\/data\/sn91064011\/00332896143\/1911050601\/0088.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1911-05-06",
+  "publisher": "Newark Daily Advertiser Pub. Co.",
+  "score": 0.9495972394943237,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_carmela_ver01\/data\/sn91064011\/00332896143\/1911050601\/0088\/012_0_94.jpg"
+ },
+ "id": 1301
+}

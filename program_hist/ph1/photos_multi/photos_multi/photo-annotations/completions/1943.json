@@ -1,0 +1,114 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675666,
+   "id": 1943001,
+   "lead_time": 1.721,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EtybOfot53",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_anita_ver01",
+  "box": [
+   0.5044897809709822,
+   0.692410929219706,
+   0.6212838309151786,
+   0.9744587077961101
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_anita_ver01\/data\/sn85038531\/00415621255\/1920062201\/0624\/014_0_95.jpg",
+  "geographic_coverage": [
+   "Tennessee--Hamilton--Chattanooga"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_anita_ver01%2Fdata%2Fsn85038531%2F00415621255%2F1920062201%2F0624.jp2\/pct:50.44,69.25,11.68,28.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038531",
+  "name": "The Chattanooga news. [volume]",
+  "ocr": [
+   "GIRI'",
+   "24",
+   "TO",
+   "PRACTICE",
+   "BEFORE",
+   "HIGHEST",
+   ".000.4.",
+   "M'sshlngton.Mlss",
+   "Dora",
+   "ralkln.",
+   "st",
+   "the",
+   "ace",
+   "of",
+   "ri.",
+   "is",
+   "the",
+   "youngest",
+   "womsn",
+   "to",
+   "he",
+   "admitted",
+   "to",
+   "practice",
+   "before",
+   "the",
+   "t",
+   "r.lted",
+   "states",
+   "supreme",
+   "oOurt.",
+   "During",
+   "Ihe",
+   "var",
+   "Mies",
+   "Dalkln",
+   "was",
+   "a",
+   "member",
+   "of",
+   "the",
+   "lAal",
+   "Advteorv",
+   "Ksrd.",
+   "where",
+   "rt-inlered",
+   "adxtce",
+   "to",
+   "drslted",
+   "men.",
+   ".HxV'W.'",
+   ".,",
+   "1",
+   "1",
+   "af-::",
+   "j'iioviim",
+   "sur:",
+   "riVV\"",
+   "x",
+   "eN",
+   "vr\"-",
+   "f",
+   "'",
+   "!",
+   "-r"
+  ],
+  "page_seq_num": 624,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_anita_ver01\/data\/sn85038531\/00415621255\/1920062201\/0624.jp2",
+  "place_of_publication": "Chattanooga, Tenn.",
+  "pub_date": "1920-06-22",
+  "publisher": "News Pub. Co.",
+  "score": 0.9528054594993591,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_anita_ver01\/data\/sn85038531\/00415621255\/1920062201\/0624\/014_0_95.jpg"
+ },
+ "id": 1943
+}

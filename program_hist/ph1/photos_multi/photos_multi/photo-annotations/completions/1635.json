@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747004,
+   "id": 1635001,
+   "lead_time": 1.675,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0Kwu40ilrs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_juanita_ver01",
+  "box": [
+   0.4982147216796875,
+   0.5451303987086279,
+   0.731743814733414,
+   0.8569200478155795
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_juanita_ver01\/data\/sn87093407\/00200290690\/1916052001\/0167\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_juanita_ver01%2Fdata%2Fsn87093407%2F00200290690%2F1916052001%2F0167.jp2\/pct:49.82,54.52,23.36,31.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "(1",
+   ">",
+   "Scene",
+   "in",
+   "\"Romance",
+   "of",
+   "Old",
+   "Egypt,\"",
+   "at",
+   "Oak.",
+   "(2)",
+   "Otis",
+   "Skinner,",
+   "Dorlta",
+   "at"
+  ],
+  "page_seq_num": 167,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_juanita_ver01\/data\/sn87093407\/00200290690\/1916052001\/0167.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1916-05-20",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9688515067100525,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_juanita_ver01\/data\/sn87093407\/00200290690\/1916052001\/0167\/005_0_96.jpg"
+ },
+ "id": 1635
+}

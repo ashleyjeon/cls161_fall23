@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751129,
+   "id": 442001,
+   "lead_time": 3.58,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9qjMFwN6DE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_gaines_ver01",
+  "box": [
+   0.06254917301543772,
+   0.08415634271358899,
+   0.3604299466903896,
+   0.22341297243171493
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_gaines_ver01\/data\/sn84020274\/00211109087\/1900093001\/0556\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_gaines_ver01%2Fdata%2Fsn84020274%2F00211109087%2F1900093001%2F0556.jp2\/pct:6.25,8.42,29.79,13.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "i",
+   "fete!",
+   "Hi",
+   "i",
+   "f:-.-",
+   "5-7",
+   "ram",
+   "5",
+   "a",
+   "wholesale",
+   "house."
+  ],
+  "page_seq_num": 556,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_gaines_ver01\/data\/sn84020274\/00211109087\/1900093001\/0556.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1900-09-30",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9788796305656433,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_gaines_ver01\/data\/sn84020274\/00211109087\/1900093001\/0556\/003_0_97.jpg"
+ },
+ "id": 442
+}

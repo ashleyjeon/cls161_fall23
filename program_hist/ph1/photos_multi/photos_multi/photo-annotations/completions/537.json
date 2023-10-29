@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768043,
+   "id": 537001,
+   "lead_time": 3.068,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dGGES0L704",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_comanche_ver01",
+  "box": [
+   0.2656142817134351,
+   0.029703708717092096,
+   0.4988796267889242,
+   0.1493484405856373
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_comanche_ver01\/data\/sn83025010\/00237284720\/1901040401\/0186\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Craig--Vinita"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_comanche_ver01%2Fdata%2Fsn83025010%2F00237284720%2F1901040401%2F0186.jp2\/pct:26.56,2.98,23.33,11.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025010",
+  "name": "Indian chieftain. [volume]",
+  "ocr": [
+   "SKmmmmmBSSmSKKMSmmm",
+   "IHHHiwPHi",
+   "'",
+   "MSfllfS",
+   "\"'",
+   ".",
+   "\"-Ji.",
+   ".t'AfM",
+   "i",
+   "IhHHPI",
+   "1111",
+   "i",
+   "1",
+   "KaXJ",
+   "NMH",
+   "New",
+   "llnlscll",
+   "Illock."
+  ],
+  "page_seq_num": 186,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_comanche_ver01\/data\/sn83025010\/00237284720\/1901040401\/0186.jp2",
+  "place_of_publication": "Vinita, Indian Territory [Okla.]",
+  "pub_date": "1901-04-04",
+  "publisher": "Indian Chieftain Pub. Co.",
+  "score": 0.9805499911308289,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_comanche_ver01\/data\/sn83025010\/00237284720\/1901040401\/0186\/006_0_98.jpg"
+ },
+ "id": 537
+}

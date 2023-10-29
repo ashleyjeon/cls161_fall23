@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768346,
+   "id": 1296001,
+   "lead_time": 1.698,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tnyRhap5TP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_diamondback_ver02",
+  "box": [
+   0.5703896799395162,
+   0.15094517400809804,
+   0.6888234784526209,
+   0.3635697668855706
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_diamondback_ver02\/data\/sn94056852\/00296025197\/1911031601\/1368\/003_0_95.jpg",
+  "geographic_coverage": [
+   "New Mexico--San Miguel--Las Vegas"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_diamondback_ver02%2Fdata%2Fsn94056852%2F00296025197%2F1911031601%2F1368.jp2\/pct:57.03,15.1,11.85,21.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn94056852",
+  "name": "El independiente. [volume]",
+  "ocr": [
+   "if.-",
+   "n",
+   "M.C.",
+   "MARTINEZ."
+  ],
+  "page_seq_num": 1368,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_diamondback_ver02\/data\/sn94056852\/00296025197\/1911031601\/1368.jp2",
+  "place_of_publication": "Las Vegas, Nuevo Me\u0301xico",
+  "pub_date": "1911-03-16",
+  "publisher": "La Ci\u0301a. Publicista de \"El Independiente\"",
+  "score": 0.9575948119163513,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_diamondback_ver02\/data\/sn94056852\/00296025197\/1911031601\/1368\/003_0_95.jpg"
+ },
+ "id": 1296
+}

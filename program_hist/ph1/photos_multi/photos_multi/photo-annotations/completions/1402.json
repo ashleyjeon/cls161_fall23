@@ -1,0 +1,107 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748066,
+   "id": 1402001,
+   "lead_time": 1.992,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eHzdy3dwXS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_ingalls_ver01",
+  "box": [
+   0.16334849739232732,
+   0.723316445152314,
+   0.42745539326260873,
+   0.9590491645155975
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_ingalls_ver01\/data\/sn83016689\/00279551953\/1913052201\/0505\/004_0_99.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_ingalls_ver01%2Fdata%2Fsn83016689%2F00279551953%2F1913052201%2F0505.jp2\/pct:16.33,72.34,26.42,23.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "Ihe",
+   "\"Laird",
+   "an",
+   "Lady",
+   "of",
+   "Skibo",
+   "\"",
+   "N",
+   "V",
+   "L,",
+   "a\u00bbHwecP",
+   "\u2022",
+   "(MrWv",
+   "i",
+   "und(A>m(up",
+   "*",
+   ",r",
+   "A",
+   "*",
+   ",,rr",
+   "\"",
+   "(nraeale",
+   "unit",
+   "Her",
+   "MatbiaA",
+   "1",
+   "..I",
+   ".",
+   "\"",
+   "M",
+   "\u201c*",
+   "k",
+   "V",
+   "M",
+   "':",
+   "'",
+   "\"Kr\"",
+   "\u00b0\"",
+   "Owmiod",
+   "of",
+   "ilir",
+   "I).",
+   "111.",
+   "Ml",
+   "toil",
+   "of",
+   "it*",
+   "Ctrl",
+   "Scfcyrs",
+   "Ntiiwriil",
+   "In",
+   ">r",
+   "*\u00bb",
+   "t\u201erk,",
+   ">|",
+   "U",
+   "\u00ab",
+   "i<\u00ab"
+  ],
+  "page_seq_num": 505,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_ingalls_ver01\/data\/sn83016689\/00279551953\/1913052201\/0505.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1913-05-22",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9907630085945129,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_ingalls_ver01\/data\/sn83016689\/00279551953\/1913052201\/0505\/004_0_99.jpg"
+ },
+ "id": 1402
+}

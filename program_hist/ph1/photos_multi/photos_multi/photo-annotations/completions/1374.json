@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749359,
+   "id": 1374001,
+   "lead_time": 1.913,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YB-tK3Oy_t",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_edgemoor_ver01",
+  "box": [
+   0.29702232623922414,
+   0.1297942130796371,
+   0.4271866020114943,
+   0.33797599344434964
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_edgemoor_ver01\/data\/sn85042354\/00383343173\/1912012301\/0682\/018_0_95.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_edgemoor_ver01%2Fdata%2Fsn85042354%2F00383343173%2F1912012301%2F0682.jp2\/pct:29.7,12.98,13.02,20.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "JAMES",
+   "I.",
+   "HARAHAN",
+   "BEGAN",
+   "HIS",
+   "CAREER",
+   "AS",
+   "HUMBLE",
+   "WORKER",
+   "%",
+   "\\",
+   "J",
+   "I",
+   "\\",
+   "%",
+   "m",
+   "[JAMES"
+  ],
+  "page_seq_num": 682,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_edgemoor_ver01\/data\/sn85042354\/00383343173\/1912012301\/0682.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1912-01-23",
+  "publisher": "J. Milton Davidson",
+  "score": 0.9579788446426392,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_edgemoor_ver01\/data\/sn85042354\/00383343173\/1912012301\/0682\/018_0_95.jpg"
+ },
+ "id": 1374
+}

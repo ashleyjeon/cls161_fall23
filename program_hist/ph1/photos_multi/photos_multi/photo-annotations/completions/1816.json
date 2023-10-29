@@ -1,0 +1,118 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754517,
+   "id": 1816001,
+   "lead_time": 7.275,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Zrpfffk1bV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ak_jellymoss_ver01",
+  "box": [
+   0.4216751440113369,
+   0.049215878573330964,
+   0.8039572348443021,
+   0.2916705322265625
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ak_jellymoss_ver01\/data\/sn84020657\/0027952701A\/1918022801\/0411\/007_0_98.jpg",
+  "geographic_coverage": [
+   "Alaska--Juneau"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ak_jellymoss_ver01%2Fdata%2Fsn84020657%2F0027952701A%2F1918022801%2F0411.jp2\/pct:42.16,4.93,38.23,24.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020657",
+  "name": "The Alaska daily empire. [volume]",
+  "ocr": [
+   "THE",
+   "REMAINS",
+   "OF",
+   "AN",
+   "ENEMY",
+   "AIRPLANE",
+   "f",
+   "_",
+   "_",
+   "\u2014lil\u2014a1\u2014\u2014\u2014ffinrn\u2014\u2014\u2014\u25a0\u25a0mini",
+   "\u25a0",
+   "in",
+   "v.\u2019.-J",
+   "..",
+   "\u2014\u2022",
+   "...",
+   "..\u201c.\u2014.-..\u25a0\u25a0\u25a0",
+   ".....",
+   "i",
+   "A",
+   "Boclie",
+   "aeroplane",
+   "battered",
+   "tty",
+   "French",
+   "camion",
+   "in",
+   "the",
+   "Vosges.",
+   "The",
+   "wreck",
+   "is",
+   "on",
+   "a",
+   "huge",
+   "motor",
+   "truck",
+   "to",
+   "be",
+   "hauled",
+   "away,",
+   "and",
+   "any",
+   "part",
+   "of",
+   "the",
+   "scrap",
+   "iron",
+   "that",
+   "is",
+   "not",
+   "a",
+   "total",
+   "wreck",
+   "is",
+   "sure",
+   "to",
+   "be",
+   "patched",
+   "up",
+   "and",
+   "utilized",
+   "in",
+   "bring",
+   "lug",
+   "down",
+   "more",
+   "linn",
+   "machines."
+  ],
+  "page_seq_num": 411,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ak_jellymoss_ver01\/data\/sn84020657\/0027952701A\/1918022801\/0411.jp2",
+  "place_of_publication": "Juneau, Alaska",
+  "pub_date": "1918-02-28",
+  "publisher": "J.F.A. Strong",
+  "score": 0.9841415286064148,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ak_jellymoss_ver01\/data\/sn84020657\/0027952701A\/1918022801\/0411\/007_0_98.jpg"
+ },
+ "id": 1816
+}

@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768639,
+   "id": 155001,
+   "lead_time": 2.707,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-s7bdKYKL8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_lotus_ver01",
+  "box": [
+   0.3541758023775541,
+   0.6210106460947924,
+   0.8226061894343449,
+   0.8736098316846648
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_lotus_ver01\/data\/sn83030214\/00175039181\/1897120501\/0083\/002_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_lotus_ver01%2Fdata%2Fsn83030214%2F00175039181%2F1897120501%2F0083.jp2\/pct:35.41,62.11,46.85,25.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "TUR",
+   "LONDON",
+   "FIRE.",
+   "Roman",
+   "wall."
+  ],
+  "page_seq_num": 83,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_lotus_ver01\/data\/sn83030214\/00175039181\/1897120501\/0083.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-12-05",
+  "publisher": "New York Tribune",
+  "score": 0.9756693243980408,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_lotus_ver01\/data\/sn83030214\/00175039181\/1897120501\/0083\/002_0_97.jpg"
+ },
+ "id": 155
+}

@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768368,
+   "id": 810001,
+   "lead_time": 1.393,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ucGaGYRdr2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_chickadee_ver01",
+  "box": [
+   0.04681420071088176,
+   0.3678804332502871,
+   0.16424682109165986,
+   0.493165664472605
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_chickadee_ver01\/data\/sn96088281\/00200294464\/1905033101\/1008\/007_0_93.jpg",
+  "geographic_coverage": [
+   "Oregon--Josephine--Grants Pass"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_chickadee_ver01%2Fdata%2Fsn96088281%2F00200294464%2F1905033101%2F1008.jp2\/pct:4.68,36.79,11.75,12.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn96088281",
+  "name": "Rogue River courier.",
+  "ocr": [
+   "W.",
+   "B.",
+   "Sl'EUMAN.",
+   "vA-.,",
+   "1",
+   "v",
+   "..",
+   ":-",
+   "\"",
+   "'",
+   "J"
+  ],
+  "page_seq_num": 1008,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_chickadee_ver01\/data\/sn96088281\/00200294464\/1905033101\/1008.jp2",
+  "place_of_publication": "Grants Pass, Or.",
+  "pub_date": "1905-03-31",
+  "publisher": "Wimer & Stine",
+  "score": 0.9305090308189392,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_chickadee_ver01\/data\/sn96088281\/00200294464\/1905033101\/1008\/007_0_93.jpg"
+ },
+ "id": 810
+}

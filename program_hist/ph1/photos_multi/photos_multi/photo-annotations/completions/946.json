@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750934,
+   "id": 946001,
+   "lead_time": 1.789,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lqfwmLV1ND",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_ibis_ver01",
+  "box": [
+   0.2947764666575306,
+   0.1488884559044471,
+   0.5517927925541716,
+   0.39778014308187215
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_ibis_ver01\/data\/sn84031081\/00296025306\/1907090801\/0571\/014_0_94.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_ibis_ver01%2Fdata%2Fsn84031081%2F00296025306%2F1907090801%2F0571.jp2\/pct:29.47,14.89,25.71,24.89\/!500,500\/0\/default.jpg",
+  "lccn": "sn84031081",
+  "name": "Albuquerque morning journal. [volume]",
+  "ocr": [
+   ".",
+   "..",
+   "j",
+   "4",
+   "'.'.ifh,L,f",
+   "Col.",
+   "Italph",
+   "i:.",
+   "Attorney",
+   "for",
+   "the",
+   "Mania",
+   "Fe",
+   "railrnadin",
+   "l.as",
+   "secured",
+   "the",
+   "Sixteenth",
+   "Natlnnal",
+   "irrigation",
+   "wllcbcll.",
+   "is",
+   "'c-gas,",
+   "whose",
+   "for",
+   "bl'llliai.l",
+   "addri'ss"
+  ],
+  "page_seq_num": 571,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_ibis_ver01\/data\/sn84031081\/00296025306\/1907090801\/0571.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1907-09-08",
+  "publisher": "Democrat Pub. Co.",
+  "score": 0.9454700350761414,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_ibis_ver01\/data\/sn84031081\/00296025306\/1907090801\/0571\/014_0_94.jpg"
+ },
+ "id": 946
+}

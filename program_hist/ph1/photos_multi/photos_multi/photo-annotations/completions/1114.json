@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673589,
+   "id": 1114001,
+   "lead_time": 1.782,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mohBbumAvx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iahi_aerodactyl_ver01",
+  "box": [
+   0.36260583768413557,
+   0.1450647417146936,
+   0.5042736449366513,
+   0.33409074409057865
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iahi_aerodactyl_ver01\/data\/sn87058235\/00279528487\/1909012701\/0726\/002_0_93.jpg",
+  "geographic_coverage": [
+   "Iowa--Winneshiek--Decorah"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iahi_aerodactyl_ver01%2Fdata%2Fsn87058235%2F00279528487%2F1909012701%2F0726.jp2\/pct:36.26,14.51,14.17,18.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn87058235",
+  "name": "Decorah public opinion.",
+  "ocr": [
+   "H.",
+   "C.",
+   "HJERLQD"
+  ],
+  "page_seq_num": 726,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iahi_aerodactyl_ver01\/data\/sn87058235\/00279528487\/1909012701\/0726.jp2",
+  "place_of_publication": "Decorah, Winneshiek County [Iowa]",
+  "pub_date": "1909-01-27",
+  "publisher": "Fred L. Akers",
+  "score": 0.939378023147583,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iahi_aerodactyl_ver01\/data\/sn87058235\/00279528487\/1909012701\/0726\/002_0_93.jpg"
+ },
+ "id": 1114
+}

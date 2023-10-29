@@ -1,0 +1,99 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768737,
+   "id": 1588001,
+   "lead_time": 2.113,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FWuyDdXNGN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_jones_ver01",
+  "box": [
+   0.4362190093654301,
+   0.11843506925491266,
+   0.5626572097064657,
+   0.4161895085630459
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_jones_ver01\/data\/97071090\/00200298317\/1915102901\/0776\/017_0_99.jpg",
+  "geographic_coverage": [
+
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_jones_ver01%2Fdata%2F97071090%2F00200298317%2F1915102901%2F0776.jp2\/pct:43.62,11.85,12.65,29.78\/!500,500\/0\/default.jpg",
+  "lccn": "97071090",
+  "name": "Medford mail tribune. (Medford, Or.) 1909-1989. [online resource]",
+  "ocr": [
+   "SLAIN",
+   "WAR",
+   "NURSE",
+   "AND",
+   "MAN",
+   "WHO",
+   "ORDERED",
+   "HER",
+   "4i",
+   "wik",
+   "k7",
+   "jdtk",
+   "m",
+   "li",
+   "?p-",
+   "ixmtmmi",
+   "hum",
+   "m",
+   "HSHPPIi",
+   "WJv",
+   "u",
+   ".",
+   "i--M",
+   "AImho",
+   "Is",
+   "Kdllk",
+   "Cm",
+   "ell,",
+   "ihc",
+   "llrltlsli",
+   "war",
+   "nurv,",
+   "who",
+   "was",
+   "Mail",
+   "to",
+   "death",
+   "roc",
+   "sploiuigo",
+   "at",
+   "the",
+   "oilier",
+   "of",
+   "(Jen.",
+   "oo",
+   "Hissing,",
+   "Cennaii",
+   "kovciiioc",
+   "of",
+   "llclgliini"
+  ],
+  "page_seq_num": 776,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_jones_ver01\/data\/97071090\/00200298317\/1915102901\/0776.jp2",
+  "place_of_publication": "Oregon.",
+  "pub_date": "1915-10-29",
+  "publisher": null,
+  "score": 0.9906449317932129,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_jones_ver01\/data\/97071090\/00200298317\/1915102901\/0776\/017_0_99.jpg"
+ },
+ "id": 1588
+}

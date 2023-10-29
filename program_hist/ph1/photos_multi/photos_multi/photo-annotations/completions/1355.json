@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769148,
+   "id": 1355001,
+   "lead_time": 1.85,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TT_Dyce8x1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_insectoid_ver01",
+  "box": [
+   0.30697729176488414,
+   0.1921396593759723,
+   0.43270776682886586,
+   0.3404780294706752
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_insectoid_ver01\/data\/sn85042224\/00383345698\/1912022901\/0603\/010_0_91.jpg",
+  "geographic_coverage": [
+   "North Dakota--Cass--Fargo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_insectoid_ver01%2Fdata%2Fsn85042224%2F00383345698%2F1912022901%2F0603.jp2\/pct:30.69,19.22,12.58,14.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042224",
+  "name": "The Fargo forum and daily republican. [volume]",
+  "ocr": [
+   "\u2022Js'*",
+   "s",
+   "\"Vte",
+   "tA",
+   "1\u00a75.",
+   "\"sr",
+   "Jr",
+   "mSm",
+   "CHRIST",
+   "WILHELMSEN,",
+   "Prop.",
+   "City",
+   "M\u00abat",
+   "Market*"
+  ],
+  "page_seq_num": 603,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_insectoid_ver01\/data\/sn85042224\/00383345698\/1912022901\/0603.jp2",
+  "place_of_publication": "Fargo, N.D.",
+  "pub_date": "1912-02-29",
+  "publisher": "A.W. Edwards & H.C. Plumley",
+  "score": 0.9148221611976624,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_insectoid_ver01\/data\/sn85042224\/00383345698\/1912022901\/0603\/010_0_91.jpg"
+ },
+ "id": 1355
+}

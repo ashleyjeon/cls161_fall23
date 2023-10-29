@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769115,
+   "id": 1016001,
+   "lead_time": 1.619,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ri94kIwd4C",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_anthony_ver01",
+  "box": [
+   0.7066982374868381,
+   0.4562318144583426,
+   0.8389592910931859,
+   0.6560180881462878
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_anthony_ver01\/data\/sn84020504\/00332897160\/1908010901\/0084\/014_0_90.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_anthony_ver01%2Fdata%2Fsn84020504%2F00332897160%2F1908010901%2F0084.jp2\/pct:70.66,45.63,13.23,19.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020504",
+  "name": "The Evening star and Newark advertiser. [volume]",
+  "ocr": [
+   "I.",
+   "ni",
+   "m",
+   "ww",
+   "l",
+   "John",
+   "F.",
+   "Slinnlpy",
+   "(Chairman",
+   "Ways",
+   "mid",
+   "Mfana.)",
+   "John",
+   "It.",
+   "llnrclln"
+  ],
+  "page_seq_num": 84,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_anthony_ver01\/data\/sn84020504\/00332897160\/1908010901\/0084.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1908-01-09",
+  "publisher": "Newark Daily Advertiser Pub. Co.",
+  "score": 0.9098342657089233,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_anthony_ver01\/data\/sn84020504\/00332897160\/1908010901\/0084\/014_0_90.jpg"
+ },
+ "id": 1016
+}

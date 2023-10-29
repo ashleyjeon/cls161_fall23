@@ -1,0 +1,105 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768989,
+   "id": 697001,
+   "lead_time": 2.892,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "bdEQdq4VBn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_ferdinand_ver01",
+  "box": [
+   0.3682432865170842,
+   0.06977752753313518,
+   0.948445403188123,
+   0.29483237785378885
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_ferdinand_ver01\/data\/sn85047084\/00294557386\/1904092101\/0203\/004_0_96.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_ferdinand_ver01%2Fdata%2Fsn85047084%2F00294557386%2F1904092101%2F0203.jp2\/pct:36.82,6.98,58.03,22.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   ",",
+   ";",
+   "mm",
+   ".jjuwat'i-",
+   "11",
+   "1",
+   "...",
+   "J-",
+   ":",
+   "-V",
+   "l",
+   "?",
+   "-",
+   ".",
+   "!",
+   "l",
+   ",",
+   "Jk",
+   "-",
+   ".",
+   "if",
+   ",",
+   "if",
+   ",",
+   "si",
+   "'-\"V'V",
+   "\"A",
+   "U.J",
+   "T",
+   "V",
+   "-.-",
+   ".",
+   "I'mmmy",
+   "timet",
+   "..",
+   "-",
+   ".-",
+   ".",
+   "-m",
+   "w",
+   "7:",
+   "Ulil.",
+   "RKSB.-OyB",
+   "OF",
+   "THS",
+   "f",
+   "?&km&'fcu&6ima",
+   "\"JmUtM",
+   "M",
+   "intTfas&mtihmmm)mimmm",
+   "1i",
+   "r",
+   "1",
+   "i1",
+   ".",
+   "."
+  ],
+  "page_seq_num": 203,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_ferdinand_ver01\/data\/sn85047084\/00294557386\/1904092101\/0203.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1904-09-21",
+  "publisher": "[publisher not identified]",
+  "score": 0.9624224901199341,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_ferdinand_ver01\/data\/sn85047084\/00294557386\/1904092101\/0203\/004_0_96.jpg"
+ },
+ "id": 697
+}

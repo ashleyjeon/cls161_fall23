@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768515,
+   "id": 576001,
+   "lead_time": 8.905,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ecl7acx-xf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_frederick_ver03",
+  "box": [
+   0.2932824194068305,
+   0.7977385266512479,
+   0.4335934526301766,
+   0.9294522887868438
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_frederick_ver03\/data\/sn89060092\/00279521742\/1902121201\/0414\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Maryland--Frederick--Frederick"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_frederick_ver03%2Fdata%2Fsn89060092%2F00279521742%2F1902121201%2F0414.jp2\/pct:29.32,79.78,14.04,13.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn89060092",
+  "name": "The citizen.",
+  "ocr": [
+   "r",
+   "'",
+   "\"",
+   "|",
+   "fi",
+   "v",
+   "\u2022",
+   "\u2022\u2022\u2022",
+   "-v'",
+   "\u2022;",
+   "I",
+   "-",
+   "v",
+   "'",
+   "V",
+   "'",
+   "A",
+   "DEE",
+   "It",
+   "HUNTER",
+   "IN",
+   "ACTION."
+  ],
+  "page_seq_num": 414,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_frederick_ver03\/data\/sn89060092\/00279521742\/1902121201\/0414.jp2",
+  "place_of_publication": "Frederick City, Md.",
+  "pub_date": "1902-12-12",
+  "publisher": "Baughman Bros.",
+  "score": 0.982878565788269,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_frederick_ver03\/data\/sn89060092\/00279521742\/1902121201\/0414\/002_0_98.jpg"
+ },
+ "id": 576
+}

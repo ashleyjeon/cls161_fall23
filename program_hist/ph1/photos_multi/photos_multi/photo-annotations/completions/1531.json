@@ -1,0 +1,106 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768495,
+   "id": 1531001,
+   "lead_time": 1.93,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0n-dTXFZAX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_morton_ver01",
+  "box": [
+   0.3131961042709772,
+   0.04760117447997441,
+   0.44524475434867056,
+   0.30936923472717637
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_morton_ver01\/data\/sn99021999\/00280779052\/1914120501\/0795\/013_0_94.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_morton_ver01%2Fdata%2Fsn99021999%2F00280779052%2F1914120501%2F0795.jp2\/pct:31.31,4.77,13.21,26.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "ONE",
+   "OF",
+   "THE",
+   "STARS",
+   "OF",
+   "THE",
+   "8AN",
+   "CARLO",
+   "COMPANY.",
+   "v",
+   ".:",
+   ".",
+   ";",
+   "I",
+   "i;?,7'",
+   "I'",
+   "?",
+   ";",
+   ",v",
+   "I",
+   "!",
+   ",1",
+   "'",
+   ".v-:",
+   "j",
+   "1",
+   "i",
+   "):::?",
+   "h",
+   "f",
+   "'",
+   ".",
+   "\"",
+   "p",
+   "r",
+   "''11",
+   "h",
+   "-",
+   "j",
+   "v.",
+   "ti",
+   "i",
+   "it",
+   "ir",
+   "f'.",
+   ":",
+   ".",
+   "'",
+   "j",
+   "i",
+   "'",
+   "j",
+   "i",
+   "!",
+   "j",
+   ",",
+   "'"
+  ],
+  "page_seq_num": 795,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_morton_ver01\/data\/sn99021999\/00280779052\/1914120501\/0795.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1914-12-05",
+  "publisher": "Edward Rosewater",
+  "score": 0.9496793746948242,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_morton_ver01\/data\/sn99021999\/00280779052\/1914120501\/0795\/013_0_94.jpg"
+ },
+ "id": 1531
+}

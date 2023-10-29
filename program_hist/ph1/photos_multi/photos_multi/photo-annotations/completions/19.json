@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767748,
+   "id": 19001,
+   "lead_time": 1.086,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Bee6ELKB-s",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_froelichiafloridana_ver01",
+  "box": [
+   0.5656284544824505,
+   0.6479536904027414,
+   0.7451948686079546,
+   0.8178668543909074
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_froelichiafloridana_ver01\/data\/sn83045348\/00279528062\/1895121101\/0830\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_froelichiafloridana_ver01%2Fdata%2Fsn83045348%2F00279528062%2F1895121101%2F0830.jp2\/pct:56.56,64.8,17.96,17.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045348",
+  "name": "Pokrok za\u0301padu. [volume]",
+  "ocr": [
+   "-",
+   "V",
+   "v-",
+   "tf",
+   "O'!",
+   "x\u0161P?"
+  ],
+  "page_seq_num": 830,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_froelichiafloridana_ver01\/data\/sn83045348\/00279528062\/1895121101\/0830.jp2",
+  "place_of_publication": "Omaha, Neb.",
+  "pub_date": "1895-12-11",
+  "publisher": "Pokrok Publishing Company",
+  "score": 0.9319330453872681,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_froelichiafloridana_ver01\/data\/sn83045348\/00279528062\/1895121101\/0830\/003_0_93.jpg"
+ },
+ "id": 19
+}

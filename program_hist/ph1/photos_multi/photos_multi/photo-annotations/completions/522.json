@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769045,
+   "id": 522001,
+   "lead_time": 3.106,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_ypxfi1_Ur",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iahi_gallup_ver01",
+  "box": [
+   0.3521633954115317,
+   0.3086516816737288,
+   0.6346457038127201,
+   0.4555832167803231
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iahi_gallup_ver01\/data\/sn84038095\/00415622910\/1901010801\/0018\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Iowa--Crawford--Denison",
+   "Iowa--Crawford--Dow City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iahi_gallup_ver01%2Fdata%2Fsn84038095%2F00415622910%2F1901010801%2F0018.jp2\/pct:35.21,30.87,28.25,14.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn84038095",
+  "name": "The Denison review. [volume]",
+  "ocr": [
+   "CATHOLIC",
+   "CHURCH,",
+   "RECENTLY",
+   "DAMAGED",
+   "BY",
+   "FIRE.",
+   "The",
+   "PortioL",
+   "of",
+   "Church",
+   "Burned",
+   "is",
+   "Indicated",
+   "by",
+   "an",
+   "X."
+  ],
+  "page_seq_num": 18,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iahi_gallup_ver01\/data\/sn84038095\/00415622910\/1901010801\/0018.jp2",
+  "place_of_publication": "Denison, Iowa",
+  "pub_date": "1901-01-08",
+  "publisher": "James D. Ainsworth",
+  "score": 0.9572371244430542,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iahi_gallup_ver01\/data\/sn84038095\/00415622910\/1901010801\/0018\/004_0_95.jpg"
+ },
+ "id": 522
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767808,
+   "id": 722001,
+   "lead_time": 1.905,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "c1uFS8IylT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_cedar_ver01",
+  "box": [
+   0.025347156173612443,
+   0.22639921733311244,
+   0.15426719993170054,
+   0.3902002607073103
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_cedar_ver01\/data\/sn84020358\/00271744444\/1904101501\/0810\/008_0_94.jpg",
+  "geographic_coverage": [
+   "Connecticut--New Haven--New Haven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_cedar_ver01%2Fdata%2Fsn84020358%2F00271744444%2F1904101501%2F0810.jp2\/pct:2.53,22.64,12.9,16.39\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020358",
+  "name": "The daily morning journal and courier. [volume]",
+  "ocr": [
+   "msm",
+   "MISS",
+   "EFFIE",
+   "SHANNON."
+  ],
+  "page_seq_num": 810,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_cedar_ver01\/data\/sn84020358\/00271744444\/1904101501\/0810.jp2",
+  "place_of_publication": "New Haven, Conn.",
+  "pub_date": "1904-10-15",
+  "publisher": "Carrington Pub. Co.",
+  "score": 0.9417213797569275,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_cedar_ver01\/data\/sn84020358\/00271744444\/1904101501\/0810\/008_0_94.jpg"
+ },
+ "id": 722
+}

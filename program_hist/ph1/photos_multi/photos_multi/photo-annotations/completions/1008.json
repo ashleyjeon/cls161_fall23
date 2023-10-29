@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766765,
+   "id": 1008001,
+   "lead_time": 2.014,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pJ293u4olB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_tango_ver01",
+  "box": [
+   0.03660526982060185,
+   0.08470503329889384,
+   0.6997164690936053,
+   0.44163142909471187
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_tango_ver01\/data\/sn84026749\/100492556\/1908030101\/0306\/006_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_tango_ver01%2Fdata%2Fsn84026749%2F100492556%2F1908030101%2F0306.jp2\/pct:3.66,8.48,66.32,35.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "s",
+   "MME",
+   "KALICH",
+   "ADVANCES",
+   "ADVANCESIN",
+   "IN",
+   "EMOTIONAL",
+   "ACTING",
+   "OLGA",
+   "Al",
+   "eYaG",
+   "c",
+   "Hi",
+   "l",
+   "PAGlltCC",
+   "A",
+   "LQ",
+   "T",
+   "I",
+   "r",
+   "pastes",
+   "raneesJust",
+   "StarrJust",
+   "Starr",
+   "StarrJust",
+   "Just",
+   "the",
+   "Same",
+   "SameIn",
+   "SameIn"
+  ],
+  "page_seq_num": 306,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_tango_ver01\/data\/sn84026749\/100492556\/1908030101\/0306.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1908-03-01",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9765974879264832,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_tango_ver01\/data\/sn84026749\/100492556\/1908030101\/0306\/006_0_97.jpg"
+ },
+ "id": 1008
+}

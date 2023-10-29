@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767353,
+   "id": 1696001,
+   "lead_time": 2.811,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_greenland_ver01",
+  "box": [
+   0.07570272096445863,
+   0.8039982194402611,
+   0.43479530637303937,
+   0.9682185774347389
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_greenland_ver01\/data\/sn88084272\/00280765211\/1917072101\/0265\/001_0_95.jpg",
+  "geographic_coverage": [
+   "Texas--El Paso--El Paso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_greenland_ver01%2Fdata%2Fsn88084272%2F00280765211%2F1917072101%2F0265.jp2\/pct:7.57,80.4,35.91,16.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn88084272",
+  "name": "El Paso herald.",
+  "ocr": [
+   "TAKING",
+   "SALT",
+   "In",
+   "he",
+   "Salt",
+   "WBKkSR",
+   "\"",
+   "EjuSSPnunsBS:",
+   "BBSBSaBBnaBBBBBSBBBBaBBOHBaaBBBB",
+   "FROM",
+   "OUT",
+   "Mines,",
+   "-We",
+   "Seem",
+   "To",
+   "Be",
+   "in",
+   "a",
+   "Palace",
+   "of",
+   "THE",
+   "EARTH",
+   "Silver."
+  ],
+  "page_seq_num": 265,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_greenland_ver01\/data\/sn88084272\/00280765211\/1917072101\/0265.jp2",
+  "place_of_publication": "El Paso, Tex.",
+  "pub_date": "1917-07-21",
+  "publisher": "Herald News Co.",
+  "score": 0.9568014144897461,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_greenland_ver01\/data\/sn88084272\/00280765211\/1917072101\/0265\/001_0_95.jpg"
+ },
+ "id": 1696
+}

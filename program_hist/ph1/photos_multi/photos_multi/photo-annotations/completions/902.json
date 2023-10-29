@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748358,
+   "id": 902001,
+   "lead_time": 2.309,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wsbnsGQHI9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_moore_ver01",
+  "box": [
+   0.03288471992379926,
+   0.4051399418873153,
+   0.32283860380426416,
+   0.7065580879442294
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_moore_ver01\/data\/sn86092392\/00414187341\/1906013101\/0061\/001_0_99.jpg",
+  "geographic_coverage": [
+   "West Virginia--Wayne--Ceredo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_moore_ver01%2Fdata%2Fsn86092392%2F00414187341%2F1906013101%2F0061.jp2\/pct:3.28,40.52,29.0,30.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092392",
+  "name": "Ceredo advance. [volume]",
+  "ocr": [
+   "Copyrighted,",
+   "IVatdon",
+   "\/"
+  ],
+  "page_seq_num": 61,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_moore_ver01\/data\/sn86092392\/00414187341\/1906013101\/0061.jp2",
+  "place_of_publication": "Ceredo, W. Va.",
+  "pub_date": "1906-01-31",
+  "publisher": "T.T. McDougal & W.I. Mansfield",
+  "score": 0.9959723353385925,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_moore_ver01\/data\/sn86092392\/00414187341\/1906013101\/0061\/001_0_99.jpg"
+ },
+ "id": 902
+}

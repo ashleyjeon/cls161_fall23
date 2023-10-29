@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768235,
+   "id": 1048001,
+   "lead_time": 1.911,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VN3Yjgx4yf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_cauliflower_ver01",
+  "box": [
+   0.42697469568462626,
+   0.17409757884432547,
+   0.5561851803951852,
+   0.30944833992193754
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_cauliflower_ver01\/data\/sn91066782\/00415628158\/1908110201\/0211\/017_0_94.jpg",
+  "geographic_coverage": [
+   "Vermont--Washington--Barre"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_cauliflower_ver01%2Fdata%2Fsn91066782%2F00415628158%2F1908110201%2F0211.jp2\/pct:42.69,17.41,12.93,13.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn91066782",
+  "name": "The Barre daily times.",
+  "ocr": [
+   "'",
+   "i",
+   "-v",
+   "'(",
+   "x",
+   "e-wf-i",
+   "1",
+   "'..",
+   "li",
+   "i",
+   "REV.",
+   "DANIEL",
+   "S.",
+   "TOY."
+  ],
+  "page_seq_num": 211,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_cauliflower_ver01\/data\/sn91066782\/00415628158\/1908110201\/0211.jp2",
+  "place_of_publication": "Barre, Vt.",
+  "pub_date": "1908-11-02",
+  "publisher": "Frank E. Langley",
+  "score": 0.944402813911438,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_cauliflower_ver01\/data\/sn91066782\/00415628158\/1908110201\/0211\/017_0_94.jpg"
+ },
+ "id": 1048
+}

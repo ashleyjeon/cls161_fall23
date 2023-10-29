@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749479,
+   "id": 406001,
+   "lead_time": 2.402,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "As2jsJulCu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_damsel_ver01",
+  "box": [
+   0.5020314180914731,
+   0.04871126019783568,
+   0.7992380723596256,
+   0.27576507130308014
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_damsel_ver01\/data\/sn83025121\/00294552455\/1900081001\/0528\/006_0_95.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_damsel_ver01%2Fdata%2Fsn83025121%2F00294552455%2F1900081001%2F0528.jp2\/pct:50.2,4.88,29.73,22.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025121",
+  "name": "The Hawaiian gazette. [volume]",
+  "ocr": [
+   "dr.",
+   "c.",
+   "b,",
+   "wood",
+   "who",
+   "WILL",
+   "DC",
+   "'",
+   "1",
+   "S",
+   "JCT.18U",
+   "IC",
+   "at",
+   ".",
+   "2",
+   "jsxjj",
+   "j",
+   "r",
+   "j",
+   "i",
+   "L,rj",
+   "n",
+   "i",
+   "j",
+   "BnB",
+   "'dlv",
+   "HB",
+   "9ift"
+  ],
+  "page_seq_num": 528,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_damsel_ver01\/data\/sn83025121\/00294552455\/1900081001\/0528.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1900-08-10",
+  "publisher": "Published ... by J.H. Black at the G.P.O.",
+  "score": 0.9557444453239441,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_damsel_ver01\/data\/sn83025121\/00294552455\/1900081001\/0528\/006_0_95.jpg"
+ },
+ "id": 406
+}

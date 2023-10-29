@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673469,
+   "id": 669001,
+   "lead_time": 2.183,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "b9Pa00aYJx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_guttenberg_ver01",
+  "box": [
+   0.3170975594133033,
+   0.4523793714195154,
+   0.44237529094143385,
+   0.5870269614892468
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_guttenberg_ver01\/data\/sn92053934\/00202198508\/1903111401\/0532\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_guttenberg_ver01%2Fdata%2Fsn92053934%2F00202198508%2F1903111401%2F0532.jp2\/pct:31.7,45.24,12.53,13.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "3\"",
+   "It",
+   "vt.",
+   "\"i-;..",
+   "r",
+   "-V.I",
+   "v.",
+   ":.-",
+   "i",
+   "L",
+   "CIIABLOTTi:",
+   "BUBTO.V,",
+   "IX",
+   "\"BURIKD"
+  ],
+  "page_seq_num": 532,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_guttenberg_ver01\/data\/sn92053934\/00202198508\/1903111401\/0532.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1903-11-14",
+  "publisher": "J.W. Potter",
+  "score": 0.9843406081199646,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_guttenberg_ver01\/data\/sn92053934\/00202198508\/1903111401\/0532\/000_0_98.jpg"
+ },
+ "id": 669
+}

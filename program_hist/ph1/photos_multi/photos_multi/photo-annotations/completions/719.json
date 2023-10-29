@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772381,
+   "id": 719001,
+   "lead_time": 1.589,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vGlwEpqYi-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_ingalls_ver01",
+  "box": [
+   0.034582613721305944,
+   0.3521102541648279,
+   0.16571095784505208,
+   0.5178778060010757
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_ingalls_ver01\/data\/sn84020274\/00294559735\/1904062201\/0510\/009_0_97.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_ingalls_ver01%2Fdata%2Fsn84020274%2F00294559735%2F1904062201%2F0510.jp2\/pct:3.45,35.22,13.12,16.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "30SS",
+   "LAVINIA",
+   "H.",
+   "EGAN.",
+   "iwnMei\"!neeeMaMBnSBBenaaBM",
+   "llfffleBBBBeBBBBBBBBBBBflLBicV",
+   "&'",
+   "V-r",
+   "IsaaaaasKii",
+   "ifl",
+   "en.",
+   "aiKv",
+   "isHHsP",
+   "t",
+   "\"",
+   "k",
+   "v",
+   "JwSssfeASS",
+   "j",
+   "fish\"",
+   ".",
+   "MBH,",
+   "-",
+   "8",
+   "y",
+   ".disWej?",
+   "J",
+   ".jBBBBBBBssWki",
+   "ppppppppppppHB",
+   "pjppippppppppppppj"
+  ],
+  "page_seq_num": 510,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_ingalls_ver01\/data\/sn84020274\/00294559735\/1904062201\/0510.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1904-06-22",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9740100502967834,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_ingalls_ver01\/data\/sn84020274\/00294559735\/1904062201\/0510\/009_0_97.jpg"
+ },
+ "id": 719
+}

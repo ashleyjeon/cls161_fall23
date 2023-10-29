@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766858,
+   "id": 1077001,
+   "lead_time": 2.168,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Yrdhj1bE0q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.7043335106086505,
+   0.5421718418694467,
+   0.9732416359337842,
+   0.7600328386889136
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761059\/1908080801\/0056\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761059%2F1908080801%2F0056.jp2\/pct:70.43,54.22,26.9,21.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "BBBBBbIbBBBBBBBBBW-",
+   "-'\"",
+   "BBBBBBBSBBBBBM",
+   "bbbbbbbTbbbbbV'",
+   "SBBBBBBBBBBB",
+   "IsbbbbbbbHbbbbbBe!.",
+   "'",
+   "'",
+   "'",
+   "LJibbbibbbbbbbbI",
+   "jmHHK",
+   ",P",
+   "JbbbbbbbbbbbbisbbbbbB",
+   "BBB",
+   "BBB1BBBBBBBBBBBbH",
+   "HON.",
+   "JAWNB.",
+   "MADDEN.",
+   "Member.",
+   "of",
+   ".Conores",
+   "rpm",
+   "the",
+   "District,",
+   "who"
+  ],
+  "page_seq_num": 56,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761059\/1908080801\/0056.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1908-08-08",
+  "publisher": "Julius F. Taylor",
+  "score": 0.98543381690979,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761059\/1908080801\/0056\/001_0_98.jpg"
+ },
+ "id": 1077
+}

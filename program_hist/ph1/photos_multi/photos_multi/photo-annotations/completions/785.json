@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746903,
+   "id": 785001,
+   "lead_time": 6.191,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nC71Hm6umi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_beatles_ver01",
+  "box": [
+   0.31998983243616613,
+   0.46238304058985724,
+   0.6646477303853849,
+   0.6487449566798227
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_beatles_ver01\/data\/sn86069873\/00100479461\/1905100301\/0228\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Kentucky--Bourbon--Paris"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_beatles_ver01%2Fdata%2Fsn86069873%2F00100479461%2F1905100301%2F0228.jp2\/pct:31.99,46.24,34.47,18.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069873",
+  "name": "The Bourbon news. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 228,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_beatles_ver01\/data\/sn86069873\/00100479461\/1905100301\/0228.jp2",
+  "place_of_publication": "Paris, Ky.",
+  "pub_date": "1905-10-03",
+  "publisher": "Champ & Miller",
+  "score": 0.9649839997291565,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_beatles_ver01\/data\/sn86069873\/00100479461\/1905100301\/0228\/002_0_96.jpg"
+ },
+ "id": 785
+}

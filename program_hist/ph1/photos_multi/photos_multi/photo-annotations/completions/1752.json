@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754434,
+   "id": 1752001,
+   "lead_time": 1.656,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KaewkyL_Rd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_greenberg_ver01",
+  "box": [
+   0.49585820893668936,
+   0.22673693598533162,
+   0.60977486409588,
+   0.38129708426339287
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_greenberg_ver01\/data\/sn85038411\/00296028265\/1917100201\/0218\/013_0_90.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Dauphin--Harrisburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_greenberg_ver01%2Fdata%2Fsn85038411%2F00296028265%2F1917100201%2F0218.jp2\/pct:49.58,22.68,11.4,15.46\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038411",
+  "name": "Harrisburg telegraph. [volume]",
+  "ocr": [
+   "m",
+   "H",
+   "JUBF",
+   "IHik",
+   "-\u25a0",
+   "'",
+   "\u2022",
+   "LIEUT.",
+   "ROBERT",
+   "W.",
+   "LESHER"
+  ],
+  "page_seq_num": 218,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_greenberg_ver01\/data\/sn85038411\/00296028265\/1917100201\/0218.jp2",
+  "place_of_publication": "Harrisburg, Pa.",
+  "pub_date": "1917-10-02",
+  "publisher": "C.H. Bergner",
+  "score": 0.9098133444786072,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_greenberg_ver01\/data\/sn85038411\/00296028265\/1917100201\/0218\/013_0_90.jpg"
+ },
+ "id": 1752
+}

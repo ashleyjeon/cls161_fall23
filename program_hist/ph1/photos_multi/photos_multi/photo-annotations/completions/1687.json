@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768214,
+   "id": 1687001,
+   "lead_time": 1.754,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "S8d6xRJsSq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_iberia_ver01",
+  "box": [
+   0.7024175438378114,
+   0.041399345802334085,
+   0.8352591822901578,
+   0.30624535226990396
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_iberia_ver01\/data\/sn84026749\/00280764358\/1916110701\/0852\/012_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_iberia_ver01%2Fdata%2Fsn84026749%2F00280764358%2F1916110701%2F0852.jp2\/pct:70.24,4.14,13.29,26.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "Here's",
+   "the",
+   "Real",
+   "6ane",
+   "of",
+   "Office",
+   "Seeker's",
+   "Life",
+   "r",
+   "iSj",
+   "f",
+   "I",
+   "rz-jj",
+   ".",
+   "\"\"mrnnm",
+   "rrjipy&f",
+   "dttk",
+   "klMM",
+   "ssssssH",
+   "A",
+   ",",
+   "\"l",
+   "t..",
+   "U-i'",
+   "tAJ'Mmi.",
+   "J-.vir;",
+   "AsHM:",
+   "rssssssEP",
+   "1",
+   "SSH'",
+   "sssWlMklx:",
+   "'",
+   "sssK",
+   "JsssFlsikJ",
+   "mizteiM",
+   "MISS",
+   "FLORENCE",
+   "KERBY.",
+   "BmrzLJtMi",
+   ",",
+   "&&"
+  ],
+  "page_seq_num": 852,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_iberia_ver01\/data\/sn84026749\/00280764358\/1916110701\/0852.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1916-11-07",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9577640295028687,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_iberia_ver01\/data\/sn84026749\/00280764358\/1916110701\/0852\/012_0_95.jpg"
+ },
+ "id": 1687
+}

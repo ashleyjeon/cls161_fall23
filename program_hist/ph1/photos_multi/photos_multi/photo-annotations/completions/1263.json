@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768171,
+   "id": 1263001,
+   "lead_time": 1.787,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kQRJkqekke",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_hardin_ver01",
+  "box": [
+   0.37814807891845703,
+   0.09345656174879807,
+   0.6135205541338239,
+   0.4167460514948918
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_hardin_ver01\/data\/sn83030193\/00211100138\/1911072801\/0148\/013_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_hardin_ver01%2Fdata%2Fsn83030193%2F00211100138%2F1911072801%2F0148.jp2\/pct:37.81,9.35,23.54,32.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "r\"",
+   "r-",
+   "1",
+   "i",
+   "J",
+   "H",
+   ",",
+   ",",
+   "gsargeaeeeeW",
+   "ty"
+  ],
+  "page_seq_num": 148,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_hardin_ver01\/data\/sn83030193\/00211100138\/1911072801\/0148.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1911-07-28",
+  "publisher": "[publisher not identified]",
+  "score": 0.9618175625801086,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_hardin_ver01\/data\/sn83030193\/00211100138\/1911072801\/0148\/013_0_96.jpg"
+ },
+ "id": 1263
+}

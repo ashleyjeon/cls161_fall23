@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772525,
+   "id": 1061001,
+   "lead_time": 1.639,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wiStV6TMqU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iahi_halston_ver01",
+  "box": [
+   0.09243548095986022,
+   0.22608781519944104,
+   0.23840257770631157,
+   0.3843685491298272
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iahi_halston_ver01\/data\/sn87057096\/00415668570\/1908102901\/0818\/005_0_92.jpg",
+  "geographic_coverage": [
+   "Iowa--Decatur--Leon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iahi_halston_ver01%2Fdata%2Fsn87057096%2F00415668570%2F1908102901%2F0818.jp2\/pct:9.24,22.61,14.6,15.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn87057096",
+  "name": "The Leon reporter.",
+  "ocr": [
+   "THOMAS",
+   "PENISTEN"
+  ],
+  "page_seq_num": 818,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iahi_halston_ver01\/data\/sn87057096\/00415668570\/1908102901\/0818.jp2",
+  "place_of_publication": "Leon, Iowa",
+  "pub_date": "1908-10-29",
+  "publisher": "O.E. Hull",
+  "score": 0.925885021686554,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iahi_halston_ver01\/data\/sn87057096\/00415668570\/1908102901\/0818\/005_0_92.jpg"
+ },
+ "id": 1061
+}

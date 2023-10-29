@@ -1,0 +1,91 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751327,
+   "id": 1815001,
+   "lead_time": 2.899,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8642BqiBAQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_jetblue_ver01",
+  "box": [
+   0.38154257160343535,
+   0.05573191587952362,
+   0.7309083982145406,
+   0.24098690807590997
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_jetblue_ver01\/data\/sn84026749\/00280764516\/1918100501\/0644\/005_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_jetblue_ver01%2Fdata%2Fsn84026749%2F00280764516%2F1918100501%2F0644.jp2\/pct:38.15,5.58,34.94,18.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "Retreating",
+   "Germans",
+   "Burn",
+   "Automobiles",
+   "French",
+   "troops",
+   "advancing",
+   "in",
+   "the",
+   "wake",
+   "of",
+   "the",
+   "retreating",
+   "Huns",
+   "pass",
+   "by",
+   "an",
+   "automobile",
+   "which",
+   "had",
+   "been",
+   "destroyed",
+   "by",
+   "the",
+   "Germans.",
+   "The",
+   "machine",
+   "for",
+   "some",
+   "reason",
+   "was",
+   "not",
+   "removed",
+   "by",
+   "the",
+   "enemy,",
+   "but",
+   "set",
+   "on",
+   "fire",
+   "to",
+   "it"
+  ],
+  "page_seq_num": 644,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_jetblue_ver01\/data\/sn84026749\/00280764516\/1918100501\/0644.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1918-10-05",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9718453884124756,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_jetblue_ver01\/data\/sn84026749\/00280764516\/1918100501\/0644\/005_0_97.jpg"
+ },
+ "id": 1815
+}

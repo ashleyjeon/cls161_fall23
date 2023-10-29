@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767977,
+   "id": 939001,
+   "lead_time": 2.018,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "u0eWDTGeLQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_pomo_ver01",
+  "box": [
+   0.2947124314561504,
+   0.3977618687589404,
+   0.5609273178659054,
+   0.6666279645033286
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_pomo_ver01\/data\/sn85042462\/00175047499\/1907110301\/0033\/006_0_91.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_pomo_ver01%2Fdata%2Fsn85042462%2F00175047499%2F1907110301%2F0033.jp2\/pct:29.47,39.78,26.63,26.89\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "ABRAHAM",
+   "MILLER,",
+   "ONE",
+   "OF",
+   "LOS",
+   "ANGELES'",
+   "LEADING",
+   "TENORS",
+   "j"
+  ],
+  "page_seq_num": 33,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_pomo_ver01\/data\/sn85042462\/00175047499\/1907110301\/0033.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1907-11-03",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9128151535987854,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_pomo_ver01\/data\/sn85042462\/00175047499\/1907110301\/0033\/006_0_91.jpg"
+ },
+ "id": 939
+}

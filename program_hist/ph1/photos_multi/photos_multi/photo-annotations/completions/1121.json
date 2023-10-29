@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743074,
+   "id": 1121001,
+   "lead_time": 3.997,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3GWCuiX2yz",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_braeburn_ver01",
+  "box": [
+   0.5010192358193277,
+   0.7345126006818556,
+   0.6918408818605567,
+   0.8426942567567568
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_braeburn_ver01\/data\/sn85034374\/00295877741\/1909080701\/0387\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Mississippi--Washington--Greenville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_braeburn_ver01%2Fdata%2Fsn85034374%2F00295877741%2F1909080701%2F0387.jp2\/pct:50.1,73.46,19.09,10.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn85034374",
+  "name": "The Greenville times. [volume]",
+  "ocr": [
+   "r4z",
+   "mm",
+   "::.",
+   "y-y",
+   "yxr",
+   ".-",
+   "I",
+   "vW-J",
+   ".",
+   "x",
+   "L",
+   "r",
+   "-",
+   "mm",
+   "I"
+  ],
+  "page_seq_num": 387,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_braeburn_ver01\/data\/sn85034374\/00295877741\/1909080701\/0387.jp2",
+  "place_of_publication": "Greenville, Miss.",
+  "pub_date": "1909-08-07",
+  "publisher": "[publisher not identified]",
+  "score": 0.9190231561660767,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_braeburn_ver01\/data\/sn85034374\/00295877741\/1909080701\/0387\/008_0_91.jpg"
+ },
+ "id": 1121
+}

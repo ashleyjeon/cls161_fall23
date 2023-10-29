@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611761161,
+   "id": 1720001,
+   "lead_time": 56.418,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o5OiulwgJr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_christie_ver01",
+  "box": [
+   0.3158235131240473,
+   0.11035259850591207,
+   0.6926686356707317,
+   0.3386054004696633
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_christie_ver01\/data\/sn84031081\/00415626599\/1917102101\/0517\/003_0_99.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_christie_ver01%2Fdata%2Fsn84031081%2F00415626599%2F1917102101%2F0517.jp2\/pct:31.58,11.04,37.69,22.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn84031081",
+  "name": "Albuquerque morning journal. [volume]",
+  "ocr": [
+   "As",
+   "wen",
+   "from",
+   "I'utio",
+   "of",
+   "Xcvv",
+   "i",
+   "1",
+   ",",
+   ":",
+   "'.,",
+   "1",
+   "if",
+   "i",
+   "r",
+   "1",
+   "CHARMING",
+   "A",
+   "RC'I",
+   "I",
+   "IT",
+   "ECT",
+   "I",
+   "f!",
+   "A",
+   ".",
+   "HIT,",
+   "'",
+   "Museum",
+   "Hiiildfiig,",
+   "which",
+   "is",
+   "to",
+   "he",
+   "dedieaied",
+   "Tlintikssiviiig",
+   "week,",
+   "'",
+   "X.",
+   ",v",
+   "\"t-",
+   "-",
+   ",i",
+   "..",
+   ",.-,5",
+   "J",
+   "ttJltX"
+  ],
+  "page_seq_num": 517,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_christie_ver01\/data\/sn84031081\/00415626599\/1917102101\/0517.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1917-10-21",
+  "publisher": "Democrat Pub. Co.",
+  "score": 0.9916242957115173,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_christie_ver01\/data\/sn84031081\/00415626599\/1917102101\/0517\/003_0_99.jpg"
+ },
+ "id": 1720
+}

@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768316,
+   "id": 731001,
+   "lead_time": 2.026,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jtTxIGygvN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "arhi_alakazam_ver01",
+  "box": [
+   0.73657776759221,
+   0.2601744975240767,
+   0.9616917096651517,
+   0.4544391707828634
+  ],
+  "edition_seq_num": 1,
+  "filepath": "arhi_alakazam_ver01\/data\/sn84022960\/00414212049\/1904062401\/1351\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Arkansas--Saint Francis--Forrest City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/arhi_alakazam_ver01%2Fdata%2Fsn84022960%2F00414212049%2F1904062401%2F1351.jp2\/pct:73.65,26.02,22.52,19.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022960",
+  "name": "The Forrest City times. [volume]",
+  "ocr": [
+   "CAPTAIN",
+   "JAMES",
+   "L.",
+   "DEMPSEY.",
+   "Ill"
+  ],
+  "page_seq_num": 1351,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/arhi_alakazam_ver01\/data\/sn84022960\/00414212049\/1904062401\/1351.jp2",
+  "place_of_publication": "Forrest City, Ark.",
+  "pub_date": "1904-06-24",
+  "publisher": "Thomas F. Oury",
+  "score": 0.9771008491516113,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/arhi_alakazam_ver01\/data\/sn84022960\/00414212049\/1904062401\/1351\/004_0_97.jpg"
+ },
+ "id": 731
+}

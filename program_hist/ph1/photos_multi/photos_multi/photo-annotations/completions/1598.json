@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767620,
+   "id": 1598001,
+   "lead_time": 3.252,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mL5oGxJLnD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_leonidas_ver01",
+  "box": [
+   0.15985677750384222,
+   0.12947517981217957,
+   0.2965487120581455,
+   0.27107380691255056
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_leonidas_ver01\/data\/sn83016689\/00279552246\/1915022701\/0698\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_leonidas_ver01%2Fdata%2Fsn83016689%2F00279552246%2F1915022701%2F0698.jp2\/pct:15.98,12.95,13.67,14.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "v",
+   "<",
+   "'",
+   "S",
+   "W*",
+   "T",
+   "ft,",
+   "no'll#",
+   "yq.",
+   "\u2018sr",
+   "\u201d\u25a0",
+   "*",
+   "-",
+   "v*'",
+   "IRENE",
+   "PAWLOSKA"
+  ],
+  "page_seq_num": 698,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_leonidas_ver01\/data\/sn83016689\/00279552246\/1915022701\/0698.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1915-02-27",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9826609492301941,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_leonidas_ver01\/data\/sn83016689\/00279552246\/1915022701\/0698\/006_0_98.jpg"
+ },
+ "id": 1598
+}

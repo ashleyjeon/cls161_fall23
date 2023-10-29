@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767573,
+   "id": 413001,
+   "lead_time": 1.57,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qwMv6lt46i",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_kestrel_ver02",
+  "box": [
+   0.09933390299479167,
+   0.06749101964438833,
+   0.38316184714988427,
+   0.36849556899652247
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_kestrel_ver02\/data\/sn86075261\/print\/1900010101\/0584\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Montana--Park--Livingston"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_kestrel_ver02%2Fdata%2Fsn86075261%2Fprint%2F1900010101%2F0584.jp2\/pct:9.93,6.75,28.39,30.11\/!500,500\/0\/default.jpg",
+  "lccn": "sn86075261",
+  "name": "The Livingston enterprise. [volume]",
+  "ocr": [
+   "r.",
+   "J",
+   "*",
+   "A",
+   "W.",
+   "MILES."
+  ],
+  "page_seq_num": 584,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_kestrel_ver02\/data\/sn86075261\/print\/1900010101\/0584.jp2",
+  "place_of_publication": "Livingston, Mont.",
+  "pub_date": "1900-01-01",
+  "publisher": "[G.H. Wright]",
+  "score": 0.9850552082061768,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_kestrel_ver02\/data\/sn86075261\/print\/1900010101\/0584\/000_0_98.jpg"
+ },
+ "id": 413
+}

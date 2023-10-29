@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768425,
+   "id": 1501001,
+   "lead_time": 2.546,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4sk8RR7EfP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_hodag_ver01",
+  "box": [
+   0.33997781587188247,
+   0.7375094823353142,
+   0.49095348873161215,
+   0.9470403703540492
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_hodag_ver01\/data\/sn86086499\/00414214411\/1914052201\/0155\/010_0_92.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Milwaukee--Wauwatosa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_hodag_ver01%2Fdata%2Fsn86086499%2F00414214411%2F1914052201%2F0155.jp2\/pct:33.99,73.76,15.1,20.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086499",
+  "name": "Wauwatosa news. [volume]",
+  "ocr": [
+   "Prince",
+   "of",
+   "Wale*.",
+   "ship",
+   "Colltngwood",
+   "with",
+   "his",
+   "brother.",
+   "The",
+   "suffragettes",
+   "were",
+   "disguised",
+   "as",
+   "sisters",
+   "of",
+   "charity.",
+   "When",
+   "a",
+   "servant"
+  ],
+  "page_seq_num": 155,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_hodag_ver01\/data\/sn86086499\/00414214411\/1914052201\/0155.jp2",
+  "place_of_publication": "Wauwatosa, Wis.",
+  "pub_date": "1914-05-22",
+  "publisher": "Wauwatosa Printing",
+  "score": 0.9226268529891968,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_hodag_ver01\/data\/sn86086499\/00414214411\/1914052201\/0155\/010_0_92.jpg"
+ },
+ "id": 1501
+}

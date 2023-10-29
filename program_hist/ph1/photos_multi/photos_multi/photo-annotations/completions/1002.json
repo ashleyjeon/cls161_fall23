@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748378,
+   "id": 1002001,
+   "lead_time": 9.774,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tSVf_E7Ws7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_brazil_ver01",
+  "box": [
+   0.3876856677937058,
+   0.02806255945630265,
+   0.6496128298201651,
+   0.1945141402128361
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_brazil_ver01\/data\/sn83030214\/00175039399\/1908090801\/0158\/011_0_93.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_brazil_ver01%2Fdata%2Fsn83030214%2F00175039399%2F1908090801%2F0158.jp2\/pct:38.76,2.81,26.2,16.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "CAME",
+   "IX",
+   "FIRING",
+   "ON",
+   "THE",
+   "\"ENEMr.\""
+  ],
+  "page_seq_num": 158,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_brazil_ver01\/data\/sn83030214\/00175039399\/1908090801\/0158.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1908-09-08",
+  "publisher": "New York Tribune",
+  "score": 0.9354341626167297,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_brazil_ver01\/data\/sn83030214\/00175039399\/1908090801\/0158\/011_0_93.jpg"
+ },
+ "id": 1002
+}

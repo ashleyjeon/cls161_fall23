@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764377,
+   "id": 1397001,
+   "lead_time": 1.941,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Hc4cYmzOrI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_fred_ver01",
+  "box": [
+   0.3401298181042934,
+   0.5012497257541966,
+   0.48459886069792335,
+   0.6896894815805796
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_fred_ver01\/data\/sn89058115\/00415621772\/1913031401\/0435\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Tennessee--Carroll--Huntingdon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_fred_ver01%2Fdata%2Fsn89058115%2F00415621772%2F1913031401%2F0435.jp2\/pct:34.01,50.13,14.45,18.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058115",
+  "name": "Carroll County democrat.",
+  "ocr": [
+   "mm",
+   "DAVID",
+   "A.",
+   "HOUSTON,",
+   "Secretary",
+   "of",
+   "Agriculture."
+  ],
+  "page_seq_num": 435,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_fred_ver01\/data\/sn89058115\/00415621772\/1913031401\/0435.jp2",
+  "place_of_publication": "Huntingdon, Tenn.",
+  "pub_date": "1913-03-14",
+  "publisher": "Huntingdon Pub. Co.",
+  "score": 0.9846392869949341,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_fred_ver01\/data\/sn89058115\/00415621772\/1913031401\/0435\/002_0_98.jpg"
+ },
+ "id": 1397
+}

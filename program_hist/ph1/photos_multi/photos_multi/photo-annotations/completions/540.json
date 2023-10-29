@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767820,
+   "id": 540001,
+   "lead_time": 2.062,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "r5buXFGbtw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "au_capote_ver01",
+  "box": [
+   0.31416929685152495,
+   0.4768426900104347,
+   0.4465959989107572,
+   0.5969935447778892
+  ],
+  "edition_seq_num": 1,
+  "filepath": "au_capote_ver01\/data\/sn86072192\/00340583504\/1902041801\/0169\/015_0_91.jpg",
+  "geographic_coverage": [
+   "Alabama--Jefferson--Birmingham"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/au_capote_ver01%2Fdata%2Fsn86072192%2F00340583504%2F1902041801%2F0169.jp2\/pct:31.41,47.69,13.25,12.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn86072192",
+  "name": "The Age-herald. [volume]",
+  "ocr": [
+   "Dr.",
+   "W.",
+   "W.",
+   "Harper,",
+   "Selma."
+  ],
+  "page_seq_num": 169,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/au_capote_ver01\/data\/sn86072192\/00340583504\/1902041801\/0169.jp2",
+  "place_of_publication": "Birmingham, Ala.",
+  "pub_date": "1902-04-18",
+  "publisher": "Age-Herald",
+  "score": 0.9126335382461548,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/au_capote_ver01\/data\/sn86072192\/00340583504\/1902041801\/0169\/015_0_91.jpg"
+ },
+ "id": 540
+}

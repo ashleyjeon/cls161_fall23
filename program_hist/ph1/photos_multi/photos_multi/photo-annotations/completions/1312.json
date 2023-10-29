@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749453,
+   "id": 1312001,
+   "lead_time": 4.115,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XrVFg_1hEA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "arhi_fearow_ver01",
+  "box": [
+   0.423357457699983,
+   0.12637280163012052,
+   0.556002310047979,
+   0.30512508593107524
+  ],
+  "edition_seq_num": 1,
+  "filepath": "arhi_fearow_ver01\/data\/sn89051285\/00414212748\/1912040401\/0325\/011_0_97.jpg",
+  "geographic_coverage": [
+   "Arkansas--Garland--Hot Springs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/arhi_fearow_ver01%2Fdata%2Fsn89051285%2F00414212748%2F1912040401%2F0325.jp2\/pct:42.33,12.64,13.27,17.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn89051285",
+  "name": "The Sentinel=record.",
+  "ocr": [
+   "FRANCISCO",
+   "MADERO.",
+   "President",
+   "Madero",
+   "recently",
+   "Issued",
+   "a",
+   "proclamation",
+   "calling",
+   "upon",
+   "the",
+   "patri",
+   "otic",
+   "people",
+   "of",
+   "Mexico",
+   "to",
+   "take",
+   "up",
+   "arm*",
+   "In",
+   "support",
+   "of",
+   "the",
+   "government."
+  ],
+  "page_seq_num": 325,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/arhi_fearow_ver01\/data\/sn89051285\/00414212748\/1912040401\/0325.jp2",
+  "place_of_publication": "Hot Springs, Ark.",
+  "pub_date": "1912-04-04",
+  "publisher": "John G. Higgins",
+  "score": 0.9718685150146484,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/arhi_fearow_ver01\/data\/sn89051285\/00414212748\/1912040401\/0325\/011_0_97.jpg"
+ },
+ "id": 1312
+}

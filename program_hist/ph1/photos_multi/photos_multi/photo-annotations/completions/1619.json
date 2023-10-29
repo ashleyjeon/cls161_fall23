@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675007,
+   "id": 1619001,
+   "lead_time": 1.538,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "A-fFU9LhAF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_denton_ver01",
+  "box": [
+   0.573590035850906,
+   0.1233559949784228,
+   0.7008454372763779,
+   0.32009230575783526
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_denton_ver01\/data\/sn84026758\/00279522151\/1916042201\/0114\/005_0_95.jpg",
+  "geographic_coverage": [
+   "Maryland--Worcester--Snow Hill"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_denton_ver01%2Fdata%2Fsn84026758%2F00279522151%2F1916042201%2F0114.jp2\/pct:57.35,12.34,12.73,19.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026758",
+  "name": "Democratic messenger. [volume]",
+  "ocr": [
+   "M.",
+   "P.",
+   "CHURCH",
+   "ir",
+   ";",
+   "-",
+   "m",
+   "X",
+   "f&T'M:",
+   "R<w",
+   "lbwar*",
+   "K*-**ri.",
+   "who",
+   ">*\u2022-"
+  ],
+  "page_seq_num": 114,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_denton_ver01\/data\/sn84026758\/00279522151\/1916042201\/0114.jp2",
+  "place_of_publication": "Snow Hill, Md.",
+  "pub_date": "1916-04-22",
+  "publisher": "T.H. Moore & G.M. Upshur",
+  "score": 0.9585892558097839,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_denton_ver01\/data\/sn84026758\/00279522151\/1916042201\/0114\/005_0_95.jpg"
+ },
+ "id": 1619
+}

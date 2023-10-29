@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749266,
+   "id": 555001,
+   "lead_time": 2.789,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kM8NJMkvU3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_abe_ver01",
+  "box": [
+   0.3417291835862763,
+   0.2659716506231399,
+   0.6616562823860013,
+   0.4359862409319196
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_abe_ver01\/data\/sn87062245\/100493123\/1902061501\/0171\/004_0_90.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_abe_ver01%2Fdata%2Fsn87062245%2F100493123%2F1902061501%2F0171.jp2\/pct:34.17,26.6,32.0,17.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn87062245",
+  "name": "The Washington times.",
+  "ocr": [
+   "f",
+   "H",
+   "SU",
+   "M",
+   "mvm",
+   "ftSi",
+   "r5PW",
+   "Street",
+   "Looking",
+   "North",
+   "From",
+   "B",
+   "Street"
+  ],
+  "page_seq_num": 171,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_abe_ver01\/data\/sn87062245\/100493123\/1902061501\/0171.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1902-06-15",
+  "publisher": "Times Co.",
+  "score": 0.9097105860710144,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_abe_ver01\/data\/sn87062245\/100493123\/1902061501\/0171\/004_0_90.jpg"
+ },
+ "id": 555
+}

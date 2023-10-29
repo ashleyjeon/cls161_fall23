@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765412,
+   "id": 1527001,
+   "lead_time": 2.28,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Nj91b-F-3r",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_futuyma_ver02",
+  "box": [
+   0.7147888633484336,
+   0.03446025412920947,
+   0.9722703938402181,
+   0.33828635019798803
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_futuyma_ver02\/data\/sn83030272\/00211100047\/1914062101\/0939\/002_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_futuyma_ver02%2Fdata%2Fsn83030272%2F00211100047%2F1914062101%2F0939.jp2\/pct:71.47,3.45,25.75,30.39\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "SOS",
+   "W1",
+   "JS9m",
+   "J.-",
+   "III",
+   "ti",
+   "1",
+   "Mrs.",
+   "Norman",
+   "de",
+   ",",
+   "A",
+   "R.",
+   "Whitehouse"
+  ],
+  "page_seq_num": 939,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_futuyma_ver02\/data\/sn83030272\/00211100047\/1914062101\/0939.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1914-06-21",
+  "publisher": "Benj. H. Day",
+  "score": 0.9418954253196716,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_futuyma_ver02\/data\/sn83030272\/00211100047\/1914062101\/0939\/002_0_94.jpg"
+ },
+ "id": 1527
+}

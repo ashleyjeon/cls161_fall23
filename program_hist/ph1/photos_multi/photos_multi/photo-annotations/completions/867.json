@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767696,
+   "id": 867001,
+   "lead_time": 3.499,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KXaCIi-9Zs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_liberace_ver01",
+  "box": [
+   0.04072647281264326,
+   0.7452795348191624,
+   0.3329184236036828,
+   0.8892814003674916
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_liberace_ver01\/data\/sn86069309\/00175045478\/1906051601\/1044\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Kentucky--Breckinridge--Cloverport",
+   "Kentucky--Breckinridge--Hardinsburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_liberace_ver01%2Fdata%2Fsn86069309%2F00175045478%2F1906051601%2F1044.jp2\/pct:4.07,74.53,29.22,14.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069309",
+  "name": "The Breckenridge news.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 1044,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_liberace_ver01\/data\/sn86069309\/00175045478\/1906051601\/1044.jp2",
+  "place_of_publication": "Cloverport, Ky.",
+  "pub_date": "1906-05-16",
+  "publisher": "John D. Babbage",
+  "score": 0.9913290739059448,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_liberace_ver01\/data\/sn86069309\/00175045478\/1906051601\/1044\/001_0_99.jpg"
+ },
+ "id": 867
+}

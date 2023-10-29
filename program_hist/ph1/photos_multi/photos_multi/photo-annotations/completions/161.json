@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757445,
+   "id": 161001,
+   "lead_time": 5.364,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FHUHkWrfJJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_marmaduke_ver02",
+  "box": [
+   0.5058740851584446,
+   0.8530507126224253,
+   0.7198531590150983,
+   0.9533380807312702
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_marmaduke_ver02\/data\/sn89066695\/00415661782\/1897093001\/0539\/002_0_91.jpg",
+  "geographic_coverage": [
+   "Missouri--Bollinger--Marble Hill"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_marmaduke_ver02%2Fdata%2Fsn89066695%2F00415661782%2F1897093001%2F0539.jp2\/pct:50.58,85.31,21.4,10.03\/!500,500\/0\/default.jpg",
+  "lccn": "sn89066695",
+  "name": "Marble Hill press.",
+  "ocr": [
+   "imii:.')",
+   "A",
+   "rmt'jAi.'J",
+   "vnn",
+   "naiim.i."
+  ],
+  "page_seq_num": 539,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_marmaduke_ver02\/data\/sn89066695\/00415661782\/1897093001\/0539.jp2",
+  "place_of_publication": "Marbel [sic] Hill, Mo.",
+  "pub_date": "1897-09-30",
+  "publisher": "J.G. Finney",
+  "score": 0.9186745285987854,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_marmaduke_ver02\/data\/sn89066695\/00415661782\/1897093001\/0539\/002_0_91.jpg"
+ },
+ "id": 161
+}

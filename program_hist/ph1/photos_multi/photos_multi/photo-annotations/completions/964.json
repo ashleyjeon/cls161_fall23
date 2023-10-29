@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751090,
+   "id": 964001,
+   "lead_time": 1.963,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "bTGYpuisT9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.49209699000747437,
+   0.3564143040998995,
+   0.7289840246387386,
+   0.5120527976621629
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/0021110742A\/1907123101\/1268\/010_0_94.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F0021110742A%2F1907123101%2F1268.jp2\/pct:49.2,35.65,23.69,15.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "I",
+   "I",
+   "I",
+   "i",
+   "CAME",
+   "FROM",
+   "SNOW",
+   "HOUSE",
+   "HOMES",
+   "TO",
+   "SUNNY",
+   "SOUTH",
+   "TO",
+   "SCHOOL",
+   "\""
+  ],
+  "page_seq_num": 1268,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/0021110742A\/1907123101\/1268.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1907-12-31",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9483264088630676,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/0021110742A\/1907123101\/1268\/010_0_94.jpg"
+ },
+ "id": 964
+}

@@ -1,0 +1,43 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749476,
+   "id": 1126001,
+   "lead_time": 3.199,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_cedar_ver01",
+  "box": [
+   0.4974883561281814,
+   0.09427575266510392,
+   0.8971633911132812,
+   0.3243341822252466
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_cedar_ver01\/data\/sn98047754\/00211107789\/1909110101\/0429\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Washington--King--Kent",
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_cedar_ver01%2Fdata%2Fsn98047754%2F00211107789%2F1909110101%2F0429.jp2\/pct:49.74,9.43,39.97,23.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn98047754",
+  "name": "The ranch.",
+  "ocr": [
+   "WESTERN",
+   "WASHINGTON",
+   "VEGETABLES."
+  ],
+  "page_seq_num": 429,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_cedar_ver01\/data\/sn98047754\/00211107789\/1909110101\/0429.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1909-11-01",
+  "publisher": "[s.n.",
+  "score": 0.9398698210716248,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_cedar_ver01\/data\/sn98047754\/00211107789\/1909110101\/0429\/003_0_93.jpg"
+ },
+ "id": 1126
+}

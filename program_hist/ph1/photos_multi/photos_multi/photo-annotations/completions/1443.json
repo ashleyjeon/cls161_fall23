@@ -1,0 +1,98 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768478,
+   "id": 1443001,
+   "lead_time": 2.479,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6WY4oEfXos",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_bokchito_ver01",
+  "box": [
+   0.31796760948336855,
+   0.753505356132486,
+   0.7137196599220743,
+   0.9852952310744545
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_bokchito_ver01\/data\/sn85042344\/00237284598\/1913100301\/0901\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Tulsa--Tulsa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_bokchito_ver01%2Fdata%2Fsn85042344%2F00237284598%2F1913100301%2F0901.jp2\/pct:31.79,75.36,39.58,23.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042344",
+  "name": "Tulsa daily world. [volume]",
+  "ocr": [
+   "CROWDS",
+   "THAT",
+   "DAILY",
+   "POSTOFFICE",
+   "Mr-",
+   "\"",
+   "-",
+   "\"",
+   "i",
+   ".",
+   "n-A-'X",
+   "hit",
+   "i",
+   "r-'i",
+   ",",
+   ":",
+   "p",
+   ".i",
+   "r'.",
+   "I",
+   "LINE",
+   "UP",
+   "!N",
+   "THE",
+   "STREET",
+   "WAITING",
+   "THEIR",
+   "TURN",
+   ",",
+   "'Vi",
+   "..",
+   "iv.",
+   "J'-SS",
+   "'",
+   "'",
+   "'",
+   "r",
+   "s?",
+   "i",
+   ".",
+   "-i",
+   "-\"\"",
+   "IN",
+   "FRONT",
+   "OF",
+   "TO",
+   "SECURE",
+   "THEIR"
+  ],
+  "page_seq_num": 901,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_bokchito_ver01\/data\/sn85042344\/00237284598\/1913100301\/0901.jp2",
+  "place_of_publication": "Tulsa, Indian Territory [Okla.]",
+  "pub_date": "1913-10-03",
+  "publisher": "J.R. Brady",
+  "score": 0.9756510853767395,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_bokchito_ver01\/data\/sn85042344\/00237284598\/1913100301\/0901\/004_0_97.jpg"
+ },
+ "id": 1443
+}

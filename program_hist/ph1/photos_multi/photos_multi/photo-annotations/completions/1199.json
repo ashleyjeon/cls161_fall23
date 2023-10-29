@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772577,
+   "id": 1199001,
+   "lead_time": 1.928,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ugy6oklyBG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_arminius_ver01",
+  "box": [
+   0.5100996605308515,
+   0.6171745066556609,
+   0.5819324569532982,
+   0.7008351508033435
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_arminius_ver01\/data\/sn88064469\/00200299176\/1910092501\/0200\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Louisiana--Caddo--Shreveport"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_arminius_ver01%2Fdata%2Fsn88064469%2F00200299176%2F1910092501%2F0200.jp2\/pct:51.0,61.72,7.19,8.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064469",
+  "name": "The Caucasian.",
+  "ocr": [
+   "*",
+   "W.",
+   "A.",
+   "LARNED."
+  ],
+  "page_seq_num": 200,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_arminius_ver01\/data\/sn88064469\/00200299176\/1910092501\/0200.jp2",
+  "place_of_publication": "Shreveport, La.",
+  "pub_date": "1910-09-25",
+  "publisher": "Caucasian Pub. Co.",
+  "score": 0.9705731868743896,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_arminius_ver01\/data\/sn88064469\/00200299176\/1910092501\/0200\/001_0_97.jpg"
+ },
+ "id": 1199
+}

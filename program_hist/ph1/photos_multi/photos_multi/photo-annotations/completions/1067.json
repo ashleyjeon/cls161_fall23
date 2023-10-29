@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747540,
+   "id": 1067001,
+   "lead_time": 7.612,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ppQkN9zRsf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_gonzalo_ver01",
+  "box": [
+   0.23081949890637007,
+   0.07616819526314306,
+   0.6591830644451204,
+   0.31727817136027753
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_gonzalo_ver01\/data\/sn85047084\/00295876724\/1908072401\/0315\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_gonzalo_ver01%2Fdata%2Fsn85047084%2F00295876724%2F1908072401%2F0315.jp2\/pct:23.08,7.62,42.84,24.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "The",
+   "Passing",
+   "of",
+   "Kawaiahao",
+   "Seminary",
+   "I",
+   "MAIN",
+   "BUILDING",
+   "OF",
+   "KAWAIAHAO",
+   "SEMINARY,",
+   "BUILT",
+   "IN",
+   "1885,",
+   ".",
+   "AND",
+   "NOW",
+   "BEING",
+   "TORN",
+   "DOWN"
+  ],
+  "page_seq_num": 315,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_gonzalo_ver01\/data\/sn85047084\/00295876724\/1908072401\/0315.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1908-07-24",
+  "publisher": "[publisher not identified]",
+  "score": 0.9921167492866516,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_gonzalo_ver01\/data\/sn85047084\/00295876724\/1908072401\/0315\/001_0_99.jpg"
+ },
+ "id": 1067
+}

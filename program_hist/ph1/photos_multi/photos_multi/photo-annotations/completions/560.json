@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748131,
+   "id": 560001,
+   "lead_time": 19.763,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XjWI8UXg9l",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_frederick_ver03",
+  "box": [
+   0.26896344512436626,
+   0.2873413346771501,
+   0.40795179011703897,
+   0.45612151317107374
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_frederick_ver03\/data\/sn89060092\/00279521742\/1902070401\/0235\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Maryland--Frederick--Frederick"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_frederick_ver03%2Fdata%2Fsn89060092%2F00279521742%2F1902070401%2F0235.jp2\/pct:26.89,28.74,13.9,16.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn89060092",
+  "name": "The citizen.",
+  "ocr": [
+   "ADMIRA&",
+   "DEWEY."
+  ],
+  "page_seq_num": 235,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_frederick_ver03\/data\/sn89060092\/00279521742\/1902070401\/0235.jp2",
+  "place_of_publication": "Frederick City, Md.",
+  "pub_date": "1902-07-04",
+  "publisher": "Baughman Bros.",
+  "score": 0.9771614074707031,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_frederick_ver03\/data\/sn89060092\/00279521742\/1902070401\/0235\/000_0_97.jpg"
+ },
+ "id": 560
+}

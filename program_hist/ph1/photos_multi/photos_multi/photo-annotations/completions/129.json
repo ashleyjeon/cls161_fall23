@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766541,
+   "id": 129001,
+   "lead_time": 2.665,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3rHzDog9UT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_hairspray_ver01",
+  "box": [
+   0.47940490176480355,
+   0.12291600247003764,
+   0.6255168189405061,
+   0.29409939966942356
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1896010301\/0007\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Lincoln--Stanford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_hairspray_ver01%2Fdata%2Fsn85052020%2F00206534175%2F1896010301%2F0007.jp2\/pct:47.94,12.3,14.62,17.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052020",
+  "name": "Semi-weekly interior journal. [volume]",
+  "ocr": [
+   "i",
+   "I",
+   "L.",
+   "Kv",
+   "&",
+   "y4",
+   "NRt",
+   "r",
+   "MISS",
+   "MAS?",
+   "CLAY"
+  ],
+  "page_seq_num": 7,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1896010301\/0007.jp2",
+  "place_of_publication": "Stanford, Ky.",
+  "pub_date": "1896-01-03",
+  "publisher": "W.P. Walton",
+  "score": 0.9751853942871094,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1896010301\/0007\/000_0_97.jpg"
+ },
+ "id": 129
+}

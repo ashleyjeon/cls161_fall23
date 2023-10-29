@@ -1,0 +1,95 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751571,
+   "id": 1140001,
+   "lead_time": 3.066,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vpmMnqb61D",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_hamlet_ver01",
+  "box": [
+   0.05585622569741724,
+   0.7627094260122489,
+   0.9573925836989868,
+   0.9463788336926648
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_hamlet_ver01\/data\/sn85047084\/00295876761\/1909040801\/0486\/002_0_99.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_hamlet_ver01%2Fdata%2Fsn85047084%2F00295876761%2F1909040801%2F0486.jp2\/pct:5.58,76.28,90.16,18.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "mti'",
+   ".i-.\"vupnt",
+   "i",
+   "tf,",
+   "m",
+   "mwnym",
+   "PMyi)'\"",
+   ".",
+   "..",
+   ".n,,,,",
+   "L..;m.",
+   "..,Ji,.i",
+   "w",
+   "..",
+   ",",
+   ",",
+   "www",
+   "'",
+   "HALEIWA",
+   "HOTEL",
+   "WHERE",
+   "THE",
+   "VISITING",
+   "JAPANESE",
+   "SAILORS",
+   "WERE",
+   "ENTERTAINED",
+   "BY",
+   "THE",
+   "CHAMBER",
+   "OF",
+   "COMMERCE",
+   "s",
+   "YESTERDAY.",
+   "l",
+   "....)",
+   "Uli",
+   "r",
+   "V",
+   "'i",
+   "11\"",
+   "ii",
+   "nmr",
+   "-",
+   "-"
+  ],
+  "page_seq_num": 486,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_hamlet_ver01\/data\/sn85047084\/00295876761\/1909040801\/0486.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1909-04-08",
+  "publisher": "[publisher not identified]",
+  "score": 0.9904124140739441,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_hamlet_ver01\/data\/sn85047084\/00295876761\/1909040801\/0486\/002_0_99.jpg"
+ },
+ "id": 1140
+}

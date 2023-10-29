@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747014,
+   "id": 1339001,
+   "lead_time": 2.046,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0wofIQAWzP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_elm_ver01",
+  "box": [
+   0.6191654184153025,
+   0.08583284856252607,
+   0.9646254866554522,
+   0.3113869375223427
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_elm_ver01\/data\/sn88085187\/00211108320\/1912011501\/0333\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_elm_ver01%2Fdata%2Fsn88085187%2F00211108320%2F1912011501%2F0333.jp2\/pct:61.91,8.59,34.55,22.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "\"Fiddling",
+   "Bob\"",
+   "and",
+   "\"Bill\"",
+   "Bradley",
+   "Play",
+   "Southland",
+   "Tuneful",
+   "Melodies",
+   "in",
+   "Farewell",
+   "\"Concert\"",
+   "at",
+   "Capital",
+   "-",
+   "\u2022",
+   "*",
+   ":.t\\-&kto^THut\\*oaK2i*3^4^",
+   "-\\'",
+   "z^^y..^,..",
+   "..",
+   ".",
+   "-",
+   "-",
+   "SENATOR",
+   "AND",
+   "TENN."
+  ],
+  "page_seq_num": 333,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_elm_ver01\/data\/sn88085187\/00211108320\/1912011501\/0333.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1912-01-15",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9807172417640686,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_elm_ver01\/data\/sn88085187\/00211108320\/1912011501\/0333\/000_0_98.jpg"
+ },
+ "id": 1339
+}

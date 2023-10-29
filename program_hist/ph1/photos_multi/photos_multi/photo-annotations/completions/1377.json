@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751179,
+   "id": 1377001,
+   "lead_time": 1.933,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7b3t_IktoR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_gray_ver01",
+  "box": [
+   0.008234337070056072,
+   0.4477024875653135,
+   0.2907476112148694,
+   0.7297208240177854
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_gray_ver01\/data\/sn85038615\/00175031959\/1912112401\/1110\/005_0_90.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_gray_ver01%2Fdata%2Fsn85038615%2F00175031959%2F1912112401%2F1110.jp2\/pct:0.82,44.78,28.26,28.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038615",
+  "name": "The times dispatch. [volume]",
+  "ocr": [
+   "reo*",
+   "THE",
+   "Hl",
+   "Mr",
+   "AI.",
+   "CO-",
+   "BDY",
+   "SV'CCtB***.",
+   "\"MAOA9JK",
+   "SHEKBV,\"",
+   "!",
+   "I",
+   "I",
+   "t",
+   "1",
+   "I"
+  ],
+  "page_seq_num": 1110,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_gray_ver01\/data\/sn85038615\/00175031959\/1912112401\/1110.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1912-11-24",
+  "publisher": "Times-Dispatch Co.",
+  "score": 0.9037361145019531,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_gray_ver01\/data\/sn85038615\/00175031959\/1912112401\/1110\/005_0_90.jpg"
+ },
+ "id": 1377
+}

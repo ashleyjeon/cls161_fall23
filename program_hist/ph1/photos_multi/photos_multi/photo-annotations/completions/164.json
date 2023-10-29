@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757543,
+   "id": 164001,
+   "lead_time": 4.258,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YRcTbHNH9w",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_garfield_ver01",
+  "box": [
+   0.3575837255998751,
+   0.6292025267622853,
+   0.45903455042816366,
+   0.7475130736372853
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_garfield_ver01\/data\/sn89067274\/00294556977\/1897022501\/0456\/007_0_94.jpg",
+  "geographic_coverage": [
+   "Missouri--Audrain--Mexico"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_garfield_ver01%2Fdata%2Fsn89067274%2F00294556977%2F1897022501%2F0456.jp2\/pct:35.75,62.93,10.15,11.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn89067274",
+  "name": "Mexico weekly ledger.",
+  "ocr": [
+   "A",
+   "Public",
+   "Mexican",
+   "Porter.",
+   "in"
+  ],
+  "page_seq_num": 456,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_garfield_ver01\/data\/sn89067274\/00294556977\/1897022501\/0456.jp2",
+  "place_of_publication": "Mexico, Mo.",
+  "pub_date": "1897-02-25",
+  "publisher": "R.M. White",
+  "score": 0.9420721530914307,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_garfield_ver01\/data\/sn89067274\/00294556977\/1897022501\/0456\/007_0_94.jpg"
+ },
+ "id": 164
+}

@@ -1,0 +1,45 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769140,
+   "id": 983001,
+   "lead_time": 3.242,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_pomo_ver01",
+  "box": [
+   0.15952800144659024,
+   0.5124439404771772,
+   0.5651812687098423,
+   0.7762864548795314
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_pomo_ver01\/data\/sn85042462\/00175047438\/1907031701\/0272\/003_0_99.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_pomo_ver01%2Fdata%2Fsn85042462%2F00175047438%2F1907031701%2F0272.jp2\/pct:15.95,51.25,40.57,26.39\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "WONDERFUL",
+   "MACHINE",
+   "WBAPS",
+   "AND",
+   "PACKS",
+   "ORANGES"
+  ],
+  "page_seq_num": 272,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_pomo_ver01\/data\/sn85042462\/00175047438\/1907031701\/0272.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1907-03-17",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9957118034362793,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_pomo_ver01\/data\/sn85042462\/00175047438\/1907031701\/0272\/003_0_99.jpg"
+ },
+ "id": 983
+}

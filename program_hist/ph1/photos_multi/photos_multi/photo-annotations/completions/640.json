@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768233,
+   "id": 640001,
+   "lead_time": 2.368,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JLBjL0XLoZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_eight_ver01",
+  "box": [
+   0.533692390688004,
+   0.6830080606103912,
+   0.6675254499941843,
+   0.8289740833809706
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_eight_ver01\/data\/sn83045555\/00175049915\/1903042501\/1125\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_eight_ver01%2Fdata%2Fsn83045555%2F00175049915%2F1903042501%2F1125.jp2\/pct:53.36,68.31,13.39,14.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "I",
+   "ISON",
+   "CAPTAIN",
+   "RICHMOND",
+   "PEAR",
+   "PEARSON",
+   "PEARSON",
+   "\u00ac"
+  ],
+  "page_seq_num": 1125,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_eight_ver01\/data\/sn83045555\/00175049915\/1903042501\/1125.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1903-04-25",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9730253219604492,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_eight_ver01\/data\/sn83045555\/00175049915\/1903042501\/1125\/006_0_97.jpg"
+ },
+ "id": 640
+}

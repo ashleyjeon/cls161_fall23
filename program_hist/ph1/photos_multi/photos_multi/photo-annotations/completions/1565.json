@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754419,
+   "id": 1565001,
+   "lead_time": 4.764,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jpFqGR9Uzf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_janet_ver01",
+  "box": [
+   0.26694159347019836,
+   0.0573663567051743,
+   0.621007752150632,
+   0.3643142237807765
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_janet_ver01\/data\/sn83030193\/0028076601A\/1915071401\/0732\/004_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_janet_ver01%2Fdata%2Fsn83030193%2F0028076601A%2F1915071401%2F0732.jp2\/pct:26.69,5.74,35.41,30.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "Comely",
+   "Naiads",
+   "of",
+   "the",
+   "Ocean",
+   "Will",
+   "Disport",
+   "Themselves",
+   "at",
+   "a",
+   "Manhattan",
+   "Beach",
+   "Carnival.",
+   "V",
+   ".V",
+   ".VTBlt.Da.yi.",
+   "7",
+   ",",
+   ".",
+   "'",
+   "vr,e.TsTsTsTsTsTsTW",
+   ".",
+   ".",
+   "......tfV.-'U",
+   "\"",
+   "rT.",
+   "i4",
+   ".",
+   ".",
+   "'",
+   ",1-",
+   "at",
+   "7",
+   "'J",
+   "1",
+   "1",
+   "sm",
+   "Y",
+   "jSBBBBBBBBBBBBBBBBBBBBBBBBBW'",
+   ".",
+   "l"
+  ],
+  "page_seq_num": 732,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_janet_ver01\/data\/sn83030193\/0028076601A\/1915071401\/0732.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1915-07-14",
+  "publisher": "[publisher not identified]",
+  "score": 0.9841980338096619,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_janet_ver01\/data\/sn83030193\/0028076601A\/1915071401\/0732\/004_0_98.jpg"
+ },
+ "id": 1565
+}

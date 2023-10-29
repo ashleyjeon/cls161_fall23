@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766297,
+   "id": 1350001,
+   "lead_time": 15.413,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iFDB4i-Xkr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_flavet_ver01",
+  "box": [
+   0.3009776738337699,
+   0.058648133889222756,
+   0.4285320950840709,
+   0.30945751713771447
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_flavet_ver01\/data\/sn87062268\/00415662920\/1912111801\/0200\/008_0_99.jpg",
+  "geographic_coverage": [
+   "Florida--Escambia--Pensacola"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_flavet_ver01%2Fdata%2Fsn87062268%2F00415662920%2F1912111801%2F0200.jp2\/pct:30.09,5.87,12.76,25.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn87062268",
+  "name": "The Pensacola journal.",
+  "ocr": [
+   "MME.",
+   "BAKIIMETIEF1",
+   "PLEADS",
+   "FOR",
+   "NEEDY",
+   "ILl'.l",
+   "vV",
+   "i",
+   ".",
+   "-",
+   "1",
+   ".;-",
+   ".V-'h:",
+   "1",
+   "f",
+   ".,'",
+   "v..'",
+   "i:",
+   "h",
+   ".",
+   "-",
+   "!-",
+   "I",
+   "i",
+   "i",
+   "Mm",
+   "a.",
+   "Bakhamattait",
+   "(Miama",
+   "BkhrBt",
+   "tff",
+   "ta",
+   "tha",
+   "AmaH"
+  ],
+  "page_seq_num": 200,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_flavet_ver01\/data\/sn87062268\/00415662920\/1912111801\/0200.jp2",
+  "place_of_publication": "Pensacola, Fla.",
+  "pub_date": "1912-11-18",
+  "publisher": "Mayes & Co.",
+  "score": 0.9900243282318115,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_flavet_ver01\/data\/sn87062268\/00415662920\/1912111801\/0200\/008_0_99.jpg"
+ },
+ "id": 1350
+}

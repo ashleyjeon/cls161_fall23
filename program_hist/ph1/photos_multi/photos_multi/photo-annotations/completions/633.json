@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675005,
+   "id": 633001,
+   "lead_time": 1.857,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TQB4JqepVg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_hoosier_ver01",
+  "box": [
+   0.17563393313726225,
+   0.5560751130007804,
+   0.3066683815635174,
+   0.7019360529396462
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_hoosier_ver01\/data\/sn82015679\/0020219171A\/1903072601\/0249\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Indiana--Marion--Indianapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_hoosier_ver01%2Fdata%2Fsn82015679%2F0020219171A%2F1903072601%2F0249.jp2\/pct:17.56,55.61,13.11,14.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015679",
+  "name": "The Indianapolis journal. [volume]",
+  "ocr": [
+   "CAPT.",
+   "HARRY",
+   "GALLON.",
+   "jsj",
+   "SMwhv,",
+   ":is",
+   "RmBa?",
+   "r",
+   ".alaaL.",
+   "asBBs",
+   "bBBbBbI",
+   "fr-",
+   "Bf",
+   ":",
+   "\"",
+   "BSiSlk",
+   "'S",
+   "hhbbbbbbbbb"
+  ],
+  "page_seq_num": 249,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_hoosier_ver01\/data\/sn82015679\/0020219171A\/1903072601\/0249.jp2",
+  "place_of_publication": "Indianapolis [Ind.]",
+  "pub_date": "1903-07-26",
+  "publisher": "Douglass & Conner",
+  "score": 0.969952404499054,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_hoosier_ver01\/data\/sn82015679\/0020219171A\/1903072601\/0249\/003_0_96.jpg"
+ },
+ "id": 633
+}

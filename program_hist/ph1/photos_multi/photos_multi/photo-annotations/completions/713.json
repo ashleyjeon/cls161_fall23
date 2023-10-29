@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750623,
+   "id": 713001,
+   "lead_time": 1.913,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BbK-e40wv4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_jamaica_ver01",
+  "box": [
+   0.4978660215379612,
+   0.2852301698910855,
+   0.6563937819669465,
+   0.45575428074398133
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_jamaica_ver01\/data\/sn83030214\/00175042374\/1904100901\/0165\/007_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_jamaica_ver01%2Fdata%2Fsn83030214%2F00175042374%2F1904100901%2F0165.jp2\/pct:49.78,28.53,15.86,17.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "MATOR",
+   "WCLELT.AN",
+   "AND",
+   "COMMISSTON'ER",
+   "\\Vt",
+   "lODBURT."
+  ],
+  "page_seq_num": 165,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_jamaica_ver01\/data\/sn83030214\/00175042374\/1904100901\/0165.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1904-10-09",
+  "publisher": "New York Tribune",
+  "score": 0.9687145948410034,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_jamaica_ver01\/data\/sn83030214\/00175042374\/1904100901\/0165\/007_0_96.jpg"
+ },
+ "id": 713
+}

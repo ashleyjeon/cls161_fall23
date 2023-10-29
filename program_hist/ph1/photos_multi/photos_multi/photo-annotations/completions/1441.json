@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767580,
+   "id": 1441001,
+   "lead_time": 1.703,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yml7qII-XT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_elsie_ver01",
+  "box": [
+   0.6482136289352388,
+   0.06043893208341023,
+   0.7969208612955125,
+   0.30887109150723835
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_elsie_ver01\/data\/sn96076817\/00415669513\/1913102501\/0071\/009_0_91.jpg",
+  "geographic_coverage": [
+   "Michigan--Iron--Crystal Falls"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_elsie_ver01%2Fdata%2Fsn96076817%2F00415669513%2F1913102501%2F0071.jp2\/pct:64.82,6.05,14.88,24.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn96076817",
+  "name": "The diamond drill.",
+  "ocr": [
+   "Installed",
+   "Grand",
+   "Master",
+   "of",
+   "Mich",
+   "igan",
+   "Grand",
+   "Lodge,",
+   "I.",
+   "O.",
+   "O.",
+   "F.",
+   "A4",
+   "NEWSPAPER",
+   "MAN",
+   "IS",
+   "GRAND",
+   "MASTER",
+   "H.",
+   "A.",
+   "Thompson",
+   "Installed",
+   "Head"
+  ],
+  "page_seq_num": 71,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_elsie_ver01\/data\/sn96076817\/00415669513\/1913102501\/0071.jp2",
+  "place_of_publication": "Crystal Falls, Iron County, Mich.",
+  "pub_date": "1913-10-25",
+  "publisher": "C.M. Atkinson",
+  "score": 0.9195009469985962,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_elsie_ver01\/data\/sn96076817\/00415669513\/1913102501\/0071\/009_0_91.jpg"
+ },
+ "id": 1441
+}

@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768314,
+   "id": 1978001,
+   "lead_time": 3.039,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MQHu3Dct59",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_kloeden_ver01",
+  "box": [
+   0.4372016059027778,
+   0.1175129074904248,
+   0.6898724399717514,
+   0.2989566133546962
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_kloeden_ver01\/data\/sn85058393\/print\/1920090701\/0920\/001_0_95.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_kloeden_ver01%2Fdata%2Fsn85058393%2Fprint%2F1920090701%2F0920.jp2\/pct:43.72,11.76,25.27,18.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058393",
+  "name": "The Ogden standard-examiner. [volume]",
+  "ocr": [
+   "SUMMER",
+   "PEAK",
+   "OF",
+   "Iff",
+   "roOU",
+   "DHHA",
+   "CMTuTltlS",
+   "IN",
+   "US",
+   "tttM",
+   "BJtTMrd",
+   "Ml",
+   "-",
+   "MJCUff",
+   "!",
+   "!-'",
+   "1",
+   "I",
+   ")",
+   "!",
+   "'WA",
+   "Mi;",
+   "Si",
+   "j",
+   ".h",
+   ".&:''i-:v&j'",
+   "1",
+   "''Lmmii'lir:",
+   "ik'-.",
+   ".",
+   ".-..)",
+   "OF",
+   "OF",
+   "ACE"
+  ],
+  "page_seq_num": 920,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_kloeden_ver01\/data\/sn85058393\/print\/1920090701\/0920.jp2",
+  "place_of_publication": "Ogden, Utah",
+  "pub_date": "1920-09-07",
+  "publisher": "Standard-Examiner Pub. Co.",
+  "score": 0.9506033658981323,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_kloeden_ver01\/data\/sn85058393\/print\/1920090701\/0920\/001_0_95.jpg"
+ },
+ "id": 1978
+}

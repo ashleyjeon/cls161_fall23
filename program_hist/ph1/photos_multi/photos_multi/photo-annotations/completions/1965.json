@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675899,
+   "id": 1965001,
+   "lead_time": 2.09,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dvNnoTXGaH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_quarterman_ver03",
+  "box": [
+   0.039712430704233956,
+   0.08299944135877821,
+   0.2662577358347516,
+   0.3742654588487413
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_quarterman_ver03\/data\/sn83030431\/00212474502\/1920010401\/0151\/015_0_91.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_quarterman_ver03%2Fdata%2Fsn83030431%2F00212474502%2F1920010401%2F0151.jp2\/pct:3.97,8.3,22.66,29.13\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030431",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "mm",
+   "lii",
+   "n",
+   "it",
+   "Hi",
+   "BBfflBffl",
+   "LEO",
+   "DITBICHSTCIN",
+   "AND",
+   "BOOTS",
+   "WOOSTCR",
+   "\"",
+   "'",
+   "IN",
+   "\"THE",
+   "PURPLE",
+   "MASK"
+  ],
+  "page_seq_num": 151,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_quarterman_ver03\/data\/sn83030431\/00212474502\/1920010401\/0151.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1920-01-04",
+  "publisher": "Sun Print. and Pub. Co.",
+  "score": 0.917083740234375,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_quarterman_ver03\/data\/sn83030431\/00212474502\/1920010401\/0151\/015_0_91.jpg"
+ },
+ "id": 1965
+}

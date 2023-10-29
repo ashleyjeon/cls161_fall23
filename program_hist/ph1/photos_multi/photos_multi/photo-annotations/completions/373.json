@@ -1,0 +1,96 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675543,
+   "id": 373001,
+   "lead_time": 1.98,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rds5Mc8SO4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_eight_ver01",
+  "box": [
+   0.3705330310563896,
+   0.16687673045222245,
+   0.6153333078022876,
+   0.4461521712886313
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_eight_ver01\/data\/sn83045555\/00175049988\/1899122301\/0366\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_eight_ver01%2Fdata%2Fsn83045555%2F00175049988%2F1899122301%2F0366.jp2\/pct:37.05,16.69,24.49,27.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "SCEPTER",
+   "t",
+   "m",
+   "A",
+   "t",
+   "flf",
+   "t",
+   "<",
+   "Iir",
+   "ExSpeaker",
+   "Reed",
+   "Is",
+   "I",
+   "taking",
+   "takln",
+   "kindly",
+   "kind",
+   "to",
+   "the",
+   "comparative",
+   "quiet",
+   "of",
+   "private",
+   "life",
+   "lifeAs",
+   "litejs",
+   "lifea",
+   "As",
+   "js",
+   "a",
+   "new",
+   "York",
+   "ork",
+   "lawyer",
+   "he",
+   "Is",
+   "applying",
+   "himself",
+   "diligently",
+   "to",
+   "business",
+   "and",
+   "is",
+   "in",
+   "ingreat",
+   "InSfelt",
+   "Ingreat"
+  ],
+  "page_seq_num": 366,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_eight_ver01\/data\/sn83045555\/00175049988\/1899122301\/0366.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1899-12-23",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9747551083564758,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_eight_ver01\/data\/sn83045555\/00175049988\/1899122301\/0366\/000_0_97.jpg"
+ },
+ "id": 373
+}

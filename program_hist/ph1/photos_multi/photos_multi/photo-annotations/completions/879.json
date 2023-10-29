@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767812,
+   "id": 879001,
+   "lead_time": 3.316,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kTQ3WLYLli",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_chopin_ver01",
+  "box": [
+   0.021391478451815518,
+   0.6519505808154331,
+   0.3327165661436139,
+   0.8551820658913475
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_chopin_ver01\/data\/sn86071985\/00175032794\/1906030301\/0052\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Virginia--Williamsburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_chopin_ver01%2Fdata%2Fsn86071985%2F00175032794%2F1906030301%2F0052.jp2\/pct:2.13,65.2,31.14,20.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn86071985",
+  "name": "Virginia gazette. [volume]",
+  "ocr": [
+   ".-",
+   "_",
+   "J.",
+   "\"",
+   "rmt",
+   "i'",
+   "*",
+   "at",
+   "?xMta?t*m."
+  ],
+  "page_seq_num": 52,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_chopin_ver01\/data\/sn86071985\/00175032794\/1906030301\/0052.jp2",
+  "place_of_publication": "Williamsburg, Va.",
+  "pub_date": "1906-03-03",
+  "publisher": "Johnston & Mills",
+  "score": 0.9567997455596924,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_chopin_ver01\/data\/sn86071985\/00175032794\/1906030301\/0052\/004_0_95.jpg"
+ },
+ "id": 879
+}

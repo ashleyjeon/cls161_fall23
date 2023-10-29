@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749291,
+   "id": 1912001,
+   "lead_time": 2.076,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wx2JDfp5Om",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_pielou_ver01",
+  "box": [
+   0.048028804329284934,
+   0.07910671768257396,
+   0.2951699136125989,
+   0.2347736031274701
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_pielou_ver01\/data\/sn83030431\/00212474447\/1919072001\/0906\/004_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_pielou_ver01%2Fdata%2Fsn83030431%2F00212474447%2F1919072001%2F0906.jp2\/pct:4.8,7.92,24.72,15.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030431",
+  "name": "The sun. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 906,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_pielou_ver01\/data\/sn83030431\/00212474447\/1919072001\/0906.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1919-07-20",
+  "publisher": "Sun Print. and Pub. Co.",
+  "score": 0.9747592806816101,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_pielou_ver01\/data\/sn83030431\/00212474447\/1919072001\/0906\/004_0_97.jpg"
+ },
+ "id": 1912
+}

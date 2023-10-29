@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764089,
+   "id": 1062001,
+   "lead_time": 5.654,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VFlfkQ1P9-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_dragonfly_ver01",
+  "box": [
+   0.30912357295325044,
+   0.13542895550494427,
+   0.780258318699828,
+   0.3271411282199246
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_dragonfly_ver01\/data\/sn84024827\/00211107182\/1908080701\/0739\/012_0_96.jpg",
+  "geographic_coverage": [
+   "Arizona--Cochise--Bisbee"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_dragonfly_ver01%2Fdata%2Fsn84024827%2F00211107182%2F1908080701%2F0739.jp2\/pct:30.91,13.55,47.12,19.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024827",
+  "name": "Bisbee daily review. [volume]",
+  "ocr": [
+   "mmsmamm",
+   "WrjKjSgQBKBMM",
+   "''",
+   "LaW",
+   "iMti",
+   "2",
+   "o",
+   "2",
+   "t",
+   "s",
+   "mi"
+  ],
+  "page_seq_num": 739,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_dragonfly_ver01\/data\/sn84024827\/00211107182\/1908080701\/0739.jp2",
+  "place_of_publication": "Bisbee, Ariz.",
+  "pub_date": "1908-08-07",
+  "publisher": "W.B. Kelly",
+  "score": 0.9628498554229736,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_dragonfly_ver01\/data\/sn84024827\/00211107182\/1908080701\/0739\/012_0_96.jpg"
+ },
+ "id": 1062
+}

@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769042,
+   "id": 1745001,
+   "lead_time": 2.953,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "myuWG2ba0d",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_jarvey_ver01",
+  "box": [
+   0.6447151613907075,
+   0.5218252265240857,
+   0.9286604330573284,
+   0.6523441251392517
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_jarvey_ver01\/data\/sn85040705\/0041421485A\/1917102601\/0334\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Forest--Wabeno"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_jarvey_ver01%2Fdata%2Fsn85040705%2F0041421485A%2F1917102601%2F0334.jp2\/pct:64.47,52.19,28.4,13.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040705",
+  "name": "Northern Wisconsin advertiser. [volume]",
+  "ocr": [
+   "The",
+   "Rambla."
+  ],
+  "page_seq_num": 334,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_jarvey_ver01\/data\/sn85040705\/0041421485A\/1917102601\/0334.jp2",
+  "place_of_publication": "Wabeno, Wis.",
+  "pub_date": "1917-10-26",
+  "publisher": "C.G. Himley",
+  "score": 0.9845691323280334,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_jarvey_ver01\/data\/sn85040705\/0041421485A\/1917102601\/0334\/000_0_98.jpg"
+ },
+ "id": 1745
+}

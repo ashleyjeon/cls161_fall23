@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747031,
+   "id": 452001,
+   "lead_time": 3.397,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JL7P89cmsV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_jewelwing_ver01",
+  "box": [
+   0.050413899038029814,
+   0.3050425003985969,
+   0.48326149425287357,
+   0.506441440712027
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_jewelwing_ver01\/data\/sn85053057\/00295860297\/1900122101\/1043\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_jewelwing_ver01%2Fdata%2Fsn85053057%2F00295860297%2F1900122101%2F1043.jp2\/pct:5.04,30.51,43.29,20.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn85053057",
+  "name": "Daily inter mountain. [volume]",
+  "ocr": [
+   "Jr",
+   "\u25a0",
+   "CELL",
+   "HOUSE,",
+   "DETER",
+   "LODGKE",
+   "PENITENTIARY."
+  ],
+  "page_seq_num": 1043,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_jewelwing_ver01\/data\/sn85053057\/00295860297\/1900122101\/1043.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1900-12-21",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9825974106788635,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_jewelwing_ver01\/data\/sn85053057\/00295860297\/1900122101\/1043\/000_0_98.jpg"
+ },
+ "id": 452
+}

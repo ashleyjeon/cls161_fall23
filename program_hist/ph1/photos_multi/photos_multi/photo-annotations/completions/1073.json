@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765080,
+   "id": 1073001,
+   "lead_time": 1.623,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "AHpl0lnIfe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_edosian_ver01",
+  "box": [
+   0.45052639431423613,
+   0.05473675390686652,
+   0.7049490017361111,
+   0.3418114787400371
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_edosian_ver01\/data\/sn85042224\/0038334668A\/1908082501\/0767\/014_0_93.jpg",
+  "geographic_coverage": [
+   "North Dakota--Cass--Fargo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_edosian_ver01%2Fdata%2Fsn85042224%2F0038334668A%2F1908082501%2F0767.jp2\/pct:45.05,5.48,25.45,28.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042224",
+  "name": "The Fargo forum and daily republican. [volume]",
+  "ocr": [
+   "if\u00a7",
+   "wmmm",
+   "v^w",
+   "ARCHBISHOP",
+   "DIOMEDE",
+   "I",
+   "i",
+   "tr\"*",
+   "44,?",
+   "J\u2122",
+   "-A-",
+   "4'i",
+   "^1:\"^",
+   "T&s*",
+   "VJr",
+   "ARCHBISHOP",
+   "DIOMEDE",
+   "FALCONIO.",
+   "V.",
+   "!Pf",
+   "ikvf",
+   "3fL.v"
+  ],
+  "page_seq_num": 767,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_edosian_ver01\/data\/sn85042224\/0038334668A\/1908082501\/0767.jp2",
+  "place_of_publication": "Fargo, N.D.",
+  "pub_date": "1908-08-25",
+  "publisher": "A.W. Edwards & H.C. Plumley",
+  "score": 0.9365036487579346,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_edosian_ver01\/data\/sn85042224\/0038334668A\/1908082501\/0767\/014_0_93.jpg"
+ },
+ "id": 1073
+}

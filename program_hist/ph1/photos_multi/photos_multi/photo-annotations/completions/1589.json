@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748070,
+   "id": 1589001,
+   "lead_time": 3.128,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "y8Mt3fSXNV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_curtin_ver01",
+  "box": [
+   0.40832988206834336,
+   0.038516559550592626,
+   0.6711338485950322,
+   0.3053697380086013
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_curtin_ver01\/data\/sn83045211\/00237287538\/1915082501\/0071\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_curtin_ver01%2Fdata%2Fsn83045211%2F00237287538%2F1915082501%2F0071.jp2\/pct:40.83,3.86,26.29,26.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "l'hoto",
+   "by",
+   "Mnrctau.",
+   "MISS",
+   "BERENICE",
+   "McCANN",
+   "Daughter",
+   "of",
+   "Mrs.",
+   "Chloo",
+   "McCann,",
+   "of",
+   "4420",
+   "Spruce",
+   "Btrcet,",
+   "who",
+   "will"
+  ],
+  "page_seq_num": 71,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_curtin_ver01\/data\/sn83045211\/00237287538\/1915082501\/0071.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1915-08-25",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9821161031723022,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_curtin_ver01\/data\/sn83045211\/00237287538\/1915082501\/0071\/004_0_98.jpg"
+ },
+ "id": 1589
+}

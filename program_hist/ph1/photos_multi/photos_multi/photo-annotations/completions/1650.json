@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750942,
+   "id": 1650001,
+   "lead_time": 7.69,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LBljlkc6pB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_herringull_ver01",
+  "box": [
+   0.26655370825094565,
+   0.04881565283376274,
+   0.5471200641280519,
+   0.21418429435567654
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_herringull_ver01\/data\/sn85042399\/00200298664\/1916011001\/0476\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Oregon--Jackson--Ashland"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_herringull_ver01%2Fdata%2Fsn85042399%2F00200298664%2F1916011001%2F0476.jp2\/pct:26.65,4.89,28.06,16.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042399",
+  "name": "Ashland tidings. [volume]",
+  "ocr": [
+   "V.s.5-\"W\"n,i",
+   "'",
+   "\"\"-\"",
+   ";",
+   ",.",
+   "iA",
+   "U",
+   "John",
+   "Harrymnro",
+   "nt",
+   "tho",
+   "Yining",
+   "Tuesday",
+   "mid",
+   "Wednesday,",
+   "January",
+   "10-11"
+  ],
+  "page_seq_num": 476,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_herringull_ver01\/data\/sn85042399\/00200298664\/1916011001\/0476.jp2",
+  "place_of_publication": "Ashland, Or.",
+  "pub_date": "1916-01-10",
+  "publisher": "J.M. Sutton",
+  "score": 0.991087019443512,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_herringull_ver01\/data\/sn85042399\/00200298664\/1916011001\/0476\/001_0_99.jpg"
+ },
+ "id": 1650
+}

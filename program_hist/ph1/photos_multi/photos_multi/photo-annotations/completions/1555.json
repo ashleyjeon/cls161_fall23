@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763919,
+   "id": 1555001,
+   "lead_time": 1.877,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FGF59gNHl0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_indigo_ver01",
+  "box": [
+   0.31264064855742874,
+   0.12023291257348391,
+   0.43343677186129387,
+   0.27620834070014144
+  ],
+  "edition_seq_num": 2,
+  "filepath": "hihouml_indigo_ver01\/data\/sn82014682\/00212471070\/1915082402\/0375\/018_0_96.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_indigo_ver01%2Fdata%2Fsn82014682%2F00212471070%2F1915082402%2F0375.jp2\/pct:31.26,12.03,12.08,15.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014682",
+  "name": "Honolulu star-bulletin. [volume]",
+  "ocr": [
+   "M;.",
+   "C.",
+   "Pacheco"
+  ],
+  "page_seq_num": 375,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_indigo_ver01\/data\/sn82014682\/00212471070\/1915082402\/0375.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1915-08-24",
+  "publisher": "[P.T. Gialanella]",
+  "score": 0.9697365164756775,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_indigo_ver01\/data\/sn82014682\/00212471070\/1915082402\/0375\/018_0_96.jpg"
+ },
+ "id": 1555
+}

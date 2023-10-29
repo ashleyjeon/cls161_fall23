@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752014,
+   "id": 966001,
+   "lead_time": 2.982,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_middlebury_ver01",
+  "box": [
+   0.046646359171589644,
+   0.5267983753611489,
+   0.35280652060325146,
+   0.6577838039333361
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_middlebury_ver01\/data\/sn84022871\/00202196494\/1907032501\/0529\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Vermont--Orleans--Barton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196494%2F1907032501%2F0529.jp2\/pct:4.66,52.68,30.62,13.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022871",
+  "name": "Orleans County monitor. [volume]",
+  "ocr": [
+   "-",
+   "'f",
+   "\"",
+   ".,'",
+   "v",
+   ",",
+   "'\",----'-;-",
+   "v",
+   "-'",
+   "\"",
+   "Nothing",
+   "Left",
+   "f",
+   "cut",
+   "Death."
+  ],
+  "page_seq_num": 529,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_middlebury_ver01\/data\/sn84022871\/00202196494\/1907032501\/0529.jp2",
+  "place_of_publication": "Barton, Vt.",
+  "pub_date": "1907-03-25",
+  "publisher": "E.H. Webster",
+  "score": 0.9936617612838745,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_middlebury_ver01\/data\/sn84022871\/00202196494\/1907032501\/0529\/000_0_99.jpg"
+ },
+ "id": 966
+}

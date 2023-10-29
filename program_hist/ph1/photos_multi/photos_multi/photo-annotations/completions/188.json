@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675529,
+   "id": 188001,
+   "lead_time": 1.779,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2j1k9sIJnJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_dearfield_ver01",
+  "box": [
+   0.30649320814344616,
+   0.7763976710562988,
+   0.4343636406792535,
+   0.9438622175916248
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_dearfield_ver01\/data\/sn85067315\/00383341061\/1897102101\/0414\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Colorado--Fremont--Canon City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_dearfield_ver01%2Fdata%2Fsn85067315%2F00383341061%2F1897102101%2F0414.jp2\/pct:30.64,77.64,12.79,16.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn85067315",
+  "name": "Can\u0303on City record. [volume]",
+  "ocr": [
+   "E.",
+   "FOHD",
+   "JEWETT.",
+   "Tim",
+   "man",
+   "ileettued",
+   "to",
+   "be",
+   "chairmen",
+   "of",
+   "the",
+   "board",
+   "of",
+   "commlaiouere",
+   "in"
+  ],
+  "page_seq_num": 414,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_dearfield_ver01\/data\/sn85067315\/00383341061\/1897102101\/0414.jp2",
+  "place_of_publication": "Can\u0303on City, Colo.",
+  "pub_date": "1897-10-21",
+  "publisher": "W.B. Felton",
+  "score": 0.949670672416687,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_dearfield_ver01\/data\/sn85067315\/00383341061\/1897102101\/0414\/002_0_94.jpg"
+ },
+ "id": 188
+}

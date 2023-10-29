@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768542,
+   "id": 1652001,
+   "lead_time": 1.61,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pfJSOsspAF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_gruyere_ver01",
+  "box": [
+   0.4294106948315798,
+   0.4739295449006838,
+   0.5610814693585113,
+   0.6318990145195242
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_gruyere_ver01\/data\/sn86090528\/00295864540\/1916051601\/1010\/011_0_93.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Grady--Chickasha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_gruyere_ver01%2Fdata%2Fsn86090528%2F00295864540%2F1916051601%2F1010.jp2\/pct:42.94,47.4,13.17,15.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090528",
+  "name": "The Chickasha daily express.",
+  "ocr": [
+   "1",
+   "'W",
+   ")",
+   "fl",
+   "If",
+   "-J",
+   "Vf\"",
+   "r",
+   "f-r",
+   "I",
+   "'If",
+   "j"
+  ],
+  "page_seq_num": 1010,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_gruyere_ver01\/data\/sn86090528\/00295864540\/1916051601\/1010.jp2",
+  "place_of_publication": "Chickasha, Indian Territory [Okla.]",
+  "pub_date": "1916-05-16",
+  "publisher": "A.M. Dawson",
+  "score": 0.9302024841308594,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_gruyere_ver01\/data\/sn86090528\/00295864540\/1916051601\/1010\/011_0_93.jpg"
+ },
+ "id": 1652
+}

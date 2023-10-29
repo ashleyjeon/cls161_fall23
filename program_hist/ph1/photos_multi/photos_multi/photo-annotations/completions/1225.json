@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750587,
+   "id": 1225001,
+   "lead_time": 900.168,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-PsIpYvFEA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_martian_ver02",
+  "box": [
+   0.3697274344308036,
+   0.04521541560072182,
+   0.9813615128800676,
+   0.30101678455473097
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_martian_ver02\/data\/sn83045462\/00280656525\/1910082101\/0153\/005_0_90.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_martian_ver02%2Fdata%2Fsn83045462%2F00280656525%2F1910082101%2F0153.jp2\/pct:36.97,4.53,61.17,25.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "&BBXWG",
+   "TO",
+   "MPEA",
+   "HiUWNG",
+   "SlEER>",
+   "CofiyjgjttJprJZdfat",
+   "sat."
+  ],
+  "page_seq_num": 153,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_martian_ver02\/data\/sn83045462\/00280656525\/1910082101\/0153.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1910-08-21",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9045021533966064,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_martian_ver02\/data\/sn83045462\/00280656525\/1910082101\/0153\/005_0_90.jpg"
+ },
+ "id": 1225
+}

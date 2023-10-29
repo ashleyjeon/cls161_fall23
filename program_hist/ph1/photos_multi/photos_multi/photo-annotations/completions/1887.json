@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675650,
+   "id": 1887001,
+   "lead_time": 1.035,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qLf63sditC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_feature_ver01",
+  "box": [
+   0.28077657510946086,
+   0.31856842176408606,
+   0.3945892333984375,
+   0.5051655130462511
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_feature_ver01\/data\/sn92053934\/00295873346\/1919030401\/0036\/009_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_feature_ver01%2Fdata%2Fsn92053934%2F00295873346%2F1919030401%2F0036.jp2\/pct:28.07,31.86,11.39,18.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "POLITICAL",
+   "A",
+   "ITE",
+   "RTISING.",
+   "...",
+   "1",
+   "A",
+   "To",
+   "the",
+   "Voters",
+   "of",
+   "Rock",
+   "Island"
+  ],
+  "page_seq_num": 36,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_feature_ver01\/data\/sn92053934\/00295873346\/1919030401\/0036.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1919-03-04",
+  "publisher": "J.W. Potter",
+  "score": 0.96026211977005,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_feature_ver01\/data\/sn92053934\/00295873346\/1919030401\/0036\/009_0_96.jpg"
+ },
+ "id": 1887
+}

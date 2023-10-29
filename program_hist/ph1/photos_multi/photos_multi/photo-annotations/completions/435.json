@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746853,
+   "id": 435001,
+   "lead_time": 1.509,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Fnvx50BEs7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.1869060121251289,
+   0.07201986415411836,
+   0.8318520046832035,
+   0.2281655752530662
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040894\/1900072401\/0456\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040894%2F1900072401%2F0456.jp2\/pct:18.69,7.21,64.5,15.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "REV.",
+   "MA",
+   "UK",
+   "WILUAX&",
+   "AMERICANS",
+   "LAST",
+   "HEARD",
+   "OF",
+   "IN",
+   "PEKING.",
+   "...\"EV.",
+   "WILLIAM",
+   "8.",
+   "AMENT,",
+   "DR.",
+   "ROBERT",
+   "COt-TMAJf",
+   "AND",
+   "FAMII\/T.",
+   "REV.",
+   "E.",
+   "O.",
+   "TEWKPBURY.",
+   "RKV.",
+   "niAt'NCET",
+   "GOODRICH.",
+   "D.",
+   "D.",
+   "\"to"
+  ],
+  "page_seq_num": 456,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040894\/1900072401\/0456.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-07-24",
+  "publisher": "New York Tribune",
+  "score": 0.9799005389213562,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040894\/1900072401\/0456\/001_0_97.jpg"
+ },
+ "id": 435
+}

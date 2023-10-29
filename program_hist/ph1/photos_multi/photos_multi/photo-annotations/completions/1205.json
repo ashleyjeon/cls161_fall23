@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747523,
+   "id": 1205001,
+   "lead_time": 2.397,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wqx8fwxwUi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_igoo_ver01",
+  "box": [
+   0.2268519557693443,
+   0.1771942057723392,
+   0.5370945774337808,
+   0.35126042724393514
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_igoo_ver01\/data\/sn84024283\/00294556746\/1910121501\/0416\/004_0_96.jpg",
+  "geographic_coverage": [
+   "Missouri--Iron--Ironton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_igoo_ver01%2Fdata%2Fsn84024283%2F00294556746%2F1910121501%2F0416.jp2\/pct:22.68,17.72,31.03,17.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024283",
+  "name": "Iron County register. [volume]",
+  "ocr": [
+   "!",
+   "i",
+   "ow.",
+   "f'p",
+   "f,",
+   ".w",
+   ";",
+   "'",
+   "4",
+   "X",
+   "i",
+   "i'",
+   "I",
+   "'mMi"
+  ],
+  "page_seq_num": 416,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_igoo_ver01\/data\/sn84024283\/00294556746\/1910121501\/0416.jp2",
+  "place_of_publication": "Ironton, Iron County, Mo.",
+  "pub_date": "1910-12-15",
+  "publisher": "Essex & Winfield",
+  "score": 0.9672560095787048,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_igoo_ver01\/data\/sn84024283\/00294556746\/1910121501\/0416\/004_0_96.jpg"
+ },
+ "id": 1205
+}

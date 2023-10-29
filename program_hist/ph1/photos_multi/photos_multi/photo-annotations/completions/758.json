@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765105,
+   "id": 758001,
+   "lead_time": 2.451,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JX0xiakLIf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "prru_caracol_ver01",
+  "box": [
+   0.38587693551286534,
+   0.12190912053448513,
+   0.6597305221937189,
+   0.38445795250059
+  ],
+  "edition_seq_num": 1,
+  "filepath": "prru_caracol_ver01\/data\/sn90070270\/00271761818\/1904090201\/0373\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Puerto Rico--Caguas",
+   "Puerto Rico--Ponce",
+   "Puerto Rico--San Juan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/prru_caracol_ver01%2Fdata%2Fsn90070270%2F00271761818%2F1904090201%2F0373.jp2\/pct:38.58,12.2,27.39,26.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn90070270",
+  "name": "La democracia.",
+  "ocr": [
+   "X.",
+   "'y-,",
+   "w",
+   "V-",
+   "-ta.",
+   "5",
+   "-",
+   "-",
+   "Ai",
+   ":'",
+   "vi",
+   "-'",
+   "'",
+   "1.",
+   "tv",
+   "J",
+   "ir'\"'-",
+   "-",
+   "-",
+   "A",
+   "-1",
+   "3",
+   "-4",
+   "3",
+   "s,",
+   ".",
+   "-",
+   ".",
+   "rv",
+   "\".-'",
+   "'-",
+   ";",
+   "-",
+   ",",
+   "-v",
+   "i",
+   "V",
+   "Se\u00f1orita",
+   "Rosario",
+   "Bianchi",
+   "Rosaf\u00ed\u00e1.",
+   "F\u00edlayag\u00fcez"
+  ],
+  "page_seq_num": 373,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/prru_caracol_ver01\/data\/sn90070270\/00271761818\/1904090201\/0373.jp2",
+  "place_of_publication": "Ponce, P.R.",
+  "pub_date": "1904-09-02",
+  "publisher": "Imprenta El Vapor",
+  "score": 0.984279215335846,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/prru_caracol_ver01\/data\/sn90070270\/00271761818\/1904090201\/0373\/000_0_98.jpg"
+ },
+ "id": 758
+}

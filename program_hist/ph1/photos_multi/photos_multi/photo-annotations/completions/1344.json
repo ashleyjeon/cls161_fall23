@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766419,
+   "id": 1344001,
+   "lead_time": 3.469,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UhvJRRYH2k",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_denmark_ver01",
+  "box": [
+   0.3070129722677251,
+   0.05737730233944761,
+   0.5606468939012097,
+   0.26447677295205996
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_denmark_ver01\/data\/sn88084272\/0028076503A\/1912102601\/0255\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Texas--El Paso--El Paso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_denmark_ver01%2Fdata%2Fsn88084272%2F0028076503A%2F1912102601%2F0255.jp2\/pct:30.7,5.74,25.37,20.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn88084272",
+  "name": "El Paso herald.",
+  "ocr": [
+   "El",
+   "Paso's",
+   "Welcome",
+   "At",
+   "the",
+   "Tempe,",
+   "Ariz,,",
+   "Normal",
+   ".-.:\"."
+  ],
+  "page_seq_num": 255,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_denmark_ver01\/data\/sn88084272\/0028076503A\/1912102601\/0255.jp2",
+  "place_of_publication": "El Paso, Tex.",
+  "pub_date": "1912-10-26",
+  "publisher": "Herald News Co.",
+  "score": 0.9874568581581116,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_denmark_ver01\/data\/sn88084272\/0028076503A\/1912102601\/0255\/002_0_98.jpg"
+ },
+ "id": 1344
+}

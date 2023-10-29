@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767950,
+   "id": 635001,
+   "lead_time": 1.662,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "G8BARhhf0c",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_hayden_ver01",
+  "box": [
+   0.1770298417792263,
+   0.3388234553093939,
+   0.2994521727044898,
+   0.4851886086558719
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_hayden_ver01\/data\/sn84020274\/00294559656\/1903100901\/0176\/010_0_97.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_hayden_ver01%2Fdata%2Fsn84020274%2F00294559656%2F1903100901%2F0176.jp2\/pct:17.7,33.89,12.25,14.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "MorUla",
+   "Photograph.",
+   "captad;",
+   "perrt",
+   "bartholow.",
+   "his",
+   "home",
+   "in",
+   "Russell",
+   "avenue",
+   "SBBBBBBBBBBBBsaBV",
+   "tA",
+   "5",
+   "ssBBBBBBBBBsWrVB",
+   "sS.",
+   "f&'",
+   "'",
+   "sbbbbbbbbbbbsebiTLbbbsi",
+   "9.",
+   "F.",
+   "B",
+   "A"
+  ],
+  "page_seq_num": 176,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_hayden_ver01\/data\/sn84020274\/00294559656\/1903100901\/0176.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1903-10-09",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9721492528915405,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_hayden_ver01\/data\/sn84020274\/00294559656\/1903100901\/0176\/010_0_97.jpg"
+ },
+ "id": 635
+}

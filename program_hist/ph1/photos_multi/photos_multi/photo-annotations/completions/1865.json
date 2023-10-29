@@ -1,0 +1,156 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767739,
+   "id": 1865001,
+   "lead_time": 7.71,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6_JkiLpGFn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  },
+  {
+   "created_at": 1611767746,
+   "id": 1865002,
+   "lead_time": 4215.013,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CiolxLbfKt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_hatra_ver01",
+  "box": [
+   0.22412393761171473,
+   0.06882787607781898,
+   0.645378838468027,
+   0.2470362509450605
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_hatra_ver01\/data\/sn89055223\/00414211562\/1919082101\/0188\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Idaho--Twin Falls--Filer"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_hatra_ver01%2Fdata%2Fsn89055223%2F00414211562%2F1919082101%2F0188.jp2\/pct:22.41,6.89,42.13,17.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn89055223",
+  "name": "The Filer record.",
+  "ocr": [
+   "WONDERFUL",
+   "PEACE",
+   "PARADE",
+   "IN",
+   "LONDON",
+   "Ti",
+   "v*y*2",
+   "!",
+   "w",
+   "\u00e6*f*B*-.",
+   "mm",
+   "*",
+   "9%",
+   "...",
+   ",5fc",
+   "*",
+   "'f",
+   "yyiL",
+   "m\u00c6",
+   "wm\\",
+   "(<",
+   "m",
+   "*'",
+   "\\.4L",
+   "\u00fb",
+   "W:-y",
+   "fWf",
+   ",",
+   "*",
+   "*",
+   "\u00df",
+   ">",
+   ".A",
+   "C",
+   "Vli\u00c0",
+   "\u2022",
+   ">.",
+   "-'f\u00e4wStti",
+   "T3",
+   "s",
+   "6",
+   "hi",
+   "\u2022G",
+   "Sfnk'A",
+   "[tj",
+   "BF.*",
+   "K>",
+   "\u25a0",
+   "I",
+   "\u2022",
+   "K",
+   "A",
+   "W*",
+   "1*1",
+   "m",
+   "I",
+   "f\u00df",
+   "S",
+   "-,",
+   "1",
+   "i)",
+   "4*1",
+   "U",
+   "\u00ab",
+   "r",
+   "t.K",
+   "v.",
+   "\u2022r",
+   "Ki",
+   "r\u00bb;",
+   "I",
+   "j",
+   "v",
+   "\\JA",
+   "llallb-",
+   "Hugs",
+   "of",
+   "llrillsh",
+   "regiments",
+   "being",
+   "carried",
+   "In",
+   "Lind",
+   "u",
+   "~",
+   "greal",
+   "peace"
+  ],
+  "page_seq_num": 188,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_hatra_ver01\/data\/sn89055223\/00414211562\/1919082101\/0188.jp2",
+  "place_of_publication": "Filer, Idaho",
+  "pub_date": "1919-08-21",
+  "publisher": "W.M. Zentz",
+  "score": 0.9826186895370483,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_hatra_ver01\/data\/sn89055223\/00414211562\/1919082101\/0188\/004_0_98.jpg"
+ },
+ "id": 1865
+}

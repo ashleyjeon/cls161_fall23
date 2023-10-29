@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757219,
+   "id": 780001,
+   "lead_time": 5.179,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4lXmTzRunb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_kenya_ver01",
+  "box": [
+   0.3455039727296068,
+   0.786626415616485,
+   0.6582568244754988,
+   0.9933874145840429
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_kenya_ver01\/data\/sn83030214\/00175041291\/1905070901\/0216\/006_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_kenya_ver01%2Fdata%2Fsn83030214%2F00175041291%2F1905070901%2F0216.jp2\/pct:34.55,78.67,31.28,20.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   ".It*-.",
+   "_",
+   "?THE",
+   "FALL",
+   "OF",
+   "PORT",
+   "ARTHUR,\"",
+   "AT",
+   "LUNA",
+   "PARK."
+  ],
+  "page_seq_num": 216,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_kenya_ver01\/data\/sn83030214\/00175041291\/1905070901\/0216.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1905-07-09",
+  "publisher": "New York Tribune",
+  "score": 0.9755486249923706,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_kenya_ver01\/data\/sn83030214\/00175041291\/1905070901\/0216\/006_0_97.jpg"
+ },
+ "id": 780
+}

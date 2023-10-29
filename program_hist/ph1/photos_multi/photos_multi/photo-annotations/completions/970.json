@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748429,
+   "id": 970001,
+   "lead_time": 2.27,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tKDnUcJ_yF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_pomo_ver01",
+  "box": [
+   0.01809523655818059,
+   0.22333494219138156,
+   0.41980666380662185,
+   0.4312393753616898
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_pomo_ver01\/data\/sn85042462\/00175047475\/1907102901\/0976\/007_0_96.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_pomo_ver01%2Fdata%2Fsn85042462%2F00175047475%2F1907102901%2F0976.jp2\/pct:1.8,22.34,40.18,20.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "MIBB",
+   "HELEN",
+   "MATHEWSON",
+   "BURR",
+   "L.",
+   "HARRIS"
+  ],
+  "page_seq_num": 976,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_pomo_ver01\/data\/sn85042462\/00175047475\/1907102901\/0976.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1907-10-29",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9656134843826294,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_pomo_ver01\/data\/sn85042462\/00175047475\/1907102901\/0976\/007_0_96.jpg"
+ },
+ "id": 970
+}

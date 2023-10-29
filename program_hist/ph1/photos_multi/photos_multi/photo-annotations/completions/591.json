@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768665,
+   "id": 591001,
+   "lead_time": 2.207,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jSYeYim9MM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_japanesechin_ver01",
+  "box": [
+   0.7026825765408218,
+   0.6389616480413473,
+   0.9702356882003735,
+   0.978442114104265
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_japanesechin_ver01\/data\/sn83045462\/00280655454\/1902012501\/0502\/009_0_91.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_japanesechin_ver01%2Fdata%2Fsn83045462%2F00280655454%2F1902012501%2F0502.jp2\/pct:70.26,63.9,26.76,33.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "--",
+   "4,eed..ab",
+   "estesammennesar",
+   "..",
+   "-",
+   "4s.",
+   "g.",
+   "C",
+   ".",
+   "eam,",
+   "10sF",
+   "t.",
+   "-"
+  ],
+  "page_seq_num": 502,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_japanesechin_ver01\/data\/sn83045462\/00280655454\/1902012501\/0502.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1902-01-25",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9146233797073364,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_japanesechin_ver01\/data\/sn83045462\/00280655454\/1902012501\/0502\/009_0_91.jpg"
+ },
+ "id": 591
+}

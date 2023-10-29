@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747266,
+   "id": 561001,
+   "lead_time": 1.759,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ns51YwLv3g",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_orr_ver01",
+  "box": [
+   0.7752497209821428,
+   0.1393196358722638,
+   0.9186943126860119,
+   0.29152146572192994
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_orr_ver01\/data\/sn90059228\/00280766495\/1902060501\/0191\/000_0_91.jpg",
+  "geographic_coverage": [
+   "Minnesota--Marshall--Warren"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_orr_ver01%2Fdata%2Fsn90059228%2F00280766495%2F1902060501%2F0191.jp2\/pct:77.52,13.94,14.35,15.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059228",
+  "name": "Warren sheaf. [volume]",
+  "ocr": [
+   "'-v-",
+   "z&",
+   "Prof.",
+   "William",
+   "Angus\/\"****",
+   "Superintendent",
+   "of",
+   "Warren",
+   "State",
+   "High",
+   "School."
+  ],
+  "page_seq_num": 191,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_orr_ver01\/data\/sn90059228\/00280766495\/1902060501\/0191.jp2",
+  "place_of_publication": "Warren, Marshall County, Minn.",
+  "pub_date": "1902-06-05",
+  "publisher": "A. Dewey",
+  "score": 0.9149952530860901,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_orr_ver01\/data\/sn90059228\/00280766495\/1902060501\/0191\/000_0_91.jpg"
+ },
+ "id": 561
+}

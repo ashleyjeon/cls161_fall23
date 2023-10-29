@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746941,
+   "id": 1282001,
+   "lead_time": 37.766,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CHk0CsxXrW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_drake_ver01",
+  "box": [
+   0.7014651530899731,
+   0.06345070482532947,
+   0.8310078105963694,
+   0.2348012543851551
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_drake_ver01\/data\/sn85042242\/00212478489\/1911110701\/0862\/005_0_95.jpg",
+  "geographic_coverage": [
+   "North Dakota--Burleigh--Bismarck"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_drake_ver01%2Fdata%2Fsn85042242%2F00212478489%2F1911110701%2F0862.jp2\/pct:70.14,6.35,12.96,17.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042242",
+  "name": "Bismarck daily tribune. [volume]",
+  "ocr": [
+   "Pli.-t-",
+   "Hs.r'-\/",
+   "Bulger",
+   "Szzrrir.q",
+   "in",
+   "the",
+   "ring",
+   "Prmeets'*",
+   "V\u00ab'r.-'c.-.",
+   "W",
+   "ll",
+   "Appear",
+   "\"st",
+   "tree",
+   "Bsjou.",
+   "Tr.--ir&:3\/",
+   "No-"
+  ],
+  "page_seq_num": 862,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_drake_ver01\/data\/sn85042242\/00212478489\/1911110701\/0862.jp2",
+  "place_of_publication": "Bismarck, Dakota [N.D.]",
+  "pub_date": "1911-11-07",
+  "publisher": "Lounsberry & Jewell",
+  "score": 0.9566161036491394,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_drake_ver01\/data\/sn85042242\/00212478489\/1911110701\/0862\/005_0_95.jpg"
+ },
+ "id": 1282
+}

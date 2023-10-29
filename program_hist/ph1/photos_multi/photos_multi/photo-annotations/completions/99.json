@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766456,
+   "id": 99001,
+   "lead_time": 4.71,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ScD83BeZB4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_infiniti_ver03",
+  "box": [
+   0.46353728263608873,
+   0.3717120361328125,
+   0.8632282478578629,
+   0.5609578635475853
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896031001\/0285\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Texas--Brazos--Bryan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_infiniti_ver03%2Fdata%2Fsn88083938%2F00200294269%2F1896031001%2F0285.jp2\/pct:46.35,37.18,39.97,18.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn88083938",
+  "name": "The Bryan daily eagle.",
+  "ocr": [
+   "arcr-",
+   "1",
+   "-'.",
+   "f",
+   "V),",
+   "mm-:-",
+   "ii-",
+   "r",
+   ".",
+   "i",
+   ":",
+   ".;",
+   "i",
+   ".",
+   ".",
+   "'",
+   "-",
+   "f",
+   ".",
+   "'",
+   "-",
+   "t",
+   "-i.",
+   "H-i",
+   "1",
+   "a",
+   "at",
+   "it-j",
+   "as",
+   "...",
+   "c",
+   "nti",
+   "....",
+   "i",
+   "mi",
+   "l",
+   "t",
+   "wu-",
+   "AYRSHIUE",
+   "COWS."
+  ],
+  "page_seq_num": 285,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896031001\/0285.jp2",
+  "place_of_publication": "Bryan, Tex.",
+  "pub_date": "1896-03-10",
+  "publisher": "Connelly, Palmer & Carnes",
+  "score": 0.9875955581665039,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896031001\/0285\/000_0_98.jpg"
+ },
+ "id": 99
+}

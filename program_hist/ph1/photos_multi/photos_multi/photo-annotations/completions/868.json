@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769080,
+   "id": 868001,
+   "lead_time": 2.47,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "m-GXkfSV2C",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_canada_ver01",
+  "box": [
+   0.33667929206095953,
+   0.36403058222802503,
+   0.647530282607101,
+   0.598798966066946
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_canada_ver01\/data\/sn83030214\/0017504145A\/1906070801\/0194\/002_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_canada_ver01%2Fdata%2Fsn83030214%2F0017504145A%2F1906070801%2F0194.jp2\/pct:33.66,36.41,31.09,23.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "THE",
+   "FINDING",
+   "OF",
+   "GOLD",
+   "IN",
+   "THE",
+   "DAYS",
+   "OF",
+   "'49.",
+   "Scene",
+   "from",
+   "\"San",
+   "Francisco,\"",
+   "at",
+   "Dreamland,",
+   "Coney",
+   "Island."
+  ],
+  "page_seq_num": 194,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_canada_ver01\/data\/sn83030214\/0017504145A\/1906070801\/0194.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1906-07-08",
+  "publisher": "New York Tribune",
+  "score": 0.9813743233680725,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_canada_ver01\/data\/sn83030214\/0017504145A\/1906070801\/0194\/002_0_98.jpg"
+ },
+ "id": 868
+}

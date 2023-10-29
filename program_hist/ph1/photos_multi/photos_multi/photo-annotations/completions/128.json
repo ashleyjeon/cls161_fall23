@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675036,
+   "id": 128001,
+   "lead_time": 3.08,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eyaKcDs3tF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_eeyore_ver01",
+  "box": [
+   0.3660171712239583,
+   0.18767923639845507,
+   0.46663270399305556,
+   0.3113109591484785
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_eeyore_ver01\/data\/sn93060416\/00294556436\/1896040401\/0059\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Missouri--Lafayette--Lexington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_eeyore_ver01%2Fdata%2Fsn93060416%2F00294556436%2F1896040401%2F0059.jp2\/pct:36.6,18.77,10.07,12.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn93060416",
+  "name": "The weekly intelligencer. [volume]",
+  "ocr": [
+   "!-",
+   "f",
+   "\"",
+   ".",
+   "'",
+   "'",
+   "\"",
+   "'",
+   "\"",
+   ".",
+   "\"s",
+   "'",
+   "MRS.",
+   "NANCY",
+   "COOPER."
+  ],
+  "page_seq_num": 59,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_eeyore_ver01\/data\/sn93060416\/00294556436\/1896040401\/0059.jp2",
+  "place_of_publication": "Lexington, Mo.",
+  "pub_date": "1896-04-04",
+  "publisher": "James E. Payne",
+  "score": 0.9802271127700806,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_eeyore_ver01\/data\/sn93060416\/00294556436\/1896040401\/0059\/003_0_98.jpg"
+ },
+ "id": 128
+}

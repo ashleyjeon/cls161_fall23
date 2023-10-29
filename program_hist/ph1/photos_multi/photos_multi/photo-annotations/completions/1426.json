@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768587,
+   "id": 1426001,
+   "lead_time": 1.129,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "C3NBro9Dqx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_continental_ver02",
+  "box": [
+   0.7356915184360767,
+   0.34617394168360704,
+   0.8469378513845838,
+   0.5701571094746493
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_continental_ver02\/data\/sn84026749\/00294557763\/1913032901\/0089\/007_0_90.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_continental_ver02%2Fdata%2Fsn84026749%2F00294557763%2F1913032901%2F0089.jp2\/pct:73.56,34.62,11.13,22.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "HATTIE",
+   "WILLIAMS.",
+   "r",
+   "i",
+   "JsHlw",
+   "SBSSSSSSSSSSVI''",
+   "'BSSSSSSSSSSSSS'",
+   "SL",
+   "sssssssssssB",
+   "-Z?",
+   ",",
+   "IsssssssssssUt",
+   "M",
+   "LssssssKL-likitoLsssssssV",
+   "T",
+   "I",
+   "sTC)'I.M1bsmsib",
+   "\"sr",
+   "'J",
+   "a",
+   "'",
+   "1",
+   "mMiUiinmM'",
+   "'kI",
+   "IssssssWI",
+   "tfftf",
+   "IP",
+   "IssssssissssW",
+   ".",
+   "fJ",
+   "iHHIEf4XtiiilHHilVv",
+   "z",
+   "r-",
+   "fBSSSSSSSSSSSSTl",
+   "W",
+   "fBSK2j&OL4&d",
+   ",",
+   "1",
+   "!LsssssssHbi",
+   "ssssfl9Cr;'1ssV",
+   "'",
+   "sr",
+   "x",
+   "\"5-?"
+  ],
+  "page_seq_num": 89,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_continental_ver02\/data\/sn84026749\/00294557763\/1913032901\/0089.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1913-03-29",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9051119089126587,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_continental_ver02\/data\/sn84026749\/00294557763\/1913032901\/0089\/007_0_90.jpg"
+ },
+ "id": 1426
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675603,
+   "id": 558001,
+   "lead_time": 1.592,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HRRdkFKNqH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_hayden_ver01",
+  "box": [
+   0.17630458343572059,
+   0.09357636443171544,
+   0.2992912176632829,
+   0.2352175786423314
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_hayden_ver01\/data\/sn84020274\/0029455953A\/1902101801\/0353\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_hayden_ver01%2Fdata%2Fsn84020274%2F0029455953A%2F1902101801%2F0353.jp2\/pct:17.63,9.36,12.3,14.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "THE",
+   "REVEREND",
+   "C",
+   "H",
+   "ABELS",
+   "i",
+   "ii",
+   "hi",
+   "mi",
+   "man",
+   "!",
+   "i"
+  ],
+  "page_seq_num": 353,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_hayden_ver01\/data\/sn84020274\/0029455953A\/1902101801\/0353.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1902-10-18",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9756433367729187,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_hayden_ver01\/data\/sn84020274\/0029455953A\/1902101801\/0353\/000_0_97.jpg"
+ },
+ "id": 558
+}

@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767020,
+   "id": 301001,
+   "lead_time": 1.817,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xGVkC9yt3R",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.17823037234219638,
+   0.3115175768578341,
+   0.5553203929554332,
+   0.6906316420611214
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555717\/1898072301\/1324\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555717%2F1898072301%2F1324.jp2\/pct:17.82,31.16,37.71,37.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "Jf'JJUVKmz!t'jFE&i!",
+   "HON.",
+   "H.",
+   "H.",
+   "KOHLSAAT,"
+  ],
+  "page_seq_num": 1324,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1898072301\/1324.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1898-07-23",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9528731107711792,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1898072301\/1324\/002_0_95.jpg"
+ },
+ "id": 301
+}

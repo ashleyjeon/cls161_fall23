@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748138,
+   "id": 852001,
+   "lead_time": 6.479,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zZ_6hvsn1-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_ironweed_ver01",
+  "box": [
+   0.08498692566331299,
+   0.27142867849492747,
+   0.4575960663048462,
+   0.4395575366970669
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_ironweed_ver01\/data\/sn84020615\/00280774194\/1906080201\/0226\/008_0_98.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_ironweed_ver01%2Fdata%2Fsn84020615%2F00280774194%2F1906080201%2F0226.jp2\/pct:8.49,27.15,37.27,16.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020615",
+  "name": "Albuquerque evening citizen. [volume]",
+  "ocr": [
+   "\"",
+   "!",
+   "v",
+   "-",
+   "A",
+   "hh&h:jh",
+   ":",
+   "1",
+   "f\"",
+   ":",
+   ";r",
+   "ute&Zt",
+   "rr&iL"
+  ],
+  "page_seq_num": 226,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_ironweed_ver01\/data\/sn84020615\/00280774194\/1906080201\/0226.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1906-08-02",
+  "publisher": "Citizen Pub. Co.",
+  "score": 0.9817562103271484,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_ironweed_ver01\/data\/sn84020615\/00280774194\/1906080201\/0226\/008_0_98.jpg"
+ },
+ "id": 852
+}

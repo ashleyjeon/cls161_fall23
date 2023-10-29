@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767880,
+   "id": 293001,
+   "lead_time": 4.28,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "M9kaGXTUvt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_hoquiam_ver01",
+  "box": [
+   0.1688772481638235,
+   0.25337335337763245,
+   0.5887118252840909,
+   0.5929330742877462
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_hoquiam_ver01\/data\/sn83045604\/00202199598\/1898090801\/0275\/004_0_96.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_hoquiam_ver01%2Fdata%2Fsn83045604%2F00202199598%2F1898090801%2F0275.jp2\/pct:16.88,25.34,41.99,33.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+   "MEMBERS",
+   "OF",
+   "THE",
+   "JOl*T",
+   "BPITISH-AMEWCA'*",
+   "COHWISSW**",
+   ".*",
+   "jr.",
+   "*",
+   "&r\"",
+   ":.*",
+   "\u2022*~\u00abt",
+   "\"v-",
+   "\u2022",
+   "\u00ab.",
+   "-**",
+   "7*",
+   "\"",
+   "\u25a0*:.-*",
+   "-**4",
+   "\"",
+   ".",
+   "<\u2022\u2022",
+   ";as",
+   ".\u2022Jt",
+   ",",
+   "\u2014.",
+   "-",
+   "\u2022",
+   "'",
+   ".",
+   "iv\".",
+   "?-*",
+   "-"
+  ],
+  "page_seq_num": 275,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_hoquiam_ver01\/data\/sn83045604\/00202199598\/1898090801\/0275.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1898-09-08",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.9658989310264587,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_hoquiam_ver01\/data\/sn83045604\/00202199598\/1898090801\/0275\/004_0_96.jpg"
+ },
+ "id": 293
+}

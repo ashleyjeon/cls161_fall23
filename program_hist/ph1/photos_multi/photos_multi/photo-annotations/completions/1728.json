@@ -1,0 +1,99 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766366,
+   "id": 1728001,
+   "lead_time": 2.359,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0iF6yd2Of6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_applejack_ver01",
+  "box": [
+   0.3696957171115729,
+   0.5124514660203313,
+   0.5207279917529172,
+   0.7533430597389559
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_applejack_ver01\/data\/sn83016943\/00295877807\/1917083101\/0995\/002_0_93.jpg",
+  "geographic_coverage": [
+   "Mississippi--Noxubee--Macon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877807%2F1917083101%2F0995.jp2\/pct:36.96,51.25,15.11,24.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016943",
+  "name": "Macon beacon. [volume]",
+  "ocr": [
+   "UNIVERSITY",
+   "DEAN",
+   "OF",
+   "WOMEN",
+   "lr.",
+   "Ai:miiio",
+   "I'.",
+   "Miinn",
+   "Hoiht.",
+   "dnuuli",
+   "li",
+   "r",
+   "of",
+   "Ir.",
+   ".lolni",
+   "1.",
+   "Miinn,",
+   "iircsldont",
+   "of",
+   "llio",
+   "Fulled",
+   "Stall's",
+   "Insuiancc",
+   "coinpatiy,",
+   "has",
+   "Ihmmi",
+   "apiiotntod",
+   "tirst",
+   "donn",
+   "of",
+   "wom",
+   "en",
+   "of",
+   "Now",
+   "York",
+   "university.",
+   "Doctor",
+   "Koeht",
+   "is",
+   "n",
+   "tn-mluato",
+   "of",
+   "llryn",
+   "Mawr,",
+   "11,",
+   "mid",
+   "of",
+   "John",
+   "Hopkins,",
+   "1013."
+  ],
+  "page_seq_num": 995,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_applejack_ver01\/data\/sn83016943\/00295877807\/1917083101\/0995.jp2",
+  "place_of_publication": "Macon, Miss.",
+  "pub_date": "1917-08-31",
+  "publisher": "Henry C. Ferris",
+  "score": 0.9350376725196838,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_applejack_ver01\/data\/sn83016943\/00295877807\/1917083101\/0995\/002_0_93.jpg"
+ },
+ "id": 1728
+}

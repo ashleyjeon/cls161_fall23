@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749509,
+   "id": 356001,
+   "lead_time": 1.731,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "z6cxUzMBle",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.48407296122119414,
+   0.39214249803546275,
+   0.7295238985029678,
+   0.6468310220810726
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555729\/1899093001\/0605\/005_0_94.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555729%2F1899093001%2F0605.jp2\/pct:48.4,39.22,24.55,25.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "Hr-",
+   "''",
+   "''11",
+   "MR.",
+   "ADAM",
+   "ORTSEIFEN.",
+   "Vlco",
+   "President",
+   "Mcvoy",
+   "Brewing",
+   "Co."
+  ],
+  "page_seq_num": 605,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555729\/1899093001\/0605.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1899-09-30",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9497959017753601,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555729\/1899093001\/0605\/005_0_94.jpg"
+ },
+ "id": 356
+}

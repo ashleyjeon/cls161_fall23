@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741381,
+   "id": 1925001,
+   "lead_time": 92.107,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ro7EJ9Ed6m",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_holuba_ver02",
+  "box": [
+   0.7642607307230523,
+   0.6109738107454978,
+   0.9904137675510272,
+   0.9397417488744704
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_holuba_ver02\/data\/sn83045211\/00237280209\/1920022401\/0045\/001_0_94.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_holuba_ver02%2Fdata%2Fsn83045211%2F00237280209%2F1920022401%2F0045.jp2\/pct:76.42,61.1,22.62,32.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "MISS",
+   "FRANC",
+   "FS",
+   "PAtlT.'M",
+   "mi",
+   "..ti,",
+   "PnMiill",
+   "street",
+   "Phil\"-",
+   ",",
+   ",",
+   ",",
+   ",",
+   "1,AL",
+   ".",
+   "'",
+   ",",
+   "Fnirlilll",
+   "Street,",
+   "tmi",
+   "l",
+   "holographs",
+   "for",
+   "thin",
+   "back.pugo",
+   "feature",
+   "should",
+   "be",
+   "n\"0'\",2",
+   "through",
+   "the",
+   "mail,",
+   "addreaxed",
+   "to",
+   "the",
+   "Ucauty",
+   "Corner,",
+   "MKNIHO"
+  ],
+  "page_seq_num": 45,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_holuba_ver02\/data\/sn83045211\/00237280209\/1920022401\/0045.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1920-02-24",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9499762058258057,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_holuba_ver02\/data\/sn83045211\/00237280209\/1920022401\/0045\/001_0_94.jpg"
+ },
+ "id": 1925
+}

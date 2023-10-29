@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768820,
+   "id": 399001,
+   "lead_time": 1.797,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Etn3Qrf8-q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_fleetwoodmac_ver01",
+  "box": [
+   0.3609627151489258,
+   0.6732223483830743,
+   0.496629524230957,
+   0.7825792638923336
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_fleetwoodmac_ver01\/data\/sn85052076\/00175046306\/1900060601\/0095\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Berea"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_fleetwoodmac_ver01%2Fdata%2Fsn85052076%2F00175046306%2F1900060601%2F0095.jp2\/pct:36.09,67.33,13.57,10.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052076",
+  "name": "The citizen. [volume]",
+  "ocr": [
+   "A",
+   "ROBINSON",
+   "JI",
+   "IH",
+   "Aa",
+   "OMCUH"
+  ],
+  "page_seq_num": 95,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_fleetwoodmac_ver01\/data\/sn85052076\/00175046306\/1900060601\/0095.jp2",
+  "place_of_publication": "Berea, Ky.",
+  "pub_date": "1900-06-06",
+  "publisher": "T.G. Pasco",
+  "score": 0.9745045304298401,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_fleetwoodmac_ver01\/data\/sn85052076\/00175046306\/1900060601\/0095\/002_0_97.jpg"
+ },
+ "id": 399
+}

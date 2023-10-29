@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751092,
+   "id": 1446001,
+   "lead_time": 1.675,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cx7_GkHI72",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_imp_ver01",
+  "box": [
+   0.17593790519567268,
+   0.31835636476270196,
+   0.3297236811085499,
+   0.5215588697230195
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_imp_ver01\/data\/sn86086586\/00414214563\/1913070401\/0299\/013_0_95.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Rock--Edgerton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_imp_ver01%2Fdata%2Fsn86086586%2F00414214563%2F1913070401%2F0299.jp2\/pct:17.59,31.84,15.38,20.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086586",
+  "name": "The Wisconsin tobacco reporter.",
+  "ocr": [
+   "the",
+   "approval",
+   "of",
+   "President",
+   "Wilson,",
+   "Sec",
+   "j",
+   "|1",
+   "jp",
+   "jftr",
+   "1",
+   "y",
+   "4^",
+   "LOUIS",
+   "BkANDEIS."
+  ],
+  "page_seq_num": 299,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_imp_ver01\/data\/sn86086586\/00414214563\/1913070401\/0299.jp2",
+  "place_of_publication": "Edgerton, Wis.",
+  "pub_date": "1913-07-04",
+  "publisher": "W.F. Tousley",
+  "score": 0.957523763179779,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_imp_ver01\/data\/sn86086586\/00414214563\/1913070401\/0299\/013_0_95.jpg"
+ },
+ "id": 1446
+}

@@ -1,0 +1,80 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767940,
+   "id": 330001,
+   "lead_time": 1.764,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0qClrJ5YCH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_james_ver01",
+  "box": [
+   0.8422372979409543,
+   0.06976139983417355,
+   0.9572791855569949,
+   0.19045386508694473
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_james_ver01\/data\/sn89058320\/00415621413\/1899090701\/0016\/007_0_98.jpg",
+  "geographic_coverage": [
+   "Tennessee--Obion--Union City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_james_ver01%2Fdata%2Fsn89058320%2F00415621413%2F1899090701%2F0016.jp2\/pct:84.22,6.98,11.51,12.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058320",
+  "name": "The commercial courier.",
+  "ocr": [
+   "j",
+   "j",
+   "-",
+   "-",
+   ".",
+   "-v",
+   "w",
+   ".'",
+   ".",
+   "......",
+   ",",
+   ":.",
+   ":",
+   "-",
+   ".",
+   ":.",
+   "-",
+   ".4",
+   ".'fs-",
+   "-",
+   ":",
+   "1",
+   "r",
+   "i",
+   "7",
+   "j",
+   "(",
+   "SUPT.",
+   "R.",
+   "L.",
+   "BYNUM."
+  ],
+  "page_seq_num": 16,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_james_ver01\/data\/sn89058320\/00415621413\/1899090701\/0016.jp2",
+  "place_of_publication": "Union City, Tenn.",
+  "pub_date": "1899-09-07",
+  "publisher": "W.R. Andrews",
+  "score": 0.9828187823295593,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_james_ver01\/data\/sn89058320\/00415621413\/1899090701\/0016\/007_0_98.jpg"
+ },
+ "id": 330
+}

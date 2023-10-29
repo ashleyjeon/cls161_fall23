@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751345,
+   "id": 1019001,
+   "lead_time": 1.518,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8AzexT8BO9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_dogwood_ver01",
+  "box": [
+   0.17749288725941162,
+   0.09173303949502319,
+   0.4432255642628699,
+   0.38082452621584423
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908110701\/0462\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Connecticut--New Haven--New Haven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_dogwood_ver01%2Fdata%2Fsn92051397%2F00271764145%2F1908110701%2F0462.jp2\/pct:17.74,9.18,26.58,28.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051397",
+  "name": "The morning journal-courier.",
+  "ocr": [
+   "GERTRUDE",
+   "DALTON.",
+   "1",
+   "'",
+   "wyiw",
+   "if",
+   "5",
+   ".",
+   "t",
+   ":",
+   "&",
+   "r",
+   "x",
+   "1",
+   "t",
+   ",",
+   "ft.-",
+   "'",
+   "K",
+   "'",
+   "She",
+   "Appears",
+   "With",
+   "Digby",
+   "Eell",
+   "in",
+   "\"An",
+   "International",
+   "Marriage\"",
+   "at",
+   "the",
+   "Hyperion",
+   "November",
+   "9",
+   "and",
+   "10.",
+   "fat",
+   "M",
+   "v"
+  ],
+  "page_seq_num": 462,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908110701\/0462.jp2",
+  "place_of_publication": "New Haven, Conn.",
+  "pub_date": "1908-11-07",
+  "publisher": "J.B. Carrington",
+  "score": 0.9602911472320557,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908110701\/0462\/005_0_96.jpg"
+ },
+ "id": 1019
+}

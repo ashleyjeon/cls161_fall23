@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768721,
+   "id": 459001,
+   "lead_time": 1.475,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nE5-vRrJa3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_julius_ver01",
+  "box": [
+   0.2687646417669911,
+   0.6449887981087601,
+   0.7608760979657616,
+   0.9410147257938635
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_julius_ver01\/data\/sn99021999\/00237284963\/1900051301\/0122\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_julius_ver01%2Fdata%2Fsn99021999%2F00237284963%2F1900051301%2F0122.jp2\/pct:26.87,64.5,49.22,29.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "BajjajBjMBjBj",
+   "mf",
+   "v4-",
+   "-",
+   "'",
+   "Arijaaajanad",
+   "HlH,",
+   "aiilllllllllllllllllllllllllllllllllllllllllllllllll",
+   "alllllllllllllllllllllllllllllllllllllllllllllllllllllllllls",
+   "\"",
+   "1bb1111111BIbsLbsb1111111111111111111",
+   "allllllllllllllllllllllllllllllllllllllllllllllllllllllllllllll",
+   "rBunp.FHi",
+   "Ba.ssssssssa.M.a.ssssssssssHa.",
+   "lalllllllllllllllllllllllWlallllll",
+   "LbIIIIWbIIMbIIIIIIIIIIIBWi",
+   "iiBsWfi'fii",
+   "sBWaw",
+   "'JiwbII",
+   "slllr",
+   "-WmlMmionmWBJam",
+   "K!KKKtfmtBmK?U",
+   "ussav2JaBHainBBs'i",
+   "'anssEssssssssssl",
+   "HalllllBHlBlllllllllllasiBlVaaBVBBSSsS",
+   "alllllllllllKalBmfiBllBBllBiSBlluH",
+   "vl",
+   "L&BmLK",
+   "Laa",
+   "sass?assaas?lviP'TrfSj&",
+   "'3nsSKv'9jlBoBalBBsaaaaaf",
+   "BSSSSSsTBSBjjSBaSKUsWIBSJBBaBasSw",
+   "MAHKET",
+   "PLACE",
+   "FOU",
+   "OMAHA",
+   "GAUDNEHS",
+   "AND",
+   "FHUIT",
+   "BA1SEHS"
+  ],
+  "page_seq_num": 122,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_julius_ver01\/data\/sn99021999\/00237284963\/1900051301\/0122.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1900-05-13",
+  "publisher": "Edward Rosewater",
+  "score": 0.992061972618103,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_julius_ver01\/data\/sn99021999\/00237284963\/1900051301\/0122\/000_0_99.jpg"
+ },
+ "id": 459
+}

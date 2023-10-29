@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769113,
+   "id": 84001,
+   "lead_time": 2.059,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "IYn6Jovl9r",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_jackrabbit_ver02",
+  "box": [
+   0.06182349761786488,
+   0.7258691386497522,
+   0.355866501648302,
+   0.8522624290490999
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_jackrabbit_ver02\/data\/sn84036012\/00294550203\/1896022501\/0115\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Montana--Deer Lodge--Anaconda"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_jackrabbit_ver02%2Fdata%2Fsn84036012%2F00294550203%2F1896022501%2F0115.jp2\/pct:6.18,72.59,29.41,12.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn84036012",
+  "name": "The Anaconda standard. [volume]",
+  "ocr": [
+   "by",
+   "Mr",
+   "A.",
+   "A.",
+   "'.",
+   "Swinton",
+   "th",
+   "rough",
+   "a",
+   "piee",
+   "of",
+   "black",
+   "~-ulcaalgd",
+   "Aber.",
+   ".O1l2",
+   "inch",
+   "rp",
+   "4",
+   "minu",
+   "tee.",
+   "(Mr.",
+   "Swinton's"
+  ],
+  "page_seq_num": 115,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_jackrabbit_ver02\/data\/sn84036012\/00294550203\/1896022501\/0115.jp2",
+  "place_of_publication": "Anaconda, Mont.",
+  "pub_date": "1896-02-25",
+  "publisher": "Standard Pub. Co.",
+  "score": 0.9607703685760498,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_jackrabbit_ver02\/data\/sn84036012\/00294550203\/1896022501\/0115\/005_0_96.jpg"
+ },
+ "id": 84
+}

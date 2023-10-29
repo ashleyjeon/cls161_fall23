@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767406,
+   "id": 1901001,
+   "lead_time": 3.719,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QnsUEBs94-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_alki_ver01",
+  "box": [
+   0.2744458632035689,
+   0.14894909805126405,
+   0.5107986796985973,
+   0.41718046275726556
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_alki_ver01\/data\/sn87093407\/0020029080A\/1919082101\/0318\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_alki_ver01%2Fdata%2Fsn87093407%2F0020029080A%2F1919082101%2F0318.jp2\/pct:27.44,14.9,23.64,26.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "He's",
+   "War",
+   "Veteran",
+   "This",
+   "is",
+   "Louie",
+   "Guisto,",
+   "the",
+   "big",
+   "first",
+   "sacker",
+   "of",
+   "the",
+   "Oak",
+   "land",
+   "aggregation.",
+   "Guisto",
+   "saw",
+   "action",
+   "with",
+   "the",
+   "91st",
+   "division",
+   "overseas,",
+   "and",
+   "was",
+   "severely",
+   "wounded",
+   "and",
+   "gassed.",
+   "He",
+   "is",
+   "the",
+   "property",
+   "of",
+   "the",
+   "Cleveland",
+   "Americans,",
+   "and",
+   "will",
+   "return",
+   "to",
+   "the",
+   "big",
+   "show",
+   "in",
+   "the",
+   "spring."
+  ],
+  "page_seq_num": 318,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_alki_ver01\/data\/sn87093407\/0020029080A\/1919082101\/0318.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1919-08-21",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9367615580558777,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_alki_ver01\/data\/sn87093407\/0020029080A\/1919082101\/0318\/003_0_93.jpg"
+ },
+ "id": 1901
+}

@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769089,
+   "id": 1346001,
+   "lead_time": 2.415,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rg69oErX8Y",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iahi_grimes_ver01",
+  "box": [
+   0.07505205510335676,
+   0.8047571748359018,
+   0.40156647166566983,
+   0.9585659543854642
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iahi_grimes_ver01\/data\/sn86061215\/00295875380\/1912020601\/0390\/007_0_90.jpg",
+  "geographic_coverage": [
+   "Iowa--Wapello--Ottumwa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iahi_grimes_ver01%2Fdata%2Fsn86061215%2F00295875380%2F1912020601%2F0390.jp2\/pct:7.5,80.48,32.66,15.39\/!500,500\/0\/default.jpg",
+  "lccn": "sn86061215",
+  "name": "Ottumwa tri-weekly courier. [volume]",
+  "ocr": [
+   "EXHIBIT",
+   "NO.",
+   "Ill,,",
+   "CAS",
+   "S",
+   "TOWNSHIP.",
+   "BRIDGE."
+  ],
+  "page_seq_num": 390,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iahi_grimes_ver01\/data\/sn86061215\/00295875380\/1912020601\/0390.jp2",
+  "place_of_publication": "Ottumwa, Iowa",
+  "pub_date": "1912-02-06",
+  "publisher": "Courier Print. Co.",
+  "score": 0.9054393768310547,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iahi_grimes_ver01\/data\/sn86061215\/00295875380\/1912020601\/0390\/007_0_90.jpg"
+ },
+ "id": 1346
+}

@@ -1,0 +1,110 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675524,
+   "id": 1729001,
+   "lead_time": 1.762,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Wke8s6HiE-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_edition_ver02",
+  "box": [
+   0.18207800268407318,
+   0.6072808442066153,
+   0.43857400997783574,
+   0.9446509355922238
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_edition_ver02\/data\/sn92053934\/00295873267\/1917022401\/0621\/012_0_93.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_edition_ver02%2Fdata%2Fsn92053934%2F00295873267%2F1917022401%2F0621.jp2\/pct:18.2,60.73,25.65,33.74\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "MONTANA'S",
+   "I'KEITIES'",
+   "i",
+   "r",
+   "Jfiss",
+   "Lucille",
+   "\"filler",
+   "Mis'3",
+   "Lucille",
+   "Miller,",
+   "who",
+   "is",
+   "rer-uied",
+   "state",
+   "of",
+   "Montana.",
+   "i",
+   "winterirtg",
+   "mak",
+   "a",
+   "trio",
+   "c.f",
+   "about",
+   "3",
+   "0-0",
+   "rs.lM",
+   "to",
+   "-",
+   ".",
+   "\"",
+   "4",
+   ",",
+   ".1",
+   "t",
+   "'",
+   "1,",
+   "01",
+   "at",
+   "Paint",
+   "Bftrh.",
+   "to",
+   "be",
+   "the",
+   "most",
+   "beautiful",
+   "cirl",
+   "in",
+   "the",
+   "at",
+   "Palm",
+   "Beach.",
+   "Mis",
+   "Mi!leis,had",
+   "ta",
+   "get",
+   "to",
+   "the",
+   "popular",
+   "winter",
+   "resort,",
+   "but"
+  ],
+  "page_seq_num": 621,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_edition_ver02\/data\/sn92053934\/00295873267\/1917022401\/0621.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1917-02-24",
+  "publisher": "J.W. Potter",
+  "score": 0.9349669814109802,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_edition_ver02\/data\/sn92053934\/00295873267\/1917022401\/0621\/012_0_93.jpg"
+ },
+ "id": 1729
+}

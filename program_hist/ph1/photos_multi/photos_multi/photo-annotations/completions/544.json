@@ -1,0 +1,49 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749288,
+   "id": 544001,
+   "lead_time": 2.131,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_amboy_ver02",
+  "box": [
+   0.057094781330888696,
+   0.1448055764903193,
+   0.35019834582614323,
+   0.3269963764473605
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_amboy_ver02\/data\/sn83045366\/00206538739\/1902030101\/0021\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Minnesota--Hennepin--Minneapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_amboy_ver02%2Fdata%2Fsn83045366%2F00206538739%2F1902030101%2F0021.jp2\/pct:5.7,14.49,29.32,18.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045366",
+  "name": "The Minneapolis journal. [volume]",
+  "ocr": [
+   "Xfa",
+   "1-J1ARDW00I",
+   "FLOOR,",
+   "SIMPLE",
+   "DRAP",
+   "ERIBS",
+   "WITH",
+   "CHARMING",
+   "COLOR",
+   "SCHEmOU"
+  ],
+  "page_seq_num": 21,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_amboy_ver02\/data\/sn83045366\/00206538739\/1902030101\/0021.jp2",
+  "place_of_publication": "Minneapolis, Minn.",
+  "pub_date": "1902-03-01",
+  "publisher": "Journal Print. Co.",
+  "score": 0.955024242401123,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_amboy_ver02\/data\/sn83045366\/00206538739\/1902030101\/0021\/004_0_95.jpg"
+ },
+ "id": 544
+}

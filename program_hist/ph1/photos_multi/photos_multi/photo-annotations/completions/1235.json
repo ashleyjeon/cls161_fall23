@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749335,
+   "id": 1235001,
+   "lead_time": 5.498,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_edugator_ver01",
+  "box": [
+   0.3283404831659226,
+   0.566553391183768,
+   0.6334687151227678,
+   0.9485373509524688
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_edugator_ver01\/data\/sn88074815\/00271765848\/1911041401\/0185\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Florida--Marion--Ocala"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_edugator_ver01%2Fdata%2Fsn88074815%2F00271765848%2F1911041401%2F0185.jp2\/pct:32.83,56.66,30.52,38.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn88074815",
+  "name": "The Ocala banner.",
+  "ocr": [
+   ",",
+   "v",
+   "5",
+   "-",
+   "-",
+   "]",
+   "|jjK",
+   "-",
+   "v",
+   "\"'",
+   "I",
+   "*",
+   "I",
+   ",|||l",
+   ",",
+   ",",
+   ";;",
+   "-",
+   "j",
+   "*\u25a0",
+   ";",
+   "%",
+   "v",
+   "*",
+   "-",
+   "f",
+   "i",
+   "'\u25a0jQ-",
+   "-'",
+   "*",
+   "*",
+   "Erected,",
+   "1908,",
+   "by",
+   "Dickison",
+   "Chapter,",
+   "No.",
+   "56,",
+   "in",
+   "Honor",
+   "of",
+   "the",
+   "Heroes",
+   "of",
+   "the"
+  ],
+  "page_seq_num": 185,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_edugator_ver01\/data\/sn88074815\/00271765848\/1911041401\/0185.jp2",
+  "place_of_publication": "Ocala, Marion County, Fla.",
+  "pub_date": "1911-04-14",
+  "publisher": "Banner Pub. Co.",
+  "score": 0.9665799140930176,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_edugator_ver01\/data\/sn88074815\/00271765848\/1911041401\/0185\/000_0_96.jpg"
+ },
+ "id": 1235
+}

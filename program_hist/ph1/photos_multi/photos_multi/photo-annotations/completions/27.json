@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749319,
+   "id": 27001,
+   "lead_time": 2.07,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TTthw4AEvy",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_caliban_ver02",
+  "box": [
+   0.07713797057203471,
+   0.7170424643045362,
+   0.21501071973778735,
+   0.7824346386291771
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_caliban_ver02\/data\/sn85047084\/00202195775\/1895032201\/0554\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_caliban_ver02%2Fdata%2Fsn85047084%2F00202195775%2F1895032201%2F0554.jp2\/pct:7.71,71.71,13.79,6.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "1",
+   "1",
+   "A",
+   "Si",
+   "1",
+   "!",
+   "1"
+  ],
+  "page_seq_num": 554,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_caliban_ver02\/data\/sn85047084\/00202195775\/1895032201\/0554.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1895-03-22",
+  "publisher": "[publisher not identified]",
+  "score": 0.9661905169487,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_caliban_ver02\/data\/sn85047084\/00202195775\/1895032201\/0554\/002_0_96.jpg"
+ },
+ "id": 27
+}

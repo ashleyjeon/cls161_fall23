@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748025,
+   "id": 302001,
+   "lead_time": 1.668,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iNVjBCRtlz",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_triumph_ver01",
+  "box": [
+   0.504629186681799,
+   0.4205207435812963,
+   0.9440593547649212,
+   0.7824661212458005
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_triumph_ver01\/data\/sn83030214\/00175036817\/1898022701\/0527\/002_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_triumph_ver01%2Fdata%2Fsn83030214%2F00175036817%2F1898022701%2F0527.jp2\/pct:50.46,42.06,43.95,36.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "THE",
+   "COUXCIL",
+   "OP",
+   ">\\",
+   "vt:",
+   "....,-."
+  ],
+  "page_seq_num": 527,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_triumph_ver01\/data\/sn83030214\/00175036817\/1898022701\/0527.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-02-27",
+  "publisher": "New York Tribune",
+  "score": 0.9741963744163513,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_triumph_ver01\/data\/sn83030214\/00175036817\/1898022701\/0527\/002_0_97.jpg"
+ },
+ "id": 302
+}

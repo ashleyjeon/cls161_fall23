@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768092,
+   "id": 194001,
+   "lead_time": 2.687,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "uZJMvFjcXz",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_curry_ver01",
+  "box": [
+   0.19844133957572604,
+   0.5568000572023417,
+   0.6472415509431259,
+   0.778582919346416
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_curry_ver01\/data\/sn85030687\/00212473133\/1897090901\/1105\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Kansas--Reno--Hutchinson"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_curry_ver01%2Fdata%2Fsn85030687%2F00212473133%2F1897090901%2F1105.jp2\/pct:19.84,55.69,44.89,22.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn85030687",
+  "name": "Hutchinson gazette. [volume]",
+  "ocr": [
+   "Ik",
+   "4",
+   ".",
+   "-I''",
+   ".",
+   "1",
+   "r:",
+   "1",
+   "'",
+   ".",
+   "'",
+   "VIM",
+   "vtr",
+   "SULTAN,",
+   "WINNER",
+   "OP",
+   "MANY",
+   "PRIZES",
+   "IN",
+   "ENGLAND."
+  ],
+  "page_seq_num": 1105,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_curry_ver01\/data\/sn85030687\/00212473133\/1897090901\/1105.jp2",
+  "place_of_publication": "Hutchinson, Kan.",
+  "pub_date": "1897-09-09",
+  "publisher": "Gazette Pub. & Print. Co.",
+  "score": 0.9948651194572449,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_curry_ver01\/data\/sn85030687\/00212473133\/1897090901\/1105\/000_0_99.jpg"
+ },
+ "id": 194
+}

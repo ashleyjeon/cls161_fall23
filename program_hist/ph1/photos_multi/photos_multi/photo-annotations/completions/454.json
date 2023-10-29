@@ -1,0 +1,110 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750870,
+   "id": 454001,
+   "lead_time": 2.087,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MA_92VsqVS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_grindylow_ver01",
+  "box": [
+   0.3438352039237958,
+   0.3673663170509089,
+   0.6362477836879432,
+   0.6660993987438726
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_grindylow_ver01\/data\/sn86086499\/00414214502\/1900061601\/0043\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Milwaukee--Wauwatosa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_grindylow_ver01%2Fdata%2Fsn86086499%2F00414214502%2F1900061601%2F0043.jp2\/pct:34.38,36.74,29.25,29.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086499",
+  "name": "Wauwatosa news. [volume]",
+  "ocr": [
+   "7",
+   "-",
+   "l",
+   "(",
+   "\u25a0;;",
+   ".-\u00a3>",
+   "-\u25a0",
+   ".",
+   "'",
+   "C\\",
+   "g-j",
+   "\u2022",
+   "i-ri",
+   "-",
+   ".",
+   "-",
+   "**",
+   "-v",
+   "This",
+   "airy",
+   "little",
+   "dress",
+   "for",
+   "a",
+   "girl",
+   "of",
+   "10",
+   "or",
+   "12",
+   "is",
+   "made",
+   "of",
+   "blue",
+   "swiss",
+   "muslin",
+   "dot",
+   "ted",
+   "with",
+   "white.",
+   "It",
+   "is",
+   "trimmed",
+   "with",
+   "embroidery",
+   "mid",
+   "has",
+   "a",
+   "volte",
+   "of",
+   "nuked",
+   "white",
+   "lawn.",
+   "From",
+   "Arnold",
+   "(\u2019unstable",
+   "&",
+   "Cos.",
+   "GIRL\u2019S",
+   "DAINTY",
+   "SWISS",
+   "DRESS."
+  ],
+  "page_seq_num": 43,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_grindylow_ver01\/data\/sn86086499\/00414214502\/1900061601\/0043.jp2",
+  "place_of_publication": "Wauwatosa, Wis.",
+  "pub_date": "1900-06-16",
+  "publisher": "Wauwatosa Printing",
+  "score": 0.9616774916648865,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_grindylow_ver01\/data\/sn86086499\/00414214502\/1900061601\/0043\/000_0_96.jpg"
+ },
+ "id": 454
+}

@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748315,
+   "id": 110001,
+   "lead_time": 2.203,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eWdpkiOq8k",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "me_baxter_ver01",
+  "box": [
+   0.3284151748556324,
+   0.43368379632036885,
+   0.4318139989265705,
+   0.5617440171329035
+  ],
+  "edition_seq_num": 1,
+  "filepath": "me_baxter_ver01\/data\/sn83009653\/00279524147\/1896062301\/0315\/009_0_90.jpg",
+  "geographic_coverage": [
+   "Maine--Oxford--Paris",
+   "Maine--Oxford--South Paris"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524147%2F1896062301%2F0315.jp2\/pct:32.84,43.37,10.34,12.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn83009653",
+  "name": "Oxford Democrat. [volume]",
+  "ocr": [
+   ";",
+   "GEORGE",
+   "M.",
+   "AT",
+   "WOOD."
+  ],
+  "page_seq_num": 315,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/me_baxter_ver01\/data\/sn83009653\/00279524147\/1896062301\/0315.jp2",
+  "place_of_publication": "Paris, Me.",
+  "pub_date": "1896-06-23",
+  "publisher": "Millett & King",
+  "score": 0.906464159488678,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/me_baxter_ver01\/data\/sn83009653\/00279524147\/1896062301\/0315\/009_0_90.jpg"
+ },
+ "id": 110
+}

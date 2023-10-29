@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755046,
+   "id": 324001,
+   "lead_time": 6614.466,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Mt7_dVcgNw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_melon_ver01",
+  "box": [
+   0.215999713081293,
+   0.3504601584540473,
+   0.5036393071295173,
+   0.6378733317057291
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_melon_ver01\/data\/sn84022549\/0041562931A\/1899121401\/0384\/002_0_91.jpg",
+  "geographic_coverage": [
+   "Vermont--Windham--Bellows Falls"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_melon_ver01%2Fdata%2Fsn84022549%2F0041562931A%2F1899121401%2F0384.jp2\/pct:21.59,35.05,28.77,28.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022549",
+  "name": "Bellows Falls times. [volume]",
+  "ocr": [
+   "'j",
+   "TRESTLE",
+   "TO",
+   "SUPPORT",
+   "STONE",
+   "ARCH."
+  ],
+  "page_seq_num": 384,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_melon_ver01\/data\/sn84022549\/0041562931A\/1899121401\/0384.jp2",
+  "place_of_publication": "Bellows Falls, Vt.",
+  "pub_date": "1899-12-14",
+  "publisher": "A.N. Swain",
+  "score": 0.9170233607292175,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_melon_ver01\/data\/sn84022549\/0041562931A\/1899121401\/0384\/002_0_91.jpg"
+ },
+ "id": 324
+}

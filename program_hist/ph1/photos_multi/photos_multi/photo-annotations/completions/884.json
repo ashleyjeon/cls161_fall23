@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768767,
+   "id": 884001,
+   "lead_time": 1.669,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Y1Ux4t0u6T",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_toyfoxterrier_ver02",
+  "box": [
+   0.5668861061517446,
+   0.18208591606418756,
+   0.6988154062220412,
+   0.34347847180488783
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655685\/1906042101\/0337\/008_0_91.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_toyfoxterrier_ver02%2Fdata%2Fsn83045462%2F00280655685%2F1906042101%2F0337.jp2\/pct:56.68,18.21,13.2,16.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Maurice",
+   "Otterback."
+  ],
+  "page_seq_num": 337,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655685\/1906042101\/0337.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1906-04-21",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9197746515274048,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_toyfoxterrier_ver02\/data\/sn83045462\/00280655685\/1906042101\/0337\/008_0_91.jpg"
+ },
+ "id": 884
+}

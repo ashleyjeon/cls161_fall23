@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747770,
+   "id": 1503001,
+   "lead_time": 4.026,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_5qbd1wbkv",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_futuyma_ver02",
+  "box": [
+   0.18600705683377802,
+   0.044846557394024225,
+   0.7054360879434122,
+   0.2609206065399337
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_futuyma_ver02\/data\/sn83030272\/00211100060\/1914100301\/0038\/016_0_91.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_futuyma_ver02%2Fdata%2Fsn83030272%2F00211100060%2F1914100301%2F0038.jp2\/pct:18.6,4.49,51.95,21.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "n",
+   "-1",
+   "iru",
+   "-Tn-nii",
+   "iniinni-",
+   "i",
+   "T",
+   "'",
+   "-",
+   "\"",
+   "s",
+   "1",
+   "VHT'",
+   "T",
+   "mrrrsr",
+   "aOM",
+   "1",
+   "1",
+   "Thn",
+   "nnnnr"
+  ],
+  "page_seq_num": 38,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_futuyma_ver02\/data\/sn83030272\/00211100060\/1914100301\/0038.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1914-10-03",
+  "publisher": "Benj. H. Day",
+  "score": 0.9104304909706116,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_futuyma_ver02\/data\/sn83030272\/00211100060\/1914100301\/0038\/016_0_91.jpg"
+ },
+ "id": 1503
+}

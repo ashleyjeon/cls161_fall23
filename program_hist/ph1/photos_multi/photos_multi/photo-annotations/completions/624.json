@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754407,
+   "id": 624001,
+   "lead_time": 81.171,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3Gy_t4mwGr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_mexico_ver01",
+  "box": [
+   0.048785421010610217,
+   0.03493965483111749,
+   0.4887104756123311,
+   0.2807556891819082
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_mexico_ver01\/data\/sn83030214\/00175042210\/1903101101\/0219\/001_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_mexico_ver01%2Fdata%2Fsn83030214%2F00175042210%2F1903101101%2F0219.jp2\/pct:4.87,3.5,44.0,24.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "THE",
+   "MAGICIAN",
+   "AS",
+   "A",
+   "WIZARD.",
+   "looking",
+   "in",
+   "his",
+   "mirror",
+   "to",
+   "lenrn",
+   "her",
+   "future,",
+   "a",
+   "scene",
+   "from",
+   "the",
+   "Middle",
+   "Ages.",
+   "Frontispiece",
+   "from"
+  ],
+  "page_seq_num": 219,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_mexico_ver01\/data\/sn83030214\/00175042210\/1903101101\/0219.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1903-10-11",
+  "publisher": "New York Tribune",
+  "score": 0.9601351618766785,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_mexico_ver01\/data\/sn83030214\/00175042210\/1903101101\/0219\/001_0_96.jpg"
+ },
+ "id": 624
+}

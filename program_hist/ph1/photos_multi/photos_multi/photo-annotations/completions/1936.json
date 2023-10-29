@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748057,
+   "id": 1936001,
+   "lead_time": 3.546,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "bHl9oEsWWs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_ewok_ver01",
+  "box": [
+   0.7757039943517136,
+   0.04622619871109251,
+   0.9678593311157921,
+   0.24665447685874117
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_ewok_ver01\/data\/sn83045462\/00280656719\/1920030701\/0354\/002_0_93.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_ewok_ver01%2Fdata%2Fsn83045462%2F00280656719%2F1920030701%2F0354.jp2\/pct:77.57,4.63,19.22,20.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Mr*.",
+   "Etta",
+   "Hand",
+   "had",
+   "no",
+   "idea",
+   "of",
+   "the",
+   "trials",
+   "tribulations",
+   "attendant",
+   "upon",
+   "sudden",
+   "wealth.",
+   "If",
+   "him",
+   "one",
+   "had",
+   "told",
+   "her",
+   "ten",
+   "yean",
+   "back",
+   "she",
+   "some",
+   "day",
+   "be",
+   "attending",
+   "a",
+   "series",
+   "of",
+   "lectures",
+   "\"Mid-Victorian",
+   "poets",
+   "and",
+   "their",
+   "influence",
+   "on"
+  ],
+  "page_seq_num": 354,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_ewok_ver01\/data\/sn83045462\/00280656719\/1920030701\/0354.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1920-03-07",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9344142079353333,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_ewok_ver01\/data\/sn83045462\/00280656719\/1920030701\/0354\/002_0_93.jpg"
+ },
+ "id": 1936
+}

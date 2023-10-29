@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743147,
+   "id": 1117001,
+   "lead_time": 3.006,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2kmQXPDzQv",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_flyingsquirrel_ver02",
+  "box": [
+   0.03465823350448954,
+   0.60011657768905,
+   0.2964609413664805,
+   0.9212598910471103
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_flyingsquirrel_ver02\/data\/sn83025316\/00294554634\/1909121301\/0556\/008_0_95.jpg",
+  "geographic_coverage": [
+   "Montana--Missoula--Missoula"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_flyingsquirrel_ver02%2Fdata%2Fsn83025316%2F00294554634%2F1909121301%2F0556.jp2\/pct:3.46,60.02,26.19,32.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025316",
+  "name": "The Daily Missoulian. [volume]",
+  "ocr": [
+   "Clever",
+   "English",
+   "Girl",
+   "\"",
+   "-",
+   "F",
+   "II",
+   "ALr",
+   "l^l.'",
+   "7",
+   "77CC7",
+   "MISS",
+   "ALICE",
+   "LLOYD."
+  ],
+  "page_seq_num": 556,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_flyingsquirrel_ver02\/data\/sn83025316\/00294554634\/1909121301\/0556.jp2",
+  "place_of_publication": "Missoula, Mont.",
+  "pub_date": "1909-12-13",
+  "publisher": "Missoulian Pub. Co.",
+  "score": 0.950268566608429,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_flyingsquirrel_ver02\/data\/sn83025316\/00294554634\/1909121301\/0556\/008_0_95.jpg"
+ },
+ "id": 1117
+}

@@ -1,0 +1,115 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752806,
+   "id": 1232001,
+   "lead_time": 1.587,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Nt7KDORzmZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_kautsky_ver01",
+  "box": [
+   0.6925025422312868,
+   0.10835683506165919,
+   0.8290554110396694,
+   0.4465202935964359
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_kautsky_ver01\/data\/sn86058226\/00271744894\/1911013101\/0253\/012_0_96.jpg",
+  "geographic_coverage": [
+   "Indiana--Wayne--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_kautsky_ver01%2Fdata%2Fsn86058226%2F00271744894%2F1911013101%2F0253.jp2\/pct:69.25,10.84,13.66,33.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn86058226",
+  "name": "The Richmond palladium and sun-telegram. [volume]",
+  "ocr": [
+   "TWO",
+   "OF",
+   "THE",
+   "USHERS",
+   "FOR",
+   "GOULD",
+   "WEDDING",
+   ":-",
+   "vj",
+   "JiV",
+   "i",
+   ".",
+   ";",
+   "Two",
+   "of",
+   "the",
+   "ushers",
+   "for",
+   "the",
+   "wedding",
+   "of",
+   "Miss",
+   "Vivien",
+   "Gould,",
+   "the",
+   "American",
+   "heiress",
+   "to",
+   "Lord",
+   "Occies,",
+   "the",
+   "English",
+   "peer,",
+   "which",
+   "is",
+   "to",
+   "take",
+   "place",
+   "Feb.",
+   "7,",
+   "in",
+   "New",
+   "York.",
+   "Above",
+   "is",
+   "Lord",
+   "Conoys,",
+   "an",
+   "intimate",
+   "friend",
+   "of",
+   "Lord",
+   "Decles",
+   "and",
+   "be",
+   "low",
+   "Captain",
+   "Edward",
+   "Lumb,",
+   "a",
+   "retired",
+   "English",
+   "army",
+   "officer",
+   "and",
+   "t"
+  ],
+  "page_seq_num": 253,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_kautsky_ver01\/data\/sn86058226\/00271744894\/1911013101\/0253.jp2",
+  "place_of_publication": "Richmond, Ind.",
+  "pub_date": "1911-01-31",
+  "publisher": "[Palladium Print. Co.]",
+  "score": 0.968923807144165,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_kautsky_ver01\/data\/sn86058226\/00271744894\/1911013101\/0253\/012_0_96.jpg"
+ },
+ "id": 1232
+}

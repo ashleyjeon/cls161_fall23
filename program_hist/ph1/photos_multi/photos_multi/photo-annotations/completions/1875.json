@@ -1,0 +1,122 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748016,
+   "id": 1875001,
+   "lead_time": 1.989,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eVWQ3S6sNX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_alki_ver01",
+  "box": [
+   0.47346278599330355,
+   0.1055688557214241,
+   0.831237864438488,
+   0.3184112522811434
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_alki_ver01\/data\/sn87093407\/00200290811\/1919101501\/0038\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_alki_ver01%2Fdata%2Fsn87093407%2F00200290811%2F1919101501%2F0038.jp2\/pct:47.34,10.56,35.78,21.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "Wants",
+   "U.",
+   "S.",
+   "Trucks",
+   "to",
+   "Lower",
+   "H.",
+   "C.",
+   "L.",
+   "i",
+   "imcreanman",
+   "Clyde",
+   "K\u00bblly",
+   "of",
+   "Pennsylvania",
+   "1*",
+   "i>r\u00bbi*JinK",
+   "a",
+   "bill",
+   "to",
+   "encourage",
+   "tin-",
+   "un",
+   "of",
+   "army",
+   "tru-",
+   "k*",
+   "direct",
+   "dtatrlbutlon",
+   "of",
+   "farm",
+   "product*",
+   "to",
+   "oily",
+   "consumer*.",
+   "Me",
+   "la",
+   "ahown",
+   "In",
+   "the",
+   "Inset",
+   "and",
+   "be.lde",
+   "a",
+   "rural",
+   "truck",
+   "which,",
+   "operating",
+   "b*twu\u00abn",
+   "Washington,",
+   "I>.",
+   "C.,",
+   "mvl",
+   "Md",
+   ".",
+   "made",
+   "121,000",
+   "clear",
+   "profit",
+   "for",
+   "poatofftra",
+   "laat",
+   "year",
+   "and",
+   "carried",
+   "121,000",
+   "pounda",
+   "of",
+   "|>atcel",
+   "poat",
+   "mull",
+   "a",
+   "month."
+  ],
+  "page_seq_num": 38,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_alki_ver01\/data\/sn87093407\/00200290811\/1919101501\/0038.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1919-10-15",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9704864025115967,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_alki_ver01\/data\/sn87093407\/00200290811\/1919101501\/0038\/005_0_97.jpg"
+ },
+ "id": 1875
+}

@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767720,
+   "id": 1370001,
+   "lead_time": 1.606,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "keLi6oYG6R",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_continental_ver02",
+  "box": [
+   0.170551178881007,
+   0.041716024003181654,
+   0.3015574594186405,
+   0.3162888628234349
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_continental_ver02\/data\/sn84026749\/00294557714\/1912082201\/0455\/010_0_93.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_continental_ver02%2Fdata%2Fsn84026749%2F00294557714%2F1912082201%2F0455.jp2\/pct:17.05,4.18,13.11,27.46\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "To",
+   "Leave",
+   "Capital",
+   ":",
+   "I",
+   "tnaniiiiimiifi",
+   "iiiii",
+   "i",
+   "nil",
+   "mi",
+   "-'mmwiMM?'",
+   "uXf",
+   "'.",
+   "-h",
+   ".",
+   "N",
+   "IH1",
+   "\"'\"\"'liiiiir",
+   "i",
+   "uii"
+  ],
+  "page_seq_num": 455,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_continental_ver02\/data\/sn84026749\/00294557714\/1912082201\/0455.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1912-08-22",
+  "publisher": "Times Pub. Co.",
+  "score": 0.936144232749939,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_continental_ver02\/data\/sn84026749\/00294557714\/1912082201\/0455\/010_0_93.jpg"
+ },
+ "id": 1370
+}

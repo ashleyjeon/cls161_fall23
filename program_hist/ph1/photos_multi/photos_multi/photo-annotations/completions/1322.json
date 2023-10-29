@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766384,
+   "id": 1322001,
+   "lead_time": 4.569,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9MXt7yuo6r",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_deserttortoise_ver01",
+  "box": [
+   0.31156889262952303,
+   0.6047340993131145,
+   0.7280155038475093,
+   0.792287247904231
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_deserttortoise_ver01\/data\/sn85032933\/00212476183\/1912122501\/0212\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Arizona--Cochise--Benson",
+   "Arizona--Pinal--Arizola",
+   "Arizona--Santa Cruz--Nogales"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_deserttortoise_ver01%2Fdata%2Fsn85032933%2F00212476183%2F1912122501%2F0212.jp2\/pct:31.15,60.48,41.65,18.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn85032933",
+  "name": "The oasis. [volume]",
+  "ocr": [
+   "1-",
+   "r",
+   "7",
+   ":",
+   ":",
+   "'",
+   "1",
+   "!\"\"",
+   "-.",
+   "--",
+   ".",
+   "CALLE",
+   "ELIAS,",
+   "NOGALES,",
+   "SONOKA,",
+   "IN",
+   "1885."
+  ],
+  "page_seq_num": 212,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_deserttortoise_ver01\/data\/sn85032933\/00212476183\/1912122501\/0212.jp2",
+  "place_of_publication": "Arizola, Ariz.",
+  "pub_date": "1912-12-25",
+  "publisher": "Oasis Pub. Co.",
+  "score": 0.9907432198524475,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_deserttortoise_ver01\/data\/sn85032933\/00212476183\/1912122501\/0212\/000_0_99.jpg"
+ },
+ "id": 1322
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743095,
+   "id": 28001,
+   "lead_time": 6.95,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "W95mTbs_SS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_batman_ver01",
+  "box": [
+   0.15897232581829202,
+   0.5447804676596302,
+   0.2579978679788524,
+   0.6167464113202198
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_batman_ver01\/data\/sn86069161\/00100481881\/1895091801\/0626\/007_0_95.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_batman_ver01%2Fdata%2Fsn86069161%2F00100481881%2F1895091801%2F0626.jp2\/pct:15.89,54.48,9.91,7.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069161",
+  "name": "The climax. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 626,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_batman_ver01\/data\/sn86069161\/00100481881\/1895091801\/0626.jp2",
+  "place_of_publication": "Richmond, Madison County, Ky.",
+  "pub_date": "1895-09-18",
+  "publisher": "Climax Print. Co.",
+  "score": 0.9548478126525879,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_batman_ver01\/data\/sn86069161\/00100481881\/1895091801\/0626\/007_0_95.jpg"
+ },
+ "id": 28
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749646,
+   "id": 1072001,
+   "lead_time": 3.242,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9WM9i_kkcr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_basil_ver02",
+  "box": [
+   0.18583735713252314,
+   0.18031808810763889,
+   0.31039253699736785,
+   0.35694004991319445
+  ],
+  "edition_seq_num": 2,
+  "filepath": "njr_basil_ver02\/data\/sn85035720\/00279529935\/1908030302\/0495\/014_0_95.jpg",
+  "geographic_coverage": [
+   "New Jersey--Middlesex--Perth Amboy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_basil_ver02%2Fdata%2Fsn85035720%2F00279529935%2F1908030302%2F0495.jp2\/pct:18.58,18.04,12.46,17.67\/!500,500\/0\/default.jpg",
+  "lccn": "sn85035720",
+  "name": "Perth Amboy evening news. [volume]",
+  "ocr": [
+   "Mae",
+   "Gibbon\u00bb"
+  ],
+  "page_seq_num": 495,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_basil_ver02\/data\/sn85035720\/00279529935\/1908030302\/0495.jp2",
+  "place_of_publication": "Perth Amboy, N.J.",
+  "pub_date": "1908-03-03",
+  "publisher": "Perth Amboy Evening News Co.",
+  "score": 0.9508494734764099,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_basil_ver02\/data\/sn85035720\/00279529935\/1908030302\/0495\/014_0_95.jpg"
+ },
+ "id": 1072
+}

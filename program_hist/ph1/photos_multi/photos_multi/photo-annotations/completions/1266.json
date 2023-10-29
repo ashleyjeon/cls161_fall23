@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766375,
+   "id": 1266001,
+   "lead_time": 3.595,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DCiBA1bNTT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_grenada_ver01",
+  "box": [
+   0.18403319764115847,
+   0.06040778226371045,
+   0.3121866807140751,
+   0.30840305420457664
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_grenada_ver01\/data\/sn99062034\/00279523076\/1911050301\/0791\/013_0_95.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lake--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_grenada_ver01%2Fdata%2Fsn99062034%2F00279523076%2F1911050301%2F0791.jp2\/pct:18.4,6.05,12.82,24.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn99062034",
+  "name": "The Madison daily leader. [volume]",
+  "ocr": [
+   "CONGRESSMAN",
+   "M0N0ELL.",
+   "Wyoming",
+   "Member",
+   "Attacks",
+   "Farmers'",
+   "Free",
+   "List",
+   "Bill."
+  ],
+  "page_seq_num": 791,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_grenada_ver01\/data\/sn99062034\/00279523076\/1911050301\/0791.jp2",
+  "place_of_publication": "Madison, S.D.",
+  "pub_date": "1911-05-03",
+  "publisher": "J.F. Stahl",
+  "score": 0.9552162885665894,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_grenada_ver01\/data\/sn99062034\/00279523076\/1911050301\/0791\/013_0_95.jpg"
+ },
+ "id": 1266
+}

@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767137,
+   "id": 1695001,
+   "lead_time": 113.559,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9A00pNasj1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_eliot_ver01",
+  "box": [
+   0.22939499863633164,
+   0.6141486554977601,
+   0.3777699906239945,
+   0.8583304976758149
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_eliot_ver01\/data\/sn86091188\/00295869148\/1917090701\/1187\/005_0_99.jpg",
+  "geographic_coverage": [
+   "Idaho--Lemhi--Salmon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_eliot_ver01%2Fdata%2Fsn86091188%2F00295869148%2F1917090701%2F1187.jp2\/pct:22.93,61.42,14.84,24.42\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091188",
+  "name": "The Idaho recorder. [volume]",
+  "ocr": [
+   "uated",
+   "form*",
+   "MRS.",
+   "IRA",
+   "COUCH",
+   "WOOD",
+   "*",
+   "is'",
+   "*",
+   ">*",
+   "y",
+   "Mr*.",
+   "1rs",
+   "Couch",
+   "Wood,",
+   "executive",
+   "sec",
+   "retary",
+   "of",
+   "the",
+   "Woman's",
+   "committee.",
+   "Council",
+   "of",
+   "National",
+   "Defense,",
+   "was",
+   "grad",
+   "uated",
+   "Into",
+   "the",
+   "public",
+   "servies",
+   "field",
+   "through",
+   "filtration,",
+   "eewaye",
+   "and",
+   "other",
+   "re",
+   "form*",
+   "m",
+   "the",
+   "of",
+   "fi"
+  ],
+  "page_seq_num": 1187,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_eliot_ver01\/data\/sn86091188\/00295869148\/1917090701\/1187.jp2",
+  "place_of_publication": "Salmon City, Idaho",
+  "pub_date": "1917-09-07",
+  "publisher": "J.E. Booth",
+  "score": 0.9914143681526184,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_eliot_ver01\/data\/sn86091188\/00295869148\/1917090701\/1187\/005_0_99.jpg"
+ },
+ "id": 1695
+}

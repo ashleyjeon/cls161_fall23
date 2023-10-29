@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768448,
+   "id": 499001,
+   "lead_time": 8.604,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "AkwXkQYwIL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_kinnikinnick_ver01",
+  "box": [
+   0.10540845716321791,
+   0.33652516310127617,
+   0.9107826851509713,
+   0.6619513227053337
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_kinnikinnick_ver01\/data\/2007252185\/00211107753\/1901042501\/0275\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle",
+   "Washington--Spokane--Spokane",
+   "Washington--Yakima--Yakima"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_kinnikinnick_ver01%2Fdata%2F2007252185%2F00211107753%2F1901042501%2F0275.jp2\/pct:10.54,33.66,80.54,32.55\/!500,500\/0\/default.jpg",
+  "lccn": "2007252185",
+  "name": "Ranche and range.",
+  "ocr": [
+   "Courtesy",
+   "of",
+   "Wallace's",
+   "I'urnicr.",
+   "Dcs",
+   "Molnes,",
+   "lowa."
+  ],
+  "page_seq_num": 275,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_kinnikinnick_ver01\/data\/2007252185\/00211107753\/1901042501\/0275.jp2",
+  "place_of_publication": "North Yakima, Wash.",
+  "pub_date": "1901-04-25",
+  "publisher": "[s.n.",
+  "score": 0.9932202100753784,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_kinnikinnick_ver01\/data\/2007252185\/00211107753\/1901042501\/0275\/000_0_99.jpg"
+ },
+ "id": 499
+}

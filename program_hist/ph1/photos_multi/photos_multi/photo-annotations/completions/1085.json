@@ -1,0 +1,102 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766776,
+   "id": 1085001,
+   "lead_time": 4.153,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ejUIS-r4tZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_hamlet_ver01",
+  "box": [
+   0.5201195949978299,
+   0.7565641747899803,
+   0.9521242947048612,
+   0.9564284359116152
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_hamlet_ver01\/data\/sn85047084\/00295876670\/1909090701\/0083\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_hamlet_ver01%2Fdata%2Fsn85047084%2F00295876670%2F1909090701%2F0083.jp2\/pct:52.01,75.66,43.21,19.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "j",
+   "I",
+   ",..,.",
+   "h",
+   "\"\"\"\"\"\"",
+   "J",
+   "THE",
+   "CONGRESSIONAL",
+   "PARTY",
+   "AT",
+   "THE",
+   "HALEFvVA",
+   "HOTEL.",
+   "v",
+   "J",
+   "J",
+   "S",
+   "S",
+   "&",
+   "S",
+   "&",
+   "&",
+   "$",
+   "-3i",
+   "J",
+   "3t",
+   ".j",
+   "j",
+   "j",
+   ".Jt",
+   ".jt",
+   ".jt",
+   "t4",
+   "Jt",
+   "j",
+   ".t",
+   ".",
+   "y.",
+   "ji",
+   "y",
+   ".ji",
+   "y",
+   "VS",
+   "w",
+   ".",
+   ".",
+   "o",
+   ".",
+   "St",
+   ".",
+   ".",
+   ".."
+  ],
+  "page_seq_num": 83,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_hamlet_ver01\/data\/sn85047084\/00295876670\/1909090701\/0083.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1909-09-07",
+  "publisher": "[publisher not identified]",
+  "score": 0.9930725693702698,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_hamlet_ver01\/data\/sn85047084\/00295876670\/1909090701\/0083\/003_0_99.jpg"
+ },
+ "id": 1085
+}

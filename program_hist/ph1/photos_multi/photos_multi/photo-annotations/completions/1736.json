@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768348,
+   "id": 1736001,
+   "lead_time": 1.469,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aLiX7T92Vc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_greenville_ver01",
+  "box": [
+   0.03295753158141519,
+   0.27711717780707196,
+   0.16420564027590173,
+   0.4381140873785153
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_greenville_ver01\/data\/sn85042354\/00383342971\/1917061501\/0212\/016_0_95.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_greenville_ver01%2Fdata%2Fsn85042354%2F00383342971%2F1917061501%2F0212.jp2\/pct:3.29,27.72,13.13,16.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "M",
+   "\u25a0",
+   "jm",
+   "-",
+   "\u25a0",
+   "FATHER",
+   "T.",
+   "F.",
+   "TTALDBON."
+  ],
+  "page_seq_num": 212,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_greenville_ver01\/data\/sn85042354\/00383342971\/1917061501\/0212.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1917-06-15",
+  "publisher": "J. Milton Davidson",
+  "score": 0.9543387293815613,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_greenville_ver01\/data\/sn85042354\/00383342971\/1917061501\/0212\/016_0_95.jpg"
+ },
+ "id": 1736
+}

@@ -1,0 +1,109 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767988,
+   "id": 1020001,
+   "lead_time": 1.689,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZstzIFDTxj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_falafel_ver01",
+  "box": [
+   0.02784712441495153,
+   0.03294675069084334,
+   0.18167236071674764,
+   0.28475429751466974
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_falafel_ver01\/data\/sn86090528\/00295864485\/1908012801\/1047\/005_0_92.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Grady--Chickasha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_falafel_ver01%2Fdata%2Fsn86090528%2F00295864485%2F1908012801%2F1047.jp2\/pct:2.78,3.3,15.39,25.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090528",
+  "name": "The Chickasha daily express.",
+  "ocr": [
+   "cau:;;::,",
+   "mace",
+   "un",
+   "A",
+   "EURBLN",
+   "TO",
+   "ME.",
+   "yjISS",
+   "ANNIE",
+   "CATRON,",
+   "927",
+   "Main",
+   ".St.,",
+   "CiiiL'imiati,",
+   "Ohio,",
+   "writes:",
+   "\"As",
+   "I",
+   "have",
+   "found",
+   "I'eruna",
+   "a",
+   "blessing",
+   "for",
+   "a",
+   "severe",
+   "case",
+   "of",
+   "catarrh",
+   "of",
+   "the",
+   "head",
+   "nd",
+   "throat",
+   "which",
+   "I",
+   "suffered",
+   "from",
+   "for",
+   "a",
+   "number",
+   "of",
+   "years,",
+   "1",
+   "am",
+   "only",
+   "too",
+   "pleased",
+   "to",
+   "gbe",
+   "it",
+   "my",
+   "personal",
+   "endorsement.",
+   "\"Cutirrh,",
+   "sueh",
+   "as",
+   "I",
+   "suffered",
+   "from,"
+  ],
+  "page_seq_num": 1047,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_falafel_ver01\/data\/sn86090528\/00295864485\/1908012801\/1047.jp2",
+  "place_of_publication": "Chickasha, Indian Territory [Okla.]",
+  "pub_date": "1908-01-28",
+  "publisher": "A.M. Dawson",
+  "score": 0.9252538681030273,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_falafel_ver01\/data\/sn86090528\/00295864485\/1908012801\/1047\/005_0_92.jpg"
+ },
+ "id": 1020
+}

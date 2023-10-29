@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748062,
+   "id": 812001,
+   "lead_time": 1.843,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "DozPVGKV7i",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_alder_ver01",
+  "box": [
+   0.401823557675157,
+   0.6659498347035085,
+   0.6070349938611824,
+   0.8839413572655416
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_alder_ver01\/data\/sn84025811\/00211100515\/1905050501\/0960\/000_0_93.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_alder_ver01%2Fdata%2Fsn84025811%2F00211100515%2F1905050501%2F0960.jp2\/pct:40.18,66.6,20.53,21.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025811",
+  "name": "The Seattle Republican. [volume]",
+  "ocr": [
+   "ever",
+   "became",
+   "SENATOR",
+   "J.",
+   "M.",
+   "FRINK.",
+   "matter,",
+   "so",
+   "he"
+  ],
+  "page_seq_num": 960,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_alder_ver01\/data\/sn84025811\/00211100515\/1905050501\/0960.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1905-05-05",
+  "publisher": "Republican Pub. Co.",
+  "score": 0.9330785870552063,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_alder_ver01\/data\/sn84025811\/00211100515\/1905050501\/0960\/000_0_93.jpg"
+ },
+ "id": 812
+}

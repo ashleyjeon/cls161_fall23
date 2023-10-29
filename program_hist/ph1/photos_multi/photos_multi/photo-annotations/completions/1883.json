@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767386,
+   "id": 1883001,
+   "lead_time": 2.408,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "h_1eqmQQrP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_pielou_ver01",
+  "box": [
+   0.4967912659294388,
+   0.08992029295546945,
+   0.723816453952559,
+   0.3368454463678604
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_pielou_ver01\/data\/sn83030431\/00212474411\/1919030201\/0428\/017_0_92.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_pielou_ver01%2Fdata%2Fsn83030431%2F00212474411%2F1919030201%2F0428.jp2\/pct:49.67,9.0,22.71,24.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030431",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "jjj",
+   "I",
+   "\"President",
+   "Wilson,'",
+   "by",
+   "Louis",
+   "Mark",
+   ";",
+   "on",
+   "view"
+  ],
+  "page_seq_num": 428,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_pielou_ver01\/data\/sn83030431\/00212474411\/1919030201\/0428.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1919-03-02",
+  "publisher": "Sun Print. and Pub. Co.",
+  "score": 0.9226700663566589,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_pielou_ver01\/data\/sn83030431\/00212474411\/1919030201\/0428\/017_0_92.jpg"
+ },
+ "id": 1883
+}

@@ -1,0 +1,113 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747481,
+   "id": 814001,
+   "lead_time": 3.088,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JMrthBLUdo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_ferret_ver01",
+  "box": [
+   0.4401853420590394,
+   0.5604300218004409,
+   0.8016618903584661,
+   0.8065871875810425
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_ferret_ver01\/data\/sn84031081\/00296025240\/1905113001\/0485\/002_0_99.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_ferret_ver01%2Fdata%2Fsn84031081%2F00296025240%2F1905113001%2F0485.jp2\/pct:44.01,56.05,36.15,24.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn84031081",
+  "name": "Albuquerque morning journal. [volume]",
+  "ocr": [
+   "\u00da",
+   "-",
+   "W",
+   "..",
+   "r-",
+   ".\"",
+   "j",
+   "',",
+   "-",
+   "'",
+   "-",
+   "'",
+   "'",
+   "'",
+   "-",
+   "'y",
+   ".yti.",
+   "s'I",
+   "4",
+   "F\u00e1r;",
+   ".",
+   "!--:!",
+   "?-",
+   "U.",
+   "-",
+   ",ff'''",
+   ";V'T'",
+   "?\"--'mK\"XT",
+   "\"\"\"'",
+   "\"",
+   "\"\"\"\"\"",
+   ".",
+   "'",
+   ".",
+   ".",
+   "'",
+   "...",
+   ".'",
+   "...",
+   ".'",
+   ".'",
+   ".",
+   ".",
+   ",",
+   "'",
+   "-",
+   "i",
+   ",",
+   ",",
+   "NEWLY",
+   "COMPLETED",
+   "RESIDENCE",
+   "ov",
+   "w.",
+   "v.",
+   "STRONG.",
+   "A",
+   "TYPE",
+   "OF",
+   "THE",
+   "MODERN",
+   "OJlE",
+   "PIT",
+   "Y"
+  ],
+  "page_seq_num": 485,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_ferret_ver01\/data\/sn84031081\/00296025240\/1905113001\/0485.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1905-11-30",
+  "publisher": "Democrat Pub. Co.",
+  "score": 0.9936733245849609,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_ferret_ver01\/data\/sn84031081\/00296025240\/1905113001\/0485\/002_0_99.jpg"
+ },
+ "id": 814
+}

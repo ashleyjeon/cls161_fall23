@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768412,
+   "id": 1246001,
+   "lead_time": 2.487,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lUYcwkqDPG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_funkley_ver02",
+  "box": [
+   0.06173841444422587,
+   0.24457910840756425,
+   0.2813567017479766,
+   0.3694669444241628
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_funkley_ver02\/data\/sn83016810\/00280768042\/1911102801\/0022\/008_0_93.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook--Chicago",
+   "Minnesota--Hennepin--Minneapolis",
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_funkley_ver02%2Fdata%2Fsn83016810%2F00280768042%2F1911102801%2F0022.jp2\/pct:6.17,24.46,21.97,12.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016810",
+  "name": "The Appeal. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 22,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_funkley_ver02\/data\/sn83016810\/00280768042\/1911102801\/0022.jp2",
+  "place_of_publication": "Saint Paul, Minn. ;",
+  "pub_date": "1911-10-28",
+  "publisher": "Northwestern Pub. Co.",
+  "score": 0.932151734828949,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_funkley_ver02\/data\/sn83016810\/00280768042\/1911102801\/0022\/008_0_93.jpg"
+ },
+ "id": 1246
+}

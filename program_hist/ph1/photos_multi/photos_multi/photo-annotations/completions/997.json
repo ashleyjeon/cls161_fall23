@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748098,
+   "id": 997001,
+   "lead_time": 3.292,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BdG1dhLlF7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_windstar_ver01",
+  "box": [
+   0.18021226292334233,
+   0.6914741731362657,
+   0.428660746153236,
+   0.8145309017743436
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_windstar_ver01\/data\/sn00065127\/00295876566\/1907031501\/0669\/001_0_94.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lincoln--Canton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_windstar_ver01%2Fdata%2Fsn00065127%2F00295876566%2F1907031501%2F0669.jp2\/pct:18.02,69.15,24.85,12.31\/!500,500\/0\/default.jpg",
+  "lccn": "sn00065127",
+  "name": "Dakota farmers' leader.",
+  "ocr": [
+   "Jmm",
+   "gpJut",
+   "made",
+   "from",
+   "photograph",
+   "of",
+   "best",
+   "ten",
+   "ears",
+   "of",
+   "Corn",
+   "exhibited",
+   "at'",
+   "th\u00ab,",
+   "recent",
+   "com",
+   "contest",
+   "at",
+   "Canton",
+   "by",
+   "Andrew",
+   "M.",
+   "Ringheira.",
+   "These",
+   "ten",
+   "e^ts",
+   "scored",
+   "92",
+   "points."
+  ],
+  "page_seq_num": 669,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_windstar_ver01\/data\/sn00065127\/00295876566\/1907031501\/0669.jp2",
+  "place_of_publication": "Canton, S.D.",
+  "pub_date": "1907-03-15",
+  "publisher": "Farmers' Pub. Co.",
+  "score": 0.9428108930587769,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_windstar_ver01\/data\/sn00065127\/00295876566\/1907031501\/0669\/001_0_94.jpg"
+ },
+ "id": 997
+}

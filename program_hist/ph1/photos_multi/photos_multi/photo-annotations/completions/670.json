@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749364,
+   "id": 670001,
+   "lead_time": 2.368,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "juueCfuzjs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_ockham_ver01",
+  "box": [
+   0.7421899799837754,
+   0.595452406799909,
+   0.8570522196405898,
+   0.8338960221670206
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_ockham_ver01\/data\/sn83030193\/175044437\/1903102401\/0627\/006_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_ockham_ver01%2Fdata%2Fsn83030193%2F175044437%2F1903102401%2F0627.jp2\/pct:74.21,59.55,11.49,23.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "U",
+   "S",
+   "MINISTER",
+   "PEARSON",
+   "WHO",
+   "MUST",
+   "PAY",
+   "PINE",
+   "NOT",
+   "RAISING",
+   "STRIKE",
+   "FUND"
+  ],
+  "page_seq_num": 627,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_ockham_ver01\/data\/sn83030193\/175044437\/1903102401\/0627.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1903-10-24",
+  "publisher": "[publisher not identified]",
+  "score": 0.970030665397644,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_ockham_ver01\/data\/sn83030193\/175044437\/1903102401\/0627\/006_0_97.jpg"
+ },
+ "id": 670
+}

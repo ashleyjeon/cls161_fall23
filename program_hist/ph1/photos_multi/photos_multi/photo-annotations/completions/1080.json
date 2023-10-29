@@ -1,0 +1,91 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747214,
+   "id": 1080001,
+   "lead_time": 2.104,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "09lpVnzflH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_protoss_ver01",
+  "box": [
+   0.4230386934603387,
+   0.33233646409584905,
+   0.6118537236449978,
+   0.6148560566492075
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_protoss_ver01\/data\/sn83045462\/00280656276\/1909111401\/0534\/000_0_94.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_protoss_ver01%2Fdata%2Fsn83045462%2F00280656276%2F1909111401%2F0534.jp2\/pct:42.3,33.24,18.89,28.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "i",
+   "i",
+   "r",
+   "i",
+   "W",
+   "?",
+   "if",
+   "-",
+   "\/",
+   "f:",
+   "*&,<",
+   "My",
+   "i",
+   "^",
+   "\\",
+   "k",
+   "J",
+   "Li",
+   "h",
+   "m",
+   "P",
+   "I",
+   "*",
+   "%",
+   "L",
+   "B",
+   "K",
+   "..",
+   ".",
+   "IS",
+   "K'\"j",
+   "f-l:",
+   "i",
+   "|'.1t",
+   "4\/",
+   "I",
+   "*",
+   "\/",
+   "7",
+   "J",
+   "tfo6IfTE?CTIVZ,",
+   "tOr"
+  ],
+  "page_seq_num": 534,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_protoss_ver01\/data\/sn83045462\/00280656276\/1909111401\/0534.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1909-11-14",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9471753239631653,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_protoss_ver01\/data\/sn83045462\/00280656276\/1909111401\/0534\/000_0_94.jpg"
+ },
+ "id": 1080
+}

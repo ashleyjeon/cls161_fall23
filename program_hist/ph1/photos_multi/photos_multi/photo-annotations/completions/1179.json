@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765879,
+   "id": 1179001,
+   "lead_time": 3.792,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VVNrFSIjAa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iahi_gallup_ver01",
+  "box": [
+   0.2510941200007021,
+   0.7194307273793443,
+   0.7623060637829351,
+   0.9248043309862368
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iahi_gallup_ver01\/data\/sn84038095\/0041562296A\/1910033001\/0774\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Iowa--Crawford--Denison",
+   "Iowa--Crawford--Dow City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iahi_gallup_ver01%2Fdata%2Fsn84038095%2F0041562296A%2F1910033001%2F0774.jp2\/pct:25.1,71.95,51.13,20.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn84038095",
+  "name": "The Denison review. [volume]",
+  "ocr": [
+   "llmllpl",
+   "The",
+   "present",
+   "abiding",
+   "place",
+   "of",
+   "the",
+   "Lincoln",
+   "Car.",
+   "It",
+   "is",
+   "housed",
+   "in",
+   "a",
+   "rough",
+   "pine",
+   "shed",
+   "near",
+   "Minneapolis",
+   ".'OWJI"
+  ],
+  "page_seq_num": 774,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iahi_gallup_ver01\/data\/sn84038095\/0041562296A\/1910033001\/0774.jp2",
+  "place_of_publication": "Denison, Iowa",
+  "pub_date": "1910-03-30",
+  "publisher": "James D. Ainsworth",
+  "score": 0.983230710029602,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iahi_gallup_ver01\/data\/sn84038095\/0041562296A\/1910033001\/0774\/000_0_98.jpg"
+ },
+ "id": 1179
+}

@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762883,
+   "id": 1949001,
+   "lead_time": 1.875,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_carver_ver01",
+  "box": [
+   0.13633533824573862,
+   0.3369809514116448,
+   0.3257349187677557,
+   0.6372089044517263
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_carver_ver01\/data\/sn89066315\/00211109208\/1920050701\/0613\/000_0_92.jpg",
+  "geographic_coverage": [
+   "Missouri--Boone--Columbia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_carver_ver01%2Fdata%2Fsn89066315%2F00211109208%2F1920050701%2F0613.jp2\/pct:13.63,33.7,18.94,30.03\/!500,500\/0\/default.jpg",
+  "lccn": "sn89066315",
+  "name": "The Evening Missourian. [volume]",
+  "ocr": [
+   "V",
+   "'tip",
+   "H",
+   "H",
+   "t",
+   "it;",
+   "'",
+   "B",
+   "lllV",
+   "k",
+   "fl",
+   "m",
+   "IS-",
+   "2?",
+   "x",
+   ".fl"
+  ],
+  "page_seq_num": 613,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_carver_ver01\/data\/sn89066315\/00211109208\/1920050701\/0613.jp2",
+  "place_of_publication": "Columbia, Mo.",
+  "pub_date": "1920-05-07",
+  "publisher": "Missourian Association",
+  "score": 0.9229528903961182,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_carver_ver01\/data\/sn89066315\/00211109208\/1920050701\/0613\/000_0_92.jpg"
+ },
+ "id": 1949
+}

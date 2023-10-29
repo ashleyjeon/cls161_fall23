@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768571,
+   "id": 254001,
+   "lead_time": 2.002,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8Crt-UJ2Ui",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_universal_ver01",
+  "box": [
+   0.7317184276795119,
+   0.15123840608208428,
+   0.9612569058879038,
+   0.3681804398066318
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_universal_ver01\/data\/sn83030214\/00175036854\/1898041001\/0204\/003_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_universal_ver01%2Fdata%2Fsn83030214%2F00175036854%2F1898041001%2F0204.jp2\/pct:73.17,15.13,22.96,21.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "i",
+   ".",
+   "KLIZABETII,",
+   "DUCHE88",
+   "OF",
+   "DK",
+   ",",
+   "Kri",
+   "m",
+   "'.",
+   "t?ld",
+   ";"
+  ],
+  "page_seq_num": 204,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_universal_ver01\/data\/sn83030214\/00175036854\/1898041001\/0204.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-04-10",
+  "publisher": "New York Tribune",
+  "score": 0.9657579064369202,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_universal_ver01\/data\/sn83030214\/00175036854\/1898041001\/0204\/003_0_96.jpg"
+ },
+ "id": 254
+}

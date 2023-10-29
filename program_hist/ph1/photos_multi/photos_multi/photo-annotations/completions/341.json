@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768305,
+   "id": 341001,
+   "lead_time": 3.274,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0JX-c4zoP6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_kaiser_ver01",
+  "box": [
+   0.2955538741941374,
+   0.28022091759957246,
+   0.7448671749290735,
+   0.6405826984065595
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_kaiser_ver01\/data\/sn83030214\/00175036994\/1899040901\/0190\/001_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_kaiser_ver01%2Fdata%2Fsn83030214%2F00175036994%2F1899040901%2F0190.jp2\/pct:29.55,28.03,44.94,36.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "?",
+   "THE",
+   "KWO-TZE-KEEX.",
+   "OR",
+   "NATI",
+   "UNA!;",
+   "UNIVERSITY",
+   "OF",
+   "\"MINA."
+  ],
+  "page_seq_num": 190,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_kaiser_ver01\/data\/sn83030214\/00175036994\/1899040901\/0190.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1899-04-09",
+  "publisher": "New York Tribune",
+  "score": 0.9645547270774841,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_kaiser_ver01\/data\/sn83030214\/00175036994\/1899040901\/0190\/001_0_96.jpg"
+ },
+ "id": 341
+}

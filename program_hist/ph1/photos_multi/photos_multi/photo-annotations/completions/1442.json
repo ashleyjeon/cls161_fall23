@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768750,
+   "id": 1442001,
+   "lead_time": 5.055,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YcauYbuRcB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_naismith_ver01",
+  "box": [
+   0.29340949891105533,
+   0.5461717883905414,
+   0.5702448042612227,
+   0.6845864496397046
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_naismith_ver01\/data\/sn83030214\/0020653171A\/1913110901\/0232\/010_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_naismith_ver01%2Fdata%2Fsn83030214%2F0020653171A%2F1913110901%2F0232.jp2\/pct:29.34,54.62,27.69,13.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "THE",
+   "PARTHENON.",
+   "watei",
+   "i"
+  ],
+  "page_seq_num": 232,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_naismith_ver01\/data\/sn83030214\/0020653171A\/1913110901\/0232.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1913-11-09",
+  "publisher": "New York Tribune",
+  "score": 0.9461102485656738,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_naismith_ver01\/data\/sn83030214\/0020653171A\/1913110901\/0232\/010_0_94.jpg"
+ },
+ "id": 1442
+}

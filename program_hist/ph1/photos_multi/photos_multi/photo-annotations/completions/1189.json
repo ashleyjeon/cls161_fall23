@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768844,
+   "id": 1189001,
+   "lead_time": 1.577,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "D6yjBugpv6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_dogwood_ver01",
+  "box": [
+   0.7318096203368597,
+   0.2060696578431445,
+   0.8438629626165786,
+   0.3579656820892161
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_dogwood_ver01\/data\/sn88085187\/00211108198\/1910100801\/0269\/006_0_91.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_dogwood_ver01%2Fdata%2Fsn88085187%2F00211108198%2F1910100801%2F0269.jp2\/pct:73.18,20.61,11.21,15.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "IN",
+   "THE",
+   "PUBLIC",
+   "EYE",
+   "LdLilAiX",
+   "M.",
+   "N.",
+   "STEVENS."
+  ],
+  "page_seq_num": 269,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_dogwood_ver01\/data\/sn88085187\/00211108198\/1910100801\/0269.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1910-10-08",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9166320562362671,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_dogwood_ver01\/data\/sn88085187\/00211108198\/1910100801\/0269\/006_0_91.jpg"
+ },
+ "id": 1189
+}

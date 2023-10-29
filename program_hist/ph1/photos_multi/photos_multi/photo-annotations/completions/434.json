@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743087,
+   "id": 434001,
+   "lead_time": 1.917,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HVQH6X0LO_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_leibniz_ver01",
+  "box": [
+   0.14500377077618545,
+   0.4540927854482025,
+   0.37379122372004886,
+   0.6944373355457664
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_leibniz_ver01\/data\/sn83030193\/100481534\/1900110701\/0581\/013_0_92.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_leibniz_ver01%2Fdata%2Fsn83030193%2F100481534%2F1900110701%2F0581.jp2\/pct:14.5,45.41,22.88,24.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "SENATOR",
+   "DEPEWS",
+   "NIECE",
+   "WEDS",
+   "NEW",
+   "YORK",
+   "LAWYER",
+   "DR",
+   "CLiat",
+   "JI",
+   "ft",
+   "STRANO",
+   "U"
+  ],
+  "page_seq_num": 581,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_leibniz_ver01\/data\/sn83030193\/100481534\/1900110701\/0581.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1900-11-07",
+  "publisher": "[publisher not identified]",
+  "score": 0.9296319484710693,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_leibniz_ver01\/data\/sn83030193\/100481534\/1900110701\/0581\/013_0_92.jpg"
+ },
+ "id": 434
+}

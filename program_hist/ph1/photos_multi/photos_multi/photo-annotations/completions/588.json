@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747955,
+   "id": 588001,
+   "lead_time": 3.476,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GvffQprOaR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_barberry_ver04",
+  "box": [
+   0.6791634744043509,
+   0.05224858347164025,
+   0.9375298094354282,
+   0.20412175143092437
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_barberry_ver04\/data\/sn92070446\/00280774480\/1902120501\/0755\/003_0_96.jpg",
+  "geographic_coverage": [
+   "New Mexico--San Juan--Aztec"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_barberry_ver04%2Fdata%2Fsn92070446%2F00280774480%2F1902120501%2F0755.jp2\/pct:67.91,5.23,25.84,15.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070446",
+  "name": "The San Juan County index.",
+  "ocr": [
+   "f-",
+   "t-",
+   "i",
+   "f",
+   "sos",
+   "Pc-rB-na",
+   "$",
+   "For",
+   "Go!i!o",
+   ",'",
+   "'",
+   "!n",
+   "F",
+   "!",
+   "j",
+   "r",
+   "I!",
+   "Ilk)",
+   "Liail",
+   "(ii\u00ed",
+   "nn,",
+   "t",
+   "t.",
+   "-",
+   "ii",
+   "V.:\"'-",
+   "\"--",
+   "-.,-",
+   "-",
+   "-.-",
+   "-\"--'",
+   "e",
+   "',-r.",
+   "-",
+   ".",
+   "i",
+   "-r.r'\u00ed",
+   "CAPITOL",
+   "BUILDING",
+   "SALEM.",
+   "OREGON."
+  ],
+  "page_seq_num": 755,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_barberry_ver04\/data\/sn92070446\/00280774480\/1902120501\/0755.jp2",
+  "place_of_publication": "Aztec, N.M.",
+  "pub_date": "1902-12-05",
+  "publisher": "Allen T. Bard",
+  "score": 0.9665557742118835,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_barberry_ver04\/data\/sn92070446\/00280774480\/1902120501\/0755\/003_0_96.jpg"
+ },
+ "id": 588
+}

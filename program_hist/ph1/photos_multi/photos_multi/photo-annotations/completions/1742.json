@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743102,
+   "id": 1742001,
+   "lead_time": 7.011,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_DkU0WBWkM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_davey_ver01",
+  "box": [
+   0.6372362889281107,
+   0.7478747882674226,
+   0.998813874130949,
+   0.9643049121957965
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_davey_ver01\/data\/sn83045211\/00237287678\/1917092501\/0129\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_davey_ver01%2Fdata%2Fsn83045211%2F00237287678%2F1917092501%2F0129.jp2\/pct:63.72,74.79,36.16,21.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "j",
+   ".",
+   "AN",
+   "nirrnnnn",
+   "m",
+   "accs",
+   "im",
+   "tiht",
+   "Aivrtrpirs",
+   "nv",
+   "knots",
+   "AND",
+   "SPLICES",
+   "'",
+   "The",
+   "seamanship",
+   "drill",
+   "la",
+   "one",
+   "of",
+   "the",
+   "jnost",
+   "interesting",
+   "experiences",
+   "of",
+   "the",
+   "erstwhile",
+   "InhdluM",
+   "ke",
+   "MiMU",
+   "bi",
+   "BroMt",
+   "our",
+   "eoew",
+   "n",
+   "v",
+   ".",
+   "-.",
+   ".j",
+   ",fikj!aAr",
+   "jjfciJi,",
+   "i",
+   "m'j"
+  ],
+  "page_seq_num": 129,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_davey_ver01\/data\/sn83045211\/00237287678\/1917092501\/0129.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1917-09-25",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9639240503311157,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_davey_ver01\/data\/sn83045211\/00237287678\/1917092501\/0129\/001_0_96.jpg"
+ },
+ "id": 1742
+}

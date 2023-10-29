@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757170,
+   "id": 464001,
+   "lead_time": 16.268,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KgyJfDXMHT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_edmund_ver02",
+  "box": [
+   0.4794402971059666,
+   0.5545967090847559,
+   0.6307895804929678,
+   0.7276361272198513
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_edmund_ver02\/data\/sn85047084\/00296024697\/1901080801\/0525\/004_0_99.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_edmund_ver02%2Fdata%2Fsn85047084%2F00296024697%2F1901080801%2F0525.jp2\/pct:47.94,55.46,15.14,17.31\/!500,500\/0\/default.jpg",
+  "lccn": "sn85047084",
+  "name": "The Pacific commercial advertiser. [volume]",
+  "ocr": [
+   "i",
+   ".",
+   ".",
+   "l",
+   "It-",
+   "I",
+   "-",
+   ",",
+   ":",
+   "'\"\"",
+   "Commissioner",
+   "Rose",
+   "K.",
+   "Davisofl."
+  ],
+  "page_seq_num": 525,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_edmund_ver02\/data\/sn85047084\/00296024697\/1901080801\/0525.jp2",
+  "place_of_publication": "Honolulu, Hawaiian Islands",
+  "pub_date": "1901-08-08",
+  "publisher": "[publisher not identified]",
+  "score": 0.991067111492157,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_edmund_ver02\/data\/sn85047084\/00296024697\/1901080801\/0525\/004_0_99.jpg"
+ },
+ "id": 464
+}

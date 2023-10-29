@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749387,
+   "id": 979001,
+   "lead_time": 1.922,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cTDiQ1hb-y",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_anthony_ver01",
+  "box": [
+   0.2929030524359809,
+   0.7571010231652144,
+   0.4200512061372471,
+   0.9131538997919459
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_anthony_ver01\/data\/sn84020504\/00332897159\/1907122401\/0945\/006_0_98.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_anthony_ver01%2Fdata%2Fsn84020504%2F00332897159%2F1907122401%2F0945.jp2\/pct:29.29,75.72,12.72,15.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020504",
+  "name": "The Evening star and Newark advertiser. [volume]",
+  "ocr": [
+   "Jlzjrmle\/",
+   "Mhr\u00aei$ht",
+   ".",
+   "in'",
+   "Tke",
+   "Davr\u00bbymaT<3.s'",
+   "m.-t",
+   "fke",
+   "Iievva.T'\"k."
+  ],
+  "page_seq_num": 945,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_anthony_ver01\/data\/sn84020504\/00332897159\/1907122401\/0945.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1907-12-24",
+  "publisher": "Newark Daily Advertiser Pub. Co.",
+  "score": 0.9877419471740723,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_anthony_ver01\/data\/sn84020504\/00332897159\/1907122401\/0945\/006_0_98.jpg"
+ },
+ "id": 979
+}

@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768698,
+   "id": 354001,
+   "lead_time": 1.68,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZVAxmydA5A",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_emerson_ver01",
+  "box": [
+   0.08350925139564881,
+   0.7472735381006596,
+   0.259352434127726,
+   0.9195348691700691
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899091701\/0828\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_emerson_ver01%2Fdata%2Fsn99021999%2F00206539483%2F1899091701%2F0828.jp2\/pct:8.35,74.73,17.59,17.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "I'UO1'\\",
+   ".",
+   "II",
+   "KHI.hV.",
+   "Hccrelury",
+   "American",
+   "School",
+   "of"
+  ],
+  "page_seq_num": 828,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899091701\/0828.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1899-09-17",
+  "publisher": "Edward Rosewater",
+  "score": 0.9487473964691162,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899091701\/0828\/002_0_94.jpg"
+ },
+ "id": 354
+}

@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767876,
+   "id": 1601001,
+   "lead_time": 3.69,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PbpHCpA8-M",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_felwort_ver01",
+  "box": [
+   0.28193906084376963,
+   0.5307268331419609,
+   0.5416457976528148,
+   0.7872551909784762
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_felwort_ver01\/data\/sn92070582\/00280773918\/1915052001\/0820\/003_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_felwort_ver01%2Fdata%2Fsn92070582%2F00280773918%2F1915052001%2F0820.jp2\/pct:28.19,53.08,25.98,25.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070582",
+  "name": "The evening herald. [volume]",
+  "ocr": [
+   "Of",
+   "the",
+   "Sea",
+   "For",
+   "Photoplay",
+   "5"
+  ],
+  "page_seq_num": 820,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_felwort_ver01\/data\/sn92070582\/00280773918\/1915052001\/0820.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1915-05-20",
+  "publisher": "The Evening Herald",
+  "score": 0.9706935286521912,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_felwort_ver01\/data\/sn92070582\/00280773918\/1915052001\/0820\/003_0_97.jpg"
+ },
+ "id": 1601
+}

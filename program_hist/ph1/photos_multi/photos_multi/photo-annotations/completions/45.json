@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747962,
+   "id": 45001,
+   "lead_time": 1.56,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ln7DuXSY9t",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "scu_dogwood_ver01",
+  "box": [
+   0.6521396112744451,
+   0.3853284820474824,
+   0.8038967527748414,
+   0.5302023798147412
+  ],
+  "edition_seq_num": 1,
+  "filepath": "scu_dogwood_ver01\/data\/sn84026925\/00295862208\/1895032901\/0019\/000_0_91.jpg",
+  "geographic_coverage": [
+   "South Carolina--York--York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295862208%2F1895032901%2F0019.jp2\/pct:65.21,38.54,15.18,14.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026925",
+  "name": "Yorkville enquirer. [volume]",
+  "ocr": [
+   "V",
+   "H",
+   "ifl"
+  ],
+  "page_seq_num": 19,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/scu_dogwood_ver01\/data\/sn84026925\/00295862208\/1895032901\/0019.jp2",
+  "place_of_publication": "Yorkville, S.C.",
+  "pub_date": "1895-03-29",
+  "publisher": null,
+  "score": 0.9106028079986572,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/scu_dogwood_ver01\/data\/sn84026925\/00295862208\/1895032901\/0019\/000_0_91.jpg"
+ },
+ "id": 45
+}

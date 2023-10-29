@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741284,
+   "id": 1859001,
+   "lead_time": 2.556,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jTCm1q-xdu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_dillpickle_ver01",
+  "box": [
+   0.8146471905451949,
+   0.05434745609959631,
+   0.9316515850764449,
+   0.2648736449787051
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_dillpickle_ver01\/data\/sn86063952\/00295864369\/1919021101\/0293\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_dillpickle_ver01%2Fdata%2Fsn86063952%2F00295864369%2F1919021101%2F0293.jp2\/pct:81.46,5.44,11.71,21.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "As;stt",
+   "Ury",
+   "Cut",
+   "YSffc&M",
+   "C-xutur",
+   "Mide",
+   "Xt:e",
+   "\"fc",
+   "4t",
+   "e",
+   "!",
+   "V",
+   "A",
+   "i",
+   "i",
+   "i",
+   "-",
+   "s:l",
+   "f",
+   "1",
+   ")",
+   ";f",
+   "1",
+   "N"
+  ],
+  "page_seq_num": 293,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864369\/1919021101\/0293.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1919-02-11",
+  "publisher": "Roy Hoffman",
+  "score": 0.9782991409301758,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864369\/1919021101\/0293\/001_0_97.jpg"
+ },
+ "id": 1859
+}

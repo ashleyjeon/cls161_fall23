@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673605,
+   "id": 1459001,
+   "lead_time": 2.019,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Iv2TCAYdxG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_granite_ver01",
+  "box": [
+   0.19623038109312665,
+   0.12180533551606476,
+   0.30974354304320423,
+   0.3486374357328223
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_granite_ver01\/data\/sn82014682\/0021247129A\/1913070101\/0237\/007_0_93.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_granite_ver01%2Fdata%2Fsn82014682%2F0021247129A%2F1913070101%2F0237.jp2\/pct:19.62,12.19,11.36,22.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014682",
+  "name": "Honolulu star-bulletin. [volume]",
+  "ocr": [
+   "'",
+   "'",
+   "-",
+   "-'\"'.",
+   "\"7\"",
+   "?",
+   "!",
+   "'",
+   ":",
+   "i",
+   "i",
+   ";"
+  ],
+  "page_seq_num": 237,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_granite_ver01\/data\/sn82014682\/0021247129A\/1913070101\/0237.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1913-07-01",
+  "publisher": "[P.T. Gialanella]",
+  "score": 0.9354472160339355,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_granite_ver01\/data\/sn82014682\/0021247129A\/1913070101\/0237\/007_0_93.jpg"
+ },
+ "id": 1459
+}

@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746864,
+   "id": 698001,
+   "lead_time": 1.944,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yLCYkW2Y3u",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_otterhound_ver01",
+  "box": [
+   0.023915113707279233,
+   0.602889663175139,
+   0.15392582864351062,
+   0.7664318857352065
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_otterhound_ver01\/data\/sn83045462\/00280655478\/1904070601\/0462\/000_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_otterhound_ver01%2Fdata%2Fsn83045462%2F00280655478%2F1904070601%2F0462.jp2\/pct:2.39,60.29,13.01,16.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "John",
+   "Sharp",
+   "Williams."
+  ],
+  "page_seq_num": 462,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_otterhound_ver01\/data\/sn83045462\/00280655478\/1904070601\/0462.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1904-07-06",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9810630679130554,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_otterhound_ver01\/data\/sn83045462\/00280655478\/1904070601\/0462\/000_0_98.jpg"
+ },
+ "id": 698
+}

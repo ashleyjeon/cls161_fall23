@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673628,
+   "id": 1264001,
+   "lead_time": 5.523,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5XIdmMykX6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_kellerman_ver01",
+  "box": [
+   0.20848213847558103,
+   0.07725697898357922,
+   0.4934877941955873,
+   0.2518736549559898
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_kellerman_ver01\/data\/sn86091130\/00415668971\/1911051201\/0366\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Idaho--Cassia--Oakley"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_kellerman_ver01%2Fdata%2Fsn86091130%2F00415668971%2F1911051201%2F0366.jp2\/pct:20.84,7.73,28.51,17.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091130",
+  "name": "The Oakley herald. [volume]",
+  "ocr": [
+   "o.",
+   "<20",
+   "\/A",
+   "'A",
+   "a",
+   "A",
+   "\\",
+   "Hi",
+   "if-'",
+   "A",
+   "7mt",
+   "c\/?f\/ir",
+   "s?oojjryjTAT",
+   "da\/v"
+  ],
+  "page_seq_num": 366,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_kellerman_ver01\/data\/sn86091130\/00415668971\/1911051201\/0366.jp2",
+  "place_of_publication": "Oakley, Idaho",
+  "pub_date": "1911-05-12",
+  "publisher": "A.A. Tanner",
+  "score": 0.9616772532463074,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_kellerman_ver01\/data\/sn86091130\/00415668971\/1911051201\/0366\/001_0_96.jpg"
+ },
+ "id": 1264
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747651,
+   "id": 1261001,
+   "lead_time": 11.712,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "N6SYEJjgbu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_abbeyville_ver01",
+  "box": [
+   0.05415527930626502,
+   0.6821265453907139,
+   0.1994927509014423,
+   0.8683758454653726
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_abbeyville_ver01\/data\/sn91052311\/00279550742\/1911121601\/0532\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Colorado--Denver--Denver"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_abbeyville_ver01%2Fdata%2Fsn91052311%2F00279550742%2F1911121601%2F0532.jp2\/pct:5.41,68.22,14.54,18.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn91052311",
+  "name": "Franklin's paper the statesman.",
+  "ocr": [
+   "L>lt.",
+   "K.",
+   "F..",
+   "SMITH."
+  ],
+  "page_seq_num": 532,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_abbeyville_ver01\/data\/sn91052311\/00279550742\/1911121601\/0532.jp2",
+  "place_of_publication": "Denver, Colo.",
+  "pub_date": "1911-12-16",
+  "publisher": "C.A. Franklin",
+  "score": 0.946742057800293,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_abbeyville_ver01\/data\/sn91052311\/00279550742\/1911121601\/0532\/004_0_94.jpg"
+ },
+ "id": 1261
+}

@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751010,
+   "id": 765001,
+   "lead_time": 4.44,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4ywXpnB6TS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_liberia_ver01",
+  "box": [
+   0.49948920578253075,
+   0.04241217583161712,
+   0.9334011390560963,
+   0.365183279188679
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_liberia_ver01\/data\/sn83030214\/00175042337\/1904073101\/0635\/003_0_93.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_liberia_ver01%2Fdata%2Fsn83030214%2F00175042337%2F1904073101%2F0635.jp2\/pct:49.94,4.25,43.4,32.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "MRS.",
+   "EDWARD",
+   "R.",
+   "LADEWS",
+   "KATZEN",
+   "JAMMER",
+   "KID."
+  ],
+  "page_seq_num": 635,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_liberia_ver01\/data\/sn83030214\/00175042337\/1904073101\/0635.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1904-07-31",
+  "publisher": "New York Tribune",
+  "score": 0.9390979409217834,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_liberia_ver01\/data\/sn83030214\/00175042337\/1904073101\/0635\/003_0_93.jpg"
+ },
+ "id": 765
+}

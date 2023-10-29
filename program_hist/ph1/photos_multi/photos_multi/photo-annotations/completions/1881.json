@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749216,
+   "id": 1881001,
+   "lead_time": 2.889,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-XCkn-VmYD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_kingsolver_ver01",
+  "box": [
+   0.30103385507763913,
+   0.1781398057937622,
+   0.8460432213930348,
+   0.5195821523666382
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_kingsolver_ver01\/data\/sn88056024\/00415666780\/1919092301\/0348\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Idaho--Ada--Boise"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_kingsolver_ver01%2Fdata%2Fsn88056024%2F00415666780%2F1919092301%2F0348.jp2\/pct:30.1,17.82,54.51,34.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn88056024",
+  "name": "Evening capital news.",
+  "ocr": [
+   ",",
+   "_",
+   "i",
+   "j",
+   "\u2022",
+   "SCENES",
+   "IN",
+   "EASTERN",
+   "CITIES",
+   "AFTER",
+   "THE",
+   "STEEL",
+   "STRIKERS",
+   "WALKED",
+   "OUT.",
+   "*9C",
+   "\u2022",
+   "W\/W#",
+   "Striker\u00bb",
+   "parading",
+   "through",
+   "city",
+   "to",
+   "bring",
+   "their",
+   "oaueee",
+   "before",
+   "the",
+   "people,",
+   "above",
+   "at",
+   "left.",
+   "At",
+   "right,",
+   "etrlklng",
+   "union",
+   "men",
+   "awaiting",
+   "new*",
+   "from",
+   "\"the",
+   "front\"",
+   "at",
+   "union"
+  ],
+  "page_seq_num": 348,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_kingsolver_ver01\/data\/sn88056024\/00415666780\/1919092301\/0348.jp2",
+  "place_of_publication": "Boise, Idaho",
+  "pub_date": "1919-09-23",
+  "publisher": "Capital News Pub. Co.",
+  "score": 0.9811235070228577,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_kingsolver_ver01\/data\/sn88056024\/00415666780\/1919092301\/0348\/005_0_98.jpg"
+ },
+ "id": 1881
+}

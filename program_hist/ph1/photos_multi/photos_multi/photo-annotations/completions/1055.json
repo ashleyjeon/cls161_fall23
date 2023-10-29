@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768812,
+   "id": 1055001,
+   "lead_time": 2.254,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "akJmW30SzX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_anthony_ver01",
+  "box": [
+   0.30578124424874853,
+   0.07708492065113716,
+   0.9539901320027238,
+   0.2766376327501483
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_anthony_ver01\/data\/sn91064009\/00332897172\/1908050601\/0433\/006_0_98.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_anthony_ver01%2Fdata%2Fsn91064009%2F00332897172%2F1908050601%2F0433.jp2\/pct:30.57,7.71,64.83,19.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn91064009",
+  "name": "The star and Newark advertiser.",
+  "ocr": [
+   "IF",
+   "YOU",
+   "SF.R",
+   "YOURSELF",
+   "WITHIN",
+   "THESE",
+   "WHITE",
+   "CIRCLES",
+   "COME",
+   "AND"
+  ],
+  "page_seq_num": 433,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_anthony_ver01\/data\/sn91064009\/00332897172\/1908050601\/0433.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1908-05-06",
+  "publisher": "Newark Daily Pub. Co.",
+  "score": 0.9826948046684265,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_anthony_ver01\/data\/sn91064009\/00332897172\/1908050601\/0433\/006_0_98.jpg"
+ },
+ "id": 1055
+}

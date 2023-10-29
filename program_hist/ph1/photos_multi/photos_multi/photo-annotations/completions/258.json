@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611676198,
+   "id": 258001,
+   "lead_time": 1.728,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9qNrD89prO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_ibizanhound_ver01",
+  "box": [
+   0.30087558013882143,
+   0.39121991622546487,
+   0.43222540411912114,
+   0.5555005286350723
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_ibizanhound_ver01\/data\/sn83045462\/0028065520A\/1898070501\/0761\/000_0_96.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_ibizanhound_ver01%2Fdata%2Fsn83045462%2F0028065520A%2F1898070501%2F0761.jp2\/pct:30.08,39.13,13.14,16.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Cnpt.",
+   "Robley",
+   "D.",
+   "Rrnns,",
+   "(From",
+   "Photograph",
+   "by",
+   "Prince.)"
+  ],
+  "page_seq_num": 761,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_ibizanhound_ver01\/data\/sn83045462\/0028065520A\/1898070501\/0761.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1898-07-05",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9664377570152283,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_ibizanhound_ver01\/data\/sn83045462\/0028065520A\/1898070501\/0761\/000_0_96.jpg"
+ },
+ "id": 258
+}

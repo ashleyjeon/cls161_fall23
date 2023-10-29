@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748059,
+   "id": 1096001,
+   "lead_time": 2.194,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xeqQktTU6t",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_bacala_ver01",
+  "box": [
+   0.2911803383439019,
+   0.09399270885316285,
+   0.6920188264163123,
+   0.2841722127099394
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_bacala_ver01\/data\/sn91064010\/00332896015\/1909042301\/0703\/011_0_98.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_bacala_ver01%2Fdata%2Fsn91064010%2F00332896015%2F1909042301%2F0703.jp2\/pct:29.11,9.4,40.09,19.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn91064010",
+  "name": "The Newark star and Newark advertiser.",
+  "ocr": [
+   "THE",
+   "STAR",
+   "WILL",
+   "GIVE",
+   "BASEBALL",
+   "TICKETS",
+   "TO",
+   "THOSE",
+   "MARKED",
+   "BY",
+   "(X)",
+   "IN",
+   "THIS",
+   "PICTURE",
+   "i-\u2014-I-\u2014---\u2014-!|",
+   "mu",
+   "n'T\u2014",
+   "that",
+   "David",
+   "shot",
+   "of",
+   "of",
+   "fans",
+   "during",
+   "the"
+  ],
+  "page_seq_num": 703,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_bacala_ver01\/data\/sn91064010\/00332896015\/1909042301\/0703.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1909-04-23",
+  "publisher": "Newark Daily Advertiser Pub. Co.",
+  "score": 0.9853963255882263,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_bacala_ver01\/data\/sn91064010\/00332896015\/1909042301\/0703\/011_0_98.jpg"
+ },
+ "id": 1096
+}

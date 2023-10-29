@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747461,
+   "id": 1689001,
+   "lead_time": 4.628,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jM_cO8EgL8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_bode_ver03",
+  "box": [
+   0.040706388556244505,
+   0.7276838898119344,
+   0.444137018702374,
+   0.9520059300763575
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_bode_ver03\/data\/sn83045081\/print\/1916091701\/6735\/004_0_92.jpg",
+  "geographic_coverage": [
+   "Maryland--Baltimore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_bode_ver03%2Fdata%2Fsn83045081%2Fprint%2F1916091701%2F6735.jp2\/pct:4.07,72.77,40.35,22.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045081",
+  "name": "Der Deutsche correspondent. [volume]",
+  "ocr": [
+   "..\u201e.WM,",
+   "\u2014\u2014",
+   "-",
+   ">->",
+   ">",
+   ">",
+   "'",
+   ".s",
+   ",",
+   "'",
+   ">",
+   ",",
+   "\/",
+   "\"",
+   "-",
+   "V.",
+   ".",
+   ",",
+   "'",
+   "-",
+   "Bayerische",
+   "Chevaulegers",
+   "raste",
+   "nach",
+   "eine,",
+   "Patronillenritt",
+   "i",
+   "rinri",
+   "srnnz\u00f6si",
+   "scheu",
+   "Geh\u00f6ft",
+   "an",
+   "der",
+   "Maas."
+  ],
+  "page_seq_num": 6735,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_bode_ver03\/data\/sn83045081\/print\/1916091701\/6735.jp2",
+  "place_of_publication": "Baltimore, Md.",
+  "pub_date": "1916-09-17",
+  "publisher": "F. Raine",
+  "score": 0.9230214357376099,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_bode_ver03\/data\/sn83045081\/print\/1916091701\/6735\/004_0_92.jpg"
+ },
+ "id": 1689
+}

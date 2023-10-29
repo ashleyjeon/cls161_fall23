@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675669,
+   "id": 396001,
+   "lead_time": 3.165,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kHro1gYW9X",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "me_aroostook_ver01",
+  "box": [
+   0.342891106238732,
+   0.03695611118541958,
+   0.6253128503201276,
+   0.2261907573630028
+  ],
+  "edition_seq_num": 1,
+  "filepath": "me_aroostook_ver01\/data\/sn84022374\/00332895473\/1900112801\/0384\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Maine--Hancock--Ellsworth"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/me_aroostook_ver01%2Fdata%2Fsn84022374%2F00332895473%2F1900112801%2F0384.jp2\/pct:34.28,3.7,28.25,18.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022374",
+  "name": "Ellsworth American. [volume]",
+  "ocr": [
+   "RAILROAD",
+   "COMMISSIONER",
+   "PARKER",
+   "SPOFFORD,'"
+  ],
+  "page_seq_num": 384,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/me_aroostook_ver01\/data\/sn84022374\/00332895473\/1900112801\/0384.jp2",
+  "place_of_publication": "Ellsworth, Me.",
+  "pub_date": "1900-11-28",
+  "publisher": "Wm. H. Chaney",
+  "score": 0.9646455645561218,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/me_aroostook_ver01\/data\/sn84022374\/00332895473\/1900112801\/0384\/000_0_96.jpg"
+ },
+ "id": 396
+}

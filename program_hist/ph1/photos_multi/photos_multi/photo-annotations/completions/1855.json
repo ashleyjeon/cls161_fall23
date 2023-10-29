@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673423,
+   "id": 1855001,
+   "lead_time": 0.897,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aKuccBRYG7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_dumas_ver01",
+  "box": [
+   0.19862304464743955,
+   0.04783229330013079,
+   0.4512110058118537,
+   0.3570717057057268
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_dumas_ver01\/data\/sn84031081\/00415626642\/1919011001\/0095\/004_0_96.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_dumas_ver01%2Fdata%2Fsn84031081%2F00415626642%2F1919011001%2F0095.jp2\/pct:19.86,4.79,25.26,30.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn84031081",
+  "name": "Albuquerque morning journal. [volume]",
+  "ocr": [
+   "Fight",
+   "For",
+   "Justice",
+   "of",
+   "Peace",
+   "Under",
+   "Way",
+   "on",
+   "North",
+   "Side",
+   "Between",
+   "Burg",
+   "and",
+   "McClellan",
+   "John",
+   "Haron",
+   "I'.tir,?,",
+   "I'cpii'dlcan",
+   "camildatc",
+   "fur",
+   "justice",
+   "of",
+   "the",
+   "Peace",
+   "in",
+   "Twelfth",
+   "I'mliiit,",
+   "J.",
+   ")",
+   "1",
+   "'",
+   "Jf",
+   "Is",
+   "\"J",
+   "i"
+  ],
+  "page_seq_num": 95,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_dumas_ver01\/data\/sn84031081\/00415626642\/1919011001\/0095.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1919-01-10",
+  "publisher": "Democrat Pub. Co.",
+  "score": 0.9672598242759705,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_dumas_ver01\/data\/sn84031081\/00415626642\/1919011001\/0095\/004_0_96.jpg"
+ },
+ "id": 1855
+}

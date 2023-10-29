@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768774,
+   "id": 1162001,
+   "lead_time": 1.669,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "g1z_pDO5HI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_hufnagel_ver02",
+  "box": [
+   0.158861608090608,
+   0.23543868105635685,
+   0.4183631896972656,
+   0.49998325445713143
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_hufnagel_ver02\/data\/97071090\/00200298159\/1910110901\/0069\/018_0_93.jpg",
+  "geographic_coverage": [
+
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_hufnagel_ver02%2Fdata%2F97071090%2F00200298159%2F1910110901%2F0069.jp2\/pct:15.88,23.55,25.96,26.46\/!500,500\/0\/default.jpg",
+  "lccn": "97071090",
+  "name": "Medford mail tribune. (Medford, Or.) 1909-1989. [online resource]",
+  "ocr": [
+   "S",
+   "IT1",
+   "Oregon's",
+   "Governor",
+   "Elecfl",
+   "B&1",
+   "'",
+   "'''",
+   "\"\"ill?",
+   "sHIHHHh"
+  ],
+  "page_seq_num": 69,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_hufnagel_ver02\/data\/97071090\/00200298159\/1910110901\/0069.jp2",
+  "place_of_publication": "Oregon.",
+  "pub_date": "1910-11-09",
+  "publisher": null,
+  "score": 0.934579610824585,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_hufnagel_ver02\/data\/97071090\/00200298159\/1910110901\/0069\/018_0_93.jpg"
+ },
+ "id": 1162
+}

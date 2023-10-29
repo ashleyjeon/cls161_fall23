@@ -1,0 +1,40 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768755,
+   "id": 237001,
+   "lead_time": 1.934,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_edsel_ver01",
+  "box": [
+   0.3625929625445704,
+   0.12022406050949148,
+   0.6268225618549976,
+   0.27314408855041133
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_edsel_ver01\/data\/sn89081022\/00212472736\/1898061401\/0196\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Minnesota--Kandiyohi--Willmar"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_edsel_ver01%2Fdata%2Fsn89081022%2F00212472736%2F1898061401%2F0196.jp2\/pct:36.25,12.03,26.43,15.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn89081022",
+  "name": "Willmar tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 196,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_edsel_ver01\/data\/sn89081022\/00212472736\/1898061401\/0196.jp2",
+  "place_of_publication": "Willmar, Minn.",
+  "pub_date": "1898-06-14",
+  "publisher": "[publisher not identified]",
+  "score": 0.9707114696502686,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_edsel_ver01\/data\/sn89081022\/00212472736\/1898061401\/0196\/000_0_97.jpg"
+ },
+ "id": 237
+}

@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747590,
+   "id": 947001,
+   "lead_time": 5.126,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qbCgulhadL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_romeo_ver01",
+  "box": [
+   0.5576398054325613,
+   0.12314372871161332,
+   0.9549159189444255,
+   0.4978656280411981
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_romeo_ver01\/data\/sn84026749\/100492532\/1907072101\/0821\/000_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_romeo_ver01%2Fdata%2Fsn84026749%2F100492532%2F1907072101%2F0821.jp2\/pct:55.76,12.32,39.73,37.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "hEAR",
+   "f",
+   "AJec",
+   "CoofJvsfT",
+   "c",
+   "OJJZlG",
+   "b",
+   "JrEReYr",
+   "3a",
+   "P",
+   "3TsYo2r2",
+   "3TsYo2r29TJy0",
+   "LffT",
+   "Vow",
+   "TIizr",
+   "TIizrATlfoYPuBl",
+   "+",
+   "ATlfoYPuBl",
+   "9TJy0",
+   "fP13LiP",
+   "E",
+   "flOOV",
+   "NSIST",
+   "or",
+   "OZOffE",
+   "AlVJJ",
+   "Or",
+   "OTh",
+   "OThJZixTrr",
+   "Ei",
+   "EiJrtiXrlf"
+  ],
+  "page_seq_num": 821,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_romeo_ver01\/data\/sn84026749\/100492532\/1907072101\/0821.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1907-07-21",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9707596898078918,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_romeo_ver01\/data\/sn84026749\/100492532\/1907072101\/0821\/000_0_97.jpg"
+ },
+ "id": 947
+}

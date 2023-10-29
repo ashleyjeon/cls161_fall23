@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751551,
+   "id": 1529001,
+   "lead_time": 2.05,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "j53vHcft4y",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_cheddar_ver01",
+  "box": [
+   0.5781613267617782,
+   0.108430971469182,
+   0.9556549382088754,
+   0.5355836677014996
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_cheddar_ver01\/data\/sn86063952\/00295864163\/1914010901\/0056\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_cheddar_ver01%2Fdata%2Fsn86063952%2F00295864163%2F1914010901%2F0056.jp2\/pct:57.81,10.85,37.75,42.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "of",
+   "Gattanocga,",
+   "Chajieiwi",
+   "fojf$4fclsf",
+   "(HW'11'",
+   "VA::",
+   "v-",
+   "w!l\"",
+   "'Mlrafokli",
+   ",",
+   ".",
+   "hoijia-",
+   "in",
+   "M;iiii",
+   "vj",
+   ",",
+   ";,",
+   "'.v.",
+   ",",
+   "ff",
+   ".",
+   ",.;",
+   "in.-.",
+   ":",
+   "0;.!'",
+   "Jr"
+  ],
+  "page_seq_num": 56,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_cheddar_ver01\/data\/sn86063952\/00295864163\/1914010901\/0056.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1914-01-09",
+  "publisher": "Roy Hoffman",
+  "score": 0.9607758522033691,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_cheddar_ver01\/data\/sn86063952\/00295864163\/1914010901\/0056\/005_0_96.jpg"
+ },
+ "id": 1529
+}

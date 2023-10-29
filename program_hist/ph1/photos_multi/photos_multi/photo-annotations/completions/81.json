@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675578,
+   "id": 81001,
+   "lead_time": 2.567,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "m0UaeJIlgT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_brown_ver01",
+  "box": [
+   0.30844040069275513,
+   0.10347271433391184,
+   0.4387234137681668,
+   0.23036759502835932
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_brown_ver01\/data\/sn85030821\/00212472888\/1896103001\/0440\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Kansas--Sherman--Goodland"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_brown_ver01%2Fdata%2Fsn85030821%2F00212472888%2F1896103001%2F0440.jp2\/pct:30.84,10.35,13.03,12.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn85030821",
+  "name": "The Goodland republic. [volume]",
+  "ocr": [
+   "hon.",
+   "sam",
+   "v.",
+   "Mcelroy.",
+   "I",
+   "f",
+   "-",
+   "C",
+   "-",
+   "f",
+   "i"
+  ],
+  "page_seq_num": 440,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_brown_ver01\/data\/sn85030821\/00212472888\/1896103001\/0440.jp2",
+  "place_of_publication": "Goodland, Kan.",
+  "pub_date": "1896-10-30",
+  "publisher": "Stewart Co.",
+  "score": 0.9644932746887207,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_brown_ver01\/data\/sn85030821\/00212472888\/1896103001\/0440\/002_0_96.jpg"
+ },
+ "id": 81
+}

@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750823,
+   "id": 1615001,
+   "lead_time": 1.695,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WHKhJhvTsC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_cornwell_ver01",
+  "box": [
+   0.29365705560754846,
+   0.8154121808823928,
+   0.4222678784970884,
+   0.9567297765245883
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_cornwell_ver01\/data\/sn86092536\/00414186397\/1915120601\/0816\/015_0_95.jpg",
+  "geographic_coverage": [
+   "West Virginia--Ohio--Wheeling"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_cornwell_ver01%2Fdata%2Fsn86092536%2F00414186397%2F1915120601%2F0816.jp2\/pct:29.36,81.55,12.87,14.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092536",
+  "name": "The Wheeling intelligencer. [volume]",
+  "ocr": [
+   "!\u00ab\u25a0",
+   "1,1",
+   "KAMI)",
+   "Htv.111",
+   "i*",
+   "hA't",
+   "V.t",
+   "l>",
+   "V",
+   ".Wtrui",
+   "IlMlKi",
+   "nu",
+   "UMMI.",
+   "MAI\/t",
+   "HV",
+   "AMIMM",
+   "AT",
+   "TM|",
+   "RtK",
+   "THI",
+   "ATRf",
+   "f",
+   "o\u00ab'"
+  ],
+  "page_seq_num": 816,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_cornwell_ver01\/data\/sn86092536\/00414186397\/1915120601\/0816.jp2",
+  "place_of_publication": "Wheeling, W. Va.",
+  "pub_date": "1915-12-06",
+  "publisher": "Intelligencer Pub. Co.",
+  "score": 0.9536154270172119,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_cornwell_ver01\/data\/sn86092536\/00414186397\/1915120601\/0816\/015_0_95.jpg"
+ },
+ "id": 1615
+}

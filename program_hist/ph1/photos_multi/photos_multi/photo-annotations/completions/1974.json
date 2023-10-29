@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763928,
+   "id": 1974001,
+   "lead_time": 1.724,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "84L0ri4vH0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_caddoa_ver02",
+  "box": [
+   0.5013012542246278,
+   0.4329552835359136,
+   0.6456302654780565,
+   0.6179473195597092
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_caddoa_ver02\/data\/sn89052329\/00383340998\/1920090901\/1057\/004_0_92.jpg",
+  "geographic_coverage": [
+   "Colorado--Cheyenne--Cheyenne Wells"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_caddoa_ver02%2Fdata%2Fsn89052329%2F00383340998%2F1920090901%2F1057.jp2\/pct:50.13,43.3,14.44,18.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn89052329",
+  "name": "Cheyenne record.",
+  "ocr": [
+   "Thifc",
+   "Club",
+   "Girl",
+   "Dries",
+   "Corn",
+   "on",
+   "a",
+   "Sloping",
+   "Bhelf",
+   "Fastened",
+   "to",
+   "the",
+   "Fence."
+  ],
+  "page_seq_num": 1057,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_caddoa_ver02\/data\/sn89052329\/00383340998\/1920090901\/1057.jp2",
+  "place_of_publication": "Cheyenne Wells, Cheyenne County, Colo.",
+  "pub_date": "1920-09-09",
+  "publisher": "C.T. Bogert, R.J. Goldsworthy",
+  "score": 0.9291852116584778,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_caddoa_ver02\/data\/sn89052329\/00383340998\/1920090901\/1057\/004_0_92.jpg"
+ },
+ "id": 1974
+}

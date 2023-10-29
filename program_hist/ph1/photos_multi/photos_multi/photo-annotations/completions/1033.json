@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768466,
+   "id": 1033001,
+   "lead_time": 1.681,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MiKWEBu_V_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_india_ver01",
+  "box": [
+   0.29758849017388,
+   0.4707592463089248,
+   0.4263997845945105,
+   0.6422340817947942
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_india_ver01\/data\/sn83045433\/100493445\/1908041901\/0243\/009_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_india_ver01%2Fdata%2Fsn83045433%2F100493445%2F1908041901%2F0243.jp2\/pct:29.75,47.08,12.89,17.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "JJRICE",
+   "irni",
+   "en",
+   "CLEVELAND",
+   "CLEVELANDOne",
+   "LEYELANDOne"
+  ],
+  "page_seq_num": 243,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_india_ver01\/data\/sn83045433\/100493445\/1908041901\/0243.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1908-04-19",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9861950874328613,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_india_ver01\/data\/sn83045433\/100493445\/1908041901\/0243\/009_0_98.jpg"
+ },
+ "id": 1033
+}

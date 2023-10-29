@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673618,
+   "id": 1717001,
+   "lead_time": 1.481,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "R-bjEcM9QV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_azureaster_ver01",
+  "box": [
+   0.18626501057325257,
+   0.06096059340960681,
+   0.3130456348471287,
+   0.23754998741698216
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_azureaster_ver01\/data\/sn99021999\/00279551163\/1917050201\/0253\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_azureaster_ver01%2Fdata%2Fsn99021999%2F00279551163%2F1917050201%2F0253.jp2\/pct:18.62,6.1,12.68,17.66\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "FIGHTING",
+   "STOCK.",
+   "I",
+   "fj",
+   ",y",
+   "WENDELL",
+   "N.",
+   "MOORE"
+  ],
+  "page_seq_num": 253,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_azureaster_ver01\/data\/sn99021999\/00279551163\/1917050201\/0253.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1917-05-02",
+  "publisher": "Edward Rosewater",
+  "score": 0.9882264733314514,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_azureaster_ver01\/data\/sn99021999\/00279551163\/1917050201\/0253\/005_0_98.jpg"
+ },
+ "id": 1717
+}

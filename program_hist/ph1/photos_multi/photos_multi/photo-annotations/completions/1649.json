@@ -1,0 +1,84 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752849,
+   "id": 1649001,
+   "lead_time": 2.742,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ge8QBOxnDp",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_greenberg_ver01",
+  "box": [
+   0.16612000271205987,
+   0.7766783154700413,
+   0.30456301313719597,
+   0.9654607599431818
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_greenberg_ver01\/data\/sn85038411\/00296028228\/1916121501\/0282\/007_0_97.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Dauphin--Harrisburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_greenberg_ver01%2Fdata%2Fsn85038411%2F00296028228%2F1916121501%2F0282.jp2\/pct:16.61,77.67,13.85,18.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038411",
+  "name": "Harrisburg telegraph. [volume]",
+  "ocr": [
+   "f",
+   "I",
+   "Today",
+   "Is",
+   "the",
+   "Birthday",
+   "Anniversary",
+   "of\u2014",
+   "Jim",
+   "D.",
+   "K.",
+   "QLAZIKR",
+   "Mr.",
+   "Glazier",
+   "is",
+   "in",
+   "charge",
+   "of",
+   "the",
+   "Arcade",
+   "I-aundry,",
+   "and",
+   "Is",
+   "widely",
+   "known",
+   "in",
+   "the",
+   "West",
+   "End.",
+   "He",
+   "is",
+   "a",
+   "native",
+   "of",
+   "Dayton."
+  ],
+  "page_seq_num": 282,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_greenberg_ver01\/data\/sn85038411\/00296028228\/1916121501\/0282.jp2",
+  "place_of_publication": "Harrisburg, Pa.",
+  "pub_date": "1916-12-15",
+  "publisher": "C.H. Bergner",
+  "score": 0.9761354327201843,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_greenberg_ver01\/data\/sn85038411\/00296028228\/1916121501\/0282\/007_0_97.jpg"
+ },
+ "id": 1649
+}

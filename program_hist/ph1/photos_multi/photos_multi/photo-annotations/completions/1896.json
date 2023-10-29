@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768005,
+   "id": 1896001,
+   "lead_time": 1.625,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tlRnwWXU_c",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_kathmandu_ver01",
+  "box": [
+   0.6587697385104557,
+   0.45696131388346356,
+   0.7996721017673221,
+   0.6116000281439887
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_kathmandu_ver01\/data\/sn89055128\/00414211471\/1919072101\/0775\/007_0_97.jpg",
+  "geographic_coverage": [
+   "Idaho--Latah--Moscow"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_kathmandu_ver01%2Fdata%2Fsn89055128%2F00414211471%2F1919072101%2F0775.jp2\/pct:65.87,45.7,14.1,15.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn89055128",
+  "name": "The Daily star-mirror.",
+  "ocr": [
+   "4J",
+   "w",
+   "fe",
+   "\u00abT'",
+   "i",
+   "PROF.",
+   "CHARLES",
+   "HENRY"
+  ],
+  "page_seq_num": 775,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_kathmandu_ver01\/data\/sn89055128\/00414211471\/1919072101\/0775.jp2",
+  "place_of_publication": "Moscow, Idaho",
+  "pub_date": "1919-07-21",
+  "publisher": "J. Yost & P. Orcutt",
+  "score": 0.9769043326377869,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_kathmandu_ver01\/data\/sn89055128\/00414211471\/1919072101\/0775\/007_0_97.jpg"
+ },
+ "id": 1896
+}

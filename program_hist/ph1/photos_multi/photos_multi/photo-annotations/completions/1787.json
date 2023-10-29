@@ -1,0 +1,112 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758396,
+   "id": 1787001,
+   "lead_time": 273.676,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KB78IRqoIO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_durant_ver01",
+  "box": [
+   0.2600426117119762,
+   0.02996235692223837,
+   0.4909345152750181,
+   0.30055564702943316
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_durant_ver01\/data\/sn85042344\/00200295079\/1918042501\/1035\/016_0_90.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Tulsa--Tulsa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_durant_ver01%2Fdata%2Fsn85042344%2F00200295079%2F1918042501%2F1035.jp2\/pct:26.0,3.0,23.09,27.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042344",
+  "name": "Tulsa daily world. [volume]",
+  "ocr": [
+   "jjjiiuruii\"j;",
+   "liif'lMWJiiii.'Hliiiltl",
+   "v",
+   "r",
+   "mh",
+   ".i!",
+   "h",
+   "i",
+   "Hi",
+   "WUUllHhWi-lUMirfMihi'-uJ",
+   "IK",
+   "pSI",
+   "fii",
+   "I",
+   "A'jiS7r",
+   "li",
+   "i",
+   "'",
+   "i",
+   "1",
+   "L",
+   "i0k$n",
+   "i",
+   "1",
+   "J",
+   "1",
+   "pi4",
+   ":",
+   "li",
+   "I",
+   "r-Sfl",
+   "L",
+   "wff'",
+   "J",
+   "l",
+   "ill",
+   "'ivH'f",
+   "H",
+   "M",
+   "lllitiil",
+   "1",
+   "1",
+   "Iflii",
+   "In",
+   "llurk",
+   "nnd",
+   "To",
+   "Now",
+   "alum",
+   "Inn",
+   "ut",
+   "llm",
+   "'The",
+   "I",
+   "ut",
+   "t",
+   "In",
+   "A",
+   ".-nt",
+   "iircs",
+   "nf",
+   "Tom",
+   "Pawyer."
+  ],
+  "page_seq_num": 1035,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_durant_ver01\/data\/sn85042344\/00200295079\/1918042501\/1035.jp2",
+  "place_of_publication": "Tulsa, Indian Territory [Okla.]",
+  "pub_date": "1918-04-25",
+  "publisher": "J.R. Brady",
+  "score": 0.9004824161529541,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_durant_ver01\/data\/sn85042344\/00200295079\/1918042501\/1035\/016_0_90.jpg"
+ },
+ "id": 1787
+}

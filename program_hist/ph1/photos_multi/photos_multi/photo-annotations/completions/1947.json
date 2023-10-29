@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772457,
+   "id": 1947001,
+   "lead_time": 1.502,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5-Hg90AnRI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_carril_ver02",
+  "box": [
+   0.0887449397597202,
+   0.4229467267820821,
+   0.4210010230163187,
+   0.6105849587705714
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_carril_ver02\/data\/sn83030214\/0020653249A\/1920031401\/0386\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_carril_ver02%2Fdata%2Fsn83030214%2F0020653249A%2F1920031401%2F0386.jp2\/pct:8.87,42.3,33.23,18.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 386,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_carril_ver02\/data\/sn83030214\/0020653249A\/1920031401\/0386.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1920-03-14",
+  "publisher": "New York Tribune",
+  "score": 0.9781517386436462,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_carril_ver02\/data\/sn83030214\/0020653249A\/1920031401\/0386\/001_0_97.jpg"
+ },
+ "id": 1947
+}

@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746307,
+   "id": 691001,
+   "lead_time": 2.668,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YN0eGgQY34",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_tango_ver01",
+  "box": [
+   0.4289670234957479,
+   0.11537860922095267,
+   0.9343505176782386,
+   0.35763321086221894
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_tango_ver01\/data\/sn84026749\/100492258\/1903061401\/0685\/003_0_94.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_tango_ver01%2Fdata%2Fsn84026749%2F100492258%2F1903061401%2F0685.jp2\/pct:42.89,11.54,50.54,24.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "HllL5",
+   "IIENSINGTON",
+   "or",
+   "I",
+   "t",
+   "Residence",
+   "ofJ",
+   "of",
+   "0",
+   "J",
+   "Plillij",
+   "Philip",
+   ">",
+   "Herrmann",
+   "Hexro",
+   "n",
+   "The",
+   "Jones",
+   "Re",
+   "Residence",
+   "ilence"
+  ],
+  "page_seq_num": 685,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_tango_ver01\/data\/sn84026749\/100492258\/1903061401\/0685.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1903-06-14",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9427027106285095,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_tango_ver01\/data\/sn84026749\/100492258\/1903061401\/0685\/003_0_94.jpg"
+ },
+ "id": 691
+}

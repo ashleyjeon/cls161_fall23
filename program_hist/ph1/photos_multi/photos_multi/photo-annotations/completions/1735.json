@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758087,
+   "id": 1735001,
+   "lead_time": 8.253,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GwLmeSn9GS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_applejack_ver01",
+  "box": [
+   0.3410992855277956,
+   0.04472138696787309,
+   0.6419744418029001,
+   0.22813257334183673
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_applejack_ver01\/data\/sn83016943\/00295877807\/1917051801\/0882\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Mississippi--Noxubee--Macon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877807%2F1917051801%2F0882.jp2\/pct:34.1,4.48,30.09,18.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016943",
+  "name": "Macon beacon. [volume]",
+  "ocr": [
+   "M",
+   "ELI",
+   "LOTUS",
+   "IS",
+   "SUPERIOR",
+   "SOIL",
+   "BUILDER",
+   "h,1'.-'..",
+   "'.",
+   "CT1",
+   "\"dJt",
+   "H?",
+   "wVrv",
+   ":",
+   "a",
+   "1",
+   "mam",
+   "..",
+   "\"",
+   ".",
+   ".",
+   ".",
+   ".",
+   "I"
+  ],
+  "page_seq_num": 882,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_applejack_ver01\/data\/sn83016943\/00295877807\/1917051801\/0882.jp2",
+  "place_of_publication": "Macon, Miss.",
+  "pub_date": "1917-05-18",
+  "publisher": "Henry C. Ferris",
+  "score": 0.9691017866134644,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_applejack_ver01\/data\/sn83016943\/00295877807\/1917051801\/0882\/003_0_96.jpg"
+ },
+ "id": 1735
+}

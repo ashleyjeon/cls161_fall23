@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767575,
+   "id": 910001,
+   "lead_time": 1.649,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yRTWKp77rm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_liberia_ver01",
+  "box": [
+   0.6608455243628569,
+   0.07060206833706108,
+   0.818289596043276,
+   0.26359026919129075
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_liberia_ver01\/data\/sn83030214\/00175041394\/1906031101\/0188\/003_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_liberia_ver01%2Fdata%2Fsn83030214%2F00175041394%2F1906031101%2F0188.jp2\/pct:66.08,7.07,15.75,19.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "F.",
+   "J.",
+   "H.",
+   "KRACKEL",
+   "Who",
+   "Is",
+   "to",
+   "be",
+   "naval",
+   "officer",
+   "of",
+   "the",
+   "Port",
+   "of",
+   "New-",
+   "York."
+  ],
+  "page_seq_num": 188,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_liberia_ver01\/data\/sn83030214\/00175041394\/1906031101\/0188.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1906-03-11",
+  "publisher": "New York Tribune",
+  "score": 0.9753847122192383,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_liberia_ver01\/data\/sn83030214\/00175041394\/1906031101\/0188\/003_0_97.jpg"
+ },
+ "id": 910
+}

@@ -1,0 +1,119 @@
+{
+ "completions": [
+  {
+   "created_at": 1611761103,
+   "id": 1839001,
+   "lead_time": 2531.567,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "AducwseulS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_albatross_ver01",
+  "box": [
+   0.04645276069641113,
+   0.6944675164473684,
+   0.43458735942840576,
+   0.9605085834703947
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_albatross_ver01\/data\/sn86069397\/0028076338A\/1918070301\/0702\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Christian--Hopkinsville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_albatross_ver01%2Fdata%2Fsn86069397%2F0028076338A%2F1918070301%2F0702.jp2\/pct:4.64,69.45,38.82,26.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069397",
+  "name": "Daily Kentuckian. [volume]",
+  "ocr": [
+   "X",
+   ".",
+   ".",
+   "'",
+   "J",
+   ";",
+   "'-",
+   "?AV",
+   "-vJiUJI",
+   ",1",
+   "--:",
+   "I",
+   "Ifcliuro",
+   "fuOnewkl.",
+   "the",
+   "fiiilueut",
+   "plapuit.",
+   "who",
+   "la",
+   "tan",
+   "Dpsd",
+   "df",
+   "th",
+   "orgaolsattoo",
+   "that",
+   "I",
+   "rcrttlui",
+   "1'o.le",
+   "Amerlc",
+   "!o",
+   "fltbt",
+   "tRninst",
+   "tii",
+   "rnmny.",
+   "a",
+   "Latest",
+   "UPe",
+   "of",
+   "antiaircraft",
+   "u",
+   "H4",
+   "by",
+   "the",
+   "battleship",
+   "of",
+   "to",
+   "finerli-so,",
+   "a",
+   "--nr",
+   ",1",
+   "iMreo",
+   "cUecrliig",
+   "A'irtan",
+   "tifl,i,",
+   "pesslng",
+   "throttf",
+   "fill",
+   "theis",
+   "srsy",
+   "to",
+   "the",
+   "front",
+   "'",
+   "'\"",
+   "!",
+   "'",
+   ":",
+   "t.",
+   "---1"
+  ],
+  "page_seq_num": 702,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_albatross_ver01\/data\/sn86069397\/0028076338A\/1918070301\/0702.jp2",
+  "place_of_publication": "Hopkinsville, Ky.",
+  "pub_date": "1918-07-03",
+  "publisher": "Chas. M. Meacham",
+  "score": 0.9772059917449951,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_albatross_ver01\/data\/sn86069397\/0028076338A\/1918070301\/0702\/004_0_97.jpg"
+ },
+ "id": 1839
+}

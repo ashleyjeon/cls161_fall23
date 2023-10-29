@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675508,
+   "id": 1917001,
+   "lead_time": 2.492,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "hXxd1eqTwN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_geary_ver01",
+  "box": [
+   0.847043976070374,
+   0.20949970654693137,
+   0.9524904815364876,
+   0.34443473299953503
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_geary_ver01\/data\/sn83045211\/0023728785A\/1919041201\/0696\/002_0_90.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_geary_ver01%2Fdata%2Fsn83045211%2F0023728785A%2F1919041201%2F0696.jp2\/pct:84.7,20.95,10.55,13.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "Thomas"
+  ],
+  "page_seq_num": 696,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_geary_ver01\/data\/sn83045211\/0023728785A\/1919041201\/0696.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1919-04-12",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9037319421768188,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_geary_ver01\/data\/sn83045211\/0023728785A\/1919041201\/0696\/002_0_90.jpg"
+ },
+ "id": 1917
+}

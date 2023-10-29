@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772375,
+   "id": 1541001,
+   "lead_time": 3.023,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "P7dMPtvkEL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_ledzep_ver01",
+  "box": [
+   0.6022761958443192,
+   0.3321397179412293,
+   0.901065815443732,
+   0.6646493326237869
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_ledzep_ver01\/data\/sn82014519\/0041418358A\/1915020401\/0392\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Connecticut--Hartford--New Britain"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_ledzep_ver01%2Fdata%2Fsn82014519%2F0041418358A%2F1915020401%2F0392.jp2\/pct:60.22,33.22,29.88,33.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014519",
+  "name": "New Britain herald. [volume]",
+  "ocr": [
+   "Three",
+   "Players",
+   "TLxpected",
+   "to",
+   "Strengthen",
+   "Pirates",
+   "This",
+   "Year"
+  ],
+  "page_seq_num": 392,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_ledzep_ver01\/data\/sn82014519\/0041418358A\/1915020401\/0392.jp2",
+  "place_of_publication": "New Britain, Conn.",
+  "pub_date": "1915-02-04",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9935669302940369,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_ledzep_ver01\/data\/sn82014519\/0041418358A\/1915020401\/0392\/001_0_99.jpg"
+ },
+ "id": 1541
+}

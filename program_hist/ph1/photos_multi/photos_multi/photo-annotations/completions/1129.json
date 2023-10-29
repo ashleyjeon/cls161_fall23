@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747793,
+   "id": 1129001,
+   "lead_time": 10.692,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5eS-V07DoM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "scu_dogwood_ver01",
+  "box": [
+   0.5013987913382881,
+   0.3005457831646063,
+   0.6161227701952813,
+   0.48773763351263416
+  ],
+  "edition_seq_num": 1,
+  "filepath": "scu_dogwood_ver01\/data\/sn84026925\/00295861770\/1909101901\/0305\/000_0_93.jpg",
+  "geographic_coverage": [
+   "South Carolina--York--York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/scu_dogwood_ver01%2Fdata%2Fsn84026925%2F00295861770%2F1909101901%2F0305.jp2\/pct:50.13,30.06,11.48,18.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026925",
+  "name": "Yorkville enquirer. [volume]",
+  "ocr": [
+   "DB.",
+   "FBKDEBICK",
+   "A.",
+   "COOK.",
+   "out",
+   "into",
+   "the",
+   "bay",
+   "and",
+   "anchored",
+   "for",
+   "a",
+   "few",
+   "hoars.",
+   "Oomanooi",
+   "was",
+   "but",
+   "one",
+   "of"
+  ],
+  "page_seq_num": 305,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/scu_dogwood_ver01\/data\/sn84026925\/00295861770\/1909101901\/0305.jp2",
+  "place_of_publication": "Yorkville, S.C.",
+  "pub_date": "1909-10-19",
+  "publisher": null,
+  "score": 0.9329670667648315,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/scu_dogwood_ver01\/data\/sn84026925\/00295861770\/1909101901\/0305\/000_0_93.jpg"
+ },
+ "id": 1129
+}

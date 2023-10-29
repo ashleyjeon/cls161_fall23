@@ -1,0 +1,120 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769013,
+   "id": 1362001,
+   "lead_time": 1.89,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aqANNEw6LY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_carmela_ver01",
+  "box": [
+   0.2643310479581553,
+   0.04609678204361475,
+   0.838810930178473,
+   0.21743380130107395
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_carmela_ver01\/data\/sn91064011\/00332896209\/1912062601\/0742\/012_0_97.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_carmela_ver01%2Fdata%2Fsn91064011%2F00332896209%2F1912062601%2F0742.jp2\/pct:26.43,4.61,57.45,17.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn91064011",
+  "name": "Newark evening star and Newark advertiser. [volume]",
+  "ocr": [
+   "Columbia",
+   "University\u2019s",
+   ".Great",
+   "Varsity",
+   "Eight",
+   "on",
+   "the",
+   "Hudson",
+   "Those",
+   "In",
+   "the",
+   "picture",
+   "below",
+   "reading",
+   "from",
+   "left",
+   "to",
+   "right,",
+   "are;",
+   "Coxswain,",
+   "A.",
+   "G.",
+   "Brock;",
+   "stroke",
+   "and",
+   "captain,",
+   "G.",
+   "8.",
+   "Downing;",
+   "7,",
+   "F.",
+   "Miller;",
+   "6,",
+   "J.",
+   "J.",
+   "Moore,",
+   "Jr.;",
+   "5,",
+   "F.",
+   "J.",
+   "Latcnser;",
+   "4,",
+   "A.",
+   "W.",
+   "Blssell;",
+   "3,",
+   "W.",
+   "Hadsell;",
+   "2,",
+   "W.",
+   "E.",
+   "Kupreeht,",
+   "and",
+   "bow,",
+   "A.",
+   "C.",
+   "Both",
+   "well.",
+   "...",
+   ".--\u2014\u2014u\u2014",
+   "-",
+   "m*",
+   "-:S-:-\u2014\u2014---zn--\u2014\u2014",
+   "-'T",
+   "<",
+   "1",
+   "-",
+   ".",
+   "\"",
+   "1",
+   "U"
+  ],
+  "page_seq_num": 742,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_carmela_ver01\/data\/sn91064011\/00332896209\/1912062601\/0742.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1912-06-26",
+  "publisher": "Newark Daily Advertiser Pub. Co.",
+  "score": 0.9748348593711853,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_carmela_ver01\/data\/sn91064011\/00332896209\/1912062601\/0742\/012_0_97.jpg"
+ },
+ "id": 1362
+}

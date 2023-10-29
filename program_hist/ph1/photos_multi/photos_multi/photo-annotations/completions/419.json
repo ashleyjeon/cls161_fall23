@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748155,
+   "id": 419001,
+   "lead_time": 1.602,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_bPiS-MSze",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_jewelwing_ver01",
+  "box": [
+   0.07676931258735306,
+   0.46739980336782094,
+   0.37108356580821744,
+   0.7056941470584354
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_jewelwing_ver01\/data\/sn85053057\/00295860297\/1900110201\/0585\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_jewelwing_ver01%2Fdata%2Fsn85053057%2F00295860297%2F1900110201%2F0585.jp2\/pct:7.67,46.74,29.44,23.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn85053057",
+  "name": "Daily inter mountain. [volume]",
+  "ocr": [
+   "A.",
+   "J.",
+   "BENNETT,"
+  ],
+  "page_seq_num": 585,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_jewelwing_ver01\/data\/sn85053057\/00295860297\/1900110201\/0585.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1900-11-02",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9856955409049988,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_jewelwing_ver01\/data\/sn85053057\/00295860297\/1900110201\/0585\/000_0_98.jpg"
+ },
+ "id": 419
+}

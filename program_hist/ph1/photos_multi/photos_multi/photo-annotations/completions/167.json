@@ -1,0 +1,40 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767593,
+   "id": 167001,
+   "lead_time": 2.79,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_jennison_ver01",
+  "box": [
+   0.5701652622393504,
+   0.115149659698506,
+   0.9455547844574576,
+   0.3013773560908285
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_jennison_ver01\/data\/sn82014635\/00280760596\/1897050601\/0090\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Kansas--Sedgwick--Wichita"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760596%2F1897050601%2F0090.jp2\/pct:57.01,11.52,37.54,18.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014635",
+  "name": "The Wichita daily eagle. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 90,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_jennison_ver01\/data\/sn82014635\/00280760596\/1897050601\/0090.jp2",
+  "place_of_publication": "Wichita, Kan.",
+  "pub_date": "1897-05-06",
+  "publisher": "M.M. Murdock & R.P. Murdock",
+  "score": 0.9657233357429504,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_jennison_ver01\/data\/sn82014635\/00280760596\/1897050601\/0090\/002_0_96.jpg"
+ },
+ "id": 167
+}

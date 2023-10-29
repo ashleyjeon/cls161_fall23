@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749305,
+   "id": 1980001,
+   "lead_time": 1.813,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kr4AJHWQhd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_holuba_ver02",
+  "box": [
+   0.8530777075143257,
+   0.7161617849356312,
+   0.9964978313649387,
+   0.9541860181231832
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_holuba_ver02\/data\/sn83045211\/00237280246\/1920103001\/1089\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_holuba_ver02%2Fdata%2Fsn83045211%2F00237280246%2F1920103001%2F1089.jp2\/pct:85.3,71.62,14.35,23.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "JB",
+   "fllflflH",
+   "tm",
+   "MISS",
+   "HAZEL",
+   "G.",
+   "0GDEN",
+   "110",
+   "Kalos",
+   "street",
+   "Fhiladelpnia"
+  ],
+  "page_seq_num": 1089,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_holuba_ver02\/data\/sn83045211\/00237280246\/1920103001\/1089.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1920-10-30",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9655532836914062,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_holuba_ver02\/data\/sn83045211\/00237280246\/1920103001\/1089\/000_0_96.jpg"
+ },
+ "id": 1980
+}

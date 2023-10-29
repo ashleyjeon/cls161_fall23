@@ -1,0 +1,103 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673481,
+   "id": 1871001,
+   "lead_time": 1.718,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VRthaWWyKZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_imp_ver01",
+  "box": [
+   0.27386832448233545,
+   0.03830834917803114,
+   0.3885240807997442,
+   0.3519865379737881
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_imp_ver01\/data\/sn84025842\/00414214836\/1919073101\/0538\/015_0_93.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Dane--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_imp_ver01%2Fdata%2Fsn84025842%2F00414214836%2F1919073101%2F0538.jp2\/pct:27.38,3.84,11.47,31.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025842",
+  "name": "The Wisconsin weekly blade. [volume]",
+  "ocr": [
+   "She\u2019s",
+   "Chilean",
+   "Belle",
+   "WW'i",
+   "\u2022\u25a0\u25a0itf,",
+   "Wj~",
+   "'",
+   "iCHAUfu>e",
+   "He",
+   "no",
+   "til",
+   "i",
+   "1!",
+   "1",
+   "hmi",
+   "r*\\",
+   "with",
+   "l-mn",
+   "\\mim",
+   "<,.'i",
+   "\\vt>-",
+   "It",
+   "ns",
+   "\\ov",
+   "popular",
+   "in",
+   "Wnrhinffton.",
+   "from",
+   "i!r*l",
+   "r",
+   "li<",
+   "to",
+   "y",
+   "\u2018;ir!<",
+   "t",
+   "\u2018",
+   "ri!\u2022",
+   "\u2666",
+   "\u2022",
+   "In",
+   "f#th*",
+   "r",
+   "\u2022",
+   "in-la",
+   "w",
+   "tho",
+   "imniatci",
+   "from",
+   "Colombia,",
+   "bis",
+   "ftraiidf'it",
+   "Shub",
+   "i",
+   "ii"
+  ],
+  "page_seq_num": 538,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_imp_ver01\/data\/sn84025842\/00414214836\/1919073101\/0538.jp2",
+  "place_of_publication": "Madison, Wis.",
+  "pub_date": "1919-07-31",
+  "publisher": "[publisher not identified]",
+  "score": 0.930274486541748,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_imp_ver01\/data\/sn84025842\/00414214836\/1919073101\/0538\/015_0_93.jpg"
+ },
+ "id": 1871
+}

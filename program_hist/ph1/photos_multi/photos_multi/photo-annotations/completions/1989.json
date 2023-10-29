@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748384,
+   "id": 1989001,
+   "lead_time": 1.643,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1T_3JF0W43",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_article_ver01",
+  "box": [
+   0.7077951446198895,
+   0.04029953254843658,
+   0.9587822617126369,
+   0.2735130741911114
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_article_ver01\/data\/sn84025828\/0020219381A\/1920101601\/0023\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_article_ver01%2Fdata%2Fsn84025828%2F0020219381A%2F1920101601%2F0023.jp2\/pct:70.77,4.03,25.1,23.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "yp'",
+   ".",
+   "-,",
+   "JAMES",
+   "HAMILTON",
+   "LEWIS,",
+   "Democratic",
+   "Candidate",
+   "for",
+   "Governor,",
+   "Whose",
+   "Chances",
+   "for",
+   "Election",
+   "Are",
+   "Very",
+   "-",
+   "L",
+   "1",
+   "lJ"
+  ],
+  "page_seq_num": 23,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_article_ver01\/data\/sn84025828\/0020219381A\/1920101601\/0023.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1920-10-16",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9710240960121155,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_article_ver01\/data\/sn84025828\/0020219381A\/1920101601\/0023\/001_0_97.jpg"
+ },
+ "id": 1989
+}

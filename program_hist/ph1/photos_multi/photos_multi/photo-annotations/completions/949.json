@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768204,
+   "id": 949001,
+   "lead_time": 2.554,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JOcJaiIrTQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_killdeer_ver01",
+  "box": [
+   0.20526396470262825,
+   0.3072837679993873,
+   0.3473614378471595,
+   0.4628094841452206
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_killdeer_ver01\/data\/sn88086023\/00202194618\/1907052401\/0492\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_killdeer_ver01%2Fdata%2Fsn88086023%2F00202194618%2F1907052401%2F0492.jp2\/pct:20.52,30.73,14.21,15.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   "11",
+   ":",
+   "v",
+   "''''",
+   "JvswH",
+   "I-",
+   "'",
+   "rtfv:",
+   ".Mr.",
+   "George",
+   "Baker,",
+   "to",
+   "lx",
+   "seen",
+   "In",
+   "\"The",
+   "Atrlval",
+   "of",
+   "llannuli,\"",
+   "at",
+   "the",
+   "Star",
+   "Theater",
+   "this",
+   "meek."
+  ],
+  "page_seq_num": 492,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_killdeer_ver01\/data\/sn88086023\/00202194618\/1907052401\/0492.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1907-05-24",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.9892027974128723,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_killdeer_ver01\/data\/sn88086023\/00202194618\/1907052401\/0492\/004_0_98.jpg"
+ },
+ "id": 949
+}

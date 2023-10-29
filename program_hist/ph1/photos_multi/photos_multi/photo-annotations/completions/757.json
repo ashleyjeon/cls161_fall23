@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772575,
+   "id": 757001,
+   "lead_time": 3.421,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fBZqsKjXqG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_liberia_ver01",
+  "box": [
+   0.5196566692922668,
+   0.034068510106307924,
+   0.9306806399498457,
+   0.4360291803744356
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_liberia_ver01\/data\/sn83030214\/00175042271\/1904030601\/0107\/002_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_liberia_ver01%2Fdata%2Fsn83030214%2F00175042271%2F1904030601%2F0107.jp2\/pct:51.96,3.41,41.11,40.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "ARGUS",
+   "PHEASANT",
+   "OP",
+   "INDIA."
+  ],
+  "page_seq_num": 107,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_liberia_ver01\/data\/sn83030214\/00175042271\/1904030601\/0107.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1904-03-06",
+  "publisher": "New York Tribune",
+  "score": 0.9783819913864136,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_liberia_ver01\/data\/sn83030214\/00175042271\/1904030601\/0107\/002_0_97.jpg"
+ },
+ "id": 757
+}

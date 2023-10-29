@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772471,
+   "id": 1086001,
+   "lead_time": 1.578,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xunVjivxuf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_crocus_ver01",
+  "box": [
+   0.2935591342700044,
+   0.07206916562335766,
+   0.7120900984678935,
+   0.28141581349045924
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_crocus_ver01\/data\/sn83045747\/00279553238\/1909122701\/0788\/001_0_93.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_crocus_ver01%2Fdata%2Fsn83045747%2F00279553238%2F1909122701%2F0788.jp2\/pct:29.35,7.21,41.86,20.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045747",
+  "name": "Dziennik Chicagoski. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 788,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_crocus_ver01\/data\/sn83045747\/00279553238\/1909122701\/0788.jp2",
+  "place_of_publication": "Chicago [Ill.]",
+  "pub_date": "1909-12-27",
+  "publisher": "Spo\u0142ka Nak\u0142ad. Wydawn. Polsk.",
+  "score": 0.9343986511230469,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_crocus_ver01\/data\/sn83045747\/00279553238\/1909122701\/0788\/001_0_93.jpg"
+ },
+ "id": 1086
+}

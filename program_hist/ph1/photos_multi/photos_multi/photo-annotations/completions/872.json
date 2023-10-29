@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767588,
+   "id": 872001,
+   "lead_time": 2.766,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "29xbj_dNci",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_antelope_ver01",
+  "box": [
+   0.4344204816491433,
+   0.22553376407242515,
+   0.6079260329962519,
+   0.40265856291118424
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_antelope_ver01\/data\/sn86063579\/00280774376\/1906051101\/1054\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New Mexico--Luna--Deming"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_antelope_ver01%2Fdata%2Fsn86063579%2F00280774376%2F1906051101%2F1054.jp2\/pct:43.44,22.56,17.36,17.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063579",
+  "name": "Deming graphic.",
+  "ocr": [
+   "A",
+   ":m",
+   "Golden",
+   "Temp",
+   "e,",
+   "Benares."
+  ],
+  "page_seq_num": 1054,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_antelope_ver01\/data\/sn86063579\/00280774376\/1906051101\/1054.jp2",
+  "place_of_publication": "Deming, N.M.",
+  "pub_date": "1906-05-11",
+  "publisher": "N.S. Rose",
+  "score": 0.9862068295478821,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_antelope_ver01\/data\/sn86063579\/00280774376\/1906051101\/1054\/001_0_98.jpg"
+ },
+ "id": 872
+}

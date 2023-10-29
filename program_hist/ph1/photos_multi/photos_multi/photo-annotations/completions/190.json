@@ -1,0 +1,41 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768201,
+   "id": 190001,
+   "lead_time": 19.649,
+   "result": [
+
+   ],
+   "was_cancelled": true
+  }
+ ],
+ "data": {
+  "batch": "vi_yes_ver01",
+  "box": [
+   0.7761956816635712,
+   0.6355404275754126,
+   0.9812150914337854,
+   0.7875533302059619
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_yes_ver01\/data\/sn84025841\/00175032307\/1897072401\/0343\/007_0_92.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_yes_ver01%2Fdata%2Fsn84025841%2F00175032307%2F1897072401%2F0343.jp2\/pct:77.61,63.56,20.51,15.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025841",
+  "name": "Richmond planet. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 343,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_yes_ver01\/data\/sn84025841\/00175032307\/1897072401\/0343.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1897-07-24",
+  "publisher": "Planet Pub. Co.",
+  "score": 0.9296705722808838,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_yes_ver01\/data\/sn84025841\/00175032307\/1897072401\/0343\/007_0_92.jpg"
+ },
+ "id": 190
+}

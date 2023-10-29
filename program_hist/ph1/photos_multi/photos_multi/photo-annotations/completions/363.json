@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752841,
+   "id": 363001,
+   "lead_time": 4.539,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5_Rh3UPE42",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_goodnow_ver01",
+  "box": [
+   0.34889690101296833,
+   0.43755934344513586,
+   0.6448025643375118,
+   0.5966743007356629
+  ],
+  "edition_seq_num": 2,
+  "filepath": "khi_goodnow_ver01\/data\/sn85032801\/00212473686\/1899050402\/0584\/012_0_95.jpg",
+  "geographic_coverage": [
+   "Kansas--Sumner--Wellington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_goodnow_ver01%2Fdata%2Fsn85032801%2F00212473686%2F1899050402%2F0584.jp2\/pct:34.88,43.76,29.6,15.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn85032801",
+  "name": "People's voice. [volume]",
+  "ocr": [
+   "METHODIST",
+   "(",
+   "III",
+   "nc"
+  ],
+  "page_seq_num": 584,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_goodnow_ver01\/data\/sn85032801\/00212473686\/1899050402\/0584.jp2",
+  "place_of_publication": "Wellington, Kan.",
+  "pub_date": "1899-05-04",
+  "publisher": "Lyman Naugle",
+  "score": 0.9515352249145508,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_goodnow_ver01\/data\/sn85032801\/00212473686\/1899050402\/0584\/012_0_95.jpg"
+ },
+ "id": 363
+}

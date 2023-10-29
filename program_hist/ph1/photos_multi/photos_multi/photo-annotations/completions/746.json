@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675078,
+   "id": 746001,
+   "lead_time": 5.643,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gGbKaXFVrK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_haiti_ver01",
+  "box": [
+   0.3123751553622159,
+   0.48154877368636234,
+   0.6780688793628247,
+   0.7103290926745591
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_haiti_ver01\/data\/sn83030214\/00175042349\/1904082801\/0532\/000_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_haiti_ver01%2Fdata%2Fsn83030214%2F00175042349%2F1904082801%2F0532.jp2\/pct:31.23,48.16,36.57,22.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "By",
+   "Lewis",
+   "woip\u00a3lhis!fi\\g\u00a3(toim",
+   "Smi&H"
+  ],
+  "page_seq_num": 532,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_haiti_ver01\/data\/sn83030214\/00175042349\/1904082801\/0532.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1904-08-28",
+  "publisher": "New York Tribune",
+  "score": 0.9439681768417358,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_haiti_ver01\/data\/sn83030214\/00175042349\/1904082801\/0532\/000_0_94.jpg"
+ },
+ "id": 746
+}

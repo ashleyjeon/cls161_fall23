@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769010,
+   "id": 917001,
+   "lead_time": 1.457,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LW2109wSNH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_ten_ver01",
+  "box": [
+   0.014629147064064351,
+   0.25701515298140676,
+   0.24993138968662063,
+   0.4699527338931435
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_ten_ver01\/data\/sn83045555\/00175048911\/1906121501\/0951\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_ten_ver01%2Fdata%2Fsn83045555%2F00175048911%2F1906121501%2F0951.jp2\/pct:1.46,25.71,23.54,21.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "WXH",
+   ">",
+   ">",
+   "x",
+   "wX",
+   "MALCOLM",
+   "o",
+   "L",
+   "MAODONALD",
+   "YoU",
+   "Mini",
+   "Wliu",
+   "Has",
+   "Iltxomu",
+   "a",
+   "Miiltlinllllotiiilru",
+   "During",
+   "the",
+   "1nst",
+   "Few",
+   "Years"
+  ],
+  "page_seq_num": 951,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_ten_ver01\/data\/sn83045555\/00175048911\/1906121501\/0951.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1906-12-15",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9652971625328064,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_ten_ver01\/data\/sn83045555\/00175048911\/1906121501\/0951\/003_0_96.jpg"
+ },
+ "id": 917
+}

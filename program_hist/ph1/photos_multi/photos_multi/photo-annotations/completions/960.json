@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758121,
+   "id": 960001,
+   "lead_time": 33.282,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JJ6qrZti3f",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_forbes_ver01",
+  "box": [
+   0.3759446354096737,
+   0.24242183240429868,
+   0.5036522100102376,
+   0.42379399239195936
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_forbes_ver01\/data\/sn82016014\/00295870898\/1907081001\/0398\/007_0_91.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_forbes_ver01%2Fdata%2Fsn82016014%2F00295870898%2F1907081001%2F0398.jp2\/pct:37.59,24.25,12.78,18.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016014",
+  "name": "The Topeka state journal. [volume]",
+  "ocr": [
+   "i",
+   "fl",
+   "'",
+   "--I",
+   "i",
+   "szt",
+   "M",
+   "KATE",
+   "V.JAINTMAUM"
+  ],
+  "page_seq_num": 398,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_forbes_ver01\/data\/sn82016014\/00295870898\/1907081001\/0398.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1907-08-10",
+  "publisher": "F.P. MacLennan",
+  "score": 0.9118555784225464,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_forbes_ver01\/data\/sn82016014\/00295870898\/1907081001\/0398\/007_0_91.jpg"
+ },
+ "id": 960
+}

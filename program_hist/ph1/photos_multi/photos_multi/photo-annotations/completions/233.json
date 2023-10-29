@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767411,
+   "id": 233001,
+   "lead_time": 2.764,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4UgLQeuEBQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_belle_ver01",
+  "box": [
+   0.2838133515928926,
+   0.2766057127438176,
+   0.41041046317535573,
+   0.3770328046898489
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_belle_ver01\/data\/sn85033078\/00271768588\/1898033101\/0239\/008_0_96.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Wood--Wisconsin Rapids"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768588%2F1898033101%2F0239.jp2\/pct:28.38,27.67,12.66,10.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033078",
+  "name": "Wood County reporter. [volume]",
+  "ocr": [
+   "J.",
+   "C.",
+   "W.",
+   "Brooks."
+  ],
+  "page_seq_num": 239,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_belle_ver01\/data\/sn85033078\/00271768588\/1898033101\/0239.jp2",
+  "place_of_publication": "Grand Rapids [i.e. Wisconsin Rapids], Wis.",
+  "pub_date": "1898-03-31",
+  "publisher": "[J.N. Brundage]",
+  "score": 0.9656065106391907,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_belle_ver01\/data\/sn85033078\/00271768588\/1898033101\/0239\/008_0_96.jpg"
+ },
+ "id": 233
+}

@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747555,
+   "id": 1633001,
+   "lead_time": 1.619,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1fn9qPxW_z",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_egret_ver01",
+  "box": [
+   0.6211672094953319,
+   0.5601344609789356,
+   0.7751299973242792,
+   0.7191904301583595
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_egret_ver01\/data\/2004260419\/00200294889\/1916040701\/0694\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Oregon--Columbia--Saint Helens"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_egret_ver01%2Fdata%2F2004260419%2F00200294889%2F1916040701%2F0694.jp2\/pct:62.11,56.02,15.4,15.91\/!500,500\/0\/default.jpg",
+  "lccn": "2004260419",
+  "name": "St. Helens mist.",
+  "ocr": [
+   "'A",
+   "V",
+   "E.",
+   "I.",
+   "BALLAGH",
+   "Manager",
+   "St.",
+   "Helens",
+   "Base",
+   "Ball"
+  ],
+  "page_seq_num": 694,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_egret_ver01\/data\/2004260419\/00200294889\/1916040701\/0694.jp2",
+  "place_of_publication": "St. Helens, Or.",
+  "pub_date": "1916-04-07",
+  "publisher": "Mist Pub. Co.",
+  "score": 0.9848179221153259,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_egret_ver01\/data\/2004260419\/00200294889\/1916040701\/0694\/005_0_98.jpg"
+ },
+ "id": 1633
+}

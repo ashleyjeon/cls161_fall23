@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766750,
+   "id": 820001,
+   "lead_time": 2.264,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "70BHa9Ophe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.04384609580985012,
+   0.5334445309707162,
+   0.2766305441764581,
+   0.846646464359658
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107388\/1905102101\/0378\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107388%2F1905102101%2F0378.jp2\/pct:4.38,53.35,23.28,31.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "A",
+   "II",
+   "\u00ab",
+   "IV",
+   "i.",
+   "An",
+   "Unique",
+   "Picture",
+   "..",
+   "....",
+   "of",
+   "Princess",
+   "Here",
+   "is",
+   "a",
+   "profile",
+   "photograph",
+   "of",
+   "Alice",
+   "Roosevelt",
+   "who",
+   "la",
+   "sched",
+   "uled",
+   "to",
+   "arrive",
+   "home",
+   "from",
+   "the",
+   "Far",
+   "East",
+   "soon.",
+   "It",
+   "show*",
+   "the",
+   "White",
+   "House",
+   "young",
+   "lady",
+   "In",
+   "a",
+   "different",
+   "and",
+   "by",
+   "far",
+   "more",
+   "attractive",
+   "pose",
+   "from",
+   "which",
+   "she",
+   "i-",
+   "usually",
+   "taken,",
+   "It",
+   "Is",
+   "attractive",
+   "because,",
+   "perhaps.",
+   "It",
+   "Is",
+   "natural,",
+   "the",
+   "picture",
+   "being",
+   "from",
+   "a",
+   "snapshot."
+  ],
+  "page_seq_num": 378,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107388\/1905102101\/0378.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1905-10-21",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9829371571540833,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107388\/1905102101\/0378\/005_0_98.jpg"
+ },
+ "id": 820
+}

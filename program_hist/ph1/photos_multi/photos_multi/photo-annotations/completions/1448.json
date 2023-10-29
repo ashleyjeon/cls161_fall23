@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747607,
+   "id": 1448001,
+   "lead_time": 3.223,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "O8EYDR_PBt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_deltaair_ver01",
+  "box": [
+   0.5580946239747311,
+   0.301365887677228,
+   0.81439833034601,
+   0.4618024472837095
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_deltaair_ver01\/data\/sn83045433\/00294558238\/1913021101\/0737\/005_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_deltaair_ver01%2Fdata%2Fsn83045433%2F00294558238%2F1913021101%2F0737.jp2\/pct:55.8,30.14,25.64,16.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "kllMneanrannwilll",
+   "TiT",
+   "'",
+   "i'i",
+   "iiTTiif",
+   "\"rnT'",
+   "7",
+   "'",
+   "\"",
+   "..TTTlv",
+   "aaalaSlnlHiaeaeannxP'ai",
+   "The",
+   "Grand",
+   "Award.",
+   "This",
+   "SU0O",
+   "Tenth",
+   "and",
+   "D",
+   "Streets",
+   "Northeast.",
+   "Purchased",
+   "from",
+   "11.",
+   "R.",
+   "Ilonensteta",
+   "Co,",
+   "131",
+   "house",
+   "loratrd",
+   "on",
+   "the,",
+   "eoutbeast",
+   "corner"
+  ],
+  "page_seq_num": 737,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_deltaair_ver01\/data\/sn83045433\/00294558238\/1913021101\/0737.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1913-02-11",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9578482508659363,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_deltaair_ver01\/data\/sn83045433\/00294558238\/1913021101\/0737\/005_0_95.jpg"
+ },
+ "id": 1448
+}

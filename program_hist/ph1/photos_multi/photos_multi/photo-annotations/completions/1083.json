@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768060,
+   "id": 1083001,
+   "lead_time": 3.564,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6EJ_-oZ_V6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_harvey_ver03",
+  "box": [
+   0.4931506052026835,
+   0.4780194912737573,
+   0.7844186546102422,
+   0.7138431839078491
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_harvey_ver03\/data\/sn82015080\/00212473881\/1909101301\/0118\/001_0_90.jpg",
+  "geographic_coverage": [
+   "Kansas--Barber--Medicine Lodge"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_harvey_ver03%2Fdata%2Fsn82015080%2F00212473881%2F1909101301%2F0118.jp2\/pct:49.31,47.81,29.13,23.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015080",
+  "name": "Barbour County index. [volume]",
+  "ocr": [
+   "VVSI",
+   "i.",
+   "i"
+  ],
+  "page_seq_num": 118,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_harvey_ver03\/data\/sn82015080\/00212473881\/1909101301\/0118.jp2",
+  "place_of_publication": "Medicine Lodge, Kan.",
+  "pub_date": "1909-10-13",
+  "publisher": "[publisher not identified]",
+  "score": 0.9012506008148193,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_harvey_ver03\/data\/sn82015080\/00212473881\/1909101301\/0118\/001_0_90.jpg"
+ },
+ "id": 1083
+}

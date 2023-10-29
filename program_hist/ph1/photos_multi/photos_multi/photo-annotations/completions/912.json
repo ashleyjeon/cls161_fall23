@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768518,
+   "id": 912001,
+   "lead_time": 2.063,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "H1X8JOCxsu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_charlie_ver01",
+  "box": [
+   0.3090716775824449,
+   0.5497576044707626,
+   0.575219223179768,
+   0.8339947419055201
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_charlie_ver01\/data\/sn84026749\/100492441\/1906040101\/0369\/004_0_90.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_charlie_ver01%2Fdata%2Fsn84026749%2F100492441%2F1906040101%2F0369.jp2\/pct:30.9,54.98,26.62,28.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "I",
+   "I",
+   "Imuch",
+   "I",
+   "I1l1e",
+   "I",
+   "II",
+   "i",
+   "irather",
+   "I"
+  ],
+  "page_seq_num": 369,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_charlie_ver01\/data\/sn84026749\/100492441\/1906040101\/0369.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1906-04-01",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9025087952613831,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_charlie_ver01\/data\/sn84026749\/100492441\/1906040101\/0369\/004_0_90.jpg"
+ },
+ "id": 912
+}

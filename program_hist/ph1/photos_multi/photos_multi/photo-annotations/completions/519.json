@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674602,
+   "id": 519001,
+   "lead_time": 4.655,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Nl1dK8-NT1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_richfield_ver01",
+  "box": [
+   0.31002213761613173,
+   0.31597783315517103,
+   0.6324086232228322,
+   0.5069522321071771
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901030901\/0131\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Minnesota--Hennepin--Minneapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_richfield_ver01%2Fdata%2Fsn83045366%2F00206533894%2F1901030901%2F0131.jp2\/pct:31.0,31.6,32.24,19.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045366",
+  "name": "The Minneapolis journal. [volume]",
+  "ocr": [
+   "GROUP",
+   "OF",
+   "MACALESTER",
+   "GIRLS",
+   "IN",
+   "THE",
+   "RECEPTION-ROOM.",
+   "THE",
+   "ELMS\u2014GIRLS'",
+   "DORMITORY."
+  ],
+  "page_seq_num": 131,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901030901\/0131.jp2",
+  "place_of_publication": "Minneapolis, Minn.",
+  "pub_date": "1901-03-09",
+  "publisher": "Journal Print. Co.",
+  "score": 0.9306762218475342,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901030901\/0131\/006_0_93.jpg"
+ },
+ "id": 519
+}

@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768783,
+   "id": 153001,
+   "lead_time": 3.179,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TxzBm8DYx5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_jay_ver01",
+  "box": [
+   0.5011244440653237,
+   0.7112464378833384,
+   0.7791414927287275,
+   0.825264465876546
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_jay_ver01\/data\/sn97067613\/00202197310\/1896091001\/0236\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Vermont--Lamoille--Hyde Park",
+   "Vermont--Lamoille--Morrisville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_jay_ver01%2Fdata%2Fsn97067613%2F00202197310%2F1896091001%2F0236.jp2\/pct:50.11,71.13,27.81,11.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn97067613",
+  "name": "News and citizen. [volume]",
+  "ocr": [
+   "2",
+   "t",
+   "Mi",
+   "P.",
+   "R.",
+   "GALE",
+   "S",
+   "SUGAR",
+   "CAM",
+   "P."
+  ],
+  "page_seq_num": 236,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_jay_ver01\/data\/sn97067613\/00202197310\/1896091001\/0236.jp2",
+  "place_of_publication": "Morrisville, Vt. ;",
+  "pub_date": "1896-09-10",
+  "publisher": "L.H. lewis and H.C. Fisk",
+  "score": 0.992975115776062,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_jay_ver01\/data\/sn97067613\/00202197310\/1896091001\/0236\/000_0_99.jpg"
+ },
+ "id": 153
+}

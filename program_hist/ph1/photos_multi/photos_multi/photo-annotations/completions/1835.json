@@ -1,0 +1,107 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747728,
+   "id": 1835001,
+   "lead_time": 23.908,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CCVhaRYuiJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_fraser_ver01",
+  "box": [
+   0.3417933446889059,
+   0.5333048502604166,
+   0.4928748907957102,
+   0.8147667864059883
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_fraser_ver01\/data\/sn86091059\/00415666421\/1918060101\/0213\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Idaho--Elmore--Mountain Home"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_fraser_ver01%2Fdata%2Fsn86091059%2F00415666421%2F1918060101%2F0213.jp2\/pct:34.17,53.34,15.11,28.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091059",
+  "name": "Mountain Home Republican. [volume]",
+  "ocr": [
+   "COMMANDS",
+   "TANK",
+   "BRITTANIA",
+   ";#",
+   "Vv",
+   "'*",
+   "'w-m",
+   ",",
+   "i",
+   "W&m",
+   "m.",
+   "1",
+   "in",
+   ";",
+   "m",
+   "m",
+   "\u25a0",
+   "'77V7",
+   "\u00a9",
+   "WMlrra",
+   "Nfwafwi",
+   "('apt.",
+   "Richard",
+   "Haig,",
+   "who",
+   "commanded",
+   "the",
+   "British",
+   "tank",
+   "BHttnnla",
+   "In",
+   "the",
+   "buttle",
+   "of",
+   "the",
+   "Somme",
+   "nnd",
+   "who",
+   "is",
+   "In",
+   "charge",
+   "of",
+   "the",
+   "monster",
+   "In",
+   "this",
+   "country,",
+   "where",
+   "It",
+   "is",
+   "being",
+   "used",
+   "In",
+   "recruiting",
+   "and",
+   "war",
+   "fund",
+   "campaigns."
+  ],
+  "page_seq_num": 213,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_fraser_ver01\/data\/sn86091059\/00415666421\/1918060101\/0213.jp2",
+  "place_of_publication": "Mountain Home, Idaho",
+  "pub_date": "1918-06-01",
+  "publisher": "Mountain Home Co-operative Irrigation Co.",
+  "score": 0.9616549015045166,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_fraser_ver01\/data\/sn86091059\/00415666421\/1918060101\/0213\/002_0_96.jpg"
+ },
+ "id": 1835
+}

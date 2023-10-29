@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762457,
+   "id": 197001,
+   "lead_time": 22.901,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3Vvawmjybp",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_willys_ver01",
+  "box": [
+   0.18676399652756728,
+   0.39451038532969057,
+   0.3489117923000273,
+   0.573152333517518
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_willys_ver01\/data\/sn83030214\/00175039107\/1897061301\/0204\/003_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_willys_ver01%2Fdata%2Fsn83030214%2F00175039107%2F1897061301%2F0204.jp2\/pct:18.67,39.46,16.22,17.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "PROFBMOR",
+   "WILLIAM",
+   "HARKNESS.",
+   "Head",
+   "astronomer",
+   "of",
+   "the",
+   "l\"n!??-d",
+   "fltn'es",
+   "Naval",
+   "Ob?"
+  ],
+  "page_seq_num": 204,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_willys_ver01\/data\/sn83030214\/00175039107\/1897061301\/0204.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-06-13",
+  "publisher": "New York Tribune",
+  "score": 0.9672141671180725,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_willys_ver01\/data\/sn83030214\/00175039107\/1897061301\/0204\/003_0_96.jpg"
+ },
+ "id": 197
+}

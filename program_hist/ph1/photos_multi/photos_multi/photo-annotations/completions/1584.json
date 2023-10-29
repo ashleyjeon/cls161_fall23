@@ -1,0 +1,98 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741109,
+   "id": 1584001,
+   "lead_time": 2.586,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FPz4bmUsas",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_morton_ver01",
+  "box": [
+   0.1698928493923611,
+   0.05830203410375078,
+   0.8238319905598959,
+   0.31112441251110473
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_morton_ver01\/data\/sn99021999\/00280778540\/1915100301\/0665\/004_0_99.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_morton_ver01%2Fdata%2Fsn99021999%2F00280778540%2F1915100301%2F0665.jp2\/pct:16.98,5.84,65.4,25.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "Officers",
+   "of",
+   "A&rid",
+   "Lodge",
+   "No.",
+   "9,",
+   "Independent",
+   "Order",
+   "Ladies",
+   "of",
+   "the",
+   "Vikings",
+   "i",
+   "J",
+   "I",
+   "j",
+   "y",
+   "fur",
+   "(",
+   "0",
+   "f",
+   "1",
+   "i",
+   "-",
+   ",",
+   "?",
+   "1",
+   "4-",
+   "w-W",
+   "y",
+   "'",
+   "1",
+   "Ttvls",
+   "picture",
+   "represents",
+   "the",
+   "officers",
+   "of",
+   "Anderson;",
+   "guard,",
+   "Mrs.",
+   "Ellen",
+   "Carlson.",
+   "home",
+   "and",
+   "promote",
+   "fraternal,",
+   "social",
+   "and"
+  ],
+  "page_seq_num": 665,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_morton_ver01\/data\/sn99021999\/00280778540\/1915100301\/0665.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1915-10-03",
+  "publisher": "Edward Rosewater",
+  "score": 0.9933486580848694,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_morton_ver01\/data\/sn99021999\/00280778540\/1915100301\/0665\/004_0_99.jpg"
+ },
+ "id": 1584
+}

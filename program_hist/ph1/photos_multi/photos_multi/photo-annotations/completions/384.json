@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767023,
+   "id": 384001,
+   "lead_time": 2.951,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TDPiJwCqds",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_hallock_ver01",
+  "box": [
+   0.29092672726509045,
+   0.3459504893128301,
+   0.8118869039436706,
+   0.5646593120736135
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_hallock_ver01\/data\/sn90059523\/00206537012\/1899022601\/0659\/001_0_94.jpg",
+  "geographic_coverage": [
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_hallock_ver01%2Fdata%2Fsn90059523%2F00206537012%2F1899022601%2F0659.jp2\/pct:29.09,34.6,52.1,21.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059523",
+  "name": "The Saint Paul globe.",
+  "ocr": [
+   "*",
+   ".",
+   "\"",
+   "-'",
+   "Photo",
+   "by",
+   "Zimmerman.",
+   "COMPANY",
+   "C,",
+   "THIRTEENTH",
+   "MINNESOTA,",
+   "t",
+   "*-jp-f*--j",
+   "-Was",
+   "In",
+   "the",
+   "Thiols",
+   "ot",
+   "the",
+   "Fl\u00ab",
+   "ht",
+   "in",
+   "the",
+   "Tondo",
+   "DUtrlct,",
+   "Manila."
+  ],
+  "page_seq_num": 659,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_hallock_ver01\/data\/sn90059523\/00206537012\/1899022601\/0659.jp2",
+  "place_of_publication": "St. Paul, Minn.",
+  "pub_date": "1899-02-26",
+  "publisher": "[s.n.]",
+  "score": 0.9461849331855774,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_hallock_ver01\/data\/sn90059523\/00206537012\/1899022601\/0659\/001_0_94.jpg"
+ },
+ "id": 384
+}

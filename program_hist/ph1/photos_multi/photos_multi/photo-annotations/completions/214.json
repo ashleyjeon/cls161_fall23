@@ -1,0 +1,46 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766747,
+   "id": 214001,
+   "lead_time": 31.067,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_willys_ver01",
+  "box": [
+   0.3451431808768543,
+   0.5716399944915167,
+   0.503403066197258,
+   0.6815982954662732
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_willys_ver01\/data\/sn83030214\/00175039077\/1897040401\/0060\/005_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_willys_ver01%2Fdata%2Fsn83030214%2F00175039077%2F1897040401%2F0060.jp2\/pct:34.51,57.17,15.83,11.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "itimi",
+   "E\"'",
+   "c'j-_r'\"-53S\"",
+   "#!",
+   "ff>-",
+   "\"?",
+   "*'X'',?7?s5l5ii?P~?!3io,H!''"
+  ],
+  "page_seq_num": 60,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_willys_ver01\/data\/sn83030214\/00175039077\/1897040401\/0060.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-04-04",
+  "publisher": "New York Tribune",
+  "score": 0.9089345932006836,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_willys_ver01\/data\/sn83030214\/00175039077\/1897040401\/0060\/005_0_90.jpg"
+ },
+ "id": 214
+}

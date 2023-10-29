@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754935,
+   "id": 1208001,
+   "lead_time": 3.53,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xnGOY69M5U",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_lima_ver01",
+  "box": [
+   0.18241227993018178,
+   0.16864485204293495,
+   0.30953767639052887,
+   0.33805064424154047
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_lima_ver01\/data\/sn83045433\/100493421\/1910112701\/0362\/000_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_lima_ver01%2Fdata%2Fsn83045433%2F100493421%2F1910112701%2F0362.jp2\/pct:18.24,16.87,12.72,16.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "MICHAEL",
+   "F",
+   "KAXB",
+   "KAXBhealth",
+   "KAXEhealth",
+   "K4t",
+   "K4thealth"
+  ],
+  "page_seq_num": 362,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_lima_ver01\/data\/sn83045433\/100493421\/1910112701\/0362.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1910-11-27",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9788611531257629,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_lima_ver01\/data\/sn83045433\/100493421\/1910112701\/0362\/000_0_97.jpg"
+ },
+ "id": 1208
+}

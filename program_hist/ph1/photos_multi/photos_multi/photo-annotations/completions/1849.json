@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749263,
+   "id": 1849001,
+   "lead_time": 1.724,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gRKbA8_VMt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_dillpickle_ver01",
+  "box": [
+   0.4401832597634403,
+   0.7125395553758554,
+   0.5620505996465149,
+   0.948294607771065
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_dillpickle_ver01\/data\/sn86063952\/00295864370\/1919061701\/0347\/008_0_95.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_dillpickle_ver01%2Fdata%2Fsn86063952%2F00295864370%2F1919061701%2F0347.jp2\/pct:44.01,71.26,12.19,23.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "Awlatant",
+   "Fecrrtary",
+   "of",
+   "War",
+   "from",
+   "'",
+   "Vai",
+   ".",
+   "(",
+   "I",
+   "!",
+   "i",
+   "j"
+  ],
+  "page_seq_num": 347,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864370\/1919061701\/0347.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1919-06-17",
+  "publisher": "Roy Hoffman",
+  "score": 0.9598165154457092,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864370\/1919061701\/0347\/008_0_95.jpg"
+ },
+ "id": 1849
+}

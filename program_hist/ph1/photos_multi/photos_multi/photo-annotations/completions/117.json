@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675936,
+   "id": 117001,
+   "lead_time": 2.52,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gNOcdwA8Sa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_framebones_ver01",
+  "box": [
+   0.5911075327487066,
+   0.7916806959519455,
+   0.7244618392364024,
+   0.931833100581796
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_framebones_ver01\/data\/sn99063955\/00280760365\/1896091601\/0039\/003_0_92.jpg",
+  "geographic_coverage": [
+   "Oregon--Marion--Salem"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_framebones_ver01%2Fdata%2Fsn99063955%2F00280760365%2F1896091601%2F0039.jp2\/pct:59.11,79.17,13.34,14.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063955",
+  "name": "Daily capital journal.",
+  "ocr": [
+   "m",
+   "1",
+   "T.B.",
+   "UkUWN,",
+   "WLJm",
+   "jHHHHHHttBHMMHHHfl!HK"
+  ],
+  "page_seq_num": 39,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_framebones_ver01\/data\/sn99063955\/00280760365\/1896091601\/0039.jp2",
+  "place_of_publication": "Salem, Or.",
+  "pub_date": "1896-09-16",
+  "publisher": "Hofer Bros.",
+  "score": 0.9204413294792175,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_framebones_ver01\/data\/sn99063955\/00280760365\/1896091601\/0039\/003_0_92.jpg"
+ },
+ "id": 117
+}

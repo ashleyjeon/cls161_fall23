@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747777,
+   "id": 1644001,
+   "lead_time": 2.847,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wMVjYr_bQU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_indurain_ver01",
+  "box": [
+   0.032106618965621544,
+   0.05108886090331403,
+   0.17254970854362556,
+   0.3418965971761382
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_indurain_ver01\/data\/sn85058396\/print\/1916091901\/0838\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_indurain_ver01%2Fdata%2Fsn85058396%2Fprint%2F1916091901%2F0838.jp2\/pct:3.21,5.11,14.05,29.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "G.",
+   "0.",
+   "P.",
+   "NOMINEES",
+   "'f",
+   "Carrol",
+   "Page",
+   "and",
+   "Miles",
+   "Poin"
+  ],
+  "page_seq_num": 838,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_indurain_ver01\/data\/sn85058396\/print\/1916091901\/0838.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1916-09-19",
+  "publisher": "W. Glasmann",
+  "score": 0.9815224409103394,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_indurain_ver01\/data\/sn85058396\/print\/1916091901\/0838\/005_0_98.jpg"
+ },
+ "id": 1644
+}

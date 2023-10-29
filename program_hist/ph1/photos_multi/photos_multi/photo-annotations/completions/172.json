@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767799,
+   "id": 172001,
+   "lead_time": 3.438,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WkKq1wHBGN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_olds_ver01",
+  "box": [
+   0.4933736064646504,
+   0.058794454868406294,
+   0.9209220055306312,
+   0.389739990234375
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_olds_ver01\/data\/sn83030214\/00175039053\/1897022101\/0359\/000_0_92.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_olds_ver01%2Fdata%2Fsn83030214%2F00175039053%2F1897022101%2F0359.jp2\/pct:49.33,5.88,42.76,33.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "A",
+   "JUNGLE",
+   "HUNTER",
+   "WU",
+   "Mis",
+   "PREY.",
+   "Thu",
+   "accompanying",
+   "illustration",
+   "reproduced",
+   "from",
+   "thc",
+   "London",
+   "?",
+   "Graph",
+   "it",
+   "represents",
+   "a",
+   "native",
+   "buntet",
+   "of",
+   "Central",
+   "Africa",
+   "snd",
+   "a",
+   "superb",
+   "leopard",
+   "which",
+   "he",
+   "has",
+   "just",
+   "brought",
+   "down,",
+   "possibly",
+   "after",
+   "s",
+   "Revert",
+   "struggle",
+   "It",
+   "isa",
+   "typical",
+   "jungle",
+   "glade",
+   "in",
+   "which",
+   "the",
+   "black"
+  ],
+  "page_seq_num": 359,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_olds_ver01\/data\/sn83030214\/00175039053\/1897022101\/0359.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-02-21",
+  "publisher": "New York Tribune",
+  "score": 0.9235267639160156,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_olds_ver01\/data\/sn83030214\/00175039053\/1897022101\/0359\/000_0_92.jpg"
+ },
+ "id": 172
+}

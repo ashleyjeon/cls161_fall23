@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769136,
+   "id": 1303001,
+   "lead_time": 1.104,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YSRG6vre5_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_auklet_ver01",
+  "box": [
+   0.4145189385152259,
+   0.5664763150149829,
+   0.6847834288693327,
+   0.8602564145440925
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_auklet_ver01\/data\/sn99063957\/00200298603\/1911101601\/0614\/007_0_95.jpg",
+  "geographic_coverage": [
+   "Oregon--Marion--Salem"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_auklet_ver01%2Fdata%2Fsn99063957%2F00200298603%2F1911101601%2F0614.jp2\/pct:41.45,56.65,27.03,29.38\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063957",
+  "name": "Daily capital journal.",
+  "ocr": [
+   "V",
+   "k",
+   "If",
+   "Dorothy",
+   "Grey",
+   "with",
+   "\"Tho",
+   "Traveling",
+   "Salettnmn\"",
+   "ut",
+   "The",
+   "Grand,",
+   "October",
+   "23.",
+   "hi"
+  ],
+  "page_seq_num": 614,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_auklet_ver01\/data\/sn99063957\/00200298603\/1911101601\/0614.jp2",
+  "place_of_publication": "Salem, Oregon",
+  "pub_date": "1911-10-16",
+  "publisher": null,
+  "score": 0.9510442614555359,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_auklet_ver01\/data\/sn99063957\/00200298603\/1911101601\/0614\/007_0_95.jpg"
+ },
+ "id": 1303
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675929,
+   "id": 1036001,
+   "lead_time": 3.612,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qMMTyE3BGI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_quailvalley_ver01",
+  "box": [
+   0.5389366799607475,
+   0.25791492462158205,
+   0.8306100664347628,
+   0.38876770564488
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_quailvalley_ver01\/data\/sn85042462\/00175035667\/1908011201\/0210\/002_0_96.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_quailvalley_ver01%2Fdata%2Fsn85042462%2F00175035667%2F1908011201%2F0210.jp2\/pct:53.89,25.8,29.17,13.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 210,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035667\/1908011201\/0210.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1908-01-12",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.96165531873703,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_quailvalley_ver01\/data\/sn85042462\/00175035667\/1908011201\/0210\/002_0_96.jpg"
+ },
+ "id": 1036
+}

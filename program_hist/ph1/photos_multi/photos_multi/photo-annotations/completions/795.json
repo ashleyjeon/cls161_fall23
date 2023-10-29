@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746031,
+   "id": 795001,
+   "lead_time": 1.449,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "k7VX2yvcCG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_kersee_ver01",
+  "box": [
+   0.6911488320269146,
+   0.383002604688753,
+   0.8146108273793008,
+   0.5159951265850541
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_kersee_ver01\/data\/sn84020274\/00294559875\/1905101201\/0584\/012_0_95.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_kersee_ver01%2Fdata%2Fsn84020274%2F00294559875%2F1905101201%2F0584.jp2\/pct:69.11,38.31,12.35,13.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "1.1",
+   "a",
+   "a",
+   "ia",
+   "4",
+   "1",
+   "Bsjjjjjjjjjjjjjjjjjjjjjj",
+   "Bir\"''fc",
+   "3bbbbbbbbbbb1",
+   "'",
+   "'",
+   "bbbbCS!'",
+   "\"bbbbbbbbH",
+   "'",
+   "1",
+   "bbbbP",
+   "-(,bbbbbbbbb1",
+   "BbV",
+   "'O-joBBBBBBBBBBBBl",
+   "bH",
+   "'H",
+   "'",
+   "'",
+   "'",
+   "BbbbVP-",
+   "F",
+   "\"'",
+   "?'!ttWU",
+   "f",
+   "BBBBBB",
+   "'1.-",
+   "'",
+   "aMBBBBBal",
+   "bbbbB",
+   "bbbbV",
+   "TJKBmbbbbb1",
+   "'",
+   "4",
+   "BBBBBB",
+   "eBBR2tBtJ4BBBBBBBBBl",
+   "....K-aSellK&BlH",
+   "I",
+   "BHrBBBBBl",
+   "'",
+   "bbbbbKH",
+   "''",
+   "\"KbbbH",
+   "l-",
+   "aak",
+   ".\"Bbb.b.H",
+   "bbbbbbbbbbbbbbbbbbbV",
+   "bbbbbbbbbbbbVbbbbbbbbbbbbbbbbbbbi",
+   "'",
+   "BbbbbbbVnI",
+   "'''''bbBBsbbI",
+   "'",
+   "4",
+   "bbT",
+   "MBEaVrsTtffH",
+   "'",
+   "!",
+   "WT",
+   "BBBBBBBy--x'",
+   "'-.VbVI",
+   ",",
+   "'..",
+   ".1",
+   "4",
+   "a",
+   "a",
+   "a",
+   "i",
+   "a",
+   "4"
+  ],
+  "page_seq_num": 584,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_kersee_ver01\/data\/sn84020274\/00294559875\/1905101201\/0584.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1905-10-12",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9526416659355164,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_kersee_ver01\/data\/sn84020274\/00294559875\/1905101201\/0584\/012_0_95.jpg"
+ },
+ "id": 795
+}

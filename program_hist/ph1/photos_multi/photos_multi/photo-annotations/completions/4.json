@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772394,
+   "id": 4001,
+   "lead_time": 2.048,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tUtNmfLhNf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_casablanca_ver01",
+  "box": [
+   0.5884435356248297,
+   0.1439910247546284,
+   0.6972463892746388,
+   0.27557757722229514
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_casablanca_ver01\/data\/sn86069457\/00206533262\/1895060601\/0784\/004_0_93.jpg",
+  "geographic_coverage": [
+   "Kentucky--Crittenden--Marion"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_casablanca_ver01%2Fdata%2Fsn86069457%2F00206533262%2F1895060601%2F0784.jp2\/pct:58.84,14.4,10.89,13.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069457",
+  "name": "Crittenden press. [volume]",
+  "ocr": [
+   "CAKIJSItB",
+   "IN",
+   "JULY",
+   "IMC",
+   "Hon",
+   "W",
+   "M",
+   "Smith",
+   "Mayfield",
+   "Kv"
+  ],
+  "page_seq_num": 784,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_casablanca_ver01\/data\/sn86069457\/00206533262\/1895060601\/0784.jp2",
+  "place_of_publication": "Marion, Ky.",
+  "pub_date": "1895-06-06",
+  "publisher": "R.C. Walker",
+  "score": 0.9344814419746399,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_casablanca_ver01\/data\/sn86069457\/00206533262\/1895060601\/0784\/004_0_93.jpg"
+ },
+ "id": 4
+}

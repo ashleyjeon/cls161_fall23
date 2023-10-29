@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755028,
+   "id": 1365001,
+   "lead_time": 2.419,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "al398STTPC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_hagerstown_ver01",
+  "box": [
+   0.31150735621115533,
+   0.056340456810587594,
+   0.5632154046381274,
+   0.2084849087600349
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_hagerstown_ver01\/data\/sn88065726\/00279521511\/1912092801\/0045\/010_0_97.jpg",
+  "geographic_coverage": [
+   "Maryland--Anne Arundel--Annapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_hagerstown_ver01%2Fdata%2Fsn88065726%2F00279521511%2F1912092801%2F0045.jp2\/pct:31.15,5.64,25.18,15.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn88065726",
+  "name": "Evening capital and Maryland gazette.",
+  "ocr": [
+   "*",
+   "\u25a0",
+   "\u25a0'",
+   "*",
+   "..'",
+   "jMgftSgrt",
+   "\u25a0bljH",
+   "4.",
+   "'",
+   "\u25a0n^",
+   "The",
+   "Resurrection.",
+   "\u201cResurrection",
+   "is",
+   "the",
+   "realistic",
+   "of",
+   "the",
+   "life",
+   "of",
+   "a",
+   "Russian",
+   "magic",
+   "touchstone",
+   "whereby",
+   "her",
+   "betray",
+   "r,",
+   "a",
+   "sensual",
+   "pleasureseeking",
+   "profli",
+   "gate,",
+   "undergoes",
+   "a",
+   "moral",
+   "regenera",
+   "tion."
+  ],
+  "page_seq_num": 45,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_hagerstown_ver01\/data\/sn88065726\/00279521511\/1912092801\/0045.jp2",
+  "place_of_publication": "Annapolis, Md.",
+  "pub_date": "1912-09-28",
+  "publisher": "W.M. Abbott",
+  "score": 0.9751667976379395,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_hagerstown_ver01\/data\/sn88065726\/00279521511\/1912092801\/0045\/010_0_97.jpg"
+ },
+ "id": 1365
+}

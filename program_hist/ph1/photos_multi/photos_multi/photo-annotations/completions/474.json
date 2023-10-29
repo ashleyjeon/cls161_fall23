@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611676205,
+   "id": 474001,
+   "lead_time": 3.274,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_VCcr9fO-K",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.7540403847104735,
+   0.33383843125097007,
+   0.9570840837428494,
+   0.4925603298161993
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107303\/1901090901\/0923\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107303%2F1901090901%2F0923.jp2\/pct:75.4,33.39,20.31,15.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "THI:",
+   "FELT",
+   "BLOCK",
+   "'Now",
+   "being",
+   "bul",
+   "It",
+   "by",
+   "the",
+   "Fehren-Msrvln",
+   "Co."
+  ],
+  "page_seq_num": 923,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107303\/1901090901\/0923.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1901-09-09",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9816190004348755,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107303\/1901090901\/0923\/002_0_98.jpg"
+ },
+ "id": 474
+}

@@ -1,0 +1,99 @@
+{
+ "completions": [
+  {
+   "created_at": 1611676183,
+   "id": 488001,
+   "lead_time": 224.004,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HqScwaIo5T",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_eight_ver01",
+  "box": [
+   0.04635147499827157,
+   0.606272483114722,
+   0.4103958380659371,
+   0.9375920545896144
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_eight_ver01\/data\/sn83045555\/0017504971A\/1901040601\/0630\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_eight_ver01%2Fdata%2Fsn83045555%2F0017504971A%2F1901040601%2F0630.jp2\/pct:4.63,60.63,36.41,33.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "One",
+   "ot",
+   "\u00b0",
+   "the",
+   "tb",
+   "0",
+   "new",
+   "flower",
+   "trimmed",
+   "hats",
+   "The",
+   "crown",
+   "and",
+   "brim",
+   "are",
+   "entirely",
+   "covered",
+   "with",
+   "Ith",
+   "violets",
+   "and",
+   "their",
+   "green",
+   "rrecnA",
+   "reon",
+   "reonI",
+   "A",
+   "high",
+   "full",
+   "drapery",
+   "of",
+   "violet",
+   "panne",
+   "velvet",
+   "vel",
+   "vel",
+   "on",
+   "the",
+   "lido",
+   "U",
+   "I",
+   "caught",
+   "hero",
+   "and",
+   "there",
+   "by",
+   "b",
+   "glittering",
+   "ornaments",
+   "ornamentsn"
+  ],
+  "page_seq_num": 630,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_eight_ver01\/data\/sn83045555\/0017504971A\/1901040601\/0630.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1901-04-06",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9769212603569031,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_eight_ver01\/data\/sn83045555\/0017504971A\/1901040601\/0630\/003_0_97.jpg"
+ },
+ "id": 488
+}

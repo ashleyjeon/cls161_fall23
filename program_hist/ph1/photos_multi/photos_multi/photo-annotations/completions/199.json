@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747569,
+   "id": 199001,
+   "lead_time": 1.894,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "NZp3hGw4xT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_beatles_ver01",
+  "box": [
+   0.25955491544359327,
+   0.30807869096987134,
+   0.36778550626390577,
+   0.43490230738511343
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_beatles_ver01\/data\/sn92051501\/00211763670\/1897120201\/0196\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Connecticut--Tolland--Stafford Springs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_beatles_ver01%2Fdata%2Fsn92051501%2F00211763670%2F1897120201%2F0196.jp2\/pct:25.95,30.81,10.83,12.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051501",
+  "name": "The Press.",
+  "ocr": [
+   "f",
+   "r",
+   "V",
+   "-",
+   "A",
+   "W.",
+   "B.",
+   "H.",
+   "MUERAT."
+  ],
+  "page_seq_num": 196,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_beatles_ver01\/data\/sn92051501\/00211763670\/1897120201\/0196.jp2",
+  "place_of_publication": "Stafford Springs, Conn.",
+  "pub_date": "1897-12-02",
+  "publisher": "James McLaughlin",
+  "score": 0.9589136242866516,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_beatles_ver01\/data\/sn92051501\/00211763670\/1897120201\/0196\/002_0_95.jpg"
+ },
+ "id": 199
+}

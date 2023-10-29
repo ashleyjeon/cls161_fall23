@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768648,
+   "id": 1792001,
+   "lead_time": 1.682,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8IZRGxSZFY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_feature_ver01",
+  "box": [
+   0.2772688493962277,
+   0.05087411791584213,
+   0.4910943725857809,
+   0.26361494643078004
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_feature_ver01\/data\/sn92053934\/00295873310\/1918091701\/0160\/004_0_93.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_feature_ver01%2Fdata%2Fsn92053934%2F00295873310%2F1918091701%2F0160.jp2\/pct:27.72,5.09,21.39,21.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "HIGH",
+   "SCHOOL",
+   "YOUNG",
+   "MUSICAL",
+   "RECITAL,",
+   "fcn",
+   "\"",
+   "-qar-n",
+   "'5",
+   "3",
+   "4",
+   "\"S",
+   "31iss",
+   "IlertlLa",
+   "VitU",
+   "WOMEN",
+   "TO",
+   "GIVE",
+   "ART",
+   "LEAGUE",
+   "M:i!TtlTlllXIXlXUlJ",
+   "I",
+   ":",
+   "'",
+   "if",
+   ",",
+   "el",
+   "-",
+   ".",
+   ".",
+   "E",
+   "F",
+   "e",
+   "vryv",
+   "Hum",
+   "maiinimmi",
+   "1",
+   "1",
+   "Miss",
+   "Margaret",
+   "Petrie."
+  ],
+  "page_seq_num": 160,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_feature_ver01\/data\/sn92053934\/00295873310\/1918091701\/0160.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1918-09-17",
+  "publisher": "J.W. Potter",
+  "score": 0.939551830291748,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_feature_ver01\/data\/sn92053934\/00295873310\/1918091701\/0160\/004_0_93.jpg"
+ },
+ "id": 1792
+}

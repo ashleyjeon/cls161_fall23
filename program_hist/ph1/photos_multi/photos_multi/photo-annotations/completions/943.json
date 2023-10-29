@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768101,
+   "id": 943001,
+   "lead_time": 2.585,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-T8Lg3usWg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_windstar_ver01",
+  "box": [
+   0.66691302863919,
+   0.739830640876818,
+   0.9082842768455038,
+   0.9159679292882763
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_windstar_ver01\/data\/sn00065127\/00295876566\/1907032901\/0686\/004_0_94.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lincoln--Canton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_windstar_ver01%2Fdata%2Fsn00065127%2F00295876566%2F1907032901%2F0686.jp2\/pct:66.69,73.99,24.14,17.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn00065127",
+  "name": "Dakota farmers' leader.",
+  "ocr": [
+   "Lady",
+   "Maple",
+   "31st."
+  ],
+  "page_seq_num": 686,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_windstar_ver01\/data\/sn00065127\/00295876566\/1907032901\/0686.jp2",
+  "place_of_publication": "Canton, S.D.",
+  "pub_date": "1907-03-29",
+  "publisher": "Farmers' Pub. Co.",
+  "score": 0.9406598806381226,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_windstar_ver01\/data\/sn00065127\/00295876566\/1907032901\/0686\/004_0_94.jpg"
+ },
+ "id": 943
+}

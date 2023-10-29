@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767254,
+   "id": 1178001,
+   "lead_time": 1.533,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0ZuBa3dte6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_whiskey_ver01",
+  "box": [
+   0.569238671429081,
+   0.12591264454138731,
+   0.8165087556185787,
+   0.4732609837937933
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_whiskey_ver01\/data\/sn84026749\/0010049274A\/1910061501\/0463\/006_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_whiskey_ver01%2Fdata%2Fsn84026749%2F0010049274A%2F1910061501%2F0463.jp2\/pct:56.92,12.6,24.73,34.74\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "t",
+   "LI",
+   "A",
+   "F",
+   "Tr",
+   "r",
+   "=",
+   "NlZ",
+   "flnR",
+   "F",
+   "aaaersarv",
+   "aaaersarvw",
+   "W",
+   "A",
+   "H",
+   "CHURCHWho",
+   "CHURCH",
+   "CHURCHWho",
+   "CHURCHWM",
+   "Has",
+   "Bee",
+   "Selected",
+   "By",
+   "the",
+   "Directors",
+   "Committee",
+   "ComD",
+   "ttee",
+   "to",
+   "Sow",
+   "S1ICCeeII",
+   "te",
+   "the",
+   "Prerf",
+   "Prerfaoacy",
+   "Pre",
+   "Preieacy",
+   "Preddeny",
+   "aoacy",
+   "deny",
+   "He",
+   "Will",
+   "Be",
+   "Formally",
+   "Elected",
+   "Tomorrow",
+   "TomorrowDirectors",
+   "TomorrowDirectors",
+   "Directors",
+   "Committee",
+   "of",
+   "the",
+   "Commercial",
+   "National",
+   "Recommends",
+   "Rec",
+   "Recommends",
+   "ommends",
+   "His",
+   "Election",
+   "Which",
+   "Will",
+   "Occur",
+   "at",
+   "tine",
+   "tslicRegular",
+   "t1aeRegular",
+   "tineRegular"
+  ],
+  "page_seq_num": 463,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_whiskey_ver01\/data\/sn84026749\/0010049274A\/1910061501\/0463.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1910-06-15",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9894663691520691,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_whiskey_ver01\/data\/sn84026749\/0010049274A\/1910061501\/0463\/006_0_98.jpg"
+ },
+ "id": 1178
+}

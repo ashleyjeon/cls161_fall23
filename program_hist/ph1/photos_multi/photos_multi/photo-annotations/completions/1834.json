@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746013,
+   "id": 1834001,
+   "lead_time": 2.051,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ff1Ue__Dl0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_kathy_ver01",
+  "box": [
+   0.197471923828125,
+   0.2926434667235717,
+   0.3356797521254596,
+   0.5675651543929837
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_kathy_ver01\/data\/sn89058321\/00415621486\/1918100401\/0300\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Tennessee--Obion--Union City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_kathy_ver01%2Fdata%2Fsn89058321%2F00415621486%2F1918100401%2F0300.jp2\/pct:19.74,29.27,13.83,27.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058321",
+  "name": "The commercial.",
+  "ocr": [
+   "Boy",
+   "Who",
+   "Lost",
+   "Arm",
+   "in",
+   "'",
+   "France",
+   "4o",
+   "Accompany",
+   "Exhibit",
+   "Train.",
+   ".",
+   "t",
+   "\"'\"'jSwlffte",
+   "a",
+   "Private",
+   "Hugh",
+   "E.",
+   "Johnson,",
+   "-",
+   "of"
+  ],
+  "page_seq_num": 300,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_kathy_ver01\/data\/sn89058321\/00415621486\/1918100401\/0300.jp2",
+  "place_of_publication": "Union City, Tenn.",
+  "pub_date": "1918-10-04",
+  "publisher": "Marshall & Baird",
+  "score": 0.9614882469177246,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_kathy_ver01\/data\/sn89058321\/00415621486\/1918100401\/0300\/007_0_96.jpg"
+ },
+ "id": 1834
+}

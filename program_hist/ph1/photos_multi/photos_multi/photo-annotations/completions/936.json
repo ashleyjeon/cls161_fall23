@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768832,
+   "id": 936001,
+   "lead_time": 3.476,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rnWTuy9Zw2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_falafel_ver01",
+  "box": [
+   0.34751948904483876,
+   0.23150408123853086,
+   0.4943372848186087,
+   0.3249291401864745
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_falafel_ver01\/data\/sn86090528\/00295864485\/1907101901\/0476\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Grady--Chickasha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_falafel_ver01%2Fdata%2Fsn86090528%2F00295864485%2F1907101901%2F0476.jp2\/pct:34.75,23.16,14.69,9.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090528",
+  "name": "The Chickasha daily express.",
+  "ocr": [
+   "The",
+   "Typhonoid."
+  ],
+  "page_seq_num": 476,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_falafel_ver01\/data\/sn86090528\/00295864485\/1907101901\/0476.jp2",
+  "place_of_publication": "Chickasha, Indian Territory [Okla.]",
+  "pub_date": "1907-10-19",
+  "publisher": "A.M. Dawson",
+  "score": 0.9370744228363037,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_falafel_ver01\/data\/sn86090528\/00295864485\/1907101901\/0476\/006_0_93.jpg"
+ },
+ "id": 936
+}

@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747980,
+   "id": 441001,
+   "lead_time": 1.548,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o0DBeFfJCx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.2584309618930762,
+   0.3098153814163498,
+   0.7366387222421203,
+   0.6861134808326402
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040833\/1900030401\/0086\/002_0_99.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040833%2F1900030401%2F0086.jp2\/pct:25.84,30.99,47.83,37.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "LORD",
+   "STANLEY",
+   "OF",
+   "AiJDEULRY.",
+   "ta\u00ab"
+  ],
+  "page_seq_num": 86,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040833\/1900030401\/0086.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-03-04",
+  "publisher": "New York Tribune",
+  "score": 0.9900272488594055,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040833\/1900030401\/0086\/002_0_99.jpg"
+ },
+ "id": 441
+}

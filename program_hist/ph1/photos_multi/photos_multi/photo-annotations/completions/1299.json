@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762856,
+   "id": 1299001,
+   "lead_time": 3.931,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QZCijx4NuB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_keady_ver01",
+  "box": [
+   0.015022803748745869,
+   0.35705141021215775,
+   0.2781420195294057,
+   0.5448415076131767
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_keady_ver01\/data\/sn83030214\/00206531472\/1911111901\/0385\/003_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_keady_ver01%2Fdata%2Fsn83030214%2F00206531472%2F1911111901%2F0385.jp2\/pct:1.5,35.71,26.32,18.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "OF",
+   "THE",
+   "NATIONAL",
+   "GUARD",
+   "OF",
+   "THE",
+   "STATE",
+   "OF",
+   "YORK.",
+   "will",
+   "have",
+   "at",
+   "least",
+   "t?Aj",
+   "aviators,"
+  ],
+  "page_seq_num": 385,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_keady_ver01\/data\/sn83030214\/00206531472\/1911111901\/0385.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1911-11-19",
+  "publisher": "New York Tribune",
+  "score": 0.9819080233573914,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_keady_ver01\/data\/sn83030214\/00206531472\/1911111901\/0385\/003_0_98.jpg"
+ },
+ "id": 1299
+}

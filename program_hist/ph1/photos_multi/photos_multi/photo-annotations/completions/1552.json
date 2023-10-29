@@ -1,0 +1,97 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769050,
+   "id": 1552001,
+   "lead_time": 1.624,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pAxV6PCfnd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_indigo_ver01",
+  "box": [
+   0.19292480248406477,
+   0.057661932287081864,
+   0.4445245515568592,
+   0.4456551995075924
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_indigo_ver01\/data\/sn82014682\/00212471069\/1915032901\/0219\/008_0_96.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_indigo_ver01%2Fdata%2Fsn82014682%2F00212471069%2F1915032901%2F0219.jp2\/pct:19.29,5.77,25.16,38.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014682",
+  "name": "Honolulu star-bulletin. [volume]",
+  "ocr": [
+   "!\"",
+   "-",
+   "!",
+   "I",
+   "'",
+   "V",
+   ";",
+   "1",
+   "4",
+   "'JamesvM.-Hojsett",
+   "electrician",
+   "jof",
+   "ft'",
+   ":",
+   "\"-4,",
+   "v.",
+   "-T",
+   "V",
+   ";",
+   ".",
+   ".",
+   "c",
+   "went",
+   "out",
+   "for",
+   "target",
+   "practlse!UsTHurs,ax",
+   "r--\"'r--,.",
+   "of-ths",
+   "F-4's",
+   "crew.",
+   "He",
+   "has",
+   "been",
+   "amon",
+   "the.,",
+   "irjost",
+   "ctive",
+   ".",
+   "In",
+   "uthe;",
+   "'rescue.",
+   "the",
+   "wen",
+   "-of,",
+   "tfoauhnjarine'fleefcfrba",
+   "5",
+   "-"
+  ],
+  "page_seq_num": 219,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_indigo_ver01\/data\/sn82014682\/00212471069\/1915032901\/0219.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1915-03-29",
+  "publisher": "[P.T. Gialanella]",
+  "score": 0.9676703810691833,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_indigo_ver01\/data\/sn82014682\/00212471069\/1915032901\/0219\/008_0_96.jpg"
+ },
+ "id": 1552
+}

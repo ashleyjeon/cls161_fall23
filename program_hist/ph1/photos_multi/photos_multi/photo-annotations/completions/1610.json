@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766970,
+   "id": 1610001,
+   "lead_time": 6.861,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "v3OK9i02l-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_colfax_ver01",
+  "box": [
+   0.3120951433672527,
+   0.04270724306422903,
+   0.7024986893145863,
+   0.22188741944288676
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_colfax_ver01\/data\/sn87055779\/00295872081\/1915090701\/0278\/007_0_98.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_colfax_ver01%2Fdata%2Fsn87055779%2F00295872081%2F1915090701%2F0278.jp2\/pct:31.2,4.28,39.05,17.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   "A.",
+   "n",
+   "M",
+   "n",
+   "4",
+   "1",
+   "TV",
+   "b.5",
+   "'ki:Vh",
+   "icS",
+   "hi",
+   ".yy",
+   "hmi",
+   "1",
+   "1",
+   "...."
+  ],
+  "page_seq_num": 278,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_colfax_ver01\/data\/sn87055779\/00295872081\/1915090701\/0278.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1915-09-07",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.9870872497558594,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_colfax_ver01\/data\/sn87055779\/00295872081\/1915090701\/0278\/007_0_98.jpg"
+ },
+ "id": 1610
+}

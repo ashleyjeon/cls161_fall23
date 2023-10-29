@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769000,
+   "id": 636001,
+   "lead_time": 1.604,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-qlo96tKJB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_norway_ver01",
+  "box": [
+   0.4985741890325082,
+   0.5021899100002116,
+   0.6584185196665789,
+   0.6585839645396073
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_norway_ver01\/data\/sn83030214\/00175042234\/1903120201\/0024\/005_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_norway_ver01%2Fdata%2Fsn83030214%2F00175042234%2F1903120201%2F0024.jp2\/pct:49.85,50.22,15.99,15.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "H.",
+   "MARSH",
+   "BROWN.",
+   "Ex-Commodore",
+   "of",
+   "the",
+   "New-York",
+   "Yacht",
+   "Club,",
+   "who",
+   "died",
+   "yesterday."
+  ],
+  "page_seq_num": 24,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_norway_ver01\/data\/sn83030214\/00175042234\/1903120201\/0024.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1903-12-02",
+  "publisher": "New York Tribune",
+  "score": 0.9706209301948547,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_norway_ver01\/data\/sn83030214\/00175042234\/1903120201\/0024\/005_0_97.jpg"
+ },
+ "id": 636
+}

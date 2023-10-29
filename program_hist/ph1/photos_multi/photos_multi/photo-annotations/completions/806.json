@@ -1,0 +1,44 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752856,
+   "id": 806001,
+   "lead_time": 2.267,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_plymouth_ver01",
+  "box": [
+   0.18319940526086373,
+   0.4409571302698014,
+   0.5691834805861051,
+   0.5976967913039187
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_plymouth_ver01\/data\/sn90059523\/00206537899\/1905011801\/0260\/007_0_94.jpg",
+  "geographic_coverage": [
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_plymouth_ver01%2Fdata%2Fsn90059523%2F00206537899%2F1905011801%2F0260.jp2\/pct:18.31,44.1,38.6,15.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059523",
+  "name": "The Saint Paul globe.",
+  "ocr": [
+   "Farm",
+   "Scene",
+   "In",
+   "Swift",
+   "County"
+  ],
+  "page_seq_num": 260,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_plymouth_ver01\/data\/sn90059523\/00206537899\/1905011801\/0260.jp2",
+  "place_of_publication": "St. Paul, Minn.",
+  "pub_date": "1905-01-18",
+  "publisher": "[s.n.]",
+  "score": 0.9478084444999695,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_plymouth_ver01\/data\/sn90059523\/00206537899\/1905011801\/0260\/007_0_94.jpg"
+ },
+ "id": 806
+}

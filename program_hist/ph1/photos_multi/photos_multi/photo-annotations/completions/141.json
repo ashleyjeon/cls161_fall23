@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748075,
+   "id": 141001,
+   "lead_time": 1.813,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_inge_ver01",
+  "box": [
+   0.6992633674718156,
+   0.4524810100572681,
+   0.9589000975532371,
+   0.6503260547758767
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_inge_ver01\/data\/sn82016014\/00295871313\/1896042201\/0154\/005_0_91.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_inge_ver01%2Fdata%2Fsn82016014%2F00295871313%2F1896042201%2F0154.jp2\/pct:69.92,45.25,25.97,19.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016014",
+  "name": "The Topeka state journal. [volume]",
+  "ocr": [
+   "THE",
+   "FLAG",
+   "OF",
+   "Three",
+   "f-nrs",
+   "are",
+   "rd.",
+   "two",
+   "bisr?",
+   "are",
+   "white,",
+   "j",
+   "Tii",
+   "triari-.-iilar",
+   "ii-.-ht",
+   "is",
+   "hioe",
+   ";LniI",
+   "ihe",
+   "plurs",
+   "white.",
+   "The",
+   "comoiiialiciti",
+   "is",
+   "leered,",
+   "white,",
+   "I",
+   "FREE",
+   "CUBA-",
+   "and",
+   "blue,",
+   "stripes",
+   "ari",
+   "pfar",
+   "cf",
+   "the",
+   "Are;",
+   "whVh",
+   "ivic.t.s",
+   "over",
+   "trio",
+   "stroi.?;",
+   "nation",
+   "lo",
+   "wruen",
+   "Cuba",
+   "is",
+   "now",
+   "loukins",
+   "tor",
+   "aid."
+  ],
+  "page_seq_num": 154,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_inge_ver01\/data\/sn82016014\/00295871313\/1896042201\/0154.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1896-04-22",
+  "publisher": "F.P. MacLennan",
+  "score": 0.9156890511512756,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_inge_ver01\/data\/sn82016014\/00295871313\/1896042201\/0154\/005_0_91.jpg"
+ },
+ "id": 141
+}

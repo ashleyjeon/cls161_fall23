@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748078,
+   "id": 1315001,
+   "lead_time": 1.917,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "c0NKv8EzNx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_norgay_ver01",
+  "box": [
+   0.30877883535636885,
+   0.34944904533423693,
+   0.4321108824454698,
+   0.48432490322281607
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_norgay_ver01\/data\/sn88077067\/00415665751\/1912031501\/0802\/008_0_95.jpg",
+  "geographic_coverage": [
+   "Ohio--Mercer--Celina"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_norgay_ver01%2Fdata%2Fsn88077067%2F00415665751%2F1912031501%2F0802.jp2\/pct:30.87,34.95,12.34,13.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn88077067",
+  "name": "The Celina Democrat.",
+  "ocr": [
+   "GENERAL",
+   "J.",
+   "O.",
+   "FOSTKB,",
+   "U.",
+   "B.",
+   "A.,",
+   "COMMAND-",
+   "Kit",
+   "OF",
+   "THE",
+   "I'lllHT",
+   "BUIGADB",
+   "IN",
+   "BTJBN",
+   "SIDE'S",
+   "AUMY",
+   "AT",
+   "NEW",
+   "BKKNE.",
+   "7",
+   "tr.",
+   ".",
+   "-v",
+   "-f.'v",
+   "I"
+  ],
+  "page_seq_num": 802,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_norgay_ver01\/data\/sn88077067\/00415665751\/1912031501\/0802.jp2",
+  "place_of_publication": "Celina, O. [Ohio]",
+  "pub_date": "1912-03-15",
+  "publisher": "C.C. Carlin & Geo. W. Phillipps",
+  "score": 0.9511346220970154,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_norgay_ver01\/data\/sn88077067\/00415665751\/1912031501\/0802\/008_0_95.jpg"
+ },
+ "id": 1315
+}

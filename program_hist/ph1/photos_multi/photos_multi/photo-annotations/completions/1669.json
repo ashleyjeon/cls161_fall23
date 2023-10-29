@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768001,
+   "id": 1669001,
+   "lead_time": 3.061,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Bny9VQWmcZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_eugenedebs_ver01",
+  "box": [
+   0.17787904324738876,
+   0.4232630506854191,
+   0.4006356778352157,
+   0.5433265472126898
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_eugenedebs_ver01\/data\/sn87055779\/00295872135\/1916071401\/0497\/005_0_90.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_eugenedebs_ver01%2Fdata%2Fsn87055779%2F00295872135%2F1916071401%2F0497.jp2\/pct:17.78,42.33,22.28,12.01\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   "i.",
+   "'",
+   ")",
+   ".",
+   ",",
+   ".",
+   ".",
+   ".",
+   ".",
+   "-",
+   ".",
+   ".",
+   ".",
+   ":",
+   "\"'",
+   "'",
+   "'.",
+   ".",
+   ".",
+   "'",
+   ".",
+   ".\"",
+   "'",
+   "A",
+   "-",
+   "\"",
+   "-",
+   "i",
+   ".",
+   "-",
+   ".",
+   ".-"
+  ],
+  "page_seq_num": 497,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_eugenedebs_ver01\/data\/sn87055779\/00295872135\/1916071401\/0497.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1916-07-14",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.9050456881523132,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_eugenedebs_ver01\/data\/sn87055779\/00295872135\/1916071401\/0497\/005_0_90.jpg"
+ },
+ "id": 1669
+}

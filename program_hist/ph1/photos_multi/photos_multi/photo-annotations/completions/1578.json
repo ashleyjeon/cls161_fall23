@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768613,
+   "id": 1578001,
+   "lead_time": 2.129,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8VHeENxa3P",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_fir_ver01",
+  "box": [
+   0.03771676943283672,
+   0.047519766169486284,
+   0.26779250845164554,
+   0.37813568115234375
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_fir_ver01\/data\/sn88085187\/0021110840A\/1915071001\/0704\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_fir_ver01%2Fdata%2Fsn88085187%2F0021110840A%2F1915071001%2F0704.jp2\/pct:3.77,4.76,23.01,33.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "TACOMA",
+   "BELLE",
+   "HAS",
+   "ALASKA",
+   "FOX-FARM",
+   "MR.",
+   "AMI",
+   "MBS.",
+   "KIINKi.",
+   "ItK'HTKIt."
+  ],
+  "page_seq_num": 704,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_fir_ver01\/data\/sn88085187\/0021110840A\/1915071001\/0704.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1915-07-10",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9827216267585754,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_fir_ver01\/data\/sn88085187\/0021110840A\/1915071001\/0704\/001_0_98.jpg"
+ },
+ "id": 1578
+}

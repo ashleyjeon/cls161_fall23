@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611740392,
+   "id": 533001,
+   "lead_time": 455.695,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZQ7ICM8Jsv",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_gilia_ver01",
+  "box": [
+   0.07594225084459459,
+   0.39367445701079845,
+   0.4695101351351351,
+   0.5592512040862239
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_gilia_ver01\/data\/2007252185\/00211107753\/1901041801\/0260\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle",
+   "Washington--Spokane--Spokane",
+   "Washington--Yakima--Yakima"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_gilia_ver01%2Fdata%2F2007252185%2F00211107753%2F1901041801%2F0260.jp2\/pct:7.59,39.37,39.36,16.56\/!500,500\/0\/default.jpg",
+  "lccn": "2007252185",
+  "name": "Ranche and range.",
+  "ocr": [
+   "A",
+   "Peai-li",
+   "Orchard",
+   "in",
+   "VloeUnd."
+  ],
+  "page_seq_num": 260,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_gilia_ver01\/data\/2007252185\/00211107753\/1901041801\/0260.jp2",
+  "place_of_publication": "North Yakima, Wash.",
+  "pub_date": "1901-04-18",
+  "publisher": "[s.n.",
+  "score": 0.982862651348114,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_gilia_ver01\/data\/2007252185\/00211107753\/1901041801\/0260\/003_0_98.jpg"
+ },
+ "id": 533
+}

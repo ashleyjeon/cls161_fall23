@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748043,
+   "id": 273001,
+   "lead_time": 1.686,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8V_gnjLSAH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_fleming_ver01",
+  "box": [
+   0.3315112078631366,
+   0.056680022800429185,
+   0.5907853114752122,
+   0.29301165797679724
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_fleming_ver01\/data\/sn84020630\/00415628997\/1898110401\/1066\/001_0_99.jpg",
+  "geographic_coverage": [
+   "New Mexico--Santa Fe--Santa Fe"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_fleming_ver01%2Fdata%2Fsn84020630%2F00415628997%2F1898110401%2F1066.jp2\/pct:33.15,5.67,25.93,23.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020630",
+  "name": "Santa Fe new Mexican. [volume]",
+  "ocr": [
+   "Ik",
+   "if",
+   "\"",
+   "\"",
+   "-",
+   "j",
+   "3",
+   "&2&4ft$t",
+   "lis",
+   "IIO.",
+   "JAMES",
+   "Ilt'piihlifsiii",
+   "Candidate",
+   "for",
+   "the",
+   "iV",
+   "s.",
+   "nrxc.vv,",
+   "Council",
+   "from",
+   "San",
+   "Miguel",
+   "and"
+  ],
+  "page_seq_num": 1066,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_fleming_ver01\/data\/sn84020630\/00415628997\/1898110401\/1066.jp2",
+  "place_of_publication": "Santa Fe, N.M.",
+  "pub_date": "1898-11-04",
+  "publisher": "New Mexican Print. Co.",
+  "score": 0.9921464323997498,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_fleming_ver01\/data\/sn84020630\/00415628997\/1898110401\/1066\/001_0_99.jpg"
+ },
+ "id": 273
+}

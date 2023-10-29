@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768636,
+   "id": 1672001,
+   "lead_time": 5.865,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "63AOu9Cn6e",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_elizabeth_ver01",
+  "box": [
+   0.043459202215923524,
+   0.5280796617197004,
+   0.3051150934482978,
+   0.7232411331213884
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_elizabeth_ver01\/data\/sn85040721\/00271769532\/1916031401\/0106\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Dodge--Watertown",
+   "Wisconsin--Jefferson--Watertown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_elizabeth_ver01%2Fdata%2Fsn85040721%2F00271769532%2F1916031401%2F0106.jp2\/pct:4.34,52.81,26.17,19.52\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040721",
+  "name": "The Watertown weekly leader. [volume]",
+  "ocr": [
+   "...",
+   "The",
+   "Beauty",
+   "of",
+   "Well",
+   "Kept",
+   "Grounds"
+  ],
+  "page_seq_num": 106,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_elizabeth_ver01\/data\/sn85040721\/00271769532\/1916031401\/0106.jp2",
+  "place_of_publication": "Watertown, Jefferson County, Wis.",
+  "pub_date": "1916-03-14",
+  "publisher": "W.L. Swift",
+  "score": 0.9794066548347473,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_elizabeth_ver01\/data\/sn85040721\/00271769532\/1916031401\/0106\/004_0_97.jpg"
+ },
+ "id": 1672
+}

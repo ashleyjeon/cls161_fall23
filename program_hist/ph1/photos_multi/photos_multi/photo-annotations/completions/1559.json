@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762865,
+   "id": 1559001,
+   "lead_time": 1.465,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "elwfZIMklH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_juanita_ver01",
+  "box": [
+   0.5008670379189376,
+   0.14353622319248371,
+   0.6197072911505521,
+   0.4360376581180615
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_juanita_ver01\/data\/sn87093407\/00200290677\/1915122801\/0892\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_juanita_ver01%2Fdata%2Fsn87093407%2F00200290677%2F1915122801%2F0892.jp2\/pct:50.08,14.36,11.89,29.26\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "Rev.",
+   "O.",
+   "H.",
+   "McQIII"
+  ],
+  "page_seq_num": 892,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_juanita_ver01\/data\/sn87093407\/00200290677\/1915122801\/0892.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1915-12-28",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.922175407409668,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_juanita_ver01\/data\/sn87093407\/00200290677\/1915122801\/0892\/006_0_92.jpg"
+ },
+ "id": 1559
+}

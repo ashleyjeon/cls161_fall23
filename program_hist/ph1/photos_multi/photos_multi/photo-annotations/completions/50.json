@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768087,
+   "id": 50001,
+   "lead_time": 1.535,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "OABZauhMAI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_forks_ver01",
+  "box": [
+   0.26731744153636705,
+   0.6362667899439831,
+   0.8154787381935922,
+   0.8124248029103162
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_forks_ver01\/data\/sn83045604\/0020219932A\/1895010101\/0077\/001_0_94.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_forks_ver01%2Fdata%2Fsn83045604%2F0020219932A%2F1895010101%2F0077.jp2\/pct:26.73,63.63,54.82,17.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+   "SIZK",
+   "OF",
+   "I.OOS",
+   "SAWFP",
+   "FoK",
+   "THE",
+   "IJ'MCKR",
+   "'\u2022V\\H'AN\\"
+  ],
+  "page_seq_num": 77,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_forks_ver01\/data\/sn83045604\/0020219932A\/1895010101\/0077.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1895-01-01",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.9426597952842712,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_forks_ver01\/data\/sn83045604\/0020219932A\/1895010101\/0077\/001_0_94.jpg"
+ },
+ "id": 50
+}

@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675558,
+   "id": 1320001,
+   "lead_time": 3.029,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "AN8TA2jEA2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_hufnagel_ver02",
+  "box": [
+   0.30903749027711297,
+   0.12506296697898844,
+   0.6949567732195364,
+   0.3031769190413815
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_hufnagel_ver02\/data\/97071090\/00200298184\/1912010101\/0454\/000_0_99.jpg",
+  "geographic_coverage": [
+
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_hufnagel_ver02%2Fdata%2F97071090%2F00200298184%2F1912010101%2F0454.jp2\/pct:30.9,12.51,38.6,17.82\/!500,500\/0\/default.jpg",
+  "lccn": "97071090",
+  "name": "Medford mail tribune. (Medford, Or.) 1909-1989. [online resource]",
+  "ocr": [
+   "tffllilli",
+   "Wf",
+   "aH!",
+   "liPilltiiP",
+   "imbti",
+   "i",
+   "ai?ii",
+   "F;&mEmzmmmM",
+   "-rr-rftm",
+   "BBBBVf",
+   "1",
+   "fBBBBBBBBBBBH5BEBBBBBBBBBBBBBBBe21k3hE9L22J2",
+   "Talent",
+   "School."
+  ],
+  "page_seq_num": 454,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_hufnagel_ver02\/data\/97071090\/00200298184\/1912010101\/0454.jp2",
+  "place_of_publication": "Oregon.",
+  "pub_date": "1912-01-01",
+  "publisher": null,
+  "score": 0.994942843914032,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_hufnagel_ver02\/data\/97071090\/00200298184\/1912010101\/0454\/000_0_99.jpg"
+ },
+ "id": 1320
+}

@@ -1,0 +1,47 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675673,
+   "id": 1670001,
+   "lead_time": 2.895,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "arhi_bulbasaur_ver01",
+  "box": [
+   0.21084600572841836,
+   0.5998952851878653,
+   0.3516767752733876,
+   0.8234600369021189
+  ],
+  "edition_seq_num": 1,
+  "filepath": "arhi_bulbasaur_ver01\/data\/sn85033000\/00414212128\/1916041001\/0325\/001_0_94.jpg",
+  "geographic_coverage": [
+   "Arkansas--Faulkner--Conway"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/arhi_bulbasaur_ver01%2Fdata%2Fsn85033000%2F00414212128%2F1916041001%2F0325.jp2\/pct:21.08,59.99,14.09,22.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033000",
+  "name": "The Log cabin Democrat. [volume]",
+  "ocr": [
+   "\u25a0.T;:",
+   "\u25a0\u25a0",
+   "\u25a0\u25a0\u25a0\u25a0",
+   "I",
+   "to",
+   "Grow",
+   "and",
+   "Effec"
+  ],
+  "page_seq_num": 325,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/arhi_bulbasaur_ver01\/data\/sn85033000\/00414212128\/1916041001\/0325.jp2",
+  "place_of_publication": "Conway, Ark.",
+  "pub_date": "1916-04-10",
+  "publisher": "Conway Print. Co.",
+  "score": 0.9447515606880188,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/arhi_bulbasaur_ver01\/data\/sn85033000\/00414212128\/1916041001\/0325\/001_0_94.jpg"
+ },
+ "id": 1670
+}

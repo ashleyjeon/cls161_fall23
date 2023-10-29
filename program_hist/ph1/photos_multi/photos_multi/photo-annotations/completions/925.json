@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748269,
+   "id": 925001,
+   "lead_time": 2.14,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "P_MKwrb41o",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.24744519965593206,
+   0.07638454184738389,
+   0.36336918320766715,
+   0.23001839350728157
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/0021110742A\/1907071301\/0094\/007_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F0021110742A%2F1907071301%2F0094.jp2\/pct:24.74,7.64,11.6,15.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "BISHOP",
+   "ALEXANDER",
+   "WALTERS.",
+   "J*r\u00ab*y",
+   "City.",
+   "Who",
+   "Prealdcd",
+   "all",
+   "Yes",
+   "terday's",
+   "Session",
+   "st",
+   "Tsnt",
+   "Willis",
+   "ton."
+  ],
+  "page_seq_num": 94,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/0021110742A\/1907071301\/0094.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1907-07-13",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9781016707420349,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/0021110742A\/1907071301\/0094\/007_0_97.jpg"
+ },
+ "id": 925
+}

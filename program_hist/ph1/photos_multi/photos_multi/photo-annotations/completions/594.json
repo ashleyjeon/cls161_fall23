@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767913,
+   "id": 594001,
+   "lead_time": 2.044,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "k_a1vaJdH5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_higuchi_ver01",
+  "box": [
+   0.03842298473630633,
+   0.25127530009329985,
+   0.17127129009791783,
+   0.39414101639644805
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_higuchi_ver01\/data\/sn82016014\/00295871106\/1902100401\/0040\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_higuchi_ver01%2Fdata%2Fsn82016014%2F00295871106%2F1902100401%2F0040.jp2\/pct:3.84,25.13,13.29,14.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016014",
+  "name": "The Topeka state journal. [volume]",
+  "ocr": [
+   "4",
+   "1",
+   ":",
+   ":",
+   "'",
+   "-",
+   ".J",
+   "RICHARD",
+   "HARDING",
+   "DAVIS.",
+   "Author",
+   "of",
+   "\"Captain",
+   "Maeklin.\""
+  ],
+  "page_seq_num": 40,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_higuchi_ver01\/data\/sn82016014\/00295871106\/1902100401\/0040.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1902-10-04",
+  "publisher": "F.P. MacLennan",
+  "score": 0.9847670197486877,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_higuchi_ver01\/data\/sn82016014\/00295871106\/1902100401\/0040\/004_0_98.jpg"
+ },
+ "id": 594
+}

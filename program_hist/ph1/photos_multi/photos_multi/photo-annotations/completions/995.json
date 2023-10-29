@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673670,
+   "id": 995001,
+   "lead_time": 1.85,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XVkQz25m2l",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_denim_ver01",
+  "box": [
+   0.6570352953533793,
+   0.5070709566348593,
+   0.9491204944383882,
+   0.8290016765524101
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_denim_ver01\/data\/sn82015415\/0023728415A\/1907020201\/0243\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_denim_ver01%2Fdata%2Fsn82015415%2F0023728415A%2F1907020201%2F0243.jp2\/pct:65.7,50.71,29.21,32.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015415",
+  "name": "The Hawaiian star. [volume]",
+  "ocr": [
+   "HANDSOME",
+   "HOME",
+   "FOR",
+   "THE",
+   "HAWAIIAN",
+   "BOAR",
+   ".j",
+   "Following",
+   "tho",
+   "disposal",
+   "of",
+   "tho",
+   "routine",
+   "was",
+   "to",
+   "draw",
+   "a"
+  ],
+  "page_seq_num": 243,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_denim_ver01\/data\/sn82015415\/0023728415A\/1907020201\/0243.jp2",
+  "place_of_publication": "Honolulu [Oahu]",
+  "pub_date": "1907-02-02",
+  "publisher": "Hawaiian Star Newspaper Association",
+  "score": 0.9880444407463074,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_denim_ver01\/data\/sn82015415\/0023728415A\/1907020201\/0243\/000_0_98.jpg"
+ },
+ "id": 995
+}

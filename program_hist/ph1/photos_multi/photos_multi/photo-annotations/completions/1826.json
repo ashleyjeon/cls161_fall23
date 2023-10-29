@@ -1,0 +1,92 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768321,
+   "id": 1826001,
+   "lead_time": 2.054,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UlCfvWzcVT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_fir_ver01",
+  "box": [
+   0.2878545754949038,
+   0.038267552960414786,
+   0.7242448722584769,
+   0.30594622593029497
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_fir_ver01\/data\/sn88085187\/00211108460\/1918020401\/0889\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_fir_ver01%2Fdata%2Fsn88085187%2F00211108460%2F1918020401%2F0889.jp2\/pct:28.78,3.83,43.64,26.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "THE",
+   "RED",
+   "CROSS",
+   "EXPRESS",
+   "WITH",
+   "CARGO",
+   "OF",
+   "WOUNDED",
+   "This",
+   "light",
+   "railway",
+   "line",
+   "on",
+   "the",
+   "British",
+   "front",
+   "has",
+   "been",
+   "comnuin",
+   "the",
+   "field",
+   "dressing",
+   "stations",
+   "and",
+   "tho",
+   "field",
+   "hospitals.",
+   "The",
+   "train",
+   "with",
+   "its",
+   "cargo",
+   "of",
+   "wounded",
+   "Is",
+   "shown",
+   "\u00fcbout",
+   "to",
+   "leave",
+   "the",
+   "field",
+   "dressing",
+   "sta"
+  ],
+  "page_seq_num": 889,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_fir_ver01\/data\/sn88085187\/00211108460\/1918020401\/0889.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1918-02-04",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9749700427055359,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_fir_ver01\/data\/sn88085187\/00211108460\/1918020401\/0889\/002_0_97.jpg"
+ },
+ "id": 1826
+}

@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746845,
+   "id": 890001,
+   "lead_time": 3.141,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cttkKJkKNn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_hercules_ver01",
+  "box": [
+   0.017874940763301393,
+   0.245891106365085,
+   0.4197820449182781,
+   0.5168916091702815
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_hercules_ver01\/data\/sn85066387\/00100480761\/1906051301\/0144\/008_0_91.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_hercules_ver01%2Fdata%2Fsn85066387%2F00100480761%2F1906051301%2F0144.jp2\/pct:1.78,24.59,40.2,27.11\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "MODERN",
+   "HOTELS"
+  ],
+  "page_seq_num": 144,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_hercules_ver01\/data\/sn85066387\/00100480761\/1906051301\/0144.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1906-05-13",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9195160865783691,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_hercules_ver01\/data\/sn85066387\/00100480761\/1906051301\/0144\/008_0_91.jpg"
+ },
+ "id": 890
+}

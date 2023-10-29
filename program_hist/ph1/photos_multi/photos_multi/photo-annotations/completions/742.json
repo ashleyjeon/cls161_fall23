@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747278,
+   "id": 742001,
+   "lead_time": 1.866,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-PLxm2L-6e",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_framebones_ver01",
+  "box": [
+   0.8566608072916667,
+   0.43727895082843027,
+   0.9985162760416667,
+   0.58673095703125
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_framebones_ver01\/data\/sn99063957\/00280760444\/1904032501\/1275\/005_0_93.jpg",
+  "geographic_coverage": [
+   "Oregon--Marion--Salem"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_framebones_ver01%2Fdata%2Fsn99063957%2F00280760444%2F1904032501%2F1275.jp2\/pct:85.66,43.73,14.19,14.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063957",
+  "name": "Daily capital journal.",
+  "ocr": [
+   "PROF.",
+   "JAMESON",
+   "lo",
+   "re"
+  ],
+  "page_seq_num": 1275,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_framebones_ver01\/data\/sn99063957\/00280760444\/1904032501\/1275.jp2",
+  "place_of_publication": "Salem, Oregon",
+  "pub_date": "1904-03-25",
+  "publisher": null,
+  "score": 0.9334235191345215,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_framebones_ver01\/data\/sn99063957\/00280760444\/1904032501\/1275\/005_0_93.jpg"
+ },
+ "id": 742
+}

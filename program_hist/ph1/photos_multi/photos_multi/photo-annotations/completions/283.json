@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763825,
+   "id": 283001,
+   "lead_time": 2.268,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "SIHRNOEk4q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_jaeger_ver01",
+  "box": [
+   0.6489995401372355,
+   0.1049548620465158,
+   0.8874266286375662,
+   0.3286461227241604
+  ],
+  "edition_seq_num": 3,
+  "filepath": "oru_jaeger_ver01\/data\/sn93051669\/00200298901\/1898010103\/0120\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Oregon--Wasco--Dalles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_jaeger_ver01%2Fdata%2Fsn93051669%2F00200298901%2F1898010103%2F0120.jp2\/pct:64.89,10.5,23.85,22.37\/!500,500\/0\/default.jpg",
+  "lccn": "sn93051669",
+  "name": "The Dalles times-mountaineer. [volume]",
+  "ocr": [
+   "'A",
+   ".\"",
+   ".",
+   "r;.",
+   ".",
+   "-",
+   "-",
+   ":",
+   "-.,",
+   "-",
+   "V\"",
+   "JOHN",
+   "C.",
+   "JOHNSTON."
+  ],
+  "page_seq_num": 120,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_jaeger_ver01\/data\/sn93051669\/00200298901\/1898010103\/0120.jp2",
+  "place_of_publication": "The Dalles, Or.",
+  "pub_date": "1898-01-01",
+  "publisher": "Times-Mountaineer Pub. Co.",
+  "score": 0.9931204319000244,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_jaeger_ver01\/data\/sn93051669\/00200298901\/1898010103\/0120\/001_0_99.jpg"
+ },
+ "id": 283
+}

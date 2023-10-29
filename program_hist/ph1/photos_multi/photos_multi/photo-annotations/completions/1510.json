@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747258,
+   "id": 1510001,
+   "lead_time": 1.891,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "An1s2FLnc4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_beaver_ver01",
+  "box": [
+   0.4575032646382532,
+   0.0384464565605606,
+   0.5866950997610081,
+   0.20681223676577604
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_beaver_ver01\/data\/sn83045211\/00237282024\/1914121501\/0617\/007_0_98.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_beaver_ver01%2Fdata%2Fsn83045211%2F00237282024%2F1914121501%2F0617.jp2\/pct:45.75,3.85,12.92,16.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "SJflSSBBBBBBBBBBBBBBBSSBBBB9lp?",
+   "9m",
+   "t",
+   "BBBBBBBBBBBSBBflBBBBBsk.",
+   "1",
+   "fcii",
+   "f",
+   "DR.",
+   "JOHN",
+   "H.",
+   "MacCRACKEN",
+   "Professor",
+   "of",
+   "political",
+   "philosophy",
+   "In",
+   "New",
+   "York",
+   "University,",
+   "who",
+   "nas",
+   "been",
+   "chosen",
+   "head",
+   "of",
+   "Lafayette",
+   "College."
+  ],
+  "page_seq_num": 617,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_beaver_ver01\/data\/sn83045211\/00237282024\/1914121501\/0617.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1914-12-15",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9822186827659607,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_beaver_ver01\/data\/sn83045211\/00237282024\/1914121501\/0617\/007_0_98.jpg"
+ },
+ "id": 1510
+}

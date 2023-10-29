@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766466,
+   "id": 904001,
+   "lead_time": 1.749,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MEsvWh0Rsm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.21527761305677948,
+   0.5135408289292279,
+   0.5147795112212122,
+   0.7148016636667688
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761047\/1906122901\/0501\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761047%2F1906122901%2F0501.jp2\/pct:21.52,51.36,29.96,20.13\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   ";",
+   "j",
+   "1",
+   "J",
+   "j",
+   "!",
+   "!",
+   "!",
+   "I",
+   "1",
+   "S.",
+   "A.",
+   "T.",
+   "WATKINS",
+   "Assistant",
+   "Prosecuting",
+   "Attorney",
+   "of",
+   "Chicago;",
+   "Supreme",
+   "Attorney"
+  ],
+  "page_seq_num": 501,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761047\/1906122901\/0501.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1906-12-29",
+  "publisher": "Julius F. Taylor",
+  "score": 0.9678453803062439,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761047\/1906122901\/0501\/003_0_96.jpg"
+ },
+ "id": 904
+}

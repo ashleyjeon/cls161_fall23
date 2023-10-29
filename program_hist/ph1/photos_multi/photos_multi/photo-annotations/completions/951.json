@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748397,
+   "id": 951001,
+   "lead_time": 3.615,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WFBCJuKT0u",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.034372890328343085,
+   0.1436076851778252,
+   0.4131339187496793,
+   0.3109858313272166
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/0017504159A\/1907061601\/0366\/000_0_99.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F0017504159A%2F1907061601%2F0366.jp2\/pct:3.43,14.37,37.88,16.74\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "Church",
+   "and",
+   "School",
+   "at",
+   "Juan",
+   "Fernandez"
+  ],
+  "page_seq_num": 366,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/0017504159A\/1907061601\/0366.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1907-06-16",
+  "publisher": "New York Tribune",
+  "score": 0.991238534450531,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/0017504159A\/1907061601\/0366\/000_0_99.jpg"
+ },
+ "id": 951
+}

@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675756,
+   "id": 1885001,
+   "lead_time": 3.867,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wkxiEkCDFk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iahi_marion_ver02",
+  "box": [
+   0.5759640153347523,
+   0.5201429731390449,
+   0.949676797116873,
+   0.6745778287394663
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iahi_marion_ver02\/data\/sn85049554\/0029587711A\/1919012801\/0517\/005_0_95.jpg",
+  "geographic_coverage": [
+   "Iowa--Marshall--Marshalltown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iahi_marion_ver02%2Fdata%2Fsn85049554%2F0029587711A%2F1919012801%2F0517.jp2\/pct:57.59,52.02,37.38,15.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn85049554",
+  "name": "Evening times-Republican. [volume]",
+  "ocr": [
+   "iC-'isJ*",
+   "One",
+   "oTour",
+   "silos",
+   "that",
+   "withstood",
+   "ftiZ",
+   "cycloiti",
+   "at",
+   "the",
+   "Edwin",
+   "Strand",
+   "farm",
+   "and",
+   "is",
+   "as",
+   "good",
+   "as",
+   "ever.",
+   "fj*1",
+   "$"
+  ],
+  "page_seq_num": 517,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iahi_marion_ver02\/data\/sn85049554\/0029587711A\/1919012801\/0517.jp2",
+  "place_of_publication": "Marshalltown, Iowa",
+  "pub_date": "1919-01-28",
+  "publisher": "Times-Republican Print. Co.",
+  "score": 0.9510221481323242,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iahi_marion_ver02\/data\/sn85049554\/0029587711A\/1919012801\/0517\/005_0_95.jpg"
+ },
+ "id": 1885
+}

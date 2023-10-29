@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675534,
+   "id": 1369001,
+   "lead_time": 2.519,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tcSrwdK8SO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_dolphy_ver01",
+  "box": [
+   0.28638344328867366,
+   0.08529064998746168,
+   0.6964062997118919,
+   0.31930115128359865
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_dolphy_ver01\/data\/sn86092557\/00415660261\/1912013001\/0208\/009_0_93.jpg",
+  "geographic_coverage": [
+   "West Virginia--Marion--Fairmont"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_dolphy_ver01%2Fdata%2Fsn86092557%2F00415660261%2F1912013001%2F0208.jp2\/pct:28.63,8.53,41.01,23.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092557",
+  "name": "The Fairmont West Virginian.",
+  "ocr": [
+   "'",
+   "fllXS",
+   "JOs!",
+   "LEBER'S",
+   "AIUSICA",
+   "L",
+   "COMEDY,",
+   ".''ALMA,",
+   "WHEfiE",
+   "DO",
+   "4",
+   "ORftNP",
+   "OPERA",
+   "HOU8E,",
+   "ONE",
+   "1",
+   "||BH{",
+   "!",
+   "'",
+   "H",
+   "Hfr",
+   "tou",
+   "uvet'",
+   "VlGHf,",
+   "THURSDAY."
+  ],
+  "page_seq_num": 208,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_dolphy_ver01\/data\/sn86092557\/00415660261\/1912013001\/0208.jp2",
+  "place_of_publication": "Fairmont, W. Va.",
+  "pub_date": "1912-01-30",
+  "publisher": "Fairmont West Virginian Publ. Co. Inc.",
+  "score": 0.9365113973617554,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_dolphy_ver01\/data\/sn86092557\/00415660261\/1912013001\/0208\/009_0_93.jpg"
+ },
+ "id": 1369
+}

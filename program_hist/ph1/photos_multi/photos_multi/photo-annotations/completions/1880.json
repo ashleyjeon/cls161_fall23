@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673690,
+   "id": 1880001,
+   "lead_time": 1.762,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lRKk3oFjsJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_geronimo_ver01",
+  "box": [
+   0.28586393617177697,
+   0.37967341298292456,
+   0.41678373367903077,
+   0.5251882561148471
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_geronimo_ver01\/data\/sn85042303\/00200296898\/1919042701\/0973\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Carter--Ardmore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_geronimo_ver01%2Fdata%2Fsn85042303%2F00200296898%2F1919042701%2F0973.jp2\/pct:28.58,37.97,13.1,14.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042303",
+  "name": "The Daily Ardmoreite. [volume]",
+  "ocr": [
+   "MRS.",
+   "M1NMK",
+   "WALK"
+  ],
+  "page_seq_num": 973,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_geronimo_ver01\/data\/sn85042303\/00200296898\/1919042701\/0973.jp2",
+  "place_of_publication": "Ardmore, Okla.",
+  "pub_date": "1919-04-27",
+  "publisher": "John F. Easley",
+  "score": 0.9721952676773071,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_geronimo_ver01\/data\/sn85042303\/00200296898\/1919042701\/0973\/002_0_97.jpg"
+ },
+ "id": 1880
+}

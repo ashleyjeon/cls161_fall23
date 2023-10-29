@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673444,
+   "id": 370001,
+   "lead_time": 1.412,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Cvg98vuHA3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_fennel_ver01",
+  "box": [
+   0.8507625687942814,
+   0.60820315229353,
+   0.9661149615700911,
+   0.7813411603898827
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_fennel_ver01\/data\/sn83045081\/00296022329\/1899012301\/0164\/005_0_91.jpg",
+  "geographic_coverage": [
+   "Maryland--Baltimore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_fennel_ver01%2Fdata%2Fsn83045081%2F00296022329%2F1899012301%2F0164.jp2\/pct:85.07,60.83,11.54,17.32\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045081",
+  "name": "Der Deutsche correspondent. [volume]",
+  "ocr": [
+   "Dr",
+   "Amm",
+   "M'riiiG",
+   "rc\u00fclstrirtr",
+   "Atr;tin,",
+   "?!r.",
+   "RVOS",
+   "Qft",
+   "-",
+   "Valtimore-Ztra\u00dfe.",
+   "Flasche",
+   "zu",
+   "kahcn",
+   "bei",
+   "allen",
+   "Privat",
+   "von",
+   "hohem",
+   "Wunder-Balsam",
+   "f\u00fcr",
+   "sie",
+   "Wiederherstellung",
+   "aussallender",
+   "uns",
+   "ergrautes",
+   ".Li!",
+   "Will?\"",
+   "regulirende",
+   "Pillen,",
+   "l.",
+   "v)iering's",
+   "\u00e4rztliches",
+   "Institut,"
+  ],
+  "page_seq_num": 164,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_fennel_ver01\/data\/sn83045081\/00296022329\/1899012301\/0164.jp2",
+  "place_of_publication": "Baltimore, Md.",
+  "pub_date": "1899-01-23",
+  "publisher": "F. Raine",
+  "score": 0.910940408706665,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_fennel_ver01\/data\/sn83045081\/00296022329\/1899012301\/0164\/005_0_91.jpg"
+ },
+ "id": 370
+}

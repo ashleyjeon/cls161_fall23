@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673514,
+   "id": 496001,
+   "lead_time": 3.041,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tyTrSTwV5e",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_one_ver01",
+  "box": [
+   0.2809782583334465,
+   0.11305444187373224,
+   0.5442354813748914,
+   0.2737636398511452
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_one_ver01\/data\/sn85058130\/00100478110\/1901121901\/0512\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_one_ver01%2Fdata%2Fsn85058130%2F00100478110%2F1901121901%2F0512.jp2\/pct:28.09,11.31,26.33,16.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058130",
+  "name": "The Salt Lake herald. [volume]",
+  "ocr": [
+   "WiNDow",
+   "G1t",
+   "N",
+   "G",
+   "GEAR",
+   "Vi3py",
+   "OF",
+   "E",
+   "t",
+   "t",
+   "A",
+   "fZ",
+   "fZDF"
+  ],
+  "page_seq_num": 512,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_one_ver01\/data\/sn85058130\/00100478110\/1901121901\/0512.jp2",
+  "place_of_publication": "Salt Lake City [Utah]",
+  "pub_date": "1901-12-19",
+  "publisher": "[W.C. Dunbar & E.L. Sloan]",
+  "score": 0.9799264073371887,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_one_ver01\/data\/sn85058130\/00100478110\/1901121901\/0512\/004_0_97.jpg"
+ },
+ "id": 496
+}

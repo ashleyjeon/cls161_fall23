@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673573,
+   "id": 256001,
+   "lead_time": 1.724,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QNAyvAIVWj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_emerson_ver01",
+  "box": [
+   0.8589592140938159,
+   0.04431000391642253,
+   0.9553366874340717,
+   0.1417937215169271
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_emerson_ver01\/data\/sn99021999\/00206538922\/1898060101\/0088\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_emerson_ver01%2Fdata%2Fsn99021999%2F00206538922%2F1898060101%2F0088.jp2\/pct:85.89,4.44,9.64,9.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "'Or",
+   "CLARK",
+   "1v",
+   ",",
+   "CAR",
+   ","
+  ],
+  "page_seq_num": 88,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_emerson_ver01\/data\/sn99021999\/00206538922\/1898060101\/0088.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1898-06-01",
+  "publisher": "Edward Rosewater",
+  "score": 0.9111997485160828,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_emerson_ver01\/data\/sn99021999\/00206538922\/1898060101\/0088\/008_0_91.jpg"
+ },
+ "id": 256
+}

@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747601,
+   "id": 2000001,
+   "lead_time": 1.839,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "js-Gb4Ohqo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_elkweed_ver01",
+  "box": [
+   0.07132709464899274,
+   0.5084523736290776,
+   0.41169560154943563,
+   0.7447310663315523
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_elkweed_ver01\/data\/sn94056939\/00280774613\/1920123101\/1070\/007_0_93.jpg",
+  "geographic_coverage": [
+   "New Mexico--Lincoln--Carrizozo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_elkweed_ver01%2Fdata%2Fsn94056939%2F00280774613%2F1920123101%2F1070.jp2\/pct:7.13,50.85,34.04,23.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn94056939",
+  "name": "Carrizozo outlook. [volume]",
+  "ocr": [
+   "Keeping",
+   "Infected",
+   "In",
+   "Its",
+   "cfTort",
+   "to",
+   "prevent",
+   "an",
+   "outbreak",
+   "of",
+   "bubonic",
+   "plaguo",
+   "In",
+   "this",
+   "country,",
+   "the",
+   "United",
+   "States",
+   "health",
+   "service",
+   "has",
+   "utilized",
+   "large",
+   "motnt",
+   "discs",
+   "placed",
+   "on",
+   "hawsers",
+   "occupy",
+   "Rats",
+   "From",
+   "Landing"
+  ],
+  "page_seq_num": 1070,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_elkweed_ver01\/data\/sn94056939\/00280774613\/1920123101\/1070.jp2",
+  "place_of_publication": "Carrizozo, N.M.",
+  "pub_date": "1920-12-31",
+  "publisher": "William Kabler",
+  "score": 0.9306097030639648,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_elkweed_ver01\/data\/sn94056939\/00280774613\/1920123101\/1070\/007_0_93.jpg"
+ },
+ "id": 2000
+}

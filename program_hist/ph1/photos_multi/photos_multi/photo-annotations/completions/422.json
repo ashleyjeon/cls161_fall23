@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755015,
+   "id": 422001,
+   "lead_time": 77.468,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EYPB28Tfqi",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.17821376008807488,
+   0.5036710311806267,
+   0.8237816000884434,
+   0.8444768353238132
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900040101\/0031\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040857%2F1900040101%2F0031.jp2\/pct:17.82,50.37,64.56,34.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "GRINDING",
+   "WHEAT",
+   "INTO",
+   "FLOUR,",
+   "PREPARING",
+   "BREAD",
+   "FOR",
+   "THE",
+   "NATIVE",
+   "OVEN."
+  ],
+  "page_seq_num": 31,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900040101\/0031.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-04-01",
+  "publisher": "New York Tribune",
+  "score": 0.9861688613891602,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040857\/1900040101\/0031\/001_0_98.jpg"
+ },
+ "id": 422
+}

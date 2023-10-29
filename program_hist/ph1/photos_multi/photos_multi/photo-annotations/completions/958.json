@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747971,
+   "id": 958001,
+   "lead_time": 2.492,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MT4i0JNr3q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_cardinal_ver01",
+  "box": [
+   0.6336926226089857,
+   0.11728814812049647,
+   0.9225106923747034,
+   0.34585873220947466
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_cardinal_ver01\/data\/sn83025121\/00294552492\/1907100101\/0913\/003_0_90.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_cardinal_ver01%2Fdata%2Fsn83025121%2F00294552492%2F1907100101%2F0913.jp2\/pct:63.36,11.73,28.89,22.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025121",
+  "name": "The Hawaiian gazette. [volume]",
+  "ocr": [
+   "\"MOTHER\"",
+   "PARKER,",
+   "ONE",
+   "OF",
+   "THE",
+   "LAST",
+   "SURVIVORS",
+   "OF",
+   "THE,",
+   "OLD",
+   "MISSIONARIES,",
+   "WHO",
+   "DIED",
+   "YESTERDAY",
+   "IN",
+   "TTRB.",
+   "ONE",
+   "HUNDRED",
+   "AND",
+   "SECOND",
+   "YEAR."
+  ],
+  "page_seq_num": 913,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_cardinal_ver01\/data\/sn83025121\/00294552492\/1907100101\/0913.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1907-10-01",
+  "publisher": "Published ... by J.H. Black at the G.P.O.",
+  "score": 0.9019666314125061,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_cardinal_ver01\/data\/sn83025121\/00294552492\/1907100101\/0913\/003_0_90.jpg"
+ },
+ "id": 958
+}

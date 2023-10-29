@@ -1,0 +1,91 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754426,
+   "id": 1668001,
+   "lead_time": 1.845,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0u6_Jf1_lX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_juanita_ver01",
+  "box": [
+   0.7392155789780891,
+   0.5104405439660904,
+   0.9778007419630029,
+   0.7614296771110373
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_juanita_ver01\/data\/sn87093407\/00200290690\/1916071401\/0623\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_juanita_ver01%2Fdata%2Fsn87093407%2F00200290690%2F1916071401%2F0623.jp2\/pct:73.92,51.05,23.86,25.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "COMMANDER",
+   "OF",
+   "DEUTSCHLAND",
+   "Capt",
+   "Paul",
+   "Koenlg,",
+   "commander",
+   "of",
+   "the",
+   "German",
+   "tuptMUbmtrilMi",
+   "the",
+   "Deutachland,",
+   "which",
+   "made",
+   "the",
+   "record-breaking",
+   "trip",
+   "from",
+   "Br\u00abfn\u00abr",
+   "haven,",
+   "Germany,",
+   "to",
+   "the",
+   "United",
+   "State*,",
+   "docking",
+   "at",
+   "Baltimore,",
+   "Md>",
+   "Th\u00bb",
+   "veaael",
+   "traveled",
+   "3.800",
+   "mile*,",
+   "according",
+   "to",
+   "Capt.",
+   "Koenlg,",
+   "and",
+   "left",
+   "Brtm"
+  ],
+  "page_seq_num": 623,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_juanita_ver01\/data\/sn87093407\/00200290690\/1916071401\/0623.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1916-07-14",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9751701951026917,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_juanita_ver01\/data\/sn87093407\/00200290690\/1916071401\/0623\/006_0_97.jpg"
+ },
+ "id": 1668
+}

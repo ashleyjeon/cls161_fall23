@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768804,
+   "id": 338001,
+   "lead_time": 1.501,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "odO2oWg2Eq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_japanesechin_ver01",
+  "box": [
+   0.15262870617511562,
+   0.21951373244970662,
+   0.28719309306465457,
+   0.3847850662065172
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_japanesechin_ver01\/data\/sn83045462\/00280655272\/1899080901\/0733\/001_0_94.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_japanesechin_ver01%2Fdata%2Fsn83045462%2F00280655272%2F1899080901%2F0733.jp2\/pct:15.26,21.96,13.46,16.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Mr.",
+   "E.",
+   "J.",
+   "Mcv",
+   "*",
+   "yoIen.",
+   "Chairnan",
+   "'ormittee",
+   "on",
+   "Transportation."
+  ],
+  "page_seq_num": 733,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_japanesechin_ver01\/data\/sn83045462\/00280655272\/1899080901\/0733.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1899-08-09",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.946632981300354,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_japanesechin_ver01\/data\/sn83045462\/00280655272\/1899080901\/0733\/001_0_94.jpg"
+ },
+ "id": 338
+}

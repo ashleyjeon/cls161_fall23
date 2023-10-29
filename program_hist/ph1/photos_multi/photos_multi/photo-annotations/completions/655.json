@@ -1,0 +1,98 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757223,
+   "id": 655001,
+   "lead_time": 3.624,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kw8A_2BDKM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_five_ver01",
+  "box": [
+   0.3751432551228307,
+   0.04219350360688709,
+   0.5536221903215877,
+   0.24004810878208704
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_five_ver01\/data\/sn95047178\/00175041989\/1903080601\/0820\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Florida--Madison--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_five_ver01%2Fdata%2Fsn95047178%2F00175041989%2F1903080601%2F0820.jp2\/pct:37.51,4.22,17.85,19.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn95047178",
+  "name": "The new enterprise.",
+  "ocr": [
+   "lode",
+   "thnt",
+   "excohUf",
+   "excels",
+   "if",
+   "possible",
+   "poulhlotbecruoltJl",
+   "poulhlotbecruoltJlof",
+   "ibecruolty",
+   "the",
+   "cruolty",
+   "of",
+   "the",
+   "Ih",
+   "murderous",
+   "assault",
+   "nM",
+   "olllt",
+   "Itself",
+   "thinks",
+   "The",
+   "Jewish",
+   "American",
+   "Detroit",
+   "The",
+   "Itisslnn",
+   "n",
+   "18sllIn",
+   "Minister",
+   "JJlI8Irr",
+   "of",
+   "the",
+   "Interior",
+   "has",
+   "of",
+   "A",
+   "COBtaU",
+   "IS",
+   "lOll",
+   "JJ",
+   "JIIIIUII",
+   "inCI",
+   "lSJl",
+   "I",
+   "SLUMS",
+   "BIUM8been",
+   "tlLUMSbccn",
+   "SLUMSbeen"
+  ],
+  "page_seq_num": 820,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_five_ver01\/data\/sn95047178\/00175041989\/1903080601\/0820.jp2",
+  "place_of_publication": "Madison, Fla.",
+  "pub_date": "1903-08-06",
+  "publisher": "[s.n.]",
+  "score": 0.9636418223381042,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_five_ver01\/data\/sn95047178\/00175041989\/1903080601\/0820\/001_0_96.jpg"
+ },
+ "id": 655
+}

@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750906,
+   "id": 1183001,
+   "lead_time": 5.568,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rjqgZ-ew4T",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_augurey_ver01",
+  "box": [
+   0.36756618105132005,
+   0.1291785736878713,
+   0.5974798268285291,
+   0.28458118438720703
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_augurey_ver01\/data\/sn85040749\/00271769192\/1910070501\/0437\/009_0_96.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Marathon--Wausau"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_augurey_ver01%2Fdata%2Fsn85040749%2F00271769192%2F1910070501%2F0437.jp2\/pct:36.75,12.92,23.0,15.55\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040749",
+  "name": "Wausau pilot. [volume]",
+  "ocr": [
+   "Key",
+   "of",
+   "the",
+   "Mediterranean",
+   "j*KE:",
+   "y",
+   "During",
+   "the",
+   "annual",
+   "mobilization",
+   "of",
+   "the",
+   "British",
+   "fleet",
+   "at",
+   "Gibraltar",
+   "the",
+   "great",
+   "boom",
+   "closing",
+   "the",
+   "entrance",
+   "to",
+   "the",
+   "harbor",
+   "is",
+   "placed",
+   "in",
+   "position.",
+   "It",
+   "consists",
+   "of",
+   "rafts",
+   "from",
+   "which",
+   "steel",
+   "torpedo",
+   "nets",
+   "are",
+   "stretched",
+   "below",
+   "the",
+   "water."
+  ],
+  "page_seq_num": 437,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_augurey_ver01\/data\/sn85040749\/00271769192\/1910070501\/0437.jp2",
+  "place_of_publication": "Wausau, Wis.",
+  "pub_date": "1910-07-05",
+  "publisher": "E.B. Thayer",
+  "score": 0.9630404114723206,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_augurey_ver01\/data\/sn85040749\/00271769192\/1910070501\/0437\/009_0_96.jpg"
+ },
+ "id": 1183
+}

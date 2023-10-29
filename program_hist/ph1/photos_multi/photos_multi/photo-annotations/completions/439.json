@@ -1,0 +1,85 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675555,
+   "id": 439001,
+   "lead_time": 2.527,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "58G1sn-OTu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_higuchi_ver01",
+  "box": [
+   0.3076644469028415,
+   0.06134081418629472,
+   0.4382260942562095,
+   0.22634842316014173
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_higuchi_ver01\/data\/sn82016014\/00295871192\/1900070501\/0031\/002_0_90.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_higuchi_ver01%2Fdata%2Fsn82016014%2F00295871192%2F1900070501%2F0031.jp2\/pct:30.76,6.14,13.06,16.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016014",
+  "name": "The Topeka state journal. [volume]",
+  "ocr": [
+   "Jan,.",
+   ";",
+   "if",
+   "\"vtta",
+   "a.",
+   "at",
+   "iu",
+   "Jat",
+   "AtfcS-u.",
+   "v",
+   "W.",
+   "D.",
+   "Oldham",
+   "of",
+   "Nebraska.",
+   "Copyright,",
+   "1900.",
+   "The",
+   "Deputy",
+   "Attorney",
+   "General",
+   "for",
+   "That",
+   "State",
+   "Who",
+   "Nominated",
+   "W.",
+   "J.",
+   "Bryan",
+   "for",
+   "the",
+   "Presidency",
+   "on",
+   "the",
+   "Democratic",
+   "Ticket."
+  ],
+  "page_seq_num": 31,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_higuchi_ver01\/data\/sn82016014\/00295871192\/1900070501\/0031.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1900-07-05",
+  "publisher": "F.P. MacLennan",
+  "score": 0.9081020355224609,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_higuchi_ver01\/data\/sn82016014\/00295871192\/1900070501\/0031\/002_0_90.jpg"
+ },
+ "id": 439
+}

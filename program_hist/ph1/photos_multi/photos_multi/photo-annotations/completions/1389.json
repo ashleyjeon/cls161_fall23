@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767214,
+   "id": 1389001,
+   "lead_time": 15.475,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "g2YByFEs9I",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_naismith_ver01",
+  "box": [
+   0.15096997649302124,
+   0.0344354923452881,
+   0.42318025973474555,
+   0.3161097550505452
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_naismith_ver01\/data\/sn83030214\/00206531708\/1913102301\/0551\/011_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_naismith_ver01%2Fdata%2Fsn83030214%2F00206531708%2F1913102301%2F0551.jp2\/pct:15.09,3.45,27.23,28.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "OUARTERS."
+  ],
+  "page_seq_num": 551,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_naismith_ver01\/data\/sn83030214\/00206531708\/1913102301\/0551.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1913-10-23",
+  "publisher": "New York Tribune",
+  "score": 0.9644408226013184,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_naismith_ver01\/data\/sn83030214\/00206531708\/1913102301\/0551\/011_0_96.jpg"
+ },
+ "id": 1389
+}

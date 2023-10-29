@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743394,
+   "id": 357001,
+   "lead_time": 6.993,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-tnnN9cP0V",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "arhi_electabuzz_ver01",
+  "box": [
+   0.6281175409984708,
+   0.027868422841638086,
+   0.9815368269438127,
+   0.21279388675844765
+  ],
+  "edition_seq_num": 1,
+  "filepath": "arhi_electabuzz_ver01\/data\/sn89051214\/00414212670\/1899020801\/0849\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Arkansas--Polk--Mena"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/arhi_electabuzz_ver01%2Fdata%2Fsn89051214%2F00414212670%2F1899020801%2F0849.jp2\/pct:62.81,2.79,35.35,18.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn89051214",
+  "name": "The Mena star.",
+  "ocr": [
+   "Bankston",
+   "Photo",
+   "Co.\u2014",
+   "Mena.",
+   "Ark.",
+   "RESIDENCE",
+   "OFC.",
+   "H.",
+   "BVEitS."
+  ],
+  "page_seq_num": 849,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/arhi_electabuzz_ver01\/data\/sn89051214\/00414212670\/1899020801\/0849.jp2",
+  "place_of_publication": "Mena, Ark.",
+  "pub_date": "1899-02-08",
+  "publisher": "A.W. St. John & Sons",
+  "score": 0.9872892498970032,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/arhi_electabuzz_ver01\/data\/sn89051214\/00414212670\/1899020801\/0849\/002_0_98.jpg"
+ },
+ "id": 357
+}

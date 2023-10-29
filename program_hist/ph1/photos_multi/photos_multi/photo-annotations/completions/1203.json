@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749376,
+   "id": 1203001,
+   "lead_time": 3.98,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0-FsttSV6l",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_american_ver02",
+  "box": [
+   0.15018256913721256,
+   0.44056240569022587,
+   0.504143239537834,
+   0.6598317749403719
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_american_ver02\/data\/sn88085947\/00211108629\/1910013001\/0305\/007_0_91.jpg",
+  "geographic_coverage": [
+   "Washington--Spokane--Spokane"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_american_ver02%2Fdata%2Fsn88085947%2F00211108629%2F1910013001%2F0305.jp2\/pct:15.01,44.06,35.4,21.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085947",
+  "name": "The Spokane press. [volume]",
+  "ocr": [
+   "much",
+   "resembles",
+   "a",
+   "pretty",
+   "An",
+   "orchard",
+   "in",
+   "Meadow",
+   "Lake,",
+   "just",
+   "west",
+   "of",
+   "Spokane,",
+   "in",
+   "one",
+   "of",
+   "the",
+   "most",
+   "picturesque",
+   "sections",
+   "of",
+   "the",
+   "whole",
+   "northwest.",
+   "ear",
+   "service.",
+   ".Meadow"
+  ],
+  "page_seq_num": 305,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_american_ver02\/data\/sn88085947\/00211108629\/1910013001\/0305.jp2",
+  "place_of_publication": "Spokane, Wash.",
+  "pub_date": "1910-01-30",
+  "publisher": "Press Pub. Co.",
+  "score": 0.9162694215774536,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_american_ver02\/data\/sn88085947\/00211108629\/1910013001\/0305\/007_0_91.jpg"
+ },
+ "id": 1203
+}

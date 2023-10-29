@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758547,
+   "id": 1477001,
+   "lead_time": 6.09,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "t8zjHWUI3-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_heliotrope_ver01",
+  "box": [
+   0.05599734372398146,
+   0.15645510040367275,
+   0.11784140551280806,
+   0.22963916368720946
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_heliotrope_ver01\/data\/sn82014682\/0021247146A\/1914022801\/0240\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_heliotrope_ver01%2Fdata%2Fsn82014682%2F0021247146A%2F1914022801%2F0240.jp2\/pct:5.59,15.65,6.19,7.32\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014682",
+  "name": "Honolulu star-bulletin. [volume]",
+  "ocr": [
+   "4",
+   "i",
+   "''",
+   "i",
+   "\""
+  ],
+  "page_seq_num": 240,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_heliotrope_ver01\/data\/sn82014682\/0021247146A\/1914022801\/0240.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1914-02-28",
+  "publisher": "[P.T. Gialanella]",
+  "score": 0.9730048775672913,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_heliotrope_ver01\/data\/sn82014682\/0021247146A\/1914022801\/0240\/003_0_97.jpg"
+ },
+ "id": 1477
+}

@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767972,
+   "id": 994001,
+   "lead_time": 21.321,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HiIx1tevrf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_belle_ver01",
+  "box": [
+   0.2622344143550508,
+   0.3925461210735104,
+   0.7281158490799974,
+   0.6059245213325777
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_belle_ver01\/data\/sn85033078\/00271768655\/1907032101\/0219\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Wood--Wisconsin Rapids"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_belle_ver01%2Fdata%2Fsn85033078%2F00271768655%2F1907032101%2F0219.jp2\/pct:26.22,39.26,46.59,21.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033078",
+  "name": "Wood County reporter. [volume]",
+  "ocr": [
+   "No",
+   "Congestion",
+   "here\u2014Terminal",
+   "Yards",
+   "of",
+   "one",
+   "of",
+   "the",
+   "Smaller",
+   "\"Manufacturing",
+   "Cities"
+  ],
+  "page_seq_num": 219,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_belle_ver01\/data\/sn85033078\/00271768655\/1907032101\/0219.jp2",
+  "place_of_publication": "Grand Rapids [i.e. Wisconsin Rapids], Wis.",
+  "pub_date": "1907-03-21",
+  "publisher": "[J.N. Brundage]",
+  "score": 0.9943972826004028,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_belle_ver01\/data\/sn85033078\/00271768655\/1907032101\/0219\/000_0_99.jpg"
+ },
+ "id": 994
+}

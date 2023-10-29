@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768842,
+   "id": 739001,
+   "lead_time": 1.539,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rzL42gKsgJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_horseradish_ver01",
+  "box": [
+   0.43123438987990265,
+   0.1448780785144215,
+   0.6900587232602639,
+   0.4552217940209617
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_horseradish_ver01\/data\/sn83016118\/00296022445\/1904112501\/0758\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Maryland--Baltimore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_horseradish_ver01%2Fdata%2Fsn83016118%2F00296022445%2F1904112501%2F0758.jp2\/pct:43.12,14.49,25.89,31.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016118",
+  "name": "Der Deutsche correspondent. [volume]",
+  "ocr": [
+   "Tas",
+   "(Keschenk",
+   "des",
+   "deutsche",
+   ".Kaisers",
+   "an",
+   "die",
+   "amerikanische",
+   "Nation.",
+   "j",
+   "j",
+   "!",
+   "!",
+   "!"
+  ],
+  "page_seq_num": 758,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_horseradish_ver01\/data\/sn83016118\/00296022445\/1904112501\/0758.jp2",
+  "place_of_publication": "Baltimore, Md.",
+  "pub_date": "1904-11-25",
+  "publisher": "Friedrich Raine",
+  "score": 0.9648012518882751,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_horseradish_ver01\/data\/sn83016118\/00296022445\/1904112501\/0758\/001_0_96.jpg"
+ },
+ "id": 739
+}

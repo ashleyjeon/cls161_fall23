@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768391,
+   "id": 521001,
+   "lead_time": 1.617,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Bz5GecCIF8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_abe_ver01",
+  "box": [
+   0.18556334877460845,
+   0.044521784378310385,
+   0.43790462592167373,
+   0.35921993476806424
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_abe_ver01\/data\/sn87062245\/100492829\/1901082501\/0383\/001_0_93.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_abe_ver01%2Fdata%2Fsn87062245%2F100492829%2F1901082501%2F0383.jp2\/pct:18.55,4.46,25.24,31.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn87062245",
+  "name": "The Washington times.",
+  "ocr": [
+   "PROMINENT",
+   "BUSINESS",
+   "MEN",
+   "IV",
+   "THOMAS",
+   "W",
+   "HYDE",
+   "V",
+   "Wc",
+   "President",
+   "Dices",
+   "National",
+   "Uank",
+   "President",
+   "Panders",
+   "of",
+   "the",
+   "District",
+   "of",
+   "Columbia",
+   "Director",
+   "ltiggs",
+   "Fire",
+   "Insurance",
+   "Comjany",
+   "Thomas",
+   "AV",
+   "Hvde",
+   "belongs",
+   "to",
+   "one",
+   "of",
+   "the",
+   "oldest",
+   "families",
+   "of",
+   "the",
+   "District",
+   "several",
+   "generations",
+   "extending",
+   "back",
+   "Into",
+   "the",
+   "eight",
+   "into",
+   "the",
+   "employ",
+   "of",
+   "Rlggs",
+   "S",
+   "Co",
+   "at",
+   "the",
+   "beginning",
+   "of",
+   "his",
+   "career",
+   "and",
+   "has",
+   "been",
+   "with",
+   "the",
+   "bank",
+   "stcadilv",
+   "since",
+   "then",
+   "Mr",
+   "Hvde",
+   "In",
+   "addition",
+   "to",
+   "his",
+   "financial"
+  ],
+  "page_seq_num": 383,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_abe_ver01\/data\/sn87062245\/100492829\/1901082501\/0383.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1901-08-25",
+  "publisher": "Times Co.",
+  "score": 0.9356112480163574,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_abe_ver01\/data\/sn87062245\/100492829\/1901082501\/0383\/001_0_93.jpg"
+ },
+ "id": 521
+}

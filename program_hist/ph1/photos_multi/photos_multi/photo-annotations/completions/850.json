@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750867,
+   "id": 850001,
+   "lead_time": 2.925,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fcZOjvPvGX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_killdeer_ver01",
+  "box": [
+   0.5455809491512068,
+   0.5099396537438929,
+   0.8240915787666606,
+   0.7020178141198463
+  ],
+  "edition_seq_num": 2,
+  "filepath": "oru_killdeer_ver01\/data\/sn88086023\/00202194606\/1906121502\/0762\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_killdeer_ver01%2Fdata%2Fsn88086023%2F00202194606%2F1906121502%2F0762.jp2\/pct:54.55,51.0,27.86,19.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   "ri",
+   "----j",
+   "y",
+   "jrJ.sHyJtev.",
+   "West",
+   "End",
+   "School."
+  ],
+  "page_seq_num": 762,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_killdeer_ver01\/data\/sn88086023\/00202194606\/1906121502\/0762.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1906-12-15",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.9468543529510498,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_killdeer_ver01\/data\/sn88086023\/00202194606\/1906121502\/0762\/002_0_94.jpg"
+ },
+ "id": 850
+}

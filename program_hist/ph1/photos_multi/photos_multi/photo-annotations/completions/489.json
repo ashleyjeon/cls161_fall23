@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772508,
+   "id": 489001,
+   "lead_time": 1.575,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "t1EsNw-dlK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_moore_ver01",
+  "box": [
+   0.20792624982483185,
+   0.5665012371885049,
+   0.3553361695978139,
+   0.7181128008189309
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_moore_ver01\/data\/sn86092392\/00414187328\/1901073101\/0368\/001_0_98.jpg",
+  "geographic_coverage": [
+   "West Virginia--Wayne--Ceredo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_moore_ver01%2Fdata%2Fsn86092392%2F00414187328%2F1901073101%2F0368.jp2\/pct:20.79,56.66,14.75,15.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092392",
+  "name": "Ceredo advance. [volume]",
+  "ocr": [
+   "\"I",
+   "OPENED",
+   "IT.",
+   "I",
+   "AKHAICA.\""
+  ],
+  "page_seq_num": 368,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_moore_ver01\/data\/sn86092392\/00414187328\/1901073101\/0368.jp2",
+  "place_of_publication": "Ceredo, W. Va.",
+  "pub_date": "1901-07-31",
+  "publisher": "T.T. McDougal & W.I. Mansfield",
+  "score": 0.9810569882392883,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_moore_ver01\/data\/sn86092392\/00414187328\/1901073101\/0368\/001_0_98.jpg"
+ },
+ "id": 489
+}

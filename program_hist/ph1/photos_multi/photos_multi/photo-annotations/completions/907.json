@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749338,
+   "id": 907001,
+   "lead_time": 1.717,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-KthWQ_BJN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_hotel_ver01",
+  "box": [
+   0.4324817624414401,
+   0.3823502803872699,
+   0.560324525089363,
+   0.5397040057036043
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_hotel_ver01\/data\/sn83045433\/100493354\/1906122101\/0299\/006_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_hotel_ver01%2Fdata%2Fsn83045433%2F100493354%2F1906122101%2F0299.jp2\/pct:43.24,38.24,12.79,15.74\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "I2nri",
+   "EnrlflU",
+   "in",
+   ">",
+   "Creel",
+   "CreelMexicos",
+   "CnllnroI",
+   "CreelMei1ces",
+   "Mexicos",
+   "nroI",
+   "New",
+   "t",
+   "AmUs",
+   "tntsFr",
+   "trth",
+   "H",
+   "ir",
+   "r",
+   "t",
+   "the",
+   "th",
+   "Uoitrd",
+   "State",
+   "StateMONEY",
+   "StatesMONEY",
+   "StaltaMONEY"
+  ],
+  "page_seq_num": 299,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_hotel_ver01\/data\/sn83045433\/100493354\/1906122101\/0299.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1906-12-21",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9884976148605347,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_hotel_ver01\/data\/sn83045433\/100493354\/1906122101\/0299\/006_0_98.jpg"
+ },
+ "id": 907
+}

@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767623,
+   "id": 1549001,
+   "lead_time": 2.742,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_doxy_ver01",
+  "box": [
+   0.6990765852463606,
+   0.03478251207594903,
+   0.9624972113836786,
+   0.2322630402225776
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_doxy_ver01\/data\/sn85040451\/00414214605\/1915092201\/1168\/005_0_93.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Vernon--Viroqua"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_doxy_ver01%2Fdata%2Fsn85040451%2F00414214605%2F1915092201%2F1168.jp2\/pct:69.9,3.48,26.35,19.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040451",
+  "name": "Vernon County censor. [volume]",
+  "ocr": [
+   "WISCONSIN",
+   "BOYS",
+   "MAY",
+   "MAKE",
+   "MONEY",
+   "WITH",
+   "MUSK",
+   "MELONS",
+   "y",
+   "o",
+   "-",
+   "\u201d<",
+   "jti\"'",
+   "J",
+   "%",
+   "mt",
+   "\u2122Jj",
+   "\u00a3.",
+   "-",
+   ".-",
+   "\u25a0",
+   "\u25a0\u25a0",
+   ":",
+   "\u2022",
+   "Badger",
+   "Boya\u2019",
+   "Best."
+  ],
+  "page_seq_num": 1168,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_doxy_ver01\/data\/sn85040451\/00414214605\/1915092201\/1168.jp2",
+  "place_of_publication": "Viroqua, Wis.",
+  "pub_date": "1915-09-22",
+  "publisher": "[publisher not identified]",
+  "score": 0.9322189688682556,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_doxy_ver01\/data\/sn85040451\/00414214605\/1915092201\/1168\/005_0_93.jpg"
+ },
+ "id": 1549
+}

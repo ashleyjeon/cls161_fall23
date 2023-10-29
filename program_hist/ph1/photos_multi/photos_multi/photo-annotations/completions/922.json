@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767713,
+   "id": 922001,
+   "lead_time": 1.619,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yg5QqE1Zyu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_elkton_ver01",
+  "box": [
+   0.6677619577797906,
+   0.26090362767853803,
+   0.8170406814550624,
+   0.4348716188275643
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_elkton_ver01\/data\/sn90051267\/00383340949\/1906100601\/0852\/001_0_93.jpg",
+  "geographic_coverage": [
+   "Colorado--Bent--La Junta",
+   "Colorado--Otero--La Junta"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_elkton_ver01%2Fdata%2Fsn90051267%2F00383340949%2F1906100601%2F0852.jp2\/pct:66.77,26.1,14.93,17.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn90051267",
+  "name": "La Junta tribune.",
+  "ocr": [
+   "HESBY",
+   "A.",
+   "BITHTCL",
+   "RfpuMm*",
+   "CiiMftdat#",
+   "for",
+   "Gwarnor."
+  ],
+  "page_seq_num": 852,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_elkton_ver01\/data\/sn90051267\/00383340949\/1906100601\/0852.jp2",
+  "place_of_publication": "La Junta, Bent County, Colo.",
+  "pub_date": "1906-10-06",
+  "publisher": "N.H. Bowman",
+  "score": 0.9339858293533325,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_elkton_ver01\/data\/sn90051267\/00383340949\/1906100601\/0852\/001_0_93.jpg"
+ },
+ "id": 922
+}

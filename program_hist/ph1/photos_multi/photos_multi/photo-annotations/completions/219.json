@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675947,
+   "id": 219001,
+   "lead_time": 1.827,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "G--gvU376w",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_ike_ver01",
+  "box": [
+   0.6727189265203553,
+   0.09014724136947037,
+   0.8321012291163447,
+   0.25492086038961037
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_ike_ver01\/data\/sn82016187\/00211102354\/1897090201\/0467\/005_0_93.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_ike_ver01%2Fdata%2Fsn82016187%2F00211102354%2F1897090201%2F0467.jp2\/pct:67.27,9.02,15.94,16.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016187",
+  "name": "The National tribune. [volume]",
+  "ocr": [
+   "Wig",
+   "jgiiiMfiJnci",
+   "WiBi",
+   "1",
+   "11",
+   "j."
+  ],
+  "page_seq_num": 467,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_ike_ver01\/data\/sn82016187\/00211102354\/1897090201\/0467.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1897-09-02",
+  "publisher": "G.E. Lemon & Co.",
+  "score": 0.9387012720108032,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_ike_ver01\/data\/sn82016187\/00211102354\/1897090201\/0467\/005_0_93.jpg"
+ },
+ "id": 219
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764227,
+   "id": 1848001,
+   "lead_time": 2.283,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vxaRSrteBR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_iris_ver02",
+  "box": [
+   0.018480084117754595,
+   0.03657390945137045,
+   0.16113443019396936,
+   0.1775086171779792
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_iris_ver02\/data\/sn83045284\/00279553330\/1919120601\/0198\/014_0_92.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_iris_ver02%2Fdata%2Fsn83045284%2F00279553330%2F1919120601%2F0198.jp2\/pct:1.84,3.66,14.27,14.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045284",
+  "name": "Lietuva. [volume]",
+  "ocr": [
+   "JONAS",
+   "GK\u0160TAUTAS."
+  ],
+  "page_seq_num": 198,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_iris_ver02\/data\/sn83045284\/00279553330\/1919120601\/0198.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1919-12-06",
+  "publisher": "Lithuanian Pub. Co.",
+  "score": 0.9236533641815186,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_iris_ver02\/data\/sn83045284\/00279553330\/1919120601\/0198\/014_0_92.jpg"
+ },
+ "id": 1848
+}

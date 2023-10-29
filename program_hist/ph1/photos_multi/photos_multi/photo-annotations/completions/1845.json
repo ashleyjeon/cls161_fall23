@@ -1,0 +1,108 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675092,
+   "id": 1845001,
+   "lead_time": 3.754,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BtXOYes7Fg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_jefferson_ver01",
+  "box": [
+   0.5436145464579264,
+   0.7578538169825222,
+   0.9327232042948405,
+   0.9635045098768674
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_jefferson_ver01\/data\/sn99063957\/00295867589\/1918070401\/0573\/006_0_96.jpg",
+  "geographic_coverage": [
+   "Oregon--Marion--Salem"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_jefferson_ver01%2Fdata%2Fsn99063957%2F00295867589%2F1918070401%2F0573.jp2\/pct:54.36,75.79,38.92,20.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063957",
+  "name": "Daily capital journal.",
+  "ocr": [
+   ".",
+   "w",
+   "zr",
+   "T'",
+   "i",
+   "'li-J",
+   "i",
+   "C",
+   "X",
+   "'",
+   "!",
+   "IJNCXE",
+   "RAM",
+   "'H",
+   "8AUX)KS",
+   "LSARN",
+   "TO",
+   "BOX",
+   "AT",
+   "YF.RBAA",
+   "BCENA",
+   "The",
+   "jackies",
+   "in",
+   "training",
+   "at",
+   "the",
+   "Yerba",
+   "Buenn",
+   "Naval",
+   "Training",
+   "Station",
+   "are",
+   "shown",
+   "getting",
+   "their",
+   "daily",
+   "instruction",
+   "with",
+   "the",
+   "gloves.",
+   "In",
+   "the",
+   "foreground",
+   "their",
+   "in",
+   "structor,",
+   "\"Spider\"",
+   "Aoach",
+   "with",
+   "Joe",
+   "Ore",
+   "ggans,",
+   "son",
+   "ofthe",
+   "veteran",
+   "boxer",
+   "Alex.",
+   "Grcpgains."
+  ],
+  "page_seq_num": 573,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_jefferson_ver01\/data\/sn99063957\/00295867589\/1918070401\/0573.jp2",
+  "place_of_publication": "Salem, Oregon",
+  "pub_date": "1918-07-04",
+  "publisher": null,
+  "score": 0.967510461807251,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_jefferson_ver01\/data\/sn99063957\/00295867589\/1918070401\/0573\/006_0_96.jpg"
+ },
+ "id": 1845
+}

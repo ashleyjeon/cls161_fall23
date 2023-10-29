@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763952,
+   "id": 723001,
+   "lead_time": 2.155,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "sazFOVHGas",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_bronte_ver01",
+  "box": [
+   0.06993786396424463,
+   0.5030250960302399,
+   0.3735722266823236,
+   0.6425006504040157
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_bronte_ver01\/data\/sn88056095\/00295869264\/1904042301\/1002\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Idaho--Kootenai--Coeur d'Alene"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_bronte_ver01%2Fdata%2Fsn88056095%2F00295869264%2F1904042301%2F1002.jp2\/pct:6.99,50.31,30.37,13.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn88056095",
+  "name": "The Coeur d'Alene press.",
+  "ocr": [
+   "JAi'3",
+   "FIRING",
+   "A",
+   "TORI'ETfO",
+   "FROM",
+   "A",
+   "DESTROYER."
+  ],
+  "page_seq_num": 1002,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_bronte_ver01\/data\/sn88056095\/00295869264\/1904042301\/1002.jp2",
+  "place_of_publication": "Coeur d'Alene, Idaho",
+  "pub_date": "1904-04-23",
+  "publisher": "J.T. Scott",
+  "score": 0.9816082119941711,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_bronte_ver01\/data\/sn88056095\/00295869264\/1904042301\/1002\/001_0_98.jpg"
+ },
+ "id": 723
+}

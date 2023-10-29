@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772580,
+   "id": 971001,
+   "lead_time": 1.822,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZdZLzyboVX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_denim_ver01",
+  "box": [
+   0.8108194941667247,
+   0.21657020814957156,
+   0.931994397815458,
+   0.398936528031544
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_denim_ver01\/data\/sn82015415\/00237283995\/1907080901\/0679\/012_0_95.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_denim_ver01%2Fdata%2Fsn82015415%2F00237283995%2F1907080901%2F0679.jp2\/pct:81.08,21.66,12.12,18.24\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015415",
+  "name": "The Hawaiian star. [volume]",
+  "ocr": [
+   "CAPTAIN",
+   "VAN",
+   "OTERENDORP."
+  ],
+  "page_seq_num": 679,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_denim_ver01\/data\/sn82015415\/00237283995\/1907080901\/0679.jp2",
+  "place_of_publication": "Honolulu [Oahu]",
+  "pub_date": "1907-08-09",
+  "publisher": "Hawaiian Star Newspaper Association",
+  "score": 0.9508910775184631,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_denim_ver01\/data\/sn82015415\/00237283995\/1907080901\/0679\/012_0_95.jpg"
+ },
+ "id": 971
+}

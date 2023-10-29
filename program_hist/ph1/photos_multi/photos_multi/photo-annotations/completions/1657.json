@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767750,
+   "id": 1657001,
+   "lead_time": 1.919,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qpEcKWh_nL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_hawaii_ver01",
+  "box": [
+   0.19406179349364205,
+   0.15264326661497682,
+   0.32709848328408014,
+   0.38167215703607915
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_hawaii_ver01\/data\/sn99062034\/0027952312A\/1916092801\/1154\/016_0_94.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lake--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_hawaii_ver01%2Fdata%2Fsn99062034%2F0027952312A%2F1916092801%2F1154.jp2\/pct:19.4,15.27,13.31,22.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn99062034",
+  "name": "The Madison daily leader. [volume]",
+  "ocr": [
+   "He",
+   "May",
+   "Be",
+   "New",
+   "Envoy",
+   "From",
+   "Austria",
+   "to",
+   "U.",
+   "S.",
+   "Photo",
+   "by",
+   "\u2022:\u00bbn",
+   "I'resfi",
+   "A1"
+  ],
+  "page_seq_num": 1154,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_hawaii_ver01\/data\/sn99062034\/0027952312A\/1916092801\/1154.jp2",
+  "place_of_publication": "Madison, S.D.",
+  "pub_date": "1916-09-28",
+  "publisher": "J.F. Stahl",
+  "score": 0.9437919855117798,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_hawaii_ver01\/data\/sn99062034\/0027952312A\/1916092801\/1154\/016_0_94.jpg"
+ },
+ "id": 1657
+}

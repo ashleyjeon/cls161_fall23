@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749293,
+   "id": 372001,
+   "lead_time": 1.646,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "v_I4QTiD8d",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_eight_ver01",
+  "box": [
+   0.6588456226888776,
+   0.6391177107099235,
+   0.7925335735843242,
+   0.7924597636084992
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_eight_ver01\/data\/sn83045555\/00175049988\/1899122301\/0363\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_eight_ver01%2Fdata%2Fsn83045555%2F00175049988%2F1899122301%2F0363.jp2\/pct:65.88,63.92,13.37,15.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "JAMES",
+   "CHIPMAN",
+   "CHIPMANPresident",
+   "CHIPhANPresident",
+   "CHIPMANlresident"
+  ],
+  "page_seq_num": 363,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_eight_ver01\/data\/sn83045555\/00175049988\/1899122301\/0363.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1899-12-23",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9454253911972046,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_eight_ver01\/data\/sn83045555\/00175049988\/1899122301\/0363\/004_0_94.jpg"
+ },
+ "id": 372
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768357,
+   "id": 1234001,
+   "lead_time": 4.527,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1shsX59VVF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_flint_ver01",
+  "box": [
+   0.36472780874084726,
+   0.466351307890223,
+   0.5094443604537134,
+   0.6433920666720269
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_flint_ver01\/data\/sn86074053\/00383344438\/1911090701\/0319\/013_0_94.jpg",
+  "geographic_coverage": [
+   "Mississippi--Rankin--Brandon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_flint_ver01%2Fdata%2Fsn86074053%2F00383344438%2F1911090701%2F0319.jp2\/pct:36.47,46.64,14.48,17.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074053",
+  "name": "The Brandon news.",
+  "ocr": [
+   "-W"
+  ],
+  "page_seq_num": 319,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_flint_ver01\/data\/sn86074053\/00383344438\/1911090701\/0319.jp2",
+  "place_of_publication": "Brandon, Miss.",
+  "pub_date": "1911-09-07",
+  "publisher": "E.B. Tabor",
+  "score": 0.9425020217895508,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_flint_ver01\/data\/sn86074053\/00383344438\/1911090701\/0319\/013_0_94.jpg"
+ },
+ "id": 1234
+}

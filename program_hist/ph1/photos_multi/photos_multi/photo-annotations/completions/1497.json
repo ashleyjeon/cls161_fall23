@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749268,
+   "id": 1497001,
+   "lead_time": 1.817,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YqN_Uml3v7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_egypt_ver01",
+  "box": [
+   0.5705288669519257,
+   0.39374024159199483,
+   0.965662303723787,
+   0.7902005169842694
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_egypt_ver01\/data\/sn88084272\/00280765405\/1914020901\/0738\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Texas--El Paso--El Paso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_egypt_ver01%2Fdata%2Fsn88084272%2F00280765405%2F1914020901%2F0738.jp2\/pct:57.05,39.38,39.52,39.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn88084272",
+  "name": "El Paso herald.",
+  "ocr": [
+   "'JV",
+   "gBjBMflSSflsBssBSssssssssaWslsBissSESfc",
+   "Ssskv",
+   "IHbbbK.0",
+   "JfjBt&",
+   "a",
+   "bbbbEF",
+   "3BBBBnK9!HBsB9HHcflHBVSvSESB4MuSv6DBH9",
+   "3!MS?",
+   "Bt",
+   "4",
+   "\"",
+   "4P",
+   "'",
+   "of",
+   "Battle",
+   "Is",
+   "X.KFT",
+   "TO",
+   "ltlGHT:",
+   "PACIvBY.",
+   "Xe",
+   "FARLASD",
+   "AND",
+   "MIKE",
+   "GIBBOMB",
+   "-"
+  ],
+  "page_seq_num": 738,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_egypt_ver01\/data\/sn88084272\/00280765405\/1914020901\/0738.jp2",
+  "place_of_publication": "El Paso, Tex.",
+  "pub_date": "1914-02-09",
+  "publisher": "Herald News Co.",
+  "score": 0.9855013489723206,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_egypt_ver01\/data\/sn88084272\/00280765405\/1914020901\/0738\/001_0_98.jpg"
+ },
+ "id": 1497
+}

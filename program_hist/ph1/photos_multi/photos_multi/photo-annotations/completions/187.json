@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751600,
+   "id": 187001,
+   "lead_time": 1.664,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "TijnNDrgrD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_willys_ver01",
+  "box": [
+   0.2596531962300395,
+   0.1840458188738142,
+   0.48555529248583446,
+   0.4103366579328265
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_willys_ver01\/data\/sn83030214\/00175039119\/1897071101\/0193\/000_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_willys_ver01%2Fdata%2Fsn83030214%2F00175039119%2F1897071101%2F0193.jp2\/pct:25.96,18.41,22.6,22.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "I?:.",
+   "I?'.",
+   "BENSON."
+  ],
+  "page_seq_num": 193,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_willys_ver01\/data\/sn83030214\/00175039119\/1897071101\/0193.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-07-11",
+  "publisher": "New York Tribune",
+  "score": 0.9062504768371582,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_willys_ver01\/data\/sn83030214\/00175039119\/1897071101\/0193\/000_0_90.jpg"
+ },
+ "id": 187
+}

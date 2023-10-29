@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768176,
+   "id": 1747001,
+   "lead_time": 1.504,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KB_xk6oifr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_india_ver01",
+  "box": [
+   0.12503649107512937,
+   0.10824487492901638,
+   0.522651304386053,
+   0.5516473375228008
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_india_ver01\/data\/sn83045487\/00280761163\/1917011701\/0431\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_india_ver01%2Fdata%2Fsn83045487%2F00280761163%2F1917011701%2F0431.jp2\/pct:12.5,10.83,39.77,44.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045487",
+  "name": "The day book. [volume]",
+  "ocr": [
+   "SHORT",
+   "TIME",
+   "DR.",
+   "ELWC&D",
+   "P.",
+   "K.1&BY",
+   "Dr.",
+   "Kirby,",
+   "noted",
+   "Philadelphia",
+   "phy",
+   "sician,",
+   "is",
+   "attending",
+   "Harry",
+   "haw",
+   "at",
+   "St.",
+   "Mary's",
+   "hospital",
+   "and\"",
+   "says",
+   "Thaw"
+  ],
+  "page_seq_num": 431,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_india_ver01\/data\/sn83045487\/00280761163\/1917011701\/0431.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1917-01-17",
+  "publisher": "N.D. Cochran",
+  "score": 0.9651793241500854,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_india_ver01\/data\/sn83045487\/00280761163\/1917011701\/0431\/000_0_96.jpg"
+ },
+ "id": 1747
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751017,
+   "id": 178001,
+   "lead_time": 2.066,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6vpqjwTG85",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_agave_ver01",
+  "box": [
+   0.19626755213159114,
+   0.7638147879858008,
+   0.34922465609732983,
+   0.901326133749559
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_agave_ver01\/data\/sn93061674\/0028077456A\/1897091101\/0606\/001_0_92.jpg",
+  "geographic_coverage": [
+   "New Mexico--Eddy--Carlsbad"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_agave_ver01%2Fdata%2Fsn93061674%2F0028077456A%2F1897091101%2F0606.jp2\/pct:19.62,76.39,15.3,13.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn93061674",
+  "name": "The Eddy current. [volume]",
+  "ocr": [
+   "THU",
+   "HON.",
+   "Mill.",
+   "fcl'JtJSOK."
+  ],
+  "page_seq_num": 606,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_agave_ver01\/data\/sn93061674\/0028077456A\/1897091101\/0606.jp2",
+  "place_of_publication": "Eddy [Carlsbad], N.M.",
+  "pub_date": "1897-09-11",
+  "publisher": "Wm. H. Mullane",
+  "score": 0.9282011985778809,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_agave_ver01\/data\/sn93061674\/0028077456A\/1897091101\/0606\/001_0_92.jpg"
+ },
+ "id": 178
+}

@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767418,
+   "id": 1944001,
+   "lead_time": 1.533,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yoJh5du3Ly",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_irons_ver01",
+  "box": [
+   0.04275865306809157,
+   0.6121513602528457,
+   0.18411806796459443,
+   0.7544543426437187
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_irons_ver01\/data\/2010270504\/0023728477A\/1920090301\/1112\/002_0_91.jpg",
+  "geographic_coverage": [
+   "Nebraska--Lincoln--North Platte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_irons_ver01%2Fdata%2F2010270504%2F0023728477A%2F1920090301%2F1112.jp2\/pct:4.27,61.22,14.14,14.24\/!500,500\/0\/default.jpg",
+  "lccn": "2010270504",
+  "name": "The North Platte semi-weekly tribune.",
+  "ocr": [
+   "He",
+   "In",
+   "the"
+  ],
+  "page_seq_num": 1112,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_irons_ver01\/data\/2010270504\/0023728477A\/1920090301\/1112.jp2",
+  "place_of_publication": "North Platte, Neb.",
+  "pub_date": "1920-09-03",
+  "publisher": "I.L. Bare",
+  "score": 0.9155005812644958,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_irons_ver01\/data\/2010270504\/0023728477A\/1920090301\/1112\/002_0_91.jpg"
+ },
+ "id": 1944
+}

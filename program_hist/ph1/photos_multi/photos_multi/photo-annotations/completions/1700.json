@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757692,
+   "id": 1700001,
+   "lead_time": 148.247,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_nazareth_ver01",
+  "box": [
+   0.024367939904211405,
+   0.7058736217665489,
+   0.1458715503760636,
+   0.9565370064468187
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_nazareth_ver01\/data\/sn83016689\/00414218854\/1917041901\/1025\/007_0_94.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_nazareth_ver01%2Fdata%2Fsn83016689%2F00414218854%2F1917041901%2F1025.jp2\/pct:2.43,70.59,12.16,25.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "DANCER",
+   "SEEKS",
+   "WAR",
+   "PRISONERS",
+   "RELEASE",
+   "l",
+   "jT",
+   "y#JF*j|",
+   "j.",
+   "j?",
+   "\u2022",
+   "I",
+   "Wh",
+   "HwIM,",
+   "knows",
+   "on",
+   "the",
+   "*t:i*o",
+   "m",
+   "Ywette,",
+   "lMK*r.",
+   "MTI",
+   "abe",
+   "will",
+   "WrH#",
+   "to",
+   "th*",
+   "Russian",
+   "dMm*",
+   "asking",
+   "Mum",
+   "of",
+   "Capt",
+   "Johann",
+   "Millar,",
+   "a",
+   "ktSMi",
+   "who",
+   "wm",
+   "with",
+   "tb*",
+   "Austrian",
+   "iHMn",
+   "mM",
+   "a",
+   "frlsonar",
+   "la",
+   "Siberia."
+  ],
+  "page_seq_num": 1025,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_nazareth_ver01\/data\/sn83016689\/00414218854\/1917041901\/1025.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1917-04-19",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.948829710483551,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_nazareth_ver01\/data\/sn83016689\/00414218854\/1917041901\/1025\/007_0_94.jpg"
+ },
+ "id": 1700
+}

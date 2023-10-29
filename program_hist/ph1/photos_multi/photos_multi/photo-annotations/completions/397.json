@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747978,
+   "id": 397001,
+   "lead_time": 1.766,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Fm4DwZqhGo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_estlund_ver01",
+  "box": [
+   0.34480578694122516,
+   0.6153293812247402,
+   0.71674248037636,
+   0.8831482638387702
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_estlund_ver01\/data\/sn99063956\/00280760407\/1900101301\/0099\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Oregon--Marion--Salem"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_estlund_ver01%2Fdata%2Fsn99063956%2F00280760407%2F1900101301%2F0099.jp2\/pct:34.48,61.54,37.2,26.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063956",
+  "name": "The daily journal.",
+  "ocr": [
+   "D",
+   "laHri",
+   "i",
+   "llatiJtMaWlaBal",
+   "mmW'SE'",
+   "Mf",
+   "&m9$K",
+   "aBaMaBiBBBi&iBM'BWBBBVL",
+   "aSaflw",
+   "ilillfl",
+   "JHk",
+   "mmWmW",
+   "atfaV",
+   "f",
+   "'",
+   "M",
+   "JaS",
+   "fVrVKJBI",
+   "laBSwvlgK",
+   "\"",
+   "A.",
+   "WaJlaaaBaaB",
+   "PIANOLA",
+   "IN",
+   "CONNECTION",
+   "WITH",
+   "UPRIGHT",
+   "PIANO",
+   "tf",
+   "WHEREVER",
+   "THERE",
+   "IS",
+   "A",
+   "PIANO",
+   "THERE",
+   "S1I0ULDBE",
+   "A",
+   "PIANOLA."
+  ],
+  "page_seq_num": 99,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_estlund_ver01\/data\/sn99063956\/00280760407\/1900101301\/0099.jp2",
+  "place_of_publication": "Salem, Or.",
+  "pub_date": "1900-10-13",
+  "publisher": "Hofer Bros.",
+  "score": 0.996131420135498,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_estlund_ver01\/data\/sn99063956\/00280760407\/1900101301\/0099\/000_0_99.jpg"
+ },
+ "id": 397
+}

@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675072,
+   "id": 1400001,
+   "lead_time": 35.887,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-iZQclQh1j",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_grimes_ver01",
+  "box": [
+   0.047541525628831655,
+   0.1142797971323143,
+   0.275540033976237,
+   0.5168844114756701
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_grimes_ver01\/data\/sn85066387\/00280768650\/1913091201\/0187\/000_0_95.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_grimes_ver01%2Fdata%2Fsn85066387%2F00280768650%2F1913091201%2F0187.jp2\/pct:4.75,11.43,22.8,40.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "[:",
+   "Hbw.DQt",
+   "Wilson",
+   "Found",
+   "Milk",
+   "an",
+   "Aid",
+   "to",
+   "Natural",
+   "Loveliness",
+   "Miss",
+   "Dot",
+   "Wilson"
+  ],
+  "page_seq_num": 187,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_grimes_ver01\/data\/sn85066387\/00280768650\/1913091201\/0187.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1913-09-12",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9561185836791992,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_grimes_ver01\/data\/sn85066387\/00280768650\/1913091201\/0187\/000_0_95.jpg"
+ },
+ "id": 1400
+}

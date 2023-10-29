@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768470,
+   "id": 1770001,
+   "lead_time": 1.906,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tz1Jk8mg4W",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_dachshund_ver02",
+  "box": [
+   0.37227701770209276,
+   0.05449380947433355,
+   0.6172710280344276,
+   0.3138847642272483
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_dachshund_ver02\/data\/sn83045433\/00280763925\/1917111801\/0764\/012_0_96.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_dachshund_ver02%2Fdata%2Fsn83045433%2F00280763925%2F1917111801%2F0764.jp2\/pct:37.22,5.45,24.5,25.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "Champ",
+   "New",
+   "Midde-weight",
+   "Camp",
+   "o'DOW&",
+   "\/y",
+   ".,:",
+   "ja4i,",
+   "ta",
+   "a"
+  ],
+  "page_seq_num": 764,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_dachshund_ver02\/data\/sn83045433\/00280763925\/1917111801\/0764.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1917-11-18",
+  "publisher": "Washington Herald Co.",
+  "score": 0.966858446598053,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_dachshund_ver02\/data\/sn83045433\/00280763925\/1917111801\/0764\/012_0_96.jpg"
+ },
+ "id": 1770
+}

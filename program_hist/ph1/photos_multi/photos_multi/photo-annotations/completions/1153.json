@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763776,
+   "id": 1153001,
+   "lead_time": 1.706,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GNiiA8DXUf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_chelsea_ver01",
+  "box": [
+   0.4325358072916667,
+   0.15900357487412145,
+   0.5520002427002674,
+   0.32582787879288844
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_chelsea_ver01\/data\/sn85038709\/0041566932A\/1909071501\/1143\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Gratiot--Alma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_chelsea_ver01%2Fdata%2Fsn85038709%2F0041566932A%2F1909071501%2F1143.jp2\/pct:43.25,15.91,11.95,16.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038709",
+  "name": "Alma record.",
+  "ocr": [
+   "\"t",
+   "V",
+   "R.",
+   "L.",
+   "SMITH",
+   "Elected",
+   "Member",
+   "Board",
+   "of",
+   "Education,",
+   "Monday",
+   "Evening."
+  ],
+  "page_seq_num": 1143,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_chelsea_ver01\/data\/sn85038709\/0041566932A\/1909071501\/1143.jp2",
+  "place_of_publication": "Alma, Mich.",
+  "pub_date": "1909-07-15",
+  "publisher": "Miss C.M. Fleming",
+  "score": 0.9801998138427734,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_chelsea_ver01\/data\/sn85038709\/0041566932A\/1909071501\/1143\/002_0_98.jpg"
+ },
+ "id": 1153
+}

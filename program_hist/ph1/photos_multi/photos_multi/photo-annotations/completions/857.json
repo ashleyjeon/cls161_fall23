@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751467,
+   "id": 857001,
+   "lead_time": 1.541,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o0X3nuPeoX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_offutt_ver01",
+  "box": [
+   0.3118341443913,
+   0.1526793701757344,
+   0.43388927849627895,
+   0.2890728920769634
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_offutt_ver01\/data\/sn99021999\/00280778254\/1906022501\/0999\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_offutt_ver01%2Fdata%2Fsn99021999%2F00280778254%2F1906022501%2F0999.jp2\/pct:31.18,15.27,12.21,13.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "WILLIAM\"",
+   "A.",
+   "ALTSTADT."
+  ],
+  "page_seq_num": 999,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_offutt_ver01\/data\/sn99021999\/00280778254\/1906022501\/0999.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1906-02-25",
+  "publisher": "Edward Rosewater",
+  "score": 0.9255351424217224,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_offutt_ver01\/data\/sn99021999\/00280778254\/1906022501\/0999\/006_0_92.jpg"
+ },
+ "id": 857
+}

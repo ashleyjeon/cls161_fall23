@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768003,
+   "id": 287001,
+   "lead_time": 1.776,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LUZgrI46Yw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_universal_ver01",
+  "box": [
+   0.23428389539452552,
+   0.20417595624030752,
+   0.4797593619504864,
+   0.5657520651370845
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_universal_ver01\/data\/sn83030214\/00175036866\/1898062601\/0541\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_universal_ver01%2Fdata%2Fsn83030214%2F00175036866%2F1898062601%2F0541.jp2\/pct:23.42,20.42,24.55,36.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "IlKN",
+   "I.I",
+   "?I?",
+   "K",
+   "'MISS",
+   "W",
+   "II",
+   "I",
+   "\"",
+   "?",
+   "Nui",
+   "-,",
+   "?",
+   "M",
+   "I",
+   "i"
+  ],
+  "page_seq_num": 541,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_universal_ver01\/data\/sn83030214\/00175036866\/1898062601\/0541.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-06-26",
+  "publisher": "New York Tribune",
+  "score": 0.9714611768722534,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_universal_ver01\/data\/sn83030214\/00175036866\/1898062601\/0541\/001_0_97.jpg"
+ },
+ "id": 287
+}

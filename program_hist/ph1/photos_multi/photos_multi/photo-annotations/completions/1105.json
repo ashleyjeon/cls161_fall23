@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752828,
+   "id": 1105001,
+   "lead_time": 2.713,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9toM-KQq9Q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_elwha_ver01",
+  "box": [
+   0.6838076927314162,
+   0.41459977518849045,
+   0.9314092717566479,
+   0.7118270498969114
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_elwha_ver01\/data\/sn88085421\/00237282966\/1909060801\/0391\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--Walla Walla--Walla Walla"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_elwha_ver01%2Fdata%2Fsn88085421%2F00237282966%2F1909060801%2F0391.jp2\/pct:68.38,41.46,24.77,29.73\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085421",
+  "name": "The Evening statesman.",
+  "ocr": [
+   "Establishing",
+   "New",
+   "Mark",
+   "for",
+   "Mile"
+  ],
+  "page_seq_num": 391,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_elwha_ver01\/data\/sn88085421\/00237282966\/1909060801\/0391.jp2",
+  "place_of_publication": "Walla Walla, Wash.",
+  "pub_date": "1909-06-08",
+  "publisher": "Statesman Pub. Co.",
+  "score": 0.9856056571006775,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_elwha_ver01\/data\/sn88085421\/00237282966\/1909060801\/0391\/002_0_98.jpg"
+ },
+ "id": 1105
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763739,
+   "id": 100001,
+   "lead_time": 3.585,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VNQAvHMOQw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_india_ver02",
+  "box": [
+   0.4658284577610654,
+   0.24188800449789005,
+   0.744142362655694,
+   0.3703961151939819
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_india_ver02\/data\/sn86071158\/00206536391\/1896030801\/0940\/003_0_92.jpg",
+  "geographic_coverage": [
+   "Texas--Tarrant--Fort Worth"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_india_ver02%2Fdata%2Fsn86071158%2F00206536391%2F1896030801%2F0940.jp2\/pct:46.58,24.19,27.84,12.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn86071158",
+  "name": "Fort Worth gazette. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 940,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_india_ver02\/data\/sn86071158\/00206536391\/1896030801\/0940.jp2",
+  "place_of_publication": "Fort Worth, Tex.",
+  "pub_date": "1896-03-08",
+  "publisher": "Democrat Pub. Co.",
+  "score": 0.9201922416687012,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_india_ver02\/data\/sn86071158\/00206536391\/1896030801\/0940\/003_0_92.jpg"
+ },
+ "id": 100
+}

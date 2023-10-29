@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763867,
+   "id": 1591001,
+   "lead_time": 9.131,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wfU99jyRhw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_leonidas_ver01",
+  "box": [
+   0.38746464780796736,
+   0.3315579310600004,
+   0.6123169830592768,
+   0.6746046629594398
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_leonidas_ver01\/data\/sn83016689\/00279552258\/1915030201\/0051\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_leonidas_ver01%2Fdata%2Fsn83016689%2F00279552258%2F1915030201%2F0051.jp2\/pct:38.74,33.16,22.49,34.31\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "*",
+   "*",
+   "-",
+   "-",
+   "*.",
+   ";",
+   "-",
+   "V",
+   "IdmjSl",
+   "r-jf",
+   "I",
+   "*",
+   "wna\u00dfUj",
+   "i\u2022",
+   "<",
+   "-nj",
+   "_",
+   "*~7f",
+   "4",
+   "<*",
+   "\u2022",
+   "ja\u2014",
+   "HPDr",
+   "ILSjCJitlnDCw^kn"
+  ],
+  "page_seq_num": 51,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_leonidas_ver01\/data\/sn83016689\/00279552258\/1915030201\/0051.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1915-03-02",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9712338447570801,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_leonidas_ver01\/data\/sn83016689\/00279552258\/1915030201\/0051\/003_0_97.jpg"
+ },
+ "id": 1591
+}

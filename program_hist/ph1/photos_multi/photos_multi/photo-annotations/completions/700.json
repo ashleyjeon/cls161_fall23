@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673608,
+   "id": 700001,
+   "lead_time": 2.342,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YjVI21mMF-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_odoric_ver01",
+  "box": [
+   0.5049152677021329,
+   0.0686551727245138,
+   0.7261425199962798,
+   0.267808301219349
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_odoric_ver01\/data\/sn85038153\/00415665878\/1904072901\/0353\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Ohio--Logan--Bellefontaine"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_odoric_ver01%2Fdata%2Fsn85038153%2F00415665878%2F1904072901%2F0353.jp2\/pct:50.49,6.87,22.13,19.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038153",
+  "name": "The Bellefontaine Republican. [volume]",
+  "ocr": [
+   "'",
+   "'\"",
+   ".",
+   ".l.",
+   "-.",
+   "v",
+   "v-2",
+   "-\"",
+   "IEV.",
+   "JOHN",
+   "B.",
+   "HELWIG,",
+   "D.",
+   "D."
+  ],
+  "page_seq_num": 353,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_odoric_ver01\/data\/sn85038153\/00415665878\/1904072901\/0353.jp2",
+  "place_of_publication": "Bellefontaine, Logan County, Ohio",
+  "pub_date": "1904-07-29",
+  "publisher": "Walker, Powell, & Co.",
+  "score": 0.9609365463256836,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_odoric_ver01\/data\/sn85038153\/00415665878\/1904072901\/0353\/003_0_96.jpg"
+ },
+ "id": 700
+}

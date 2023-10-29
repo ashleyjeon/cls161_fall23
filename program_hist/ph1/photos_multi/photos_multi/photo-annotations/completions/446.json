@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772496,
+   "id": 446001,
+   "lead_time": 2.565,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PWqR7vPm-I",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_julius_ver01",
+  "box": [
+   0.25891912850169324,
+   0.09568180482080378,
+   0.4574333368832519,
+   0.29050094510879987
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_julius_ver01\/data\/sn99021999\/00237284951\/1900042201\/0949\/006_0_96.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_julius_ver01%2Fdata%2Fsn99021999%2F00237284951%2F1900042201%2F0949.jp2\/pct:25.89,9.57,19.86,19.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "J",
+   "W",
+   "FERGUSON,",
+   "MINDEN."
+  ],
+  "page_seq_num": 949,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_julius_ver01\/data\/sn99021999\/00237284951\/1900042201\/0949.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1900-04-22",
+  "publisher": "Edward Rosewater",
+  "score": 0.968535304069519,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_julius_ver01\/data\/sn99021999\/00237284951\/1900042201\/0949\/006_0_96.jpg"
+ },
+ "id": 446
+}

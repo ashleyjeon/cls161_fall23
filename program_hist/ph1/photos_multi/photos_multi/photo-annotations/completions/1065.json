@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765904,
+   "id": 1065001,
+   "lead_time": 2.187,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZvptQLuvBP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_edosian_ver01",
+  "box": [
+   0.18699026894921536,
+   0.09484578811751943,
+   0.3171857871976135,
+   0.3583177023472178
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_edosian_ver01\/data\/sn85042224\/0038334668A\/1908080701\/0592\/018_0_95.jpg",
+  "geographic_coverage": [
+   "North Dakota--Cass--Fargo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_edosian_ver01%2Fdata%2Fsn85042224%2F0038334668A%2F1908080701%2F0592.jp2\/pct:18.69,9.49,13.02,26.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042224",
+  "name": "The Fargo forum and daily republican. [volume]",
+  "ocr": [
+   "iJ",
+   "KIDNAPED",
+   "GIRL",
+   "HOME.",
+   "jt",
+   "x.",
+   "t\\",
+   "I'",
+   "-i",
+   "w,",
+   "v",
+   "1",
+   "J,",
+   "7",
+   "N",
+   "Abducted",
+   "Girl",
+   "Who",
+   "Has",
+   "Been",
+   "turned",
+   "to",
+   "Her",
+   "Home."
+  ],
+  "page_seq_num": 592,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_edosian_ver01\/data\/sn85042224\/0038334668A\/1908080701\/0592.jp2",
+  "place_of_publication": "Fargo, N.D.",
+  "pub_date": "1908-08-07",
+  "publisher": "A.W. Edwards & H.C. Plumley",
+  "score": 0.9574861526489258,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_edosian_ver01\/data\/sn85042224\/0038334668A\/1908080701\/0592\/018_0_95.jpg"
+ },
+ "id": 1065
+}

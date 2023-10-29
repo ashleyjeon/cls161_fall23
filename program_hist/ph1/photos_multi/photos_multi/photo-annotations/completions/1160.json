@@ -1,0 +1,121 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768015,
+   "id": 1160001,
+   "lead_time": 3.044,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GdncuzLGfr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_index_ver01",
+  "box": [
+   0.06736182794701054,
+   0.1137625715201925,
+   0.44500708626492447,
+   0.288112652339158
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_index_ver01\/data\/sn92053934\/00202198764\/1910022601\/0709\/005_0_95.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_index_ver01%2Fdata%2Fsn92053934%2F00202198764%2F1910022601%2F0709.jp2\/pct:6.73,11.38,37.77,17.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "at",
+   "i",
+   "\"",
+   "J",
+   "1",
+   "'",
+   ".",
+   "1",
+   "'",
+   "IjJv",
+   "1",
+   "1",
+   "i",
+   "rr",
+   "Zr'lX$1'f'",
+   "-",
+   ",",
+   "l-i",
+   "t",
+   "-",
+   ";V,Tl-f;7",
+   "\"",
+   "ll",
+   "I",
+   "1",
+   "If",
+   "-",
+   "ff",
+   "v,",
+   "w",
+   "h",
+   ".",
+   "-",
+   "lf",
+   "i",
+   "I'll",
+   ":-",
+   "It",
+   "'",
+   "r",
+   "H5Kf",
+   "ll",
+   "I",
+   "11!",
+   "fe?-\"\"",
+   "vr",
+   "JUV.",
+   "Hi",
+   "in",
+   "?r-r",
+   "'",
+   "w",
+   "-'\"Vtf'.",
+   "'-is",
+   "-:r,",
+   ".-w",
+   "111",
+   "I",
+   "ll",
+   "u'v",
+   "Vrhre",
+   "I",
+   "V",
+   "r",
+   "1",
+   "I",
+   "-",
+   "Nis$7.1",
+   "'",
+   "ill",
+   "\"111",
+   "Jsss"
+  ],
+  "page_seq_num": 709,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_index_ver01\/data\/sn92053934\/00202198764\/1910022601\/0709.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1910-02-26",
+  "publisher": "J.W. Potter",
+  "score": 0.9566783308982849,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_index_ver01\/data\/sn92053934\/00202198764\/1910022601\/0709\/005_0_95.jpg"
+ },
+ "id": 1160
+}

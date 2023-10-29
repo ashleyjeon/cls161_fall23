@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747774,
+   "id": 1617001,
+   "lead_time": 1.759,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aRnEGsB0M8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_imp_ver01",
+  "box": [
+   0.208270763635442,
+   0.09307995626673785,
+   0.3597344292534722,
+   0.2943148809012196
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_imp_ver01\/data\/sn86086586\/00414214587\/1916080401\/0319\/014_0_94.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Rock--Edgerton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_imp_ver01%2Fdata%2Fsn86086586%2F00414214587%2F1916080401%2F0319.jp2\/pct:20.82,9.31,15.15,20.13\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086586",
+  "name": "The Wisconsin tobacco reporter.",
+  "ocr": [
+   "*'",
+   "f",
+   "\u25a0",
+   "-Ji'y",
+   "\u25a0",
+   "f",
+   "Photo",
+   "by",
+   "American",
+   "Press",
+   "Association."
+  ],
+  "page_seq_num": 319,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_imp_ver01\/data\/sn86086586\/00414214587\/1916080401\/0319.jp2",
+  "place_of_publication": "Edgerton, Wis.",
+  "pub_date": "1916-08-04",
+  "publisher": "W.F. Tousley",
+  "score": 0.9430386424064636,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_imp_ver01\/data\/sn86086586\/00414214587\/1916080401\/0319\/014_0_94.jpg"
+ },
+ "id": 1617
+}

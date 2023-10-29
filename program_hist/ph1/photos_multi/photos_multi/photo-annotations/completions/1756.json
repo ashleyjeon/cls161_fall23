@@ -1,0 +1,91 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747505,
+   "id": 1756001,
+   "lead_time": 5.282,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "T9yt5DNgrV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_dominica_ver01",
+  "box": [
+   0.49918545706042833,
+   0.09641159483161106,
+   0.7826241743442168,
+   0.2639750649096323
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_dominica_ver01\/data\/sn00065154\/0027952326A\/1917033001\/0423\/004_0_90.jpg",
+  "geographic_coverage": [
+   "South Dakota--Grant--Milbank"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_dominica_ver01%2Fdata%2Fsn00065154%2F0027952326A%2F1917033001%2F0423.jp2\/pct:49.91,9.65,28.35,16.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn00065154",
+  "name": "The herald-advance.",
+  "ocr": [
+   "BLACK",
+   "WALNUT",
+   "IS",
+   "CAREFULLY",
+   "HANDLED",
+   "LOGS",
+   "ARE",
+   "CAREFULLY",
+   "LOADED",
+   "ONTO",
+   "CARS.",
+   "Black",
+   "walnut",
+   "lumber",
+   "is",
+   "now",
+   "in",
+   "great",
+   "demand",
+   "for",
+   "making",
+   "handles",
+   "guns",
+   "and",
+   "for",
+   "various",
+   "other",
+   "wooden",
+   "implements.",
+   "The",
+   "illustration",
+   "how",
+   "the",
+   "logs",
+   "are",
+   "loaded",
+   "onto",
+   "cars",
+   "in",
+   "Kentucky."
+  ],
+  "page_seq_num": 423,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_dominica_ver01\/data\/sn00065154\/0027952326A\/1917033001\/0423.jp2",
+  "place_of_publication": "Milbank, S.D.",
+  "pub_date": "1917-03-30",
+  "publisher": "W.W. Downie",
+  "score": 0.907006561756134,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_dominica_ver01\/data\/sn00065154\/0027952326A\/1917033001\/0423\/004_0_90.jpg"
+ },
+ "id": 1756
+}

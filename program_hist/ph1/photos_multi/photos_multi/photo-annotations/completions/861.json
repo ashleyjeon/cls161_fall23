@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757122,
+   "id": 861001,
+   "lead_time": 3.654,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ed0P43b6Mf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_quine_ver01",
+  "box": [
+   0.14031963792942737,
+   0.03408195582632783,
+   0.48898603331367924,
+   0.4008787031862672
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_quine_ver01\/data\/sn83030193\/175044589\/1906090101\/0589\/008_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_quine_ver01%2Fdata%2Fsn83030193%2F175044589%2F1906090101%2F0589.jp2\/pct:14.03,3.41,34.87,36.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "Pace",
+   "with",
+   "Husband",
+   "in",
+   "Public",
+   "j",
+   "i"
+  ],
+  "page_seq_num": 589,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_quine_ver01\/data\/sn83030193\/175044589\/1906090101\/0589.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1906-09-01",
+  "publisher": "[publisher not identified]",
+  "score": 0.9605917930603027,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_quine_ver01\/data\/sn83030193\/175044589\/1906090101\/0589\/008_0_96.jpg"
+ },
+ "id": 861
+}

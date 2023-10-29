@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767871,
+   "id": 856001,
+   "lead_time": 4.646,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Fc9_IkCPSI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_brazil_ver01",
+  "box": [
+   0.3482772039135857,
+   0.02951591879634534,
+   0.6568314100095364,
+   0.23555897858183264
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_brazil_ver01\/data\/sn83030214\/00175041424\/1906051401\/0284\/003_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_brazil_ver01%2Fdata%2Fsn83030214%2F00175041424%2F1906051401%2F0284.jp2\/pct:34.82,2.96,30.86,20.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "TWO",
+   "VISITORS",
+   "WBOM.",
+   "INDIA,",
+   "WHO",
+   "AUtZTED",
+   "HESS",
+   "YESTERDAY.",
+   "THB",
+   "PAEKWARS",
+   "\"WIFE.",
+   "HIS",
+   "HIGHNEBB",
+   "THB",
+   "OaBEWaR"
+  ],
+  "page_seq_num": 284,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_brazil_ver01\/data\/sn83030214\/00175041424\/1906051401\/0284.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1906-05-14",
+  "publisher": "New York Tribune",
+  "score": 0.9854720234870911,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_brazil_ver01\/data\/sn83030214\/00175041424\/1906051401\/0284\/003_0_98.jpg"
+ },
+ "id": 856
+}

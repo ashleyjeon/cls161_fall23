@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749481,
+   "id": 64001,
+   "lead_time": 2.287,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CX7ywqEcs7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_gandhi_ver01",
+  "box": [
+   0.19700075191713376,
+   0.3870232504986702,
+   0.3462159252869702,
+   0.5092996800199469
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_gandhi_ver01\/data\/sn86069117\/00206533730\/1895052901\/0525\/013_0_93.jpg",
+  "geographic_coverage": [
+   "Kentucky--Mason--Maysville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_gandhi_ver01%2Fdata%2Fsn86069117%2F00206533730%2F1895052901%2F0525.jp2\/pct:19.7,38.71,14.93,12.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069117",
+  "name": "Daily public ledger. [volume]",
+  "ocr": [
+   "The",
+   "river",
+   "is",
+   "falling",
+   "at",
+   "this",
+   "point,",
+   "the",
+   "St.1",
+   "II",
+   "IFTsiiiBlEBHHkrTi",
+   "'--.--"
+  ],
+  "page_seq_num": 525,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_gandhi_ver01\/data\/sn86069117\/00206533730\/1895052901\/0525.jp2",
+  "place_of_publication": "Maysville, Ky.",
+  "pub_date": "1895-05-29",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9315835237503052,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_gandhi_ver01\/data\/sn86069117\/00206533730\/1895052901\/0525\/013_0_93.jpg"
+ },
+ "id": 64
+}

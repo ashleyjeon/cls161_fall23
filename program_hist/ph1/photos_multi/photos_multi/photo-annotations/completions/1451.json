@@ -1,0 +1,90 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673434,
+   "id": 1451001,
+   "lead_time": 0.822,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9hUlY7xoj1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_dove_ver02",
+  "box": [
+   0.5105717334033746,
+   0.07888019268329327,
+   0.8006288163944009,
+   0.4875821200284091
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_dove_ver02\/data\/sn86069163\/00202195854\/1913082601\/0352\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_dove_ver02%2Fdata%2Fsn86069163%2F00202195854%2F1913082601%2F0352.jp2\/pct:51.05,7.89,29.01,40.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069163",
+  "name": "The Madisonian.",
+  "ocr": [
+   "SMART",
+   "DRESS",
+   "..4.",
+   "\"",
+   "::.....",
+   "II\"",
+   "i",
+   "'",
+   "'''",
+   "'",
+   "V",
+   "i",
+   "li",
+   "it'",
+   ".",
+   "One-piece",
+   "model",
+   "of",
+   "white",
+   "satin,",
+   "trimmed",
+   "with",
+   "lace",
+   "and",
+   "set",
+   "off",
+   "with",
+   "satin",
+   "sash.",
+   "This",
+   "model",
+   "shows",
+   "the",
+   "new",
+   "tendency",
+   "for",
+   "conservative",
+   "drapery.",
+   "FOR",
+   "EARLY",
+   "FALL"
+  ],
+  "page_seq_num": 352,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_dove_ver02\/data\/sn86069163\/00202195854\/1913082601\/0352.jp2",
+  "place_of_publication": "Richmond, Ky.",
+  "pub_date": "1913-08-26",
+  "publisher": "Grant E. Lilly",
+  "score": 0.9758970141410828,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_dove_ver02\/data\/sn86069163\/00202195854\/1913082601\/0352\/001_0_97.jpg"
+ },
+ "id": 1451
+}

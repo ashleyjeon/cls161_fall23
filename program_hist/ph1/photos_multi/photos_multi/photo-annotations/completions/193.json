@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767150,
+   "id": 193001,
+   "lead_time": 2.797,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0YFxGdjBkp",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_acacia_ver01",
+  "box": [
+   0.06379485616878587,
+   0.19000567320006498,
+   0.3858101124666175,
+   0.2878325884761847
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_acacia_ver01\/data\/sn94051341\/00212476432\/1897061901\/0310\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Arizona--Navajo--Holbrook"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_acacia_ver01%2Fdata%2Fsn94051341%2F00212476432%2F1897061901%2F0310.jp2\/pct:6.37,19.01,32.21,9.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn94051341",
+  "name": "The argus.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 310,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_acacia_ver01\/data\/sn94051341\/00212476432\/1897061901\/0310.jp2",
+  "place_of_publication": "Holbrook, Ariz.",
+  "pub_date": "1897-06-19",
+  "publisher": "A.F. Banta",
+  "score": 0.9559713006019592,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_acacia_ver01\/data\/sn94051341\/00212476432\/1897061901\/0310\/000_0_95.jpg"
+ },
+ "id": 193
+}

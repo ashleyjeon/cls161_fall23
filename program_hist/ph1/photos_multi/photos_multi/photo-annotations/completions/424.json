@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766353,
+   "id": 424001,
+   "lead_time": 6.917,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UnOaynKTL3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.26430741533490754,
+   0.35977914400189837,
+   0.7411517000131487,
+   0.6801060186368283
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/00175040900\/1900082601\/0469\/001_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F00175040900%2F1900082601%2F0469.jp2\/pct:26.43,35.98,47.69,32.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "NEW",
+   "AQUEDrOT",
+   "NEAR",
+   "SHAFT",
+   "20.",
+   "STATION",
+   "23",
+   "+",
+   "20.",
+   "From",
+   "a",
+   "photograph",
+   "taken",
+   "September",
+   "15,",
+   "1899.",
+   "nortV",
+   "of",
+   "Jerome",
+   "Park",
+   "reservoir,",
+   "showing",
+   "the",
+   "single",
+   "conduit",
+   "construct.",
+   "-in."
+  ],
+  "page_seq_num": 469,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/00175040900\/1900082601\/0469.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1900-08-26",
+  "publisher": "New York Tribune",
+  "score": 0.9625526666641235,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/00175040900\/1900082601\/0469\/001_0_96.jpg"
+ },
+ "id": 424
+}

@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768694,
+   "id": 1116001,
+   "lead_time": 1.626,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_ice_ver01",
+  "box": [
+   0.529930790768394,
+   0.07060324565301673,
+   0.9295115686454566,
+   0.24802797772315854
+  ],
+  "edition_seq_num": 2,
+  "filepath": "hihouml_ice_ver01\/data\/sn82016413\/0023728625A\/1909032502\/0948\/001_0_95.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_ice_ver01%2Fdata%2Fsn82016413%2F0023728625A%2F1909032502%2F0948.jp2\/pct:52.99,7.07,39.96,17.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016413",
+  "name": "Evening bulletin. [volume]",
+  "ocr": [
+   "Fertile",
+   "Vineyard",
+   "of",
+   "J.",
+   "Q.",
+   "Serrao",
+   "on",
+   "his",
+   "own",
+   "property,",
+   "three",
+   "miles",
+   "from",
+   "Hllo,",
+   "Hawaii."
+  ],
+  "page_seq_num": 948,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_ice_ver01\/data\/sn82016413\/0023728625A\/1909032502\/0948.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1909-03-25",
+  "publisher": "[publisher not identified]",
+  "score": 0.9553651809692383,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_ice_ver01\/data\/sn82016413\/0023728625A\/1909032502\/0948\/001_0_95.jpg"
+ },
+ "id": 1116
+}

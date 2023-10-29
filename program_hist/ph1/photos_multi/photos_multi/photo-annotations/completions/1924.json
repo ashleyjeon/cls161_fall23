@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768382,
+   "id": 1924001,
+   "lead_time": 1.895,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YhgxE-5Cv_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_alki_ver01",
+  "box": [
+   0.14979054410936612,
+   0.041124951276656385,
+   0.3864977486964387,
+   0.3551377456075644
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_alki_ver01\/data\/sn87093407\/00200290793\/1919062701\/0591\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_alki_ver01%2Fdata%2Fsn87093407%2F00200290793%2F1919062701%2F0591.jp2\/pct:14.97,4.12,23.68,31.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "Soldiers",
+   "of",
+   "Air",
+   "Service",
+   "to",
+   "Honor",
+   "Rickenbacker",
+   "llrre",
+   "are",
+   "irfflfm",
+   "of",
+   "the",
+   "newly",
+   "annulled",
+   "SrelUr",
+   "l",
+   "flyer's",
+   "club",
+   "lln",
+   "y",
+   "are",
+   "itippn-",
+   "left*:",
+   "I",
+   "ieut.",
+   "teel",
+   "williams",
+   "mmminiiit.",
+   "nipper",
+   "right):",
+   "l.lent",
+   "K.",
+   "1..",
+   "Van",
+   "houten",
+   "rommUaary;",
+   "llowrr",
+   "left!:",
+   "I",
+   "lent",
+   "norman",
+   "colesn,",
+   "adjutant;",
+   "ilower",
+   "right):",
+   "IJesit.",
+   "K",
+   "K.",
+   "Olson,",
+   "aetilor",
+   "ritMMnnindrr."
+  ],
+  "page_seq_num": 591,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_alki_ver01\/data\/sn87093407\/00200290793\/1919062701\/0591.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1919-06-27",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9775503873825073,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_alki_ver01\/data\/sn87093407\/00200290793\/1919062701\/0591\/005_0_97.jpg"
+ },
+ "id": 1924
+}

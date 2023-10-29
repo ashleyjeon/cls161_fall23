@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752506,
+   "id": 819001,
+   "lead_time": 4.255,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6pnbiCLf0W",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_ten_ver01",
+  "box": [
+   0.5258698929187864,
+   0.3363593179671491,
+   0.9070118748864462,
+   0.5451140356845543
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_ten_ver01\/data\/sn83045555\/00175049101\/1905072901\/1055\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_ten_ver01%2Fdata%2Fsn83045555%2F00175049101%2F1905072901%2F1055.jp2\/pct:52.58,33.64,38.12,20.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "PIONCI2R8",
+   "OF",
+   "1817",
+   "IN",
+   "AUTOMOUILGO",
+   "OF",
+   "1003",
+   "i",
+   "m",
+   "rr2uiTTlie",
+   "Mlflhty",
+   "livotutlon",
+   "of",
+   "Trnniportatlon",
+   "Qhown",
+   "In",
+   "V",
+   "ilolei",
+   "of",
+   "the",
+   "Two",
+   "Dntm"
+  ],
+  "page_seq_num": 1055,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_ten_ver01\/data\/sn83045555\/00175049101\/1905072901\/1055.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1905-07-29",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9834688901901245,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_ten_ver01\/data\/sn83045555\/00175049101\/1905072901\/1055\/005_0_98.jpg"
+ },
+ "id": 819
+}

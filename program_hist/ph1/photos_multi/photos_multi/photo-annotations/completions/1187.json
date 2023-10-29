@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746947,
+   "id": 1187001,
+   "lead_time": 2.491,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iQX_tO5WrQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_canada_ver01",
+  "box": [
+   0.15390113624366555,
+   0.3810022667993473,
+   0.2920595186250704,
+   0.568149730827235
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_canada_ver01\/data\/sn83030214\/00175039739\/1910101701\/0378\/009_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_canada_ver01%2Fdata%2Fsn83030214%2F00175039739%2F1910101701%2F0378.jp2\/pct:15.39,38.11,13.82,18.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "\u2022",
+   "THOMAS",
+   "F.",
+   "FENNELL.",
+   "Republican",
+   "candidate",
+   "for",
+   "State",
+   "Treasurer,",
+   "who",
+   "coached",
+   "clean",
+   "football.",
+   "I",
+   "|"
+  ],
+  "page_seq_num": 378,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_canada_ver01\/data\/sn83030214\/00175039739\/1910101701\/0378.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1910-10-17",
+  "publisher": "New York Tribune",
+  "score": 0.9807091951370239,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_canada_ver01\/data\/sn83030214\/00175039739\/1910101701\/0378\/009_0_98.jpg"
+ },
+ "id": 1187
+}

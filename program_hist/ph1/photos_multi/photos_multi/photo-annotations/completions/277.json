@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762859,
+   "id": 277001,
+   "lead_time": 2.73,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1CN7AoEdqY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_ansel_ver01",
+  "box": [
+   0.721906021208098,
+   0.3662014476938269,
+   0.9357187687062561,
+   0.5761329144528337
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_ansel_ver01\/data\/sn90061417\/00294559991\/1898100701\/0390\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Missouri--Holt--Oregon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_ansel_ver01%2Fdata%2Fsn90061417%2F00294559991%2F1898100701%2F0390.jp2\/pct:72.19,36.63,21.39,21.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn90061417",
+  "name": "The Holt County sentinel.",
+  "ocr": [
+   "-4",
+   "Hn-I",
+   "llo.MI",
+   "ol-",
+   "II",
+   "ISVIU-N"
+  ],
+  "page_seq_num": 390,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_ansel_ver01\/data\/sn90061417\/00294559991\/1898100701\/0390.jp2",
+  "place_of_publication": "Oregon, Mo.",
+  "pub_date": "1898-10-07",
+  "publisher": "Dobyns & Curry",
+  "score": 0.9907295107841492,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_ansel_ver01\/data\/sn90061417\/00294559991\/1898100701\/0390\/000_0_99.jpg"
+ },
+ "id": 277
+}

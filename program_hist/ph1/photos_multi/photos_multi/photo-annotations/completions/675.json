@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675606,
+   "id": 675001,
+   "lead_time": 2.348,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xjXtP-8Pq5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_two_ver01",
+  "box": [
+   0.1938991492083234,
+   0.19832027900011504,
+   0.31628039771880956,
+   0.3371621454895101
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_two_ver01\/data\/sn85058130\/00100478195\/1903031501\/0148\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_two_ver01%2Fdata%2Fsn85058130%2F00100478195%2F1903031501%2F0148.jp2\/pct:19.38,19.84,12.24,13.89\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058130",
+  "name": "The Salt Lake herald. [volume]",
+  "ocr": [
+   "Baby",
+   "Ruth",
+   "1tu",
+   "Broughton",
+   "Broughtonwas"
+  ],
+  "page_seq_num": 148,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_two_ver01\/data\/sn85058130\/00100478195\/1903031501\/0148.jp2",
+  "place_of_publication": "Salt Lake City [Utah]",
+  "pub_date": "1903-03-15",
+  "publisher": "[W.C. Dunbar & E.L. Sloan]",
+  "score": 0.9693501591682434,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_two_ver01\/data\/sn85058130\/00100478195\/1903031501\/0148\/003_0_96.jpg"
+ },
+ "id": 675
+}

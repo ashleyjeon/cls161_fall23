@@ -1,0 +1,110 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757462,
+   "id": 953001,
+   "lead_time": 3.63,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-9lkK0QXfe",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_pound_ver01",
+  "box": [
+   0.25209453607061105,
+   0.08556247204420717,
+   0.9504522821705812,
+   0.33926667677452627
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_pound_ver01\/data\/sn99021999\/00280778369\/1907060201\/0299\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_pound_ver01%2Fdata%2Fsn99021999%2F00280778369%2F1907060201%2F0299.jp2\/pct:25.2,8.56,69.84,25.38\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "hare",
+   "month",
+   "of",
+   "especially",
+   "out",
+   "ahead",
+   "than",
+   "the",
+   "it",
+   "had",
+   "the",
+   "side,",
+   "th",
+   "the",
+   "aides",
+   "Early",
+   "Summer",
+   "Days",
+   "Are",
+   "Pleasant",
+   "Days",
+   "for",
+   "Utile",
+   "Fciks",
+   "on",
+   "the",
+   "Farm",
+   "sub",
+   "priee.",
+   "We",
+   "sure",
+   "thla",
+   "month",
+   "this",
+   "been",
+   "no",
+   "letters.",
+   "of",
+   "to",
+   "rebus",
+   "this",
+   "avenue,",
+   "Neb.",
+   "It",
+   "the",
+   "school",
+   "to",
+   "the",
+   "be",
+   "Neb.,",
+   "and",
+   "the",
+   "cor",
+   "T6V3Y",
+   "LITTLE",
+   "GARDENER.",
+   "OUT",
+   "FOR",
+   "AJT",
+   "AFTEENOQN",
+   "DEITEL."
+  ],
+  "page_seq_num": 299,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_pound_ver01\/data\/sn99021999\/00280778369\/1907060201\/0299.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1907-06-02",
+  "publisher": "Edward Rosewater",
+  "score": 0.9802203178405762,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_pound_ver01\/data\/sn99021999\/00280778369\/1907060201\/0299\/000_0_98.jpg"
+ },
+ "id": 953
+}

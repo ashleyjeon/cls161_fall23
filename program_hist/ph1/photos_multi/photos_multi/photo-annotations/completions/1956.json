@@ -1,0 +1,80 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768012,
+   "id": 1956001,
+   "lead_time": 2.009,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vbXokOsYKQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_frenchbulldog_ver04",
+  "box": [
+   0.25052236961891583,
+   0.05628602628493052,
+   0.7352874833909447,
+   0.34431097346351613
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_frenchbulldog_ver04\/data\/sn83045433\/00280764139\/1920122601\/0819\/006_0_96.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_frenchbulldog_ver04%2Fdata%2Fsn83045433%2F00280764139%2F1920122601%2F0819.jp2\/pct:25.05,5.63,48.48,28.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "I",
+   "'",
+   "'",
+   ";",
+   "hands",
+   ",",
+   "?",
+   "superior",
+   "Talei",
+   "T",
+   "nt",
+   "Will",
+   "Presen",
+   "his",
+   "Week",
+   "Und",
+   "n",
+   "v",
+   ",",
+   "?",
+   ".",
+   "a",
+   ">f",
+   "Rollin",
+   "t",
+   "Comic",
+   "Oper",
+   "er",
+   "Direction",
+   "<",
+   "IB"
+  ],
+  "page_seq_num": 819,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_frenchbulldog_ver04\/data\/sn83045433\/00280764139\/1920122601\/0819.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1920-12-26",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9661270976066589,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_frenchbulldog_ver04\/data\/sn83045433\/00280764139\/1920122601\/0819\/006_0_96.jpg"
+ },
+ "id": 1956
+}

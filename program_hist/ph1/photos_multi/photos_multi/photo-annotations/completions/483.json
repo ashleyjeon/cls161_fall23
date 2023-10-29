@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748286,
+   "id": 483001,
+   "lead_time": 1.708,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "OuxU-NRgn6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_kinks_ver01",
+  "box": [
+   0.3948396566410745,
+   0.07379332101144309,
+   0.5366083810189514,
+   0.2052371737090893
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_kinks_ver01\/data\/sn86069675\/00100481959\/1901123101\/0852\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Kentucky--Montgomery--Mount Sterling"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_kinks_ver01%2Fdata%2Fsn86069675%2F00100481959%2F1901123101%2F0852.jp2\/pct:39.48,7.38,14.18,13.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069675",
+  "name": "The Mt. Sterling advocate.",
+  "ocr": [
+   "J",
+   "<",
+   "C",
+   "ENOCH"
+  ],
+  "page_seq_num": 852,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_kinks_ver01\/data\/sn86069675\/00100481959\/1901123101\/0852.jp2",
+  "place_of_publication": "Mt. Sterling, Ky.",
+  "pub_date": "1901-12-31",
+  "publisher": "Harris and Mason",
+  "score": 0.9878031611442566,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_kinks_ver01\/data\/sn86069675\/00100481959\/1901123101\/0852\/000_0_98.jpg"
+ },
+ "id": 483
+}

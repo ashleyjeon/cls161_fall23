@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747738,
+   "id": 58001,
+   "lead_time": 2.67,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "b3Dm6P7J_d",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_eeyore_ver01",
+  "box": [
+   0.050772803677748925,
+   0.202535930129717,
+   0.25405028501258436,
+   0.3488859817216981
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_eeyore_ver01\/data\/sn93060416\/00294556424\/1895101201\/0386\/001_0_95.jpg",
+  "geographic_coverage": [
+   "Missouri--Lafayette--Lexington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_eeyore_ver01%2Fdata%2Fsn93060416%2F00294556424%2F1895101201%2F0386.jp2\/pct:5.07,20.26,20.33,14.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn93060416",
+  "name": "The weekly intelligencer. [volume]",
+  "ocr": [
+   "FIRST",
+   "PRE3BYTERIAN",
+   "CHURCH,",
+   "LEXINGTON,",
+   "MO.",
+   "'\"",
+   "4",
+   "'",
+   "Meotlng",
+   "Place",
+   "of",
+   "the",
+   "Synod",
+   "ot",
+   "Minaourl."
+  ],
+  "page_seq_num": 386,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_eeyore_ver01\/data\/sn93060416\/00294556424\/1895101201\/0386.jp2",
+  "place_of_publication": "Lexington, Mo.",
+  "pub_date": "1895-10-12",
+  "publisher": "James E. Payne",
+  "score": 0.9593771696090698,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_eeyore_ver01\/data\/sn93060416\/00294556424\/1895101201\/0386\/001_0_95.jpg"
+ },
+ "id": 58
+}

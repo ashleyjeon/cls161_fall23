@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751141,
+   "id": 203001,
+   "lead_time": 1.828,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ErqEtzcKlY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_willys_ver01",
+  "box": [
+   0.33914008219958985,
+   0.3041192907902143,
+   0.6565745444302461,
+   0.5902795467160399
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_willys_ver01\/data\/sn83030214\/00175039132\/1897080101\/0017\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_willys_ver01%2Fdata%2Fsn83030214%2F00175039132%2F1897080101%2F0017.jp2\/pct:33.91,30.42,31.75,28.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "COLONEL",
+   "GEORGE",
+   "MOORE",
+   "SMITH.",
+   "?",
+   "loner",
+   "to",
+   "Bucceed",
+   "Grant"
+  ],
+  "page_seq_num": 17,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_willys_ver01\/data\/sn83030214\/00175039132\/1897080101\/0017.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-08-01",
+  "publisher": "New York Tribune",
+  "score": 0.9889395833015442,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_willys_ver01\/data\/sn83030214\/00175039132\/1897080101\/0017\/001_0_98.jpg"
+ },
+ "id": 203
+}

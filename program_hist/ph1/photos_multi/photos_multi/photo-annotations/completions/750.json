@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748143,
+   "id": 750001,
+   "lead_time": 1.667,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kQIFtAO9tr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_hayes_ver01",
+  "box": [
+   0.6952381963315217,
+   0.5536776935676333,
+   0.8232483392647604,
+   0.6916460812263598
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_hayes_ver01\/data\/sn82015387\/00202190492\/1904022701\/0284\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Louisiana--Saint Tammany--Covington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_hayes_ver01%2Fdata%2Fsn82015387%2F00202190492%2F1904022701%2F0284.jp2\/pct:69.52,55.37,12.81,13.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015387",
+  "name": "St. Tammany farmer. [volume]",
+  "ocr": [
+   "SCISW@ARY",
+   "BIittOie",
+   "CK.",
+   "(Now",
+   "Working",
+   "for",
+   "Retqrss",
+   "in",
+   "Examination"
+  ],
+  "page_seq_num": 284,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_hayes_ver01\/data\/sn82015387\/00202190492\/1904022701\/0284.jp2",
+  "place_of_publication": "Covington, La.",
+  "pub_date": "1904-02-27",
+  "publisher": "[publisher not identified]",
+  "score": 0.9605247974395752,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_hayes_ver01\/data\/sn82015387\/00202190492\/1904022701\/0284\/001_0_96.jpg"
+ },
+ "id": 750
+}

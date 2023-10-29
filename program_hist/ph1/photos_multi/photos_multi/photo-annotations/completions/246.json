@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611745998,
+   "id": 246001,
+   "lead_time": 1.847,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lrWOKzqC0S",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_volvo_ver01",
+  "box": [
+   0.033755759483413805,
+   0.17193414876749227,
+   0.2748826317521124,
+   0.49818655160757214
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_volvo_ver01\/data\/sn83030214\/00175036945\/1898122501\/0529\/000_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_volvo_ver01%2Fdata%2Fsn83030214%2F00175036945%2F1898122501%2F0529.jp2\/pct:3.37,17.2,24.12,32.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "lf.",
+   "1.",
+   "M'BRIDK.",
+   "Captaln",
+   "ol",
+   "the",
+   "Yale",
+   "Pootball",
+   "Team."
+  ],
+  "page_seq_num": 529,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_volvo_ver01\/data\/sn83030214\/00175036945\/1898122501\/0529.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-12-25",
+  "publisher": "New York Tribune",
+  "score": 0.9889287352561951,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_volvo_ver01\/data\/sn83030214\/00175036945\/1898122501\/0529\/000_0_98.jpg"
+ },
+ "id": 246
+}

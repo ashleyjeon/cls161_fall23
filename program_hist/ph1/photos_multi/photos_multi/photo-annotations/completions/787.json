@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749398,
+   "id": 787001,
+   "lead_time": 3.9,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fQeSm646xF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_carmine_ver01",
+  "box": [
+   0.35512455704990054,
+   0.6895912720403478,
+   0.9605080682972066,
+   0.9463425951832544
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905042001\/0759\/005_0_95.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_carmine_ver01%2Fdata%2Fsn82015415%2F00237284008%2F1905042001%2F0759.jp2\/pct:35.51,68.96,60.54,25.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015415",
+  "name": "The Hawaiian star. [volume]",
+  "ocr": [
+   "J",
+   "frffi.,4-l.",
+   ",.,6.'",
+   "'rr,usr;yxsm,'''''i\",',''r\";-'\",'\"j,y",
+   ",",
+   "-",
+   "A.'...",
+   "v",
+   "'",
+   "\"",
+   "'",
+   "'",
+   "r",
+   "llu,lwwssss",
+   "swssssstBaMiswsassasMsmeaaaBssaa",
+   "2ft",
+   "e",
+   "'WWQgl,\"",
+   "I",
+   "H5Ba5R!!aSn55E?asJ9jaNBaBB",
+   "(Associated",
+   "Press",
+   "Cable)"
+  ],
+  "page_seq_num": 759,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905042001\/0759.jp2",
+  "place_of_publication": "Honolulu [Oahu]",
+  "pub_date": "1905-04-20",
+  "publisher": "Hawaiian Star Newspaper Association",
+  "score": 0.9594100117683411,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905042001\/0759\/005_0_95.jpg"
+ },
+ "id": 787
+}

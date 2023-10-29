@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765123,
+   "id": 546001,
+   "lead_time": 17.82,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "uZ9y8jgv-0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_plymouth_ver01",
+  "box": [
+   0.4489863221074494,
+   0.2231732900569981,
+   0.7038469986176826,
+   0.4908287236779607
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_plymouth_ver01\/data\/sn90059523\/00206538259\/1902033001\/0378\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_plymouth_ver01%2Fdata%2Fsn90059523%2F00206538259%2F1902033001%2F0378.jp2\/pct:44.89,22.32,25.49,26.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059523",
+  "name": "The Saint Paul globe.",
+  "ocr": [
+   "CHARLES",
+   "KOUNTJOUY,",
+   "The",
+   "\"Unknown,\"",
+   "Signed",
+   "to",
+   "Meet",
+   "John",
+   "J.",
+   "Rooney",
+   "the",
+   "Giant",
+   "Gripman",
+   "Wrestler",
+   "Tuesday,",
+   "April",
+   "1.",
+   "'",
+   "'"
+  ],
+  "page_seq_num": 378,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_plymouth_ver01\/data\/sn90059523\/00206538259\/1902033001\/0378.jp2",
+  "place_of_publication": "St. Paul, Minn.",
+  "pub_date": "1902-03-30",
+  "publisher": "[s.n.]",
+  "score": 0.9884036183357239,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_plymouth_ver01\/data\/sn90059523\/00206538259\/1902033001\/0378\/004_0_98.jpg"
+ },
+ "id": 546
+}

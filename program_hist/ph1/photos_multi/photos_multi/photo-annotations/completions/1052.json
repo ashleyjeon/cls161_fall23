@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769057,
+   "id": 1052001,
+   "lead_time": 1.587,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "y2rUij_TYp",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_sierra_ver01",
+  "box": [
+   0.30571966608729934,
+   0.19534145641260073,
+   0.4953702874139908,
+   0.4515327822518833
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_sierra_ver01\/data\/sn84026749\/100492519\/1908011901\/0311\/006_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_sierra_ver01%2Fdata%2Fsn84026749%2F100492519%2F1908011901%2F0311.jp2\/pct:30.57,19.54,18.97,25.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "ELBERT",
+   "H",
+   "GARY",
+   "GARYof",
+   "GARYCaJlirman",
+   "GARYCa",
+   "drman",
+   "of",
+   "the",
+   "United",
+   "States",
+   "Steel",
+   "SteelCorporation",
+   "SteelCorporation",
+   "SteelCorporation",
+   "Corporation",
+   "CorporationSTEAD",
+   "CorporationSTEADMANSTRICKEN"
+  ],
+  "page_seq_num": 311,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_sierra_ver01\/data\/sn84026749\/100492519\/1908011901\/0311.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1908-01-19",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9558525681495667,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_sierra_ver01\/data\/sn84026749\/100492519\/1908011901\/0311\/006_0_95.jpg"
+ },
+ "id": 1052
+}

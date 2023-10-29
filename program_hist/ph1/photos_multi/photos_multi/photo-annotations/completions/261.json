@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767991,
+   "id": 261001,
+   "lead_time": 2.474,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0vDxL9iQYV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_garwood_ver02",
+  "box": [
+   0.5110770353855747,
+   0.47682540701154824,
+   0.65408941183367,
+   0.6436219978517519
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_garwood_ver02\/data\/sn83040340\/0023728530A\/1898010701\/0005\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Kansas--Allen--Iola"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_garwood_ver02%2Fdata%2Fsn83040340%2F0023728530A%2F1898010701%2F0005.jp2\/pct:51.1,47.69,14.31,16.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn83040340",
+  "name": "The Iola register. [volume]",
+  "ocr": [
+   "c",
+   "w",
+   "t",
+   "ssHSwv-!",
+   ",",
+   ",",
+   "i",
+   "fsB",
+   "?isSflH",
+   "sssHEkfl",
+   "wttS",
+   "bP-",
+   "\"",
+   "5wtb!lX",
+   ".ssisssHsKvMfflssssssn"
+  ],
+  "page_seq_num": 5,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_garwood_ver02\/data\/sn83040340\/0023728530A\/1898010701\/0005.jp2",
+  "place_of_publication": "Iola, Kan.",
+  "pub_date": "1898-01-07",
+  "publisher": "Allison & Perkins",
+  "score": 0.9763678312301636,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_garwood_ver02\/data\/sn83040340\/0023728530A\/1898010701\/0005\/004_0_97.jpg"
+ },
+ "id": 261
+}

@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768618,
+   "id": 80001,
+   "lead_time": 1.878,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wjh7NUfacu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_animals_ver01",
+  "box": [
+   0.19133261478308475,
+   0.05849414141550305,
+   0.3940831450902252,
+   0.20049044057147877
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_animals_ver01\/data\/sn92051501\/00271763669\/1896110501\/0389\/003_0_92.jpg",
+  "geographic_coverage": [
+   "Connecticut--Tolland--Stafford Springs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_animals_ver01%2Fdata%2Fsn92051501%2F00271763669%2F1896110501%2F0389.jp2\/pct:19.13,5.85,20.28,14.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051501",
+  "name": "The Press.",
+  "ocr": [
+   ",",
+   "'",
+   "'",
+   ".",
+   "\"",
+   "'",
+   ".",
+   ",",
+   ":",
+   "'V",
+   "V",
+   "r,",
+   ",",
+   ":",
+   "'\"H",
+   "SENATOR",
+   "J.",
+   "OAEL",
+   "CONVERSE."
+  ],
+  "page_seq_num": 389,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_animals_ver01\/data\/sn92051501\/00271763669\/1896110501\/0389.jp2",
+  "place_of_publication": "Stafford Springs, Conn.",
+  "pub_date": "1896-11-05",
+  "publisher": "James McLaughlin",
+  "score": 0.9268732666969299,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_animals_ver01\/data\/sn92051501\/00271763669\/1896110501\/0389\/003_0_92.jpg"
+ },
+ "id": 80
+}

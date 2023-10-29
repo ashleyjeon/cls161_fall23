@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747192,
+   "id": 603001,
+   "lead_time": 2.354,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kmnqIm6U-X",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_egret_ver01",
+  "box": [
+   0.5439096519873999,
+   0.27957247819188297,
+   0.6969015817456259,
+   0.44315981560934653
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_egret_ver01\/data\/sn94052752\/00200294877\/1902073101\/0659\/000_0_92.jpg",
+  "geographic_coverage": [
+   "Oregon--Wallowa--Enterprise",
+   "Oregon--Wallowa--Joseph"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_egret_ver01%2Fdata%2Fsn94052752%2F00200294877%2F1902073101%2F0659.jp2\/pct:54.39,27.96,15.3,16.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn94052752",
+  "name": "Wallowa chieftain. [volume]",
+  "ocr": [
+   "PS:",
+   "i",
+   "0",
+   "blA.NVOKD",
+   "llKMOHl-U.",
+   "CHI",
+   "HUH."
+  ],
+  "page_seq_num": 659,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_egret_ver01\/data\/sn94052752\/00200294877\/1902073101\/0659.jp2",
+  "place_of_publication": "Joseph, Union County, Or.",
+  "pub_date": "1902-07-31",
+  "publisher": "S.A. Heckethorn",
+  "score": 0.9217194318771362,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_egret_ver01\/data\/sn94052752\/00200294877\/1902073101\/0659\/000_0_92.jpg"
+ },
+ "id": 603
+}

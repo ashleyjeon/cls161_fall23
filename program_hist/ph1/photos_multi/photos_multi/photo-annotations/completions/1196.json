@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675921,
+   "id": 1196001,
+   "lead_time": 5.099,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Hrfdzb3ikf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_irving_ver01",
+  "box": [
+   0.36979248944450827,
+   0.3510240107873092,
+   0.7956998488482308,
+   0.5432048835376702
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_irving_ver01\/data\/sn84020630\/00415620032\/1910080401\/0645\/007_0_96.jpg",
+  "geographic_coverage": [
+   "New Mexico--Santa Fe--Santa Fe"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_irving_ver01%2Fdata%2Fsn84020630%2F00415620032%2F1910080401%2F0645.jp2\/pct:36.97,35.11,42.6,19.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020630",
+  "name": "Santa Fe new Mexican. [volume]",
+  "ocr": [
+   "t,i",
+   "k",
+   "s",
+   "if",
+   ".",
+   "S-?",
+   "4'",
+   "f-\"",
+   "V",
+   "J",
+   "t-",
+   "t-",
+   ",",
+   "-r",
+   "I",
+   "THE",
+   "PUEBLO",
+   "OF",
+   "SANTO",
+   "DOMINGO",
+   "WHERE",
+   "FAMOUS",
+   "CORN",
+   "DANCE",
+   "TAKES",
+   "PLACE",
+   "TODAY."
+  ],
+  "page_seq_num": 645,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_irving_ver01\/data\/sn84020630\/00415620032\/1910080401\/0645.jp2",
+  "place_of_publication": "Santa Fe, N.M.",
+  "pub_date": "1910-08-04",
+  "publisher": "New Mexican Print. Co.",
+  "score": 0.9629178643226624,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_irving_ver01\/data\/sn84020630\/00415620032\/1910080401\/0645\/007_0_96.jpg"
+ },
+ "id": 1196
+}

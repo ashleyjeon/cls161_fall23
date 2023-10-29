@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768326,
+   "id": 123001,
+   "lead_time": 1.655,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ALAI80_wIg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_infiniti_ver03",
+  "box": [
+   0.19347054095005245,
+   0.3111316267677792,
+   0.31987727688942597,
+   0.4424576447708007
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896061901\/0637\/000_0_91.jpg",
+  "geographic_coverage": [
+   "Texas--Brazos--Bryan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_infiniti_ver03%2Fdata%2Fsn88083938%2F00200294269%2F1896061901%2F0637.jp2\/pct:19.34,31.12,12.65,13.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn88083938",
+  "name": "The Bryan daily eagle.",
+  "ocr": [
+   "FT?",
+   "Pi",
+   "W.",
+   "ZJ",
+   "red-hot",
+   "wire,",
+   "rrake",
+   "two",
+   "hcl",
+   "through",
+   "a",
+   "cork,",
+   "and",
+   "through",
+   "thrie",
+   "hot?",
+   "care-",
+   "fullr",
+   "work",
+   "two",
+   "straws,",
+   "oi.e",
+   "ot",
+   "thrm"
+  ],
+  "page_seq_num": 637,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896061901\/0637.jp2",
+  "place_of_publication": "Bryan, Tex.",
+  "pub_date": "1896-06-19",
+  "publisher": "Connelly, Palmer & Carnes",
+  "score": 0.9185875654220581,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896061901\/0637\/000_0_91.jpg"
+ },
+ "id": 123
+}

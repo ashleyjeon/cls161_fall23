@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741261,
+   "id": 1257001,
+   "lead_time": 2.214,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "GsSYfngDu2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_lacamas_ver01",
+  "box": [
+   0.4962013527199074,
+   0.30087808705403374,
+   0.7181015418320106,
+   0.6083111071645868
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_lacamas_ver01\/data\/sn87093407\/00200290574\/1911121801\/0355\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_lacamas_ver01%2Fdata%2Fsn87093407%2F00200290574%2F1911121801%2F0355.jp2\/pct:49.62,30.09,22.2,30.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "Is",
+   "Believed",
+   "To",
+   "Be",
+   "Insane",
+   "M.",
+   "R.",
+   "PATTERSON"
+  ],
+  "page_seq_num": 355,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_lacamas_ver01\/data\/sn87093407\/00200290574\/1911121801\/0355.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1911-12-18",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.985944926738739,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_lacamas_ver01\/data\/sn87093407\/00200290574\/1911121801\/0355\/002_0_98.jpg"
+ },
+ "id": 1257
+}

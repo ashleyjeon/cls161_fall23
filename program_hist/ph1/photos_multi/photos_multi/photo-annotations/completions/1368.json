@@ -1,0 +1,118 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772491,
+   "id": 1368001,
+   "lead_time": 6.364,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "201j_A05Xw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_roulette_ver01",
+  "box": [
+   0.5852802951742332,
+   0.08040044281119307,
+   0.8600785941953379,
+   0.28059871631040895
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_roulette_ver01\/data\/sn87090131\/00200299760\/1912040501\/0112\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Louisiana--Tensas--Saint Joseph"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_roulette_ver01%2Fdata%2Fsn87090131%2F00200299760%2F1912040501%2F0112.jp2\/pct:58.52,8.05,27.48,20.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn87090131",
+  "name": "Tensas gazette. [volume]",
+  "ocr": [
+   "Railways",
+   "in",
+   "Miniature",
+   "The",
+   "building",
+   "of",
+   "miniature",
+   "reatways",
+   "in",
+   "gardens",
+   "has",
+   "beome",
+   "quite",
+   "a",
+   "fAd",
+   "i",
+   "England.",
+   "Our",
+   "photograph",
+   "shews",
+   "a",
+   "remarkabl",
+   "example,",
+   "at",
+   "Shell1ld,",
+   "which",
+   "hal",
+   "a",
+   "tunnel",
+   "25",
+   "feet",
+   "long,",
+   "equipped",
+   "with",
+   "signals",
+   "and",
+   "everything",
+   "eits",
+   "a",
+   "railread",
+   "should",
+   "have.",
+   "Anether",
+   "built",
+   "at",
+   "Norw.h",
+   "by",
+   "a",
+   "retired",
+   "army",
+   "ocer",
+   "has",
+   "00",
+   "-eal",
+   "of",
+   "track,",
+   "four",
+   "stations,",
+   "three",
+   "bridges,",
+   "two",
+   "tunnels",
+   "and",
+   "forty",
+   "earn",
+   "and",
+   "b~",
+   "ms"
+  ],
+  "page_seq_num": 112,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_roulette_ver01\/data\/sn87090131\/00200299760\/1912040501\/0112.jp2",
+  "place_of_publication": "St. Joseph, La.",
+  "pub_date": "1912-04-05",
+  "publisher": "R.H. Snyder Jr.",
+  "score": 0.9735676050186157,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_roulette_ver01\/data\/sn87090131\/00200299760\/1912040501\/0112\/006_0_97.jpg"
+ },
+ "id": 1368
+}

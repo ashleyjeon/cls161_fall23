@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675696,
+   "id": 1045001,
+   "lead_time": 3.457,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KQrNoPJEzA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_glass_ver01",
+  "box": [
+   0.34719643725170657,
+   0.3458089511221869,
+   0.45142508620327887,
+   0.5499719867345483
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_glass_ver01\/data\/sn87060165\/00175032253\/1908112801\/0058\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Virginia--Fredericksburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_glass_ver01%2Fdata%2Fsn87060165%2F00175032253%2F1908112801%2F0058.jp2\/pct:34.71,34.59,10.43,20.42\/!500,500\/0\/default.jpg",
+  "lccn": "sn87060165",
+  "name": "The free lance.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 58,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_glass_ver01\/data\/sn87060165\/00175032253\/1908112801\/0058.jp2",
+  "place_of_publication": "Fredericksburg, Va.",
+  "pub_date": "1908-11-28",
+  "publisher": "The Free Lance Newspaper and Job Print. Co.",
+  "score": 0.9894986152648926,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_glass_ver01\/data\/sn87060165\/00175032253\/1908112801\/0058\/003_0_98.jpg"
+ },
+ "id": 1045
+}

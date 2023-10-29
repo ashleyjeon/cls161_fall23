@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766817,
+   "id": 1238001,
+   "lead_time": 31.29,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kWZMPuxtoA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_canada_ver02",
+  "box": [
+   0.17699309318296372,
+   0.1304978619967259,
+   0.4354215888566868,
+   0.26800481392634856
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_canada_ver02\/data\/sn88084272\/00280765053\/1911100101\/0171\/002_0_91.jpg",
+  "geographic_coverage": [
+   "Texas--El Paso--El Paso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_canada_ver02%2Fdata%2Fsn88084272%2F00280765053%2F1911100101%2F0171.jp2\/pct:17.69,13.05,25.85,13.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn88084272",
+  "name": "El Paso herald.",
+  "ocr": [
+   "of",
+   "Great",
+   "Possibilities.",
+   "!",
+   "BBsMBB7PWIf-4s'8BHfeaiiMSsEWHItslisW",
+   "i",
+   "HisHitK",
+   "MB",
+   "BWffliiMlBi",
+   "IWMBWWIlIf",
+   "'I",
+   "fin",
+   "I",
+   "nil",
+   "iHWffllJIMMaill",
+   "fcBBBBBBVaBHiBBBt?",
+   "\"",
+   "-",
+   "v5SssbbbbbbbbbbbssbbbbbbbbbbEIbbbHbbbbbh",
+   "bbHbbbbbbssbbbbbbIBbbbbbW",
+   "'\"",
+   "bsHBsssbbbsbbsSbbbbbbbbbbbbbsbSbsbbbbV",
+   "BSSsHHBsSSBBBBUiMMMaBlMBBSBHlBSHSSBaSsB"
+  ],
+  "page_seq_num": 171,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_canada_ver02\/data\/sn88084272\/00280765053\/1911100101\/0171.jp2",
+  "place_of_publication": "El Paso, Tex.",
+  "pub_date": "1911-10-01",
+  "publisher": "Herald News Co.",
+  "score": 0.914864718914032,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_canada_ver02\/data\/sn88084272\/00280765053\/1911100101\/0171\/002_0_91.jpg"
+ },
+ "id": 1238
+}

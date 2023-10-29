@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767522,
+   "id": 234001,
+   "lead_time": 2.067,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0_Pndqlfsx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_universal_ver01",
+  "box": [
+   0.02355688548157991,
+   0.054917925797273816,
+   0.4670438794446481,
+   0.4568861176343864
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_universal_ver01\/data\/sn83030214\/00175036829\/1898031301\/0239\/000_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_universal_ver01%2Fdata%2Fsn83030214%2F00175036829%2F1898031301%2F0239.jp2\/pct:2.35,5.5,44.35,40.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "KFV.",
+   "RAPHAKL",
+   "HAVVAYVINY",
+   "ARC1IIMAXDR1TE."
+  ],
+  "page_seq_num": 239,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_universal_ver01\/data\/sn83030214\/00175036829\/1898031301\/0239.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-03-13",
+  "publisher": "New York Tribune",
+  "score": 0.9756335020065308,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_universal_ver01\/data\/sn83030214\/00175036829\/1898031301\/0239\/000_0_97.jpg"
+ },
+ "id": 234
+}

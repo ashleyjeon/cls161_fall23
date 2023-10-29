@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746459,
+   "id": 1993001,
+   "lead_time": 2.147,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Uzu7yMf3C8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_akita_ver02",
+  "box": [
+   0.12817544505429365,
+   0.037822300273778656,
+   0.24549584722322693,
+   0.2695209086722162
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_akita_ver02\/data\/sn84026749\/0028076470A\/1920062901\/0158\/006_0_93.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_akita_ver02%2Fdata%2Fsn84026749%2F0028076470A%2F1920062901%2F0158.jp2\/pct:12.81,3.79,11.74,23.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "1A.",
+   "the",
+   "ir",
+   ".d"
+  ],
+  "page_seq_num": 158,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_akita_ver02\/data\/sn84026749\/0028076470A\/1920062901\/0158.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1920-06-29",
+  "publisher": "Times Pub. Co.",
+  "score": 0.933673083782196,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_akita_ver02\/data\/sn84026749\/0028076470A\/1920062901\/0158\/006_0_93.jpg"
+ },
+ "id": 1993
+}

@@ -1,0 +1,105 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752477,
+   "id": 1279001,
+   "lead_time": 5.329,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZSqozNrGu0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nvln_arrowhead_ver01",
+  "box": [
+   0.32687583187509917,
+   0.692385895083649,
+   0.619151430081595,
+   0.9287126749562385
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nvln_arrowhead_ver01\/data\/sn86076216\/00279554577\/1911010701\/0772\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Nevada--Lyon--Yerington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nvln_arrowhead_ver01%2Fdata%2Fsn86076216%2F00279554577%2F1911010701%2F0772.jp2\/pct:32.68,69.24,29.23,23.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn86076216",
+  "name": "Yerington times. [volume]",
+  "ocr": [
+   "Floods",
+   "In",
+   "Japan",
+   "Do",
+   "Not",
+   "Hinder",
+   "Pleasure",
+   "Seekers",
+   "Portions",
+   "of",
+   ".1",
+   ";i",
+   "|",
+   ">:i",
+   "n",
+   "a",
+   "re",
+   "subject",
+   "to",
+   "periodical",
+   "floods",
+   "which",
+   "do",
+   "great",
+   "to",
+   "property",
+   "and",
+   "often",
+   "cause",
+   "loss",
+   "of",
+   "life.",
+   "The",
+   "photograph",
+   "shows",
+   "a",
+   "street",
+   "Tokyo",
+   "during",
+   "one",
+   "of",
+   "the",
+   "floods",
+   "with",
+   "crowds",
+   "making",
+   "their",
+   "way",
+   "through",
+   "I",
+   "water",
+   "to",
+   "places",
+   "of",
+   "amusement"
+  ],
+  "page_seq_num": 772,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nvln_arrowhead_ver01\/data\/sn86076216\/00279554577\/1911010701\/0772.jp2",
+  "place_of_publication": "Yerington, Nev.",
+  "pub_date": "1911-01-07",
+  "publisher": "Yerington Times Print. and Pub. Co.",
+  "score": 0.9798486828804016,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nvln_arrowhead_ver01\/data\/sn86076216\/00279554577\/1911010701\/0772\/000_0_97.jpg"
+ },
+ "id": 1279
+}

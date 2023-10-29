@@ -1,0 +1,102 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768568,
+   "id": 380001,
+   "lead_time": 1.592,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aeLcGX8xYL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_hornacek_ver01",
+  "box": [
+   0.3077465554942255,
+   0.06771146848294254,
+   0.4466726817255435,
+   0.2526596126628012
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_hornacek_ver01\/data\/sn83045555\/206534709\/1899100701\/1212\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_hornacek_ver01%2Fdata%2Fsn83045555%2F206534709%2F1899100701%2F1212.jp2\/pct:30.77,6.78,13.9,18.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "1",
+   "I",
+   "I",
+   "+",
+   "r",
+   "J",
+   "Ih",
+   "o",
+   "let",
+   "Tr",
+   "In",
+   "tIM",
+   "In",
+   "1037",
+   "ho",
+   "was",
+   "vice",
+   "p",
+   "1",
+   "I",
+   "r",
+   "lilt",
+   "hoC",
+   "o",
+   "lutr",
+   "i",
+   "I",
+   "Itch",
+   "tun",
+   "lnhaa",
+   "11100",
+   "ir",
+   "t",
+   "o",
+   "I",
+   "1",
+   "w",
+   "S",
+   "Jl",
+   "m",
+   "E",
+   "ul",
+   "fit",
+   "n1",
+   "i",
+   "11n",
+   "to",
+   "the",
+   "pattton",
+   "he",
+   "n",
+   "v",
+   "holds"
+  ],
+  "page_seq_num": 1212,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_hornacek_ver01\/data\/sn83045555\/206534709\/1899100701\/1212.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1899-10-07",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9757182598114014,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_hornacek_ver01\/data\/sn83045555\/206534709\/1899100701\/1212\/000_0_97.jpg"
+ },
+ "id": 380
+}

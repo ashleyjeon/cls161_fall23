@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747039,
+   "id": 1504001,
+   "lead_time": 1.889,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "78JOBJ2gOV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_eliot_ver01",
+  "box": [
+   0.023602189080563583,
+   0.13652597143155146,
+   0.14458960384302746,
+   0.2888256404853709
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_eliot_ver01\/data\/sn86091188\/00295869136\/1914012201\/0102\/005_0_92.jpg",
+  "geographic_coverage": [
+   "Idaho--Lemhi--Salmon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_eliot_ver01%2Fdata%2Fsn86091188%2F00295869136%2F1914012201%2F0102.jp2\/pct:2.36,13.66,12.1,15.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091188",
+  "name": "The Idaho recorder. [volume]",
+  "ocr": [
+   "U",
+   "\\",
+   "historical",
+   "traditions,",
+   "as",
+   "the",
+   "family",
+   "Jing",
+   "back",
+   "to",
+   "1133,",
+   "is",
+   "also",
+   "one",
+   "of",
+   "the",
+   "Drago",
+   "that",
+   "the",
+   "daughter",
+   "of",
+   "Queen",
+   "with",
+   "Prince",
+   "del",
+   "There"
+  ],
+  "page_seq_num": 102,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_eliot_ver01\/data\/sn86091188\/00295869136\/1914012201\/0102.jp2",
+  "place_of_publication": "Salmon City, Idaho",
+  "pub_date": "1914-01-22",
+  "publisher": "J.E. Booth",
+  "score": 0.9246361255645752,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_eliot_ver01\/data\/sn86091188\/00295869136\/1914012201\/0102\/005_0_92.jpg"
+ },
+ "id": 1504
+}

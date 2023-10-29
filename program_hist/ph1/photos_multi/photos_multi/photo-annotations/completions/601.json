@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767946,
+   "id": 601001,
+   "lead_time": 5.16,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o5Da5ZnTDW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_goldeneye_ver01",
+  "box": [
+   0.04788534721118982,
+   0.34438072243317736,
+   0.48763381008896534,
+   0.5190274775935914
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_goldeneye_ver01\/data\/sn83025294\/00212476882\/1902082301\/1107\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_goldeneye_ver01%2Fdata%2Fsn83025294%2F00212476882%2F1902082301%2F1107.jp2\/pct:4.78,34.44,43.98,17.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025294",
+  "name": "The Butte inter mountain. [volume]",
+  "ocr": [
+   "(",
+   "Pictures",
+   "by",
+   "Inter",
+   "houuntain",
+   ".)",
+   "TURN\""
+  ],
+  "page_seq_num": 1107,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476882\/1902082301\/1107.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1902-08-23",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9456586837768555,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_goldeneye_ver01\/data\/sn83025294\/00212476882\/1902082301\/1107\/004_0_94.jpg"
+ },
+ "id": 601
+}

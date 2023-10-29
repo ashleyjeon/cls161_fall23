@@ -1,0 +1,120 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746976,
+   "id": 1608001,
+   "lead_time": 1.804,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Gfujz0DZBQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_eugenedebs_ver01",
+  "box": [
+   0.15900479509530824,
+   0.5417807921457715,
+   0.38666546931032275,
+   0.9644645713557122
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_eugenedebs_ver01\/data\/sn87055779\/0029587210A\/1915120101\/0021\/012_0_96.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_eugenedebs_ver01%2Fdata%2Fsn87055779%2F0029587210A%2F1915120101%2F0021.jp2\/pct:15.9,54.18,22.77,42.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   "Daughter",
+   "of",
+   "Asquith",
+   "W",
+   "eds",
+   ",",
+   "j",
+   "V",
+   "V",
+   "v",
+   "V",
+   "V-\"..",
+   "V",
+   "\"",
+   "'",
+   "V",
+   "VT",
+   ".",
+   "U",
+   "v",
+   "v",
+   "'",
+   "v",
+   "v",
+   "j,",
+   "a",
+   "v-vv",
+   "-V.",
+   "Wv-'",
+   "\"''",
+   "\"",
+   ".T",
+   "VIOLET",
+   "JlSQUITtt.",
+   "LONDON,",
+   "Dec.",
+   "1.",
+   "Miss",
+   "Violet",
+   "Asquith.",
+   "daughter",
+   "of",
+   "larmier",
+   "Her",
+   "bert",
+   "Asquith",
+   "and",
+   "Mrs.",
+   "Asquith.",
+   "was",
+   "ir.arric!",
+   "to",
+   "her",
+   "father's",
+   "anil",
+   "right-hand",
+   "man.",
+   "Benhum",
+   "Carter.",
+   "The",
+   "weddinj",
+   "was",
+   "to",
+   "have",
+   "taken",
+   "rirce",
+   "cir",
+   "l?2i",
+   "tkv,",
+   "\"Nrt",
+   "-r."
+  ],
+  "page_seq_num": 21,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_eugenedebs_ver01\/data\/sn87055779\/0029587210A\/1915120101\/0021.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1915-12-01",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.964616060256958,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_eugenedebs_ver01\/data\/sn87055779\/0029587210A\/1915120101\/0021\/012_0_96.jpg"
+ },
+ "id": 1608
+}

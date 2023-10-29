@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747913,
+   "id": 212001,
+   "lead_time": 4.492,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BJSmuhNImZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_metallica_ver01",
+  "box": [
+   0.30489989249936994,
+   0.2809468786980628,
+   0.5695940448391822,
+   0.40429554814877716
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_metallica_ver01\/data\/sn85034438\/00175049393\/1897042701\/0219\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_metallica_ver01%2Fdata%2Fsn85034438%2F00175049393%2F1897042701%2F0219.jp2\/pct:30.48,28.1,26.47,12.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn85034438",
+  "name": "The times. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 219,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_metallica_ver01\/data\/sn85034438\/00175049393\/1897042701\/0219.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1897-04-27",
+  "publisher": "Times Co.",
+  "score": 0.915976881980896,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_metallica_ver01\/data\/sn85034438\/00175049393\/1897042701\/0219\/008_0_91.jpg"
+ },
+ "id": 212
+}

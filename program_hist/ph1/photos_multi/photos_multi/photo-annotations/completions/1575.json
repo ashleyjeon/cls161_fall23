@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749261,
+   "id": 1575001,
+   "lead_time": 2.585,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WWvMDUZjbk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_iraryan_ver01",
+  "box": [
+   0.17533601423771322,
+   0.08055532562446084,
+   0.30624731008371786,
+   0.27408076054478797
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_iraryan_ver01\/data\/97071090\/00200298305\/1915052001\/1118\/010_0_97.jpg",
+  "geographic_coverage": [
+
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_iraryan_ver01%2Fdata%2F97071090%2F00200298305%2F1915052001%2F1118.jp2\/pct:17.53,8.06,13.1,19.36\/!500,500\/0\/default.jpg",
+  "lccn": "97071090",
+  "name": "Medford mail tribune. (Medford, Or.) 1909-1989. [online resource]",
+  "ocr": [
+   "hmammmmmmtmmmimmmmmmmmmmmmm",
+   "It.",
+   "J.",
+   "ItKVVOT.nS",
+   "I'ouiulcr",
+   "and",
+   "Piildeut",
+   "if",
+   "(lie",
+   "It.",
+   "tto",
+   "noltls",
+   "Tnluireo",
+   "d.",
+   "J."
+  ],
+  "page_seq_num": 1118,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_iraryan_ver01\/data\/97071090\/00200298305\/1915052001\/1118.jp2",
+  "place_of_publication": "Oregon.",
+  "pub_date": "1915-05-20",
+  "publisher": null,
+  "score": 0.9713631868362427,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_iraryan_ver01\/data\/97071090\/00200298305\/1915052001\/1118\/010_0_97.jpg"
+ },
+ "id": 1575
+}

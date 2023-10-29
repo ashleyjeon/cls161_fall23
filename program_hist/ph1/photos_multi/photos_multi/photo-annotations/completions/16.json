@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768547,
+   "id": 16001,
+   "lead_time": 4.3,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "X-4RSZaCYo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_argon_ver01",
+  "box": [
+   0.3705533674961545,
+   0.3870124342598246,
+   0.7911580930719722,
+   0.5859943071436501
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_argon_ver01\/data\/sn87096037\/00271740852\/1895122001\/0300\/000_0_95.jpg",
+  "geographic_coverage": [
+   "North Dakota--Griggs--Hope",
+   "North Dakota--Steele--Hope"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_argon_ver01%2Fdata%2Fsn87096037%2F00271740852%2F1895122001%2F0300.jp2\/pct:37.05,38.71,42.07,19.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn87096037",
+  "name": "The Hope pioneer. [volume]",
+  "ocr": [
+   "liPiP",
+   "ilfii",
+   "smfeis",
+   ".3\u00a3\u00a3srr\u00ab",
+   "Si",
+   "I"
+  ],
+  "page_seq_num": 300,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_argon_ver01\/data\/sn87096037\/00271740852\/1895122001\/0300.jp2",
+  "place_of_publication": "Hope, N.D.",
+  "pub_date": "1895-12-20",
+  "publisher": "Hope Print. Co.",
+  "score": 0.9573864936828613,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_argon_ver01\/data\/sn87096037\/00271740852\/1895122001\/0300\/000_0_95.jpg"
+ },
+ "id": 16
+}

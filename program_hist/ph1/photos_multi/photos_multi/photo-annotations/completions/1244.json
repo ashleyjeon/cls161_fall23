@@ -1,0 +1,111 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767501,
+   "id": 1244001,
+   "lead_time": 9.183,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wRlhqmXG0q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_hemlock_ver01",
+  "box": [
+   0.16281014114129738,
+   0.10571519076293583,
+   0.4271734018794826,
+   0.31545641981175815
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_hemlock_ver01\/data\/sn83016689\/00279551813\/1911030901\/0758\/008_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_hemlock_ver01%2Fdata%2Fsn83016689%2F00279551813%2F1911030901%2F0758.jp2\/pct:16.28,10.58,26.44,20.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "AMERICAN",
+   "RED",
+   "CROSS",
+   "MAN",
+   "JAILED",
+   "BY",
+   "DIAZ\u2019S",
+   "1",
+   "Mr",
+   "1",
+   "-ihir",
+   "ii",
+   ":",
+   "\u25a0",
+   "'",
+   ".&i.",
+   "!",
+   ".*",
+   "\u2022",
+   "iMWra\u00dfviliii",
+   "-",
+   "mMtaUM&w",
+   "mkSQ^",
+   "\"pwt",
+   "IP*\u00ae-",
+   "\u2018",
+   ".",
+   ",",
+   "\u25a0*.-'\u2022",
+   "\",",
+   "-",
+   "-.\u2019",
+   "\u25a0",
+   "-",
+   "V'v'",
+   ":",
+   "-",
+   "*,,-;",
+   "\u25a0\u25a0",
+   "t*mjh",
+   "'i^HHKP^ftflQP^3",
+   "krlMB",
+   "H|flP",
+   "9\u00bbEPw&i",
+   "Bfc^^Ogr^^w^-ii^gWfcdflag",
+   "[f*",
+   "*^%b\u00dfj^R\u00aew|SS^^WK&3&E^M^",
+   "JaJPI",
+   "flip",
+   "U",
+   "'*",
+   "J#wl",
+   "*ras&2",
+   "Richard",
+   "Brown,",
+   "On",
+   "Hit",
+   "Horse",
+   "Juat",
+   "Before",
+   "Arrest."
+  ],
+  "page_seq_num": 758,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_hemlock_ver01\/data\/sn83016689\/00279551813\/1911030901\/0758.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1911-03-09",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9781739115715027,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_hemlock_ver01\/data\/sn83016689\/00279551813\/1911030901\/0758\/008_0_97.jpg"
+ },
+ "id": 1244
+}

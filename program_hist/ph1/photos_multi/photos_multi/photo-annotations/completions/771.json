@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675916,
+   "id": 771001,
+   "lead_time": 2.056,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fuL6VVrcXS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.8429697546372956,
+   0.6866010619890712,
+   0.9582847758640431,
+   0.8305316988745072
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107376\/1905082201\/0988\/011_0_94.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107376%2F1905082201%2F0988.jp2\/pct:84.29,68.67,11.54,14.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "MR.",
+   "B.",
+   "F.",
+   "SMITH,",
+   "to:'",
+   "Stewart",
+   "Street.",
+   "Cured",
+   "of",
+   "Catarrh",
+   "of",
+   "the",
+   "Head.",
+   "Kara",
+   "and",
+   "Stomach\u2014Head",
+   "Nolle*",
+   "Removed."
+  ],
+  "page_seq_num": 988,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107376\/1905082201\/0988.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1905-08-22",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9434995055198669,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107376\/1905082201\/0988\/011_0_94.jpg"
+ },
+ "id": 771
+}

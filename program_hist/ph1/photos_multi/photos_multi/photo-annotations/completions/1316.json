@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748109,
+   "id": 1316001,
+   "lead_time": 1.783,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xmd2nTWtpf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_beaty_ver01",
+  "box": [
+   0.07113695584810698,
+   0.05038414686739802,
+   0.3105810077373798,
+   0.2962420983228855
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_beaty_ver01\/data\/sn84027621\/00295865854\/1912020801\/0152\/008_0_98.jpg",
+  "geographic_coverage": [
+   "Florida--Marion--Ocala"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_beaty_ver01%2Fdata%2Fsn84027621%2F00295865854%2F1912020801%2F0152.jp2\/pct:7.11,5.04,23.95,24.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn84027621",
+  "name": "The Ocala evening star. [volume]",
+  "ocr": [
+   "t",
+   "....",
+   "..f",
+   "4",
+   "x",
+   "W",
+   "$2",
+   "i",
+   ".1'",
+   "'",
+   "CROMWELL.",
+   "GIBBONS.",
+   "CANDIDATE",
+   "FOR",
+   "GOVERNOR",
+   "....",
+   ".-",
+   "-",
+   ":",
+   "v.",
+   "f",
+   "I",
+   ",",
+   "A",
+   "f",
+   "r",
+   "S",
+   "f",
+   "?,"
+  ],
+  "page_seq_num": 152,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_beaty_ver01\/data\/sn84027621\/00295865854\/1912020801\/0152.jp2",
+  "place_of_publication": "Ocala, Fla.",
+  "pub_date": "1912-02-08",
+  "publisher": "Porter & Harding",
+  "score": 0.9800707697868347,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_beaty_ver01\/data\/sn84027621\/00295865854\/1912020801\/0152\/008_0_98.jpg"
+ },
+ "id": 1316
+}

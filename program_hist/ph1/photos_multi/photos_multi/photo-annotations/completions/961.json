@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767389,
+   "id": 961001,
+   "lead_time": 1.959,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rx70o0yl5m",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_dover_ver01",
+  "box": [
+   0.5756827794758737,
+   0.1279177763024155,
+   0.7045338358513994,
+   0.35488162397527373
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_dover_ver01\/data\/sn85042354\/00383343264\/1907092301\/0685\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_dover_ver01%2Fdata%2Fsn85042354%2F00383343264%2F1907092301%2F0685.jp2\/pct:57.56,12.8,12.89,22.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "-",
+   "-A",
+   "4",
+   "'",
+   "-",
+   "r",
+   "U",
+   "M",
+   "*",
+   "\u00e8",
+   "\u25a0",
+   "m\u00fb",
+   "\u25a0",
+   "\u25a0",
+   "r",
+   "\u00db",
+   "r",
+   "'",
+   "SfV*",
+   "LOUISE",
+   "VAN",
+   "COOK",
+   "As",
+   "she",
+   "appears",
+   "in",
+   "\"Done",
+   "Brown\"",
+   "at",
+   "the",
+   "Grand",
+   "Opera",
+   "House",
+   "to-night."
+  ],
+  "page_seq_num": 685,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_dover_ver01\/data\/sn85042354\/00383343264\/1907092301\/0685.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1907-09-23",
+  "publisher": "J. Milton Davidson",
+  "score": 0.9736539125442505,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_dover_ver01\/data\/sn85042354\/00383343264\/1907092301\/0685\/003_0_97.jpg"
+ },
+ "id": 961
+}

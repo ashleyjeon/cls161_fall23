@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749190,
+   "id": 1568001,
+   "lead_time": 4.206,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tnBZk2fM1v",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_iles_ver01",
+  "box": [
+   0.05537446966312202,
+   0.34055170355902775,
+   0.2089575781610799,
+   0.49280088975694447
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_iles_ver01\/data\/sn86091218\/00415669069\/1915051801\/0773\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Idaho--Twin Falls--Twin Falls"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_iles_ver01%2Fdata%2Fsn86091218%2F00415669069%2F1915051801%2F0773.jp2\/pct:5.53,34.06,15.36,15.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091218",
+  "name": "The Twin Falls times. [volume]",
+  "ocr": [
+   "!",
+   "1!",
+   "r.:",
+   "m",
+   "*3",
+   ".",
+   "..",
+   "-",
+   ">"
+  ],
+  "page_seq_num": 773,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_iles_ver01\/data\/sn86091218\/00415669069\/1915051801\/0773.jp2",
+  "place_of_publication": "Twin Falls, Idaho",
+  "pub_date": "1915-05-18",
+  "publisher": "W.S. Hill",
+  "score": 0.9768784642219543,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_iles_ver01\/data\/sn86091218\/00415669069\/1915051801\/0773\/004_0_97.jpg"
+ },
+ "id": 1568
+}

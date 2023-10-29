@@ -1,0 +1,119 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766554,
+   "id": 221001,
+   "lead_time": 9.307,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4XztGEaqFV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.3087885876269308,
+   0.21824367401787584,
+   0.6767599773625215,
+   0.5186457290521619
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555717\/1897121801\/0934\/000_0_94.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555717%2F1897121801%2F0934.jp2\/pct:30.87,21.83,36.8,30.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "HON.",
+   "JUDSON",
+   "F.",
+   "GOING.",
+   "The",
+   "Well",
+   "Known",
+   "Lawyer",
+   "Who",
+   "Will",
+   "Probably",
+   "Be",
+   "Nominated",
+   "for",
+   "Judge",
+   "of",
+   "tbe",
+   "Superior",
+   "BBBBBBSSBBBBBSBBSf",
+   "IiSBBBBBBBBBBBBBBBBBBBBm",
+   "BBBBBnffilvJBlBlBBK",
+   "CSBBBBBBBBBBBBBBBBBBBl",
+   "ibbbRPHbbbF'",
+   "IbbbbbbbbbbbbbbbbbbbbbI",
+   "KIKg",
+   "JiiiiiiH",
+   "HsSHKiHBBBBriBBSk!",
+   "IBBBBBBBBBBBBBBBBBBBBBI",
+   "iBBBBBBBBBBBMBffi'Vff",
+   "yt-NJ'",
+   "BBBBBBBBBI",
+   "BBBBl1",
+   "BBHH",
+   "PB",
+   ";H'--'-viBBBl",
+   "Pf",
+   "liSBBBBBBBBBBBBBBl",
+   "KIlfiMiir.rV",
+   "KtsbbbbbbbbbbbbbbbbbI",
+   "lmm'iwm''",
+   "iBBm.'",
+   "k",
+   "J",
+   "riSBBBBBBBBBBBBBBBBl",
+   "wm0M'",
+   "-",
+   "sbbbWaV",
+   "I",
+   "6Sbbbbbbbbbbbbbbbbb1",
+   "Wmk",
+   "isbbbbbk",
+   "vJibbbbbbbbbbbbbbbbbbI",
+   "W",
+   "wf",
+   "bbbbbbbbbbbbbbH",
+   "mMftWPJ-",
+   "Bi\"--7V-",
+   "bbbbbbbbbbbbbbbbbbI",
+   "BBBBBm-k-v",
+   "iBBr",
+   "SBBBBBBBBBBBBBBBBBBBBBl",
+   "SBBBBH-.f",
+   ".\"'",
+   "'jm",
+   "BBf",
+   "BBBBBBBBBBBBBBBBBBBBBBBl",
+   "ppjBr'-'&'sKt",
+   "PsibbbbbbbbbbbbbbbbbbbbbbbbbI",
+   "BBBBBKiBBBBBBBBBBBlBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBl",
+   "SBBBBBBBBBBBBBBBBBB7BBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBI"
+  ],
+  "page_seq_num": 934,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1897121801\/0934.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1897-12-18",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9455452561378479,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555717\/1897121801\/0934\/000_0_94.jpg"
+ },
+ "id": 221
+}

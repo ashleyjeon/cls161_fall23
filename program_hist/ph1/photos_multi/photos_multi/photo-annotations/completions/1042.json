@@ -1,0 +1,91 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765758,
+   "id": 1042001,
+   "lead_time": 171.56,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fwZB69Fl6O",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_georgecrowe_ver01",
+  "box": [
+   0.3088846685343267,
+   0.6995863132674022,
+   0.43667796956066,
+   0.9578629328898172
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_georgecrowe_ver01\/data\/sn86058226\/00271744687\/1908051501\/0401\/020_0_92.jpg",
+  "geographic_coverage": [
+   "Indiana--Wayne--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_georgecrowe_ver01%2Fdata%2Fsn86058226%2F00271744687%2F1908051501%2F0401.jp2\/pct:30.88,69.96,12.78,25.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn86058226",
+  "name": "The Richmond palladium and sun-telegram. [volume]",
+  "ocr": [
+   "WILL",
+   "FORSAKE",
+   "FRANCE",
+   "FOR",
+   "CATHOLIC",
+   "CHURCH.",
+   "li",
+   "LC&V.vv",
+   "-",
+   "Mfe,lI",
+   "J",
+   "Alfred",
+   "Dreyfus,",
+   "whose",
+   "three",
+   "for",
+   "treason",
+   "created",
+   "widespread",
+   "inter",
+   "1",
+   "est.",
+   "is",
+   "said",
+   "to",
+   "be",
+   "about",
+   "to",
+   "go",
+   "into",
+   "i",
+   "Roman",
+   "Catholic",
+   "Church.",
+   "This",
+   "j",
+   "13",
+   "from",
+   "a",
+   "Dliotosrata",
+   "of",
+   "CaDtain"
+  ],
+  "page_seq_num": 401,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_georgecrowe_ver01\/data\/sn86058226\/00271744687\/1908051501\/0401.jp2",
+  "place_of_publication": "Richmond, Ind.",
+  "pub_date": "1908-05-15",
+  "publisher": "[Palladium Print. Co.]",
+  "score": 0.9264932870864868,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_georgecrowe_ver01\/data\/sn86058226\/00271744687\/1908051501\/0401\/020_0_92.jpg"
+ },
+ "id": 1042
+}

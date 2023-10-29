@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746840,
+   "id": 1253001,
+   "lead_time": 1.636,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "0Zw0cv29fN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_judaspriest_ver01",
+  "box": [
+   0.39042758820163215,
+   0.343500160480859,
+   0.5246351885947452,
+   0.54073632219815
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_judaspriest_ver01\/data\/sn85052076\/00280763524\/1911051801\/1017\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Kentucky--Madison--Berea"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_judaspriest_ver01%2Fdata%2Fsn85052076%2F00280763524%2F1911051801%2F1017.jp2\/pct:39.04,34.36,13.43,19.73\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052076",
+  "name": "The citizen. [volume]",
+  "ocr": [
+   "ROBERT",
+   "A.",
+   "COOK.",
+   "Newly",
+   "Appointed",
+   "Assistant",
+   "Secretary",
+   "of",
+   "State.",
+   "A",
+   "LENGTHY",
+   "MORTGAGE.",
+   "null"
+  ],
+  "page_seq_num": 1017,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_judaspriest_ver01\/data\/sn85052076\/00280763524\/1911051801\/1017.jp2",
+  "place_of_publication": "Berea, Ky.",
+  "pub_date": "1911-05-18",
+  "publisher": "T.G. Pasco",
+  "score": 0.917180597782135,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_judaspriest_ver01\/data\/sn85052076\/00280763524\/1911051801\/1017\/008_0_91.jpg"
+ },
+ "id": 1253
+}

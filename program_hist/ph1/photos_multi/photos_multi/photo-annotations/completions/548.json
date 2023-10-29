@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768017,
+   "id": 548001,
+   "lead_time": 1.733,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7_Wfm4CiVl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_kinnikinnick_ver01",
+  "box": [
+   0.28773474928028303,
+   0.37288865259388343,
+   0.7156781546677216,
+   0.7588597382145478
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_kinnikinnick_ver01\/data\/2007252185\/00211107753\/1902010901\/0879\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle",
+   "Washington--Spokane--Spokane",
+   "Washington--Yakima--Yakima"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_kinnikinnick_ver01%2Fdata%2F2007252185%2F00211107753%2F1902010901%2F0879.jp2\/pct:28.77,37.29,42.8,38.6\/!500,500\/0\/default.jpg",
+  "lccn": "2007252185",
+  "name": "Ranche and range.",
+  "ocr": [
+   "F.",
+   "WALDEN,",
+   "of",
+   "Yakima",
+   "County.",
+   "Whose",
+   "Practical",
+   "Articles",
+   "are",
+   "Appearing",
+   "in",
+   "The",
+   "Ranch."
+  ],
+  "page_seq_num": 879,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_kinnikinnick_ver01\/data\/2007252185\/00211107753\/1902010901\/0879.jp2",
+  "place_of_publication": "North Yakima, Wash.",
+  "pub_date": "1902-01-09",
+  "publisher": "[s.n.",
+  "score": 0.9630004167556763,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_kinnikinnick_ver01\/data\/2007252185\/00211107753\/1902010901\/0879\/001_0_96.jpg"
+ },
+ "id": 548
+}

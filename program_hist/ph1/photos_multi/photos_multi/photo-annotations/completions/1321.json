@@ -1,0 +1,116 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749649,
+   "id": 1321001,
+   "lead_time": 2.091,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "u2IGFmOAQD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_journal_ver01",
+  "box": [
+   0.4293458026388417,
+   0.05850681655164392,
+   0.5542194864024287,
+   0.28961368431425766
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_journal_ver01\/data\/sn92053934\/00202198363\/1912052901\/0401\/006_0_91.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_journal_ver01%2Fdata%2Fsn92053934%2F00202198363%2F1912052901%2F0401.jp2\/pct:42.93,5.86,12.49,23.12\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "LX",
+   "THE",
+   "GAZETTEERS",
+   "1",
+   "Prlnce",
+   "Patricia.",
+   "By",
+   "giving",
+   "her",
+   "name",
+   "to",
+   "the",
+   "new",
+   "dis",
+   "trict",
+   "of",
+   "Ontario.",
+   "Princess",
+   "Patricia,",
+   "the",
+   "English",
+   "king's",
+   "cousin.",
+   "Is",
+   "the",
+   "lat",
+   "est",
+   "member",
+   "of",
+   "royalty",
+   "to",
+   "get",
+   "intc",
+   "the",
+   "gazeteers.",
+   "During",
+   "the",
+   "past",
+   "thre",
+   "centuries",
+   "the",
+   "British",
+   "sovereign",
+   "fam",
+   "ilies",
+   "have",
+   "written",
+   "their",
+   "names",
+   "quit",
+   "extensively",
+   "on",
+   "the",
+   "maps.",
+   "Maryland",
+   "was",
+   "named",
+   "in",
+   "honor",
+   "of",
+   "Henrietta",
+   "Maria,",
+   "whose",
+   "husband",
+   "granted",
+   "it",
+   "to"
+  ],
+  "page_seq_num": 401,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_journal_ver01\/data\/sn92053934\/00202198363\/1912052901\/0401.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1912-05-29",
+  "publisher": "J.W. Potter",
+  "score": 0.9125392436981201,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_journal_ver01\/data\/sn92053934\/00202198363\/1912052901\/0401\/006_0_91.jpg"
+ },
+ "id": 1321
+}

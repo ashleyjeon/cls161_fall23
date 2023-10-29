@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673743,
+   "id": 1765001,
+   "lead_time": 5.313,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nNt5_KYC7u",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_henri_ver01",
+  "box": [
+   0.5065660855223671,
+   0.024487836709676143,
+   0.9485032866767366,
+   0.2439202358663466
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_henri_ver01\/data\/sn89067273\/00200292698\/1917092701\/0516\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Missouri--Audrain--Mexico"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_henri_ver01%2Fdata%2Fsn89067273%2F00200292698%2F1917092701%2F0516.jp2\/pct:50.65,2.45,44.2,21.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn89067273",
+  "name": "Mexico Missouri message.",
+  "ocr": [
+   "I.",
+   "12",
+   "-fe",
+   "'",
+   "1",
+   "Scene",
+   "at",
+   "Oormons,",
+   "between",
+   "Uorlzla",
+   "and",
+   "Trieste,",
+   "In",
+   "the",
+   "district",
+   "now",
+   "overrun",
+   "by",
+   "the",
+   "Italians.",
+   "W",
+   "Members",
+   "of",
+   "tbe",
+   "Junior",
+   "Naval",
+   ".reserve",
+   "operating",
+   "light",
+   "field",
+   "artillery",
+   "at",
+   "Camp",
+   "Dewey,",
+   "near",
+   "New",
+   "London,",
+   "Conn.",
+   "8",
+   "M.",
+   "Llndman,.",
+   "Swedlsh",
+   "foreign",
+   "minister,",
+   "whose",
+   "office",
+   "violated",
+   "neutrality",
+   "by",
+   "transmitting",
+   "code",
+   "messages",
+   "from",
+   "the",
+   "German",
+   "min",
+   "ister",
+   "to",
+   "Argentina",
+   "to",
+   "Berlin.",
+   "r",
+   "...",
+   "'",
+   "A",
+   "e",
+   "M",
+   "WW",
+   "U",
+   "MM",
+   "I",
+   "fmmiHmti.MwwW'"
+  ],
+  "page_seq_num": 516,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_henri_ver01\/data\/sn89067273\/00200292698\/1917092701\/0516.jp2",
+  "place_of_publication": "Mexico, Audrain County, Mo.",
+  "pub_date": "1917-09-27",
+  "publisher": "John Beal",
+  "score": 0.9936849474906921,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_henri_ver01\/data\/sn89067273\/00200292698\/1917092701\/0516\/003_0_99.jpg"
+ },
+ "id": 1765
+}

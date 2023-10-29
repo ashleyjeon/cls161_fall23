@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741396,
+   "id": 135001,
+   "lead_time": 11.712,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "03j-NQqU5M",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_ida_ver01",
+  "box": [
+   0.42016264315157775,
+   0.07062182949484588,
+   0.8966758124619109,
+   0.35037321849667236
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_ida_ver01\/data\/sn89058250\/00296021210\/1896102901\/0291\/000_0_91.jpg",
+  "geographic_coverage": [
+   "Tennessee--Marion--Sequatchie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_ida_ver01%2Fdata%2Fsn89058250%2F00296021210%2F1896102901%2F0291.jp2\/pct:42.01,7.07,47.66,27.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058250",
+  "name": "Sequachee Valley news.",
+  "ocr": [
+   "An",
+   "Bi.-.'.-,.",
+   ":",
+   "-I",
+   "-",
+   "'",
+   "4",
+   "..",
+   "II",
+   ".flBSlVJ",
+   "pli",
+   "li",
+   "SIS",
+   "km",
+   "FRONTING",
+   "PASSENGER",
+   "DEPOT.",
+   "54fe?",
+   "...",
+   "VMS",
+   "top.?"
+  ],
+  "page_seq_num": 291,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_ida_ver01\/data\/sn89058250\/00296021210\/1896102901\/0291.jp2",
+  "place_of_publication": "Sequachee [Sequatchie], Tenn.",
+  "pub_date": "1896-10-29",
+  "publisher": "Hill & Son",
+  "score": 0.9129135012626648,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_ida_ver01\/data\/sn89058250\/00296021210\/1896102901\/0291\/000_0_91.jpg"
+ },
+ "id": 135
+}

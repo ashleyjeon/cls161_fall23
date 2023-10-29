@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768630,
+   "id": 1807001,
+   "lead_time": 2.035,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "p5jFq0iZpa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_fennel_ver02",
+  "box": [
+   0.5606854756673177,
+   0.031251415558392996,
+   0.6830597611160966,
+   0.19967630100582534
+  ],
+  "edition_seq_num": 2,
+  "filepath": "njr_fennel_ver02\/data\/sn85035720\/00383340457\/1918111402\/0398\/007_0_97.jpg",
+  "geographic_coverage": [
+   "New Jersey--Middlesex--Perth Amboy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_fennel_ver02%2Fdata%2Fsn85035720%2F00383340457%2F1918111402%2F0398.jp2\/pct:56.06,3.13,12.24,16.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn85035720",
+  "name": "Perth Amboy evening news. [volume]",
+  "ocr": [
+   "Dewey",
+   "Defied",
+   "Him",
+   "ADMIRAL",
+   "PAULVON",
+   "HINTZ.E"
+  ],
+  "page_seq_num": 398,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_fennel_ver02\/data\/sn85035720\/00383340457\/1918111402\/0398.jp2",
+  "place_of_publication": "Perth Amboy, N.J.",
+  "pub_date": "1918-11-14",
+  "publisher": "Perth Amboy Evening News Co.",
+  "score": 0.9749905467033386,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_fennel_ver02\/data\/sn85035720\/00383340457\/1918111402\/0398\/007_0_97.jpg"
+ },
+ "id": 1807
+}

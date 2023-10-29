@@ -1,0 +1,107 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768566,
+   "id": 772001,
+   "lead_time": 1.642,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Cd_EPKjKtI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_james_ver01",
+  "box": [
+   0.049555696695867915,
+   0.38015719755962674,
+   0.3335198694894793,
+   0.6296599770678651
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_james_ver01\/data\/sn89058321\/00415621413\/1905102001\/1072\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Tennessee--Obion--Union City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_james_ver01%2Fdata%2Fsn89058321%2F00415621413%2F1905102001%2F1072.jp2\/pct:4.95,38.02,28.4,24.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn89058321",
+  "name": "The commercial.",
+  "ocr": [
+   "HiKMt,,..",
+   ".",
+   "at",
+   "'",
+   "f",
+   "I",
+   "9",
+   ".",
+   "I:",
+   "'X",
+   "V;",
+   "I",
+   "1",
+   "'fl",
+   "..lf",
+   "..",
+   "1..",
+   "-VI",
+   "YL'r",
+   "1.-H-",
+   "-",
+   "0",
+   "I",
+   "f",
+   "'::",
+   "f",
+   "..",
+   "it",
+   "iMiiiiayi'iiiwiiiiitrw.",
+   "At",
+   "I",
+   "-i",
+   "I",
+   "i",
+   "ir",
+   "-,.",
+   "e-h",
+   "if",
+   "V",
+   "KH",
+   "lift",
+   "v",
+   "i",
+   ";",
+   ".",
+   "a",
+   "j",
+   "a",
+   "f",
+   "ill'",
+   "1",
+   ".?",
+   "4",
+   "SHALL",
+   "I",
+   "COilE",
+   "TOO,",
+   "BiQSfA.'"
+  ],
+  "page_seq_num": 1072,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_james_ver01\/data\/sn89058321\/00415621413\/1905102001\/1072.jp2",
+  "place_of_publication": "Union City, Tenn.",
+  "pub_date": "1905-10-20",
+  "publisher": "Marshall & Baird",
+  "score": 0.9804065227508545,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_james_ver01\/data\/sn89058321\/00415621413\/1905102001\/1072\/005_0_98.jpg"
+ },
+ "id": 772
+}

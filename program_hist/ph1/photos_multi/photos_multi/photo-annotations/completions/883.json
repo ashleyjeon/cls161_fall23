@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751463,
+   "id": 883001,
+   "lead_time": 2.619,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rmgV_Ea19t",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_benicia_ver01",
+  "box": [
+   0.22058005102614336,
+   0.01912708133070027,
+   0.7821132114955357,
+   0.22654465159921672
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_benicia_ver01\/data\/sn92070144\/00175046781\/1906071401\/0576\/001_0_95.jpg",
+  "geographic_coverage": [
+   "California--Imperial--El Centro"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_benicia_ver01%2Fdata%2Fsn92070144%2F00175046781%2F1906071401%2F0576.jp2\/pct:22.05,1.92,56.16,20.75\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070144",
+  "name": "Imperial Valley press and the Imperial press.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 576,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_benicia_ver01\/data\/sn92070144\/00175046781\/1906071401\/0576.jp2",
+  "place_of_publication": "El Centro, Calif.",
+  "pub_date": "1906-07-14",
+  "publisher": "F.G. Havens",
+  "score": 0.9549089670181274,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_benicia_ver01\/data\/sn92070144\/00175046781\/1906071401\/0576\/001_0_95.jpg"
+ },
+ "id": 883
+}

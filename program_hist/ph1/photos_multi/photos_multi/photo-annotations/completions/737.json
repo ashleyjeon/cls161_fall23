@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768280,
+   "id": 737001,
+   "lead_time": 1.69,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Vn0SkHXF46",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_issue_ver01",
+  "box": [
+   0.2946895069424512,
+   0.061364740804741656,
+   0.557409275549835,
+   0.33543049566047445
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_issue_ver01\/data\/sn93055779\/00295873486\/1904092601\/0751\/009_0_94.jpg",
+  "geographic_coverage": [
+   "Illinois--Alexander County--Cairo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_issue_ver01%2Fdata%2Fsn93055779%2F00295873486%2F1904092601%2F0751.jp2\/pct:29.46,6.14,26.28,27.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn93055779",
+  "name": "The Cairo bulletin.",
+  "ocr": [
+   "I",
+   "'.",
+   "s-",
+   "'",
+   "X-'-",
+   ":",
+   "1",
+   "rsg",
+   "-",
+   "i;,T,v",
+   "-",
+   "i",
+   "-..",
+   "The",
+   "Tom",
+   "Cat",
+   "Girls",
+   "With",
+   "Richard",
+   "Carle",
+   "in",
+   "\"The",
+   "Tenderfoot,'",
+   "'",
+   "at"
+  ],
+  "page_seq_num": 751,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_issue_ver01\/data\/sn93055779\/00295873486\/1904092601\/0751.jp2",
+  "place_of_publication": "Cairo, Ill.",
+  "pub_date": "1904-09-26",
+  "publisher": "Bulletin Co.",
+  "score": 0.9415773749351501,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_issue_ver01\/data\/sn93055779\/00295873486\/1904092601\/0751\/009_0_94.jpg"
+ },
+ "id": 737
+}

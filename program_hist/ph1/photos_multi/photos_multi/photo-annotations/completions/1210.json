@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749295,
+   "id": 1210001,
+   "lead_time": 1.885,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lliIKX47q1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_gulliver_ver01",
+  "box": [
+   0.1599352982243881,
+   0.0608775947948934,
+   0.29974996632543105,
+   0.23367318467565598
+  ],
+  "edition_seq_num": 2,
+  "filepath": "mimtptc_gulliver_ver01\/data\/sn83016689\/00279551618\/1910022302\/0343\/009_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_gulliver_ver01%2Fdata%2Fsn83016689%2F00279551618%2F1910022302%2F0343.jp2\/pct:15.99,6.09,13.99,17.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "\u2022",
+   "AVIATRIX",
+   "NEW",
+   "WOMAN",
+   "AIR",
+   "PILOT",
+   "HAS",
+   "ARRIVED",
+   "\\",
+   "M",
+   "W",
+   "J",
+   "BARONESS",
+   "DE",
+   "LA",
+   "ROCHE."
+  ],
+  "page_seq_num": 343,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_gulliver_ver01\/data\/sn83016689\/00279551618\/1910022302\/0343.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1910-02-23",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9739331603050232,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_gulliver_ver01\/data\/sn83016689\/00279551618\/1910022302\/0343\/009_0_97.jpg"
+ },
+ "id": 1210
+}

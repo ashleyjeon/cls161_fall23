@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611761692,
+   "id": 571001,
+   "lead_time": 3.155,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "b1SaxNm4_h",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_inxs_ver01",
+  "box": [
+   0.6159409441775452,
+   0.514405676200565,
+   0.9275516968485633,
+   0.7187706898834746
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_inxs_ver01\/data\/sn86069395\/00175046070\/1902020401\/0093\/002_0_92.jpg",
+  "geographic_coverage": [
+   "Kentucky--Christian--Hopkinsville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_inxs_ver01%2Fdata%2Fsn86069395%2F00175046070%2F1902020401%2F0093.jp2\/pct:61.59,51.45,31.17,20.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069395",
+  "name": "Hopkinsville Kentuckian. [volume]",
+  "ocr": [
+   "EDGEWOOD",
+   "f",
+   "80694f",
+   ">",
+   "u",
+   "Edgewoods",
+   "breeding",
+   "is",
+   "of",
+   "the",
+   "most",
+   "fashionable",
+   "strain",
+   "and",
+   "contains"
+  ],
+  "page_seq_num": 93,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_inxs_ver01\/data\/sn86069395\/00175046070\/1902020401\/0093.jp2",
+  "place_of_publication": "Hopkinsville, Ky.",
+  "pub_date": "1902-02-04",
+  "publisher": "Chas. M. Meacham",
+  "score": 0.9200448393821716,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_inxs_ver01\/data\/sn86069395\/00175046070\/1902020401\/0093\/002_0_92.jpg"
+ },
+ "id": 571
+}

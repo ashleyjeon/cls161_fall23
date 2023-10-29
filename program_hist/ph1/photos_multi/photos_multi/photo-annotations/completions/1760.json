@@ -1,0 +1,101 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755083,
+   "id": 1760001,
+   "lead_time": 3.134,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fHL0RUwpqn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_davey_ver01",
+  "box": [
+   0.026338872402975246,
+   0.7605266302404269,
+   0.4980396861016888,
+   0.9706290876361686
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_davey_ver01\/data\/sn83045211\/00237287678\/1917101001\/0413\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_davey_ver01%2Fdata%2Fsn83045211%2F00237287678%2F1917101001%2F0413.jp2\/pct:2.63,76.06,47.18,21.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "f",
+   "I",
+   "V",
+   "CvwHJJHlHJiBHBHIHC28IHlb",
+   "'immmmn''",
+   "immmmWlW'",
+   "'immmmt'tJM",
+   "WBmtfz&fiiiiiJin",
+   "ttfmSmTmSfSimBSmu'",
+   "'PIIijlilVl",
+   "Coprrlrht,",
+   "International",
+   "film",
+   "Servlc.",
+   "COI.tJMnrx",
+   "WAR",
+   "HOHMTAL,",
+   "TKANHKJ5UUMU",
+   "W",
+   "\"",
+   "v4imw",
+   "smi",
+   "uun,Iviu,.i4",
+   "Mil-",
+   "i.iii,,.,,",
+   "t",
+   "7n.",
+   "J!",
+   "iiLnii.i",
+   "Vn",
+   "1",
+   "comurlalne",
+   "OftV-four",
+   "bulWlnya.",
+   "covering",
+   "nineteen",
+   "acrea",
+   "on",
+   "Columbia",
+   "Oval,",
+   "palnbrlde",
+   "n",
+   "2wwjJ5r",
+   "w",
+   "attend!",
+   "by",
+   "76",
+   ".uw",
+   "ud",
+   "10",
+   "phytlolM",
+   "awlsurcw"
+  ],
+  "page_seq_num": 413,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_davey_ver01\/data\/sn83045211\/00237287678\/1917101001\/0413.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1917-10-10",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9900965690612793,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_davey_ver01\/data\/sn83045211\/00237287678\/1917101001\/0413\/001_0_99.jpg"
+ },
+ "id": 1760
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675718,
+   "id": 265001,
+   "lead_time": 2.554,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Fnuh5BKwC7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_gilia_ver01",
+  "box": [
+   0.11507537460856232,
+   0.41569022397157723,
+   0.7444855032615292,
+   0.6698418888851713
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_gilia_ver01\/data\/2007252185\/0021110773A\/1898102001\/0468\/000_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle",
+   "Washington--Spokane--Spokane",
+   "Washington--Yakima--Yakima"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_gilia_ver01%2Fdata%2F2007252185%2F0021110773A%2F1898102001%2F0468.jp2\/pct:11.5,41.57,62.95,25.42\/!500,500\/0\/default.jpg",
+  "lccn": "2007252185",
+  "name": "Ranche and range.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 468,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_gilia_ver01\/data\/2007252185\/0021110773A\/1898102001\/0468.jp2",
+  "place_of_publication": "North Yakima, Wash.",
+  "pub_date": "1898-10-20",
+  "publisher": "[s.n.",
+  "score": 0.9775685667991638,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_gilia_ver01\/data\/2007252185\/0021110773A\/1898102001\/0468\/000_0_97.jpg"
+ },
+ "id": 265
+}

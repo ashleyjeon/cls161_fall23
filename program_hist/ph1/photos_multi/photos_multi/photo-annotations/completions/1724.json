@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767834,
+   "id": 1724001,
+   "lead_time": 1.836,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4LFrsGN2du",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_aluminum_ver01",
+  "box": [
+   0.31002227282914957,
+   0.4769924261793186,
+   0.4280521913955772,
+   0.6477431049994822
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_aluminum_ver01\/data\/sn86069180\/00211104089\/1917030301\/0432\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Kentucky--Jefferson--Louisville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_aluminum_ver01%2Fdata%2Fsn86069180%2F00211104089%2F1917030301%2F0432.jp2\/pct:31.0,47.7,11.81,17.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069180",
+  "name": "Kentucky Irish American.",
+  "ocr": [
+   "JOHN",
+   "D.",
+   "ROCKEFELLER,",
+   "JR.",
+   "BBBBBBBBBBBBBBBBSBBBBBBBBBGraBL",
+   "Vw",
+   "hbbbbbbbbK",
+   "ScbbbbbbbV",
+   "bbbbbbbbB",
+   "\"",
+   "bbbbBNJ",
+   "BBBBBBBBbV",
+   "H,.",
+   "'",
+   "1",
+   "na'llflteArBBBBBBr",
+   "PBBBBBBBbK4MJ4hB&",
+   "nHFjrHy$BBBBB",
+   "IbbbbbSbbbbIbb!?3b",
+   "VW",
+   "rj9sSRlH"
+  ],
+  "page_seq_num": 432,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_aluminum_ver01\/data\/sn86069180\/00211104089\/1917030301\/0432.jp2",
+  "place_of_publication": "Louisville, Ky.",
+  "pub_date": "1917-03-03",
+  "publisher": "William M. Higgins",
+  "score": 0.980227530002594,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_aluminum_ver01\/data\/sn86069180\/00211104089\/1917030301\/0432\/006_0_98.jpg"
+ },
+ "id": 1724
+}

@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749626,
+   "id": 1508001,
+   "lead_time": 3.102,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PDPP0QG-Ir",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_corbett_ver01",
+  "box": [
+   0.1861605947232964,
+   0.031378611879485645,
+   0.5713530235333054,
+   0.2829077615692285
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_corbett_ver01\/data\/sn82016014\/00295870278\/1914100801\/0408\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Kansas--Shawnee--Topeka"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_corbett_ver01%2Fdata%2Fsn82016014%2F00295870278%2F1914100801%2F0408.jp2\/pct:18.61,3.14,38.52,25.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn82016014",
+  "name": "The Topeka state journal. [volume]",
+  "ocr": [
+   "-.",
+   "..",
+   "f",
+   "-4",
+   "TV",
+   "-vv-",
+   "1",
+   "Mary",
+   "Davenport.",
+   "nunnnRlder",
+   "With",
+   "Cirros",
+   "m",
+   "October",
+   "14."
+  ],
+  "page_seq_num": 408,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_corbett_ver01\/data\/sn82016014\/00295870278\/1914100801\/0408.jp2",
+  "place_of_publication": "Topeka, Kan.",
+  "pub_date": "1914-10-08",
+  "publisher": "F.P. MacLennan",
+  "score": 0.9821390509605408,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_corbett_ver01\/data\/sn82016014\/00295870278\/1914100801\/0408\/002_0_98.jpg"
+ },
+ "id": 1508
+}

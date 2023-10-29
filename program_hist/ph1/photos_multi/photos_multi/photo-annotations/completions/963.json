@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766684,
+   "id": 963001,
+   "lead_time": 65.704,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kVBXvgEU6p",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_egypt_ver01",
+  "box": [
+   0.03040580568720379,
+   0.23594819993881455,
+   0.4962115970268069,
+   0.3948454850349478
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_egypt_ver01\/data\/sn83030214\/00175039223\/1907081901\/0362\/002_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_egypt_ver01%2Fdata%2Fsn83030214%2F00175039223%2F1907081901%2F0362.jp2\/pct:3.04,23.6,46.59,15.89\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "GZJD",
+   "PEOPLE",
+   "ON",
+   "BIiACICAV",
+   "3",
+   "ZSUIITD",
+   "BOARTJTNG",
+   "THE",
+   "PEESH",
+   "AIR",
+   "BOAT.",
+   "A",
+   "GnOTTP",
+   "CTP",
+   "TITP3",
+   "CfTY'S",
+   "OTTESTS."
+  ],
+  "page_seq_num": 362,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_egypt_ver01\/data\/sn83030214\/00175039223\/1907081901\/0362.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1907-08-19",
+  "publisher": "New York Tribune",
+  "score": 0.9852623343467712,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_egypt_ver01\/data\/sn83030214\/00175039223\/1907081901\/0362\/002_0_98.jpg"
+ },
+ "id": 963
+}

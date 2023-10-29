@@ -1,0 +1,69 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763523,
+   "id": 1341001,
+   "lead_time": 410.522,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "X7kdA6Kd6z",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_dansereau_ver02",
+  "box": [
+   0.28648943754792944,
+   0.7201189001933925,
+   0.6801275522430982,
+   0.8751267065844225
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_dansereau_ver02\/data\/sn83030272\/00206537176\/1912080401\/0688\/005_0_94.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_dansereau_ver02%2Fdata%2Fsn83030272%2F00206537176%2F1912080401%2F0688.jp2\/pct:28.64,72.02,39.37,15.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "Electricity",
+   "Serves",
+   "as",
+   "Gondolier",
+   "tWMMWBIiiiiiiiMMMMliiiMttiMWMWttiMMMMMia",
+   "'?'\"",
+   "iMttffi7ri",
+   "m",
+   "iTrwiiiMiwTBir",
+   "r",
+   "CUMMOIMIRK",
+   "f'HKIMIKH",
+   "K",
+   "U.",
+   "OI",
+   "RNK",
+   "N",
+   "on",
+   "Odd",
+   "Craft"
+  ],
+  "page_seq_num": 688,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_dansereau_ver02\/data\/sn83030272\/00206537176\/1912080401\/0688.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1912-08-04",
+  "publisher": "Benj. H. Day",
+  "score": 0.945571780204773,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_dansereau_ver02\/data\/sn83030272\/00206537176\/1912080401\/0688\/005_0_94.jpg"
+ },
+ "id": 1341
+}

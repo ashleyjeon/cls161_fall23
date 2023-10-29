@@ -1,0 +1,113 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748880,
+   "id": 687001,
+   "lead_time": 6.568,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "_gTIj3rDhr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_hayden_ver01",
+  "box": [
+   0.44565279000477775,
+   0.3849911367203418,
+   0.9510667396968785,
+   0.6198280788381214
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_hayden_ver01\/data\/sn84020274\/00294559644\/1903092701\/0502\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_hayden_ver01%2Fdata%2Fsn84020274%2F00294559644%2F1903092701%2F0502.jp2\/pct:44.56,38.5,50.55,23.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "wmmmwmmLimmmMsmmmmMmmmmmmmmmm.wmmmwm",
+   "BMB8llBaBIiBaHsHH&",
+   "I",
+   ".HassSHH4ll",
+   "I",
+   "iHsffiasaMsBHHaHa?r-lM",
+   "&",
+   "W",
+   "iM&ffl3X-Wi",
+   "m",
+   "IliBiliM",
+   "Ml",
+   "iwHl",
+   "I",
+   "W",
+   "BWBffjBHKnfljjWBMh",
+   "ILjsl'g'-ry-.BCtJJaPV",
+   "'sssE",
+   "sRBssBcssbHAsbbbBsbsSv",
+   "bH",
+   "HBssHs3iBssssBBSBBssBaBsssBSBssEBBsssss9BsK",
+   "IM",
+   "lri,JI'rsssBaisMSw",
+   "H",
+   "BHMllBilMBBB",
+   ":&'.,g",
+   "1i",
+   "sHiHa8BamlaJBBBsBsssMaHBBM\"-a':.-;",
+   "sssl",
+   "iaHs!assnflsKf4i",
+   ";",
+   "-lEKii9i\"'S",
+   "MMRbMHssssssssssW!",
+   "HiaHiE....aai.l",
+   "BSHaHHBBSBBBSSSsHS\"--...\"",
+   ":&irt,",
+   "bsV",
+   "IsWsBsllBMSWBalBBssssssssssssssHsSsfeE7",
+   "m",
+   "-",
+   "B",
+   "HBSslHsBBSSSSBBSSSsB5liiJ5E",
+   "i",
+   "MssBMlMlsWpgasegKaS",
+   "llllll",
+   "III",
+   "1",
+   "1",
+   "iTiiiiiJ's",
+   "I",
+   "1",
+   "PgJBkislIB",
+   "'",
+   "-",
+   "-",
+   "\"'",
+   "1",
+   "1",
+   "ssssssssssssV",
+   "II",
+   "sSHssVHsssnBssVHHHHHMMssBVBIVHBBMMHp.",
+   "a.4",
+   "mmmmmm"
+  ],
+  "page_seq_num": 502,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_hayden_ver01\/data\/sn84020274\/00294559644\/1903092701\/0502.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1903-09-27",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.99186110496521,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_hayden_ver01\/data\/sn84020274\/00294559644\/1903092701\/0502\/000_0_99.jpg"
+ },
+ "id": 687
+}

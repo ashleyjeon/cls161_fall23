@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751324,
+   "id": 450001,
+   "lead_time": 3.37,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XyDXiLlKA3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "gu_gadget_ver01",
+  "box": [
+   0.024706852784630848,
+   0.5271340570474558,
+   0.27835347136558847,
+   0.6721448313087457
+  ],
+  "edition_seq_num": 1,
+  "filepath": "gu_gadget_ver01\/data\/sn89053684\/00414182306\/1900081201\/1173\/000_0_93.jpg",
+  "geographic_coverage": [
+   "Georgia--Chatham--Savannah"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/gu_gadget_ver01%2Fdata%2Fsn89053684%2F00414182306%2F1900081201%2F1173.jp2\/pct:2.47,52.72,25.37,14.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn89053684",
+  "name": "The Savannah morning news.",
+  "ocr": [
+   "Room",
+   "in",
+   "Boer",
+   "Farm",
+   "House",
+   "at",
+   "Exposition",
+   "With",
+   "Old",
+   "Harmonium.",
+   "Bible,",
+   "Guns,",
+   "Etc."
+  ],
+  "page_seq_num": 1173,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/gu_gadget_ver01\/data\/sn89053684\/00414182306\/1900081201\/1173.jp2",
+  "place_of_publication": "Savannah, Ga.",
+  "pub_date": "1900-08-12",
+  "publisher": "J.H. Estill",
+  "score": 0.9392690062522888,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/gu_gadget_ver01\/data\/sn89053684\/00414182306\/1900081201\/1173\/000_0_93.jpg"
+ },
+ "id": 450
+}

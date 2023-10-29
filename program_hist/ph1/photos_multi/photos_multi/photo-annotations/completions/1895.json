@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766908,
+   "id": 1895001,
+   "lead_time": 36.869,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Qez_mAu8g6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_gumweed_ver01",
+  "box": [
+   0.4643333049355541,
+   0.06866322049096887,
+   0.7378509935409603,
+   0.2868203640433553
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_gumweed_ver01\/data\/sn85066408\/00271767316\/1919110201\/0541\/007_0_97.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_gumweed_ver01%2Fdata%2Fsn85066408%2F00271767316%2F1919110201%2F0541.jp2\/pct:46.43,6.87,27.36,21.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066408",
+  "name": "L'Italia. [volume]",
+  "ocr": [
+   "Macchino",
+   "gucrresdie,",
+   "che",
+   "Giulio",
+   "\u00ab\u2019osare",
+   "mal",
+   "conobbe!",
+   "L'assalto",
+   "e",
+   "la",
+   "breccia",
+   "di",
+   "mio",
+   "\u201ctank\"",
+   "alle",
+   "mura",
+   "dello",
+   "storico",
+   "Colosseo",
+   "a",
+   "IJonia!"
+  ],
+  "page_seq_num": 541,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_gumweed_ver01\/data\/sn85066408\/00271767316\/1919110201\/0541.jp2",
+  "place_of_publication": "San Francisco, Calif.",
+  "pub_date": "1919-11-02",
+  "publisher": "Italian Pub. Co.",
+  "score": 0.9757100939750671,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_gumweed_ver01\/data\/sn85066408\/00271767316\/1919110201\/0541\/007_0_97.jpg"
+ },
+ "id": 1895
+}

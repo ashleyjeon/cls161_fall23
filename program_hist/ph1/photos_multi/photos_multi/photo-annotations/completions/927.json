@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767273,
+   "id": 927001,
+   "lead_time": 2.371,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CWR6aIh0pU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_lewis_ver02",
+  "box": [
+   0.44689924242257806,
+   0.24064275484449668,
+   0.707106016350007,
+   0.5389457103951836
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_lewis_ver02\/data\/sn85059715\/00415660704\/1907121401\/1092\/003_0_93.jpg",
+  "geographic_coverage": [
+   "West Virginia--Harrison--Clarksburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_lewis_ver02%2Fdata%2Fsn85059715%2F00415660704%2F1907121401%2F1092.jp2\/pct:44.68,24.07,26.03,29.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn85059715",
+  "name": "The daily telegram. [volume]",
+  "ocr": [
+   "maiuk",
+   "unrc,",
+   "who",
+   "srvc-s",
+   "\"Tint",
+   "?",
+   "~",
+   "KSA,\"",
+   "IX",
+   "TH7-,",
+   "'TStiE",
+   "OF",
+   "SPICE.'"
+  ],
+  "page_seq_num": 1092,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_lewis_ver02\/data\/sn85059715\/00415660704\/1907121401\/1092.jp2",
+  "place_of_publication": "Clarksburg, W. Va.",
+  "pub_date": "1907-12-14",
+  "publisher": "Clarksburg Telegram Co.",
+  "score": 0.9387750029563904,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_lewis_ver02\/data\/sn85059715\/00415660704\/1907121401\/1092\/003_0_93.jpg"
+ },
+ "id": 927
+}

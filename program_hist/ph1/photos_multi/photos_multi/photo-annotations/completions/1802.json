@@ -1,0 +1,99 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766710,
+   "id": 1802001,
+   "lead_time": 1.824,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2GlTv8JvKf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_japan_ver01",
+  "box": [
+   0.4435733305628594,
+   0.16285270229196686,
+   0.7011202241837545,
+   0.4197563002821806
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_japan_ver01\/data\/sn86071134\/00200297738\/1918112701\/0903\/012_0_97.jpg",
+  "geographic_coverage": [
+   "Texas--Nueces--Corpus Christi"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_japan_ver01%2Fdata%2Fsn86071134%2F00200297738%2F1918112701%2F0903.jp2\/pct:44.35,16.29,25.76,25.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn86071134",
+  "name": "The Corpus Christi caller. [volume]",
+  "ocr": [
+   "CONVALESCENT",
+   "YANKS",
+   "IN",
+   "ENGLAND",
+   "!",
+   ".",
+   ".",
+   "nil",
+   "mm&",
+   "...\"",
+   "1",
+   "1",
+   "I",
+   "O",
+   "j",
+   "I",
+   "I'i'l",
+   "1",
+   "1",
+   "t",
+   "1",
+   "'",
+   "'..'!",
+   "'...'.",
+   "tr-ti",
+   "'",
+   "11",
+   "li\"tpl'",
+   "I",
+   "..",
+   "1",
+   "1",
+   "1.",
+   "1,",
+   ",,",
+   "!,.",
+   "s",
+   "u",
+   "vel",
+   "'",
+   "iii'ii.i..",
+   "i.i",
+   "tin.",
+   "1",
+   "1",
+   ":",
+   "1",
+   ".1",
+   "...",
+   "a"
+  ],
+  "page_seq_num": 903,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_japan_ver01\/data\/sn86071134\/00200297738\/1918112701\/0903.jp2",
+  "place_of_publication": "Corpus Christi, Tex.",
+  "pub_date": "1918-11-27",
+  "publisher": "Caller Pub. Co.",
+  "score": 0.9738631844520569,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_japan_ver01\/data\/sn86071134\/00200297738\/1918112701\/0903\/012_0_97.jpg"
+ },
+ "id": 1802
+}

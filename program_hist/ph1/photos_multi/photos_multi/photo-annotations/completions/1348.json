@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752846,
+   "id": 1348001,
+   "lead_time": 2.847,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KECFQIgsw1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_apache_ver02",
+  "box": [
+   0.03972263023501537,
+   0.5056564485467456,
+   0.42896085068076134,
+   0.7152296134717111
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_apache_ver02\/data\/sn85042344\/00237284550\/1912010201\/0057\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Tulsa--Tulsa"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_apache_ver02%2Fdata%2Fsn85042344%2F00237284550%2F1912010201%2F0057.jp2\/pct:3.97,50.57,38.93,20.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042344",
+  "name": "Tulsa daily world. [volume]",
+  "ocr": [
+   "Scene",
+   "From",
+   "\"The",
+   "Chorus",
+   "Lady\"",
+   ")",
+   "'s",
+   "Attraction",
+   "At",
+   "the",
+   "Grand",
+   "Theatre",
+   "Tonight",
+   "at",
+   "8:15"
+  ],
+  "page_seq_num": 57,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_apache_ver02\/data\/sn85042344\/00237284550\/1912010201\/0057.jp2",
+  "place_of_publication": "Tulsa, Indian Territory [Okla.]",
+  "pub_date": "1912-01-02",
+  "publisher": "J.R. Brady",
+  "score": 0.9794771671295166,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_apache_ver02\/data\/sn85042344\/00237284550\/1912010201\/0057\/005_0_97.jpg"
+ },
+ "id": 1348
+}

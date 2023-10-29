@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768437,
+   "id": 1040001,
+   "lead_time": 1.648,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1x_rU_HZ0B",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.7202096936912058,
+   0.6918208235401219,
+   0.960704633828036,
+   0.9527829962261652
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107443\/1908090901\/0485\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107443%2F1908090901%2F0485.jp2\/pct:72.02,69.19,24.05,26.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "GEORGE",
+   "F.",
+   "VANDtKVEER,"
+  ],
+  "page_seq_num": 485,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107443\/1908090901\/0485.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1908-09-09",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.947695791721344,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107443\/1908090901\/0485\/002_0_94.jpg"
+ },
+ "id": 1040
+}

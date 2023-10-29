@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769035,
+   "id": 1439001,
+   "lead_time": 5.15,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2LafzPSpUS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_kiewit_ver02",
+  "box": [
+   0.16210142490083138,
+   0.033164861843670686,
+   0.554926509350802,
+   0.26652302233700825
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_kiewit_ver02\/data\/sn99021999\/00280779131\/1913040201\/0440\/008_0_95.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_kiewit_ver02%2Fdata%2Fsn99021999%2F00280779131%2F1913040201%2F0440.jp2\/pct:16.21,3.32,39.29,23.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "i",
+   "Cleaning",
+   "Up",
+   "the",
+   "Path",
+   "of",
+   "the",
+   "Storm",
+   "YARD",
+   "OF",
+   "THE",
+   "SACRED",
+   "HEART",
+   "CONVENT,",
+   "THIRTY-EIGHTH",
+   "AND",
+   "HURT."
+  ],
+  "page_seq_num": 440,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_kiewit_ver02\/data\/sn99021999\/00280779131\/1913040201\/0440.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1913-04-02",
+  "publisher": "Edward Rosewater",
+  "score": 0.959479033946991,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_kiewit_ver02\/data\/sn99021999\/00280779131\/1913040201\/0440\/008_0_95.jpg"
+ },
+ "id": 1439
+}

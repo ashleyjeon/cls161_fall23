@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764546,
+   "id": 1328001,
+   "lead_time": 156.25,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "g-Tsi-9tTl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_ehrlich_ver02",
+  "box": [
+   0.17614980263285118,
+   0.04869007289624817,
+   0.5594244475411897,
+   0.21477580156567294
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_ehrlich_ver02\/data\/sn83030272\/0020653719A\/1912110301\/0835\/004_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_ehrlich_ver02%2Fdata%2Fsn83030272%2F0020653719A%2F1912110301%2F0835.jp2\/pct:17.61,4.87,38.33,16.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030272",
+  "name": "The sun. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 835,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_ehrlich_ver02\/data\/sn83030272\/0020653719A\/1912110301\/0835.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1912-11-03",
+  "publisher": "Benj. H. Day",
+  "score": 0.9857000708580017,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_ehrlich_ver02\/data\/sn83030272\/0020653719A\/1912110301\/0835\/004_0_98.jpg"
+ },
+ "id": 1328
+}

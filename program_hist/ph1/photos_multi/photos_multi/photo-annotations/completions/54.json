@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743131,
+   "id": 54001,
+   "lead_time": 2.028,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o9L9XKUteB",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_yes_ver01",
+  "box": [
+   0.7531886673525687,
+   0.8014950473092844,
+   0.9659225971757417,
+   0.9472383378455795
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_yes_ver01\/data\/sn84025841\/00175032290\/1895100501\/0442\/005_0_94.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_yes_ver01%2Fdata%2Fsn84025841%2F00175032290%2F1895100501%2F0442.jp2\/pct:75.31,80.15,21.28,14.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025841",
+  "name": "Richmond planet. [volume]",
+  "ocr": [
+   "-MLOH-OAIV",
+   "COLLEGE",
+   "ATSTXlZlt*",
+   "LYNCHBURG,",
+   "VA*",
+   "FRER",
+   "BOOKS.",
+   "BEST",
+   "ACCOMMODATION."
+  ],
+  "page_seq_num": 442,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_yes_ver01\/data\/sn84025841\/00175032290\/1895100501\/0442.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1895-10-05",
+  "publisher": "Planet Pub. Co.",
+  "score": 0.9439719915390015,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_yes_ver01\/data\/sn84025841\/00175032290\/1895100501\/0442\/005_0_94.jpg"
+ },
+ "id": 54
+}

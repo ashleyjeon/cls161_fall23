@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748303,
+   "id": 1640001,
+   "lead_time": 2.356,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "V0YbYGkMqI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_ironsprings_ver01",
+  "box": [
+   0.4891140458737722,
+   0.7474239155783582,
+   0.6561748622398269,
+   0.9530443971548508
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_ironsprings_ver01\/data\/sn86091255\/00414217278\/1916110301\/0092\/004_0_90.jpg",
+  "geographic_coverage": [
+   "Arizona--Navajo--Snowflake"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_ironsprings_ver01%2Fdata%2Fsn86091255%2F00414217278%2F1916110301%2F0092.jp2\/pct:48.91,74.75,16.71,20.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091255",
+  "name": "The Snowflake herald. [volume]",
+  "ocr": [
+   "\u25a0",
+   "y\u2022",
+   ":",
+   "\"\\",
+   "\u2019",
+   "'",
+   "\u25a0\u25a0\u25a0",
+   "\u25a0"
+  ],
+  "page_seq_num": 92,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_ironsprings_ver01\/data\/sn86091255\/00414217278\/1916110301\/0092.jp2",
+  "place_of_publication": "Snowflake, Ariz.",
+  "pub_date": "1916-11-03",
+  "publisher": "R.C. Smith",
+  "score": 0.9040317535400391,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_ironsprings_ver01\/data\/sn86091255\/00414217278\/1916110301\/0092\/004_0_90.jpg"
+ },
+ "id": 1640
+}

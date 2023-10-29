@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750852,
+   "id": 1594001,
+   "lead_time": 2.145,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7XjfrBUYUC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_arcadia_ver02",
+  "box": [
+   0.4396432008944638,
+   0.8047166867363722,
+   0.6951390594072396,
+   0.9584189967105263
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_arcadia_ver02\/data\/sn87062268\/00415662658\/1915041301\/0328\/014_0_95.jpg",
+  "geographic_coverage": [
+   "Florida--Escambia--Pensacola"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_arcadia_ver02%2Fdata%2Fsn87062268%2F00415662658%2F1915041301%2F0328.jp2\/pct:43.96,80.48,25.55,15.38\/!500,500\/0\/default.jpg",
+  "lccn": "sn87062268",
+  "name": "The Pensacola journal.",
+  "ocr": [
+   "Thomaa",
+   "Jtfraen",
+   "In",
+   "RIP",
+   ":",
+   "T",
+   "-t",
+   "it",
+   ".",
+   "\"il",
+   "ii'",
+   ",",
+   "-",
+   ",",
+   ",nj",
+   "'",
+   "-",
+   "ill",
+   "'",
+   "t.",
+   "..",
+   "r",
+   "'",
+   "l",
+   ".",
+   "?",
+   "i",
+   "-",
+   "-w",
+   ",",
+   "1",
+   "A",
+   "f",
+   "'",
+   ",",
+   ".",
+   "'",
+   "i",
+   ".",
+   "-",
+   "i",
+   "V",
+   "Xi",
+   "i",
+   "'V'",
+   "r.A',",
+   "'",
+   "j",
+   "u",
+   "AA",
+   "'",
+   "v",
+   ",;v",
+   ",",
+   ".",
+   ".",
+   "j",
+   "lba",
+   "sTO",
+   "HIS",
+   "OLD",
+   "FIQ-S0ECJ",
+   "VAN",
+   "WINKLE-",
+   "at",
+   "th",
+   "8onita",
+   "TMay"
+  ],
+  "page_seq_num": 328,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_arcadia_ver02\/data\/sn87062268\/00415662658\/1915041301\/0328.jp2",
+  "place_of_publication": "Pensacola, Fla.",
+  "pub_date": "1915-04-13",
+  "publisher": "Mayes & Co.",
+  "score": 0.9528691172599792,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_arcadia_ver02\/data\/sn87062268\/00415662658\/1915041301\/0328\/014_0_95.jpg"
+ },
+ "id": 1594
+}

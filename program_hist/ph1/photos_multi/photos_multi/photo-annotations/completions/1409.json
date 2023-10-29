@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767731,
+   "id": 1409001,
+   "lead_time": 3.238,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lbUviqylYV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_ernie_ver01",
+  "box": [
+   0.5072649656421077,
+   0.6674380702826813,
+   0.6521365868784216,
+   0.8759868126789122
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_ernie_ver01\/data\/sn86064259\/00296020588\/1913013101\/0907\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Tennessee--Davidson--Nashville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_ernie_ver01%2Fdata%2Fsn86064259%2F00296020588%2F1913013101%2F0907.jp2\/pct:50.72,66.75,14.49,20.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn86064259",
+  "name": "The Nashville globe. [volume]",
+  "ocr": [
+   "1",
+   "?-",
+   ".ls--:iPf,A",
+   "I",
+   ",",
+   ".\"'",
+   "f"
+  ],
+  "page_seq_num": 907,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_ernie_ver01\/data\/sn86064259\/00296020588\/1913013101\/0907.jp2",
+  "place_of_publication": "Nashville, Tenn.",
+  "pub_date": "1913-01-31",
+  "publisher": "Globe Pub. Co.",
+  "score": 0.952553391456604,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_ernie_ver01\/data\/sn86064259\/00296020588\/1913013101\/0907\/004_0_95.jpg"
+ },
+ "id": 1409
+}

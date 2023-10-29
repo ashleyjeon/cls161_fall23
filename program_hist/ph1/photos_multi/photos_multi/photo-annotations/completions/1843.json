@@ -1,0 +1,102 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772534,
+   "id": 1843001,
+   "lead_time": 1.883,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KGF-awuFCE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.45788244298986486,
+   0.5566462152307973,
+   0.6118775913697788,
+   0.7923837069369276
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761084\/1918010501\/0332\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761084%2F1918010501%2F0332.jp2\/pct:45.78,55.67,15.4,23.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "LONG",
+   "TRAIN",
+   "REAPPEARS.",
+   "ssssssssPBsrBvVVssssssssssssBv",
+   "mMrW",
+   "Bssf",
+   "9BW",
+   "H",
+   "BbBB",
+   "BErBBBV",
+   "SBBBM",
+   "sVrsssssssa",
+   "AsW",
+   "WBBBBBB",
+   "!sSBSV",
+   "-i",
+   "--",
+   "jgBsssssi",
+   "The",
+   "jena",
+   "faate.",
+   "whtoh",
+   "had",
+   "BrasWsaHy",
+   "dieasaeared",
+   "frem",
+   "evenlflf",
+   "gewne",
+   ".brO",
+   "short",
+   "time,",
+   "see",
+   "ts",
+   "bask.",
+   "Netleeable,",
+   "toe,",
+   "In",
+   "tftls,HarjTini.Wck.satIn",
+   "sewn",
+   "Is",
+   "the",
+   "deep",
+   "savare-et",
+   "back",
+   "and",
+   "the",
+   "beefesHfcet.",
+   "It",
+   "-to",
+   "Mmmed",
+   "m",
+   "Inae"
+  ],
+  "page_seq_num": 332,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761084\/1918010501\/0332.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1918-01-05",
+  "publisher": "Julius F. Taylor",
+  "score": 0.9332606792449951,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761084\/1918010501\/0332\/006_0_93.jpg"
+ },
+ "id": 1843
+}

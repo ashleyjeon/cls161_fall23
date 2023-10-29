@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675676,
+   "id": 1359001,
+   "lead_time": 3.288,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aUHfqBxJq9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_echo_ver01",
+  "box": [
+   0.11494141590746143,
+   0.2975656786679171,
+   0.5020327024821993,
+   0.6364760882003717
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_echo_ver01\/data\/sn83045487\/00280761370\/1912121101\/1950\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_echo_ver01%2Fdata%2Fsn83045487%2F00280761370%2F1912121101%2F1950.jp2\/pct:11.49,29.76,38.71,33.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045487",
+  "name": "The day book. [volume]",
+  "ocr": [
+   "Miss",
+   "Billie",
+   "Burke."
+  ],
+  "page_seq_num": 1950,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_echo_ver01\/data\/sn83045487\/00280761370\/1912121101\/1950.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1912-12-11",
+  "publisher": "N.D. Cochran",
+  "score": 0.9635146260261536,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_echo_ver01\/data\/sn83045487\/00280761370\/1912121101\/1950\/000_0_96.jpg"
+ },
+ "id": 1359
+}

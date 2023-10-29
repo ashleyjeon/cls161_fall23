@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767884,
+   "id": 18001,
+   "lead_time": 2.804,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Wr2ILm9Wvn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_berks_ver01",
+  "box": [
+   0.44205369655706156,
+   0.12358433696853212,
+   0.6934977050127594,
+   0.38330947450432645
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_berks_ver01\/data\/sn86053936\/00296027820\/1895071901\/0247\/001_0_94.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Lackawanna--Scranton",
+   "Pennsylvania--Luzerne--Scranton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_berks_ver01%2Fdata%2Fsn86053936%2F00296027820%2F1895071901%2F0247.jp2\/pct:44.2,12.36,25.15,25.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn86053936",
+  "name": "Scranton Wochenblatt. [volume]",
+  "ocr": [
+   "Dr.",
+   "E.",
+   "E.",
+   "Laubach,"
+  ],
+  "page_seq_num": 247,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_berks_ver01\/data\/sn86053936\/00296027820\/1895071901\/0247.jp2",
+  "place_of_publication": "Scranton, Pa.",
+  "pub_date": "1895-07-19",
+  "publisher": "Friedrich Wagner",
+  "score": 0.9406608939170837,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_berks_ver01\/data\/sn86053936\/00296027820\/1895071901\/0247\/001_0_94.jpg"
+ },
+ "id": 18
+}

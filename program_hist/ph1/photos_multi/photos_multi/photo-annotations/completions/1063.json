@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752804,
+   "id": 1063001,
+   "lead_time": 1.815,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qNHOTEEsNg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_alpha_ver01",
+  "box": [
+   0.4407912350772472,
+   0.7081126292411661,
+   0.5648786566230688,
+   0.8708806968909168
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_alpha_ver01\/data\/sn84028473\/00211100412\/1908110601\/0062\/003_0_95.jpg",
+  "geographic_coverage": [
+   "Ohio--Mahoning--Canfield"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_alpha_ver01%2Fdata%2Fsn84028473%2F00211100412%2F1908110601%2F0062.jp2\/pct:44.07,70.82,12.41,16.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn84028473",
+  "name": "The Mahoning dispatch. [volume]",
+  "ocr": [
+   "R",
+   "A",
+   "Beard",
+   "Elected",
+   "Prosecuting",
+   "At",
+   "torney",
+   "Only",
+   "Successful",
+   "Democrat"
+  ],
+  "page_seq_num": 62,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_alpha_ver01\/data\/sn84028473\/00211100412\/1908110601\/0062.jp2",
+  "place_of_publication": "Canfield, Mahoning County, Ohio",
+  "pub_date": "1908-11-06",
+  "publisher": "H.M. Fowler",
+  "score": 0.9524642825126648,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_alpha_ver01\/data\/sn84028473\/00211100412\/1908110601\/0062\/003_0_95.jpg"
+ },
+ "id": 1063
+}

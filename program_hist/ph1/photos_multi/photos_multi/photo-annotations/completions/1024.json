@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748161,
+   "id": 1024001,
+   "lead_time": 2.938,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "w9vmWh1KJ1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_carver_ver01",
+  "box": [
+   0.20324703449374634,
+   0.05414635268821594,
+   0.6322517215925763,
+   0.3635915038669991
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_carver_ver01\/data\/sn89066313\/00211109774\/1908120201\/0224\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Missouri--Boone--Columbia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_carver_ver01%2Fdata%2Fsn89066313%2F00211109774%2F1908120201%2F0224.jp2\/pct:20.32,5.42,42.91,30.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn89066313",
+  "name": "University Missourian. [volume]",
+  "ocr": [
+   "DOWNTOWN",
+   "APARTMENT",
+   "FOR",
+   "WHICH",
+   "STUDENTS",
+   "BUILT",
+   "OWN",
+   "HHBIHHHHHHIHiHIHHHHHMHD0EiK",
+   "riiHrjiHIWnrj"
+  ],
+  "page_seq_num": 224,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_carver_ver01\/data\/sn89066313\/00211109774\/1908120201\/0224.jp2",
+  "place_of_publication": "Columbia, Mo.",
+  "pub_date": "1908-12-02",
+  "publisher": "Dept. of Journalism, University of Missouri",
+  "score": 0.9740355014801025,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_carver_ver01\/data\/sn89066313\/00211109774\/1908120201\/0224\/005_0_97.jpg"
+ },
+ "id": 1024
+}

@@ -1,0 +1,94 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748288,
+   "id": 754001,
+   "lead_time": 1.787,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BehGkFLA-T",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.7071919201715896,
+   0.7087646587214353,
+   0.9694889713095748,
+   0.955909169814922
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555742\/1904020601\/0391\/005_0_94.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555742%2F1904020601%2F0391.jp2\/pct:70.71,70.88,26.23,24.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "ALD.",
+   "WILLIAM",
+   "atc",
+   "'luMiw",
+   "INaaaaaaH",
+   "'",
+   "''VN",
+   "WLaaaLH",
+   "lmmmm",
+   "laaKSi",
+   "-aaaaaaaaH",
+   "WkmBM",
+   "WV",
+   "caaaaaaaaH",
+   "u1",
+   "WP'.'J",
+   "iGr",
+   "\"aaaaaH",
+   "I",
+   "'",
+   "-",
+   "'\"aaaH",
+   "W",
+   "jBfc5",
+   "V",
+   "aaaH",
+   "mmmmmVjJs'tmiks",
+   ".aaaaaaH",
+   "lmwwm.",
+   "laaaaaaaaaH",
+   "laalaaaaaHatflt4aaaaaaPRI",
+   "aaaaaaaaaaaaaaKaaV'\"!",
+   "'",
+   "BaaaaHl'utA",
+   "laaaaaaaaaL",
+   "mmWi",
+   "''W",
+   "aaaaaaaaaaak",
+   "W",
+   "\"",
+   "JiiHiit",
+   "IJjMff?",
+   "aaaaaaHK'",
+   "O.",
+   "KUESTER,"
+  ],
+  "page_seq_num": 391,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555742\/1904020601\/0391.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1904-02-06",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9461278319358826,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555742\/1904020601\/0391\/005_0_94.jpg"
+ },
+ "id": 754
+}

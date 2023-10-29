@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673433,
+   "id": 1302001,
+   "lead_time": 0.962,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZQjV-DzHtq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_javelina_ver01",
+  "box": [
+   0.2738606185632937,
+   0.1169716490144843,
+   0.5348977657397491,
+   0.36559120787019844
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_javelina_ver01\/data\/sn84031081\/00296025379\/1911082501\/0470\/009_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_javelina_ver01%2Fdata%2Fsn84031081%2F00296025379%2F1911082501%2F0470.jp2\/pct:27.38,11.7,26.11,24.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn84031081",
+  "name": "Albuquerque morning journal. [volume]",
+  "ocr": [
+   "l.",
+   ".",
+   "i:",
+   "x",
+   "'",
+   "'",
+   "4",
+   "r",
+   "KX-t.OVI'.HXOK",
+   "HI",
+   "HltritT",
+   "J.",
+   "1I(;FKMX",
+   "Who",
+   "fired",
+   "the",
+   "Opening",
+   "tiun",
+   "or",
+   "tlie",
+   "Stale",
+   "Itcpiihlli",
+   "un",
+   "Campaign",
+   "Here",
+   "v",
+   "...",
+   "'",
+   ":",
+   "J",
+   "v",
+   "r",
+   "?",
+   "X",
+   "V",
+   ":",
+   "A",
+   "-;",
+   "for,."
+  ],
+  "page_seq_num": 470,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_javelina_ver01\/data\/sn84031081\/00296025379\/1911082501\/0470.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1911-08-25",
+  "publisher": "Democrat Pub. Co.",
+  "score": 0.9790886044502258,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_javelina_ver01\/data\/sn84031081\/00296025379\/1911082501\/0470\/009_0_97.jpg"
+ },
+ "id": 1302
+}

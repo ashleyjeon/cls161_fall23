@@ -1,0 +1,78 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748946,
+   "id": 1476001,
+   "lead_time": 4.056,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "M2S7q-u1YP",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_imp_ver01",
+  "box": [
+   0.19464260379210213,
+   0.06856585714675495,
+   0.34423699284231424,
+   0.2528476204389188
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_imp_ver01\/data\/sn86086586\/00414214575\/1914100201\/0187\/004_0_95.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Rock--Edgerton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_imp_ver01%2Fdata%2Fsn86086586%2F00414214575%2F1914100201%2F0187.jp2\/pct:19.46,6.86,14.96,18.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086586",
+  "name": "The Wisconsin tobacco reporter.",
+  "ocr": [
+   "Building",
+   "by",
+   "Big",
+   "German",
+   "Guns.",
+   "l",
+   "jj|",
+   "*",
+   "if",
+   "*",
+   "|j",
+   "H",
+   "I'",
+   "<<\u2022:.",
+   "1,-viSfc",
+   "<.",
+   "**",
+   "\u2022",
+   "\u2022.'#<?;\u2022",
+   ".U\u00a3*",
+   ":",
+   "y*JK\u00a72",
+   "\u00a9",
+   "1914,",
+   "by",
+   "American",
+   "Press",
+   "Association.",
+   "i"
+  ],
+  "page_seq_num": 187,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_imp_ver01\/data\/sn86086586\/00414214575\/1914100201\/0187.jp2",
+  "place_of_publication": "Edgerton, Wis.",
+  "pub_date": "1914-10-02",
+  "publisher": "W.F. Tousley",
+  "score": 0.9517091512680054,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_imp_ver01\/data\/sn86086586\/00414214575\/1914100201\/0187\/004_0_95.jpg"
+ },
+ "id": 1476
+}

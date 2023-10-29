@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747526,
+   "id": 600001,
+   "lead_time": 3.457,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "CgacKWT9d3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.18638247810833827,
+   0.03098507657077143,
+   0.747650233264218,
+   0.23184564725948814
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/0017504114A\/1902021801\/0329\/003_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F0017504114A%2F1902021801%2F0329.jp2\/pct:18.63,3.1,56.13,20.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "GLEANING",
+   "THE",
+   "SNOW",
+   "FROM",
+   "WALT^ST.",
+   "RNOW",
+   "PLOUGH",
+   "AT",
+   "WORK",
+   "IN",
+   "LOWER"
+  ],
+  "page_seq_num": 329,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/0017504114A\/1902021801\/0329.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1902-02-18",
+  "publisher": "New York Tribune",
+  "score": 0.9782677888870239,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/0017504114A\/1902021801\/0329\/003_0_97.jpg"
+ },
+ "id": 600
+}

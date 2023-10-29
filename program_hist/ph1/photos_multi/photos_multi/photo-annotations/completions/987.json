@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749347,
+   "id": 987001,
+   "lead_time": 1.699,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wGt-LUmpCg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_pomo_ver01",
+  "box": [
+   0.020318594539866727,
+   0.3329244668427709,
+   0.28960948270909925,
+   0.6090357210243962
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_pomo_ver01\/data\/sn85042462\/00175047499\/1907111701\/0266\/001_0_97.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_pomo_ver01%2Fdata%2Fsn85042462%2F00175047499%2F1907111701%2F0266.jp2\/pct:2.03,33.3,26.93,27.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "HARLEY",
+   "HAMILTON.",
+   "Director",
+   "of",
+   "Symphony",
+   "Orchestra,",
+   "that",
+   "gave",
+   "its",
+   "first",
+   "concert",
+   "of",
+   "the",
+   "sea.",
+   "*"
+  ],
+  "page_seq_num": 266,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_pomo_ver01\/data\/sn85042462\/00175047499\/1907111701\/0266.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1907-11-17",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9701560139656067,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_pomo_ver01\/data\/sn85042462\/00175047499\/1907111701\/0266\/001_0_97.jpg"
+ },
+ "id": 987
+}

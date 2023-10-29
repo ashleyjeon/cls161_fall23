@@ -1,0 +1,122 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766770,
+   "id": 614001,
+   "lead_time": 2.639,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vOFpn-PpuR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_ittenbach_ver01",
+  "box": [
+   0.1735041916655972,
+   0.24013235640206618,
+   0.4275305067162902,
+   0.49576563103437177
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_ittenbach_ver01\/data\/sn82015679\/00202191800\/1902031601\/0555\/003_0_99.jpg",
+  "geographic_coverage": [
+   "Indiana--Marion--Indianapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_ittenbach_ver01%2Fdata%2Fsn82015679%2F00202191800%2F1902031601%2F0555.jp2\/pct:17.35,24.02,25.41,25.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015679",
+  "name": "The Indianapolis journal. [volume]",
+  "ocr": [
+   "V",
+   ".--",
+   ":",
+   ",.--;--:.7...:-,'-y5.T3",
+   "'-.'S",
+   ".",
+   ".",
+   "..",
+   ":.",
+   ",",
+   ":Vv:--V:--.:::",
+   "-",
+   "FIORNC",
+   "-",
+   "-",
+   "ST",
+   ",",
+   "4.",
+   "I",
+   ",",
+   "JU",
+   "Jj-",
+   ":",
+   "',",
+   "i",
+   "I",
+   "':",
+   "A",
+   "-1",
+   "1?",
+   "1",
+   "':",
+   "Vift.",
+   ".",
+   ".TV",
+   "X",
+   "v",
+   ".",
+   "4",
+   "J",
+   "5",
+   "-",
+   ".",
+   "-",
+   ":;.;:",
+   "\u00c4.:.!",
+   ".-",
+   "\"i",
+   ".",
+   "-i",
+   "I",
+   "i",
+   "-",
+   ":",
+   "-.8",
+   ".",
+   "BURNS,",
+   ";",
+   "I",
+   "I",
+   ":'.",
+   "'6",
+   "!l",
+   "if",
+   "1",
+   "I",
+   "-\".vjVt'i",
+   "\".-'",
+   "-",
+   ".",
+   "i",
+   "Wmm",
+   "V"
+  ],
+  "page_seq_num": 555,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_ittenbach_ver01\/data\/sn82015679\/00202191800\/1902031601\/0555.jp2",
+  "place_of_publication": "Indianapolis [Ind.]",
+  "pub_date": "1902-03-16",
+  "publisher": "Douglass & Conner",
+  "score": 0.9901359677314758,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_ittenbach_ver01\/data\/sn82015679\/00202191800\/1902031601\/0555\/003_0_99.jpg"
+ },
+ "id": 614
+}

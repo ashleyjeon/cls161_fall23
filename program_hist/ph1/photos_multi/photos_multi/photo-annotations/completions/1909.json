@@ -1,0 +1,95 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749488,
+   "id": 1909001,
+   "lead_time": 1.731,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BgcNJphb8i",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_eagle_ver01",
+  "box": [
+   0.6269995353888937,
+   0.08352748897794998,
+   0.7601527163856908,
+   0.25680254061455443
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_eagle_ver01\/data\/sn95060905\/00211106566\/1919051101\/0504\/000_0_93.jpg",
+  "geographic_coverage": [
+   "Arizona--Cochise--Tombstone"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_eagle_ver01%2Fdata%2Fsn95060905%2F00211106566%2F1919051101%2F0504.jp2\/pct:62.69,8.36,13.32,17.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn95060905",
+  "name": "Tombstone epitaph.",
+  "ocr": [
+   "Shirley",
+   "Mason",
+   "Says:",
+   "ff",
+   "ifhsajaaffBHaaak",
+   "v",
+   "1",
+   "S3KX",
+   "9V",
+   "I",
+   "aiH",
+   "'",
+   "fjm&m",
+   "avav",
+   "-a",
+   "7",
+   "\"jo-iavavavavavavaw",
+   "afaa",
+   "s",
+   "tfP'?-",
+   ".aafafafav",
+   "tB",
+   "?$Msm",
+   "I",
+   "\"Oh,",
+   "dear,\"",
+   "cried",
+   "Jlrs.",
+   "Housewife,",
+   "looking",
+   "at",
+   "ber",
+   "soiled",
+   "hands;",
+   "\"I",
+   "wish",
+   "I",
+   "knew",
+   "how",
+   "to",
+   "black",
+   "a",
+   "stove",
+   "In",
+   "com.",
+   "fort!\""
+  ],
+  "page_seq_num": 504,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_eagle_ver01\/data\/sn95060905\/00211106566\/1919051101\/0504.jp2",
+  "place_of_publication": "Tombstone, Ariz.",
+  "pub_date": "1919-05-11",
+  "publisher": "Reppy & Peck",
+  "score": 0.939433753490448,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_eagle_ver01\/data\/sn95060905\/00211106566\/1919051101\/0504\/000_0_93.jpg"
+ },
+ "id": 1909
+}

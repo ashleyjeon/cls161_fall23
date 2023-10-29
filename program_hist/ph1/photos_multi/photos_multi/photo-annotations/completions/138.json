@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741253,
+   "id": 138001,
+   "lead_time": 1.906,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "V0YTlZzg1Y",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_jay_ver01",
+  "box": [
+   0.05917295900363367,
+   0.22043721834557314,
+   0.19722153376607063,
+   0.3656303261574312
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_jay_ver01\/data\/sn97067613\/00202197310\/1896050701\/0161\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Vermont--Lamoille--Hyde Park",
+   "Vermont--Lamoille--Morrisville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_jay_ver01%2Fdata%2Fsn97067613%2F00202197310%2F1896050701%2F0161.jp2\/pct:5.91,22.05,13.81,14.52\/!500,500\/0\/default.jpg",
+  "lccn": "sn97067613",
+  "name": "News and citizen. [volume]",
+  "ocr": [
+   "O.",
+   "W.",
+   "STEARNS."
+  ],
+  "page_seq_num": 161,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_jay_ver01\/data\/sn97067613\/00202197310\/1896050701\/0161.jp2",
+  "place_of_publication": "Morrisville, Vt. ;",
+  "pub_date": "1896-05-07",
+  "publisher": "L.H. lewis and H.C. Fisk",
+  "score": 0.9904084205627441,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_jay_ver01\/data\/sn97067613\/00202197310\/1896050701\/0161\/001_0_99.jpg"
+ },
+ "id": 138
+}

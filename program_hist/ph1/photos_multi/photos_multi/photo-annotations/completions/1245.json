@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763753,
+   "id": 1245001,
+   "lead_time": 1.995,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "d-QSdnhjh5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_cinnamon_ver03",
+  "box": [
+   0.828101909591491,
+   0.0879146256605641,
+   0.9554319818335844,
+   0.3010308294012995
+  ],
+  "edition_seq_num": 2,
+  "filepath": "njr_cinnamon_ver03\/data\/sn85035720\/00279529571\/1911081202\/0427\/009_0_92.jpg",
+  "geographic_coverage": [
+   "New Jersey--Middlesex--Perth Amboy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_cinnamon_ver03%2Fdata%2Fsn85035720%2F00279529571%2F1911081202%2F0427.jp2\/pct:82.81,8.8,12.74,21.32\/!500,500\/0\/default.jpg",
+  "lccn": "sn85035720",
+  "name": "Perth Amboy evening news. [volume]",
+  "ocr": [
+   "W",
+   "W",
+   "RAMSAY",
+   "Father",
+   "of",
+   "Keansburg",
+   "Fepublican",
+   "Candidate",
+   "lor",
+   "Senator",
+   "From",
+   "Monmouth",
+   "County"
+  ],
+  "page_seq_num": 427,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_cinnamon_ver03\/data\/sn85035720\/00279529571\/1911081202\/0427.jp2",
+  "place_of_publication": "Perth Amboy, N.J.",
+  "pub_date": "1911-08-12",
+  "publisher": "Perth Amboy Evening News Co.",
+  "score": 0.9266557693481445,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_cinnamon_ver03\/data\/sn85035720\/00279529571\/1911081202\/0427\/009_0_92.jpg"
+ },
+ "id": 1245
+}

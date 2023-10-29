@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767524,
+   "id": 1071001,
+   "lead_time": 2.022,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-0MFDxOn-U",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_reed_ver02",
+  "box": [
+   0.293648981238781,
+   0.3058554279490236,
+   0.5531701468923385,
+   0.6157207159861774
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_reed_ver02\/data\/sn85042400\/00271740013\/1908121101\/0441\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Oregon--Clatsop--Astoria"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_reed_ver02%2Fdata%2Fsn85042400%2F00271740013%2F1908121101%2F0441.jp2\/pct:29.36,30.59,25.96,30.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042400",
+  "name": "The morning Astorian. [volume]",
+  "ocr": [
+   "i'",
+   "t",
+   "'",
+   "is",
+   "X",
+   "I",
+   ",",
+   "-",
+   "AMY",
+   "MORTIMER",
+   "IN'",
+   "GEO.'",
+   "M:",
+   "COHAN'S",
+   "MUSICAL",
+   "WINNER,",
+   "\"LITTLE",
+   "JONES.\""
+  ],
+  "page_seq_num": 441,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_reed_ver02\/data\/sn85042400\/00271740013\/1908121101\/0441.jp2",
+  "place_of_publication": "Astoria, Oregon",
+  "pub_date": "1908-12-11",
+  "publisher": null,
+  "score": 0.9896244406700134,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_reed_ver02\/data\/sn85042400\/00271740013\/1908121101\/0441\/004_0_98.jpg"
+ },
+ "id": 1071
+}

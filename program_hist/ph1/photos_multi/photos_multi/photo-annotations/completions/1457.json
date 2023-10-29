@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747923,
+   "id": 1457001,
+   "lead_time": 4.841,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7_ve96vwis",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_edgemoor_ver01",
+  "box": [
+   0.43775038608284883,
+   0.5546904662884833,
+   0.7487297590388808,
+   0.6987986933851164
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_edgemoor_ver01\/data\/sn85042354\/00383343215\/1913040101\/0397\/004_0_93.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_edgemoor_ver01%2Fdata%2Fsn85042354%2F00383343215%2F1913040101%2F0397.jp2\/pct:43.77,55.47,31.1,14.42\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "mmm",
+   "I",
+   "a",
+   "ii",
+   "I",
+   "\u2014",
+   "pgp\u00ab",
+   "\u00ab\u25a0m",
+   "'",
+   "!",
+   "'",
+   "3",
+   ".i",
+   "y",
+   ";",
+   ".V.",
+   "\u2713",
+   "I",
+   "jr",
+   "~v",
+   ".*",
+   "v-'",
+   "TV'S",
+   "\u25a0",
+   "'.li*'",
+   "iv",
+   "a",
+   "\u2022",
+   "I"
+  ],
+  "page_seq_num": 397,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_edgemoor_ver01\/data\/sn85042354\/00383343215\/1913040101\/0397.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1913-04-01",
+  "publisher": "J. Milton Davidson",
+  "score": 0.9340420365333557,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_edgemoor_ver01\/data\/sn85042354\/00383343215\/1913040101\/0397\/004_0_93.jpg"
+ },
+ "id": 1457
+}

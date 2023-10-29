@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767356,
+   "id": 12001,
+   "lead_time": 3.085,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BI8cMYeNMO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_europium_ver01",
+  "box": [
+   0.20798320614470903,
+   0.4298553967085041,
+   0.499441816759499,
+   0.6082454493788422
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_europium_ver01\/data\/sn88076432\/00271740700\/1895122601\/0766\/001_0_93.jpg",
+  "geographic_coverage": [
+   "North Dakota--Cavalier--Langdon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_europium_ver01%2Fdata%2Fsn88076432%2F00271740700%2F1895122601%2F0766.jp2\/pct:20.79,42.99,29.15,17.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn88076432",
+  "name": "Courier Democrat.",
+  "ocr": [
+   "dtlXj\"",
+   "-t*",
+   "*1",
+   "Langdon",
+   "Public",
+   "School,",
+   "1891"
+  ],
+  "page_seq_num": 766,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_europium_ver01\/data\/sn88076432\/00271740700\/1895122601\/0766.jp2",
+  "place_of_publication": "Langdon, N.D.",
+  "pub_date": "1895-12-26",
+  "publisher": "Koehmstedt & McLean",
+  "score": 0.9355983138084412,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_europium_ver01\/data\/sn88076432\/00271740700\/1895122601\/0766\/001_0_93.jpg"
+ },
+ "id": 12
+}

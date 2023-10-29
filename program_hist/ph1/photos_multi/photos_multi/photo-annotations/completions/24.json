@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675680,
+   "id": 24001,
+   "lead_time": 3.417,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HTZbJ_IfgY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_batman_ver01",
+  "box": [
+   0.09254565787907379,
+   0.4301239787216374,
+   0.37965213956466914,
+   0.5716631586007768
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_batman_ver01\/data\/sn86069395\/00206533237\/1895101501\/0667\/012_0_90.jpg",
+  "geographic_coverage": [
+   "Kentucky--Christian--Hopkinsville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_batman_ver01%2Fdata%2Fsn86069395%2F00206533237%2F1895101501%2F0667.jp2\/pct:9.25,43.02,28.72,14.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069395",
+  "name": "Hopkinsville Kentuckian. [volume]",
+  "ocr": [
+   "rar",
+   "-",
+   "jVi",
+   "vv",
+   "r",
+   "r",
+   "-3",
+   "E",
+   "-",
+   "TSTTWi",
+   "-",
+   "J"
+  ],
+  "page_seq_num": 667,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_batman_ver01\/data\/sn86069395\/00206533237\/1895101501\/0667.jp2",
+  "place_of_publication": "Hopkinsville, Ky.",
+  "pub_date": "1895-10-15",
+  "publisher": "Chas. M. Meacham",
+  "score": 0.9067885279655457,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_batman_ver01\/data\/sn86069395\/00206533237\/1895101501\/0667\/012_0_90.jpg"
+ },
+ "id": 24
+}

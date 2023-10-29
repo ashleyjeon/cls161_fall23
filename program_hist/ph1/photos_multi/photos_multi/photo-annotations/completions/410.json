@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758071,
+   "id": 410001,
+   "lead_time": 4.609,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1n84nQGCpd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_floyd_ver01",
+  "box": [
+   0.39316937322721046,
+   0.5871113720919864,
+   0.613847854924687,
+   0.7166299088211399
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_floyd_ver01\/data\/sn86092245\/0027955033A\/1900072601\/0540\/007_0_92.jpg",
+  "geographic_coverage": [
+   "West Virginia--Preston--Kingwood"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_floyd_ver01%2Fdata%2Fsn86092245%2F0027955033A%2F1900072601%2F0540.jp2\/pct:39.31,58.72,22.07,12.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092245",
+  "name": "West Virginia argus. [volume]",
+  "ocr": [
+   "UOVKHNMBNT",
+   "RKMKP",
+   "WORK",
+   "MARINO",
+   "A",
+   "RFHKKVOIR",
+   "mre.",
+   "Weaver*",
+   "nnd",
+   "other",
+   "urtlHiin*",
+   "nre"
+  ],
+  "page_seq_num": 540,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_floyd_ver01\/data\/sn86092245\/0027955033A\/1900072601\/0540.jp2",
+  "place_of_publication": "Kingwood, W. Va.",
+  "pub_date": "1900-07-26",
+  "publisher": "H. Clyde Hyde",
+  "score": 0.9259557127952576,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_floyd_ver01\/data\/sn86092245\/0027955033A\/1900072601\/0540\/007_0_92.jpg"
+ },
+ "id": 410
+}

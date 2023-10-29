@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762890,
+   "id": 1130001,
+   "lead_time": 2.075,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_dillinger_ver02",
+  "box": [
+   0.16222968968478116,
+   0.5929232112351601,
+   0.27930712699890137,
+   0.7710272348236472
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_dillinger_ver02\/data\/sn87056244\/00200295869\/1909123001\/0327\/002_0_93.jpg",
+  "geographic_coverage": [
+   "Indiana--Marshall--Plymouth"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_dillinger_ver02%2Fdata%2Fsn87056244%2F00200295869%2F1909123001%2F0327.jp2\/pct:16.22,59.3,11.71,17.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn87056244",
+  "name": "The Plymouth tribune.",
+  "ocr": [
+   "!",
+   ";",
+   "4'irkmh",
+   "tour",
+   "of",
+   "luiinoru.",
+   "i",
+   "n",
+   "-",
+   "Wo",
+   "(",
+   ":",
+   "&",
+   "vT",
+   "J",
+   "!"
+  ],
+  "page_seq_num": 327,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_dillinger_ver02\/data\/sn87056244\/00200295869\/1909123001\/0327.jp2",
+  "place_of_publication": "Plymouth, Ind.",
+  "pub_date": "1909-12-30",
+  "publisher": "Hendricks & Co.",
+  "score": 0.9399917721748352,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_dillinger_ver02\/data\/sn87056244\/00200295869\/1909123001\/0327\/002_0_93.jpg"
+ },
+ "id": 1130
+}

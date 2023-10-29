@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766618,
+   "id": 562001,
+   "lead_time": 4.302,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Vkdycl8TUh",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_lee_ver01",
+  "box": [
+   0.22635197605837887,
+   0.2872089517527613,
+   0.49910569291861334,
+   0.5930159338589372
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_lee_ver01\/data\/sn99021999\/00211102743\/1902122801\/0995\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_lee_ver01%2Fdata%2Fsn99021999%2F00211102743%2F1902122801%2F0995.jp2\/pct:22.63,28.73,27.28,30.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "i'",
+   "ili.",
+   "-",
+   "f",
+   "-",
+   ".",
+   ":",
+   "-",
+   ";",
+   ".",
+   "-i",
+   "A",
+   "MEXICAN",
+   "MOTHER",
+   "WITH",
+   "HER",
+   "BABY,",
+   "READY",
+   "TO",
+   "GO",
+   "FORTH."
+  ],
+  "page_seq_num": 995,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_lee_ver01\/data\/sn99021999\/00211102743\/1902122801\/0995.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1902-12-28",
+  "publisher": "Edward Rosewater",
+  "score": 0.9446507096290588,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_lee_ver01\/data\/sn99021999\/00211102743\/1902122801\/0995\/003_0_94.jpg"
+ },
+ "id": 562
+}

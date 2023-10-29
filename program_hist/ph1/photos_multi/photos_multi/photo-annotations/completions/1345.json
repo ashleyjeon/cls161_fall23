@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768487,
+   "id": 1345001,
+   "lead_time": 1.978,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Q3eonE80Kf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_danbury_ver01",
+  "box": [
+   0.2802685311369574,
+   0.26841024450353673,
+   0.3945487166524317,
+   0.39637689332704285
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_danbury_ver01\/data\/sn82014086\/00295866573\/1912010901\/0093\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Connecticut--New London--Norwich"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_danbury_ver01%2Fdata%2Fsn82014086%2F00295866573%2F1912010901%2F0093.jp2\/pct:28.02,26.85,11.43,12.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014086",
+  "name": "Norwich bulletin. [volume]",
+  "ocr": [
+   "-",
+   "1,",
+   "M",
+   "'",
+   "-",
+   "':",
+   "I",
+   "\"\"\"'-i",
+   "-",
+   "T--11",
+   "'II",
+   "Ml",
+   "I",
+   "1ITT1",
+   "111"
+  ],
+  "page_seq_num": 93,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_danbury_ver01\/data\/sn82014086\/00295866573\/1912010901\/0093.jp2",
+  "place_of_publication": "Norwich, Conn.",
+  "pub_date": "1912-01-09",
+  "publisher": "Bulletin Co.",
+  "score": 0.9665071964263916,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_danbury_ver01\/data\/sn82014086\/00295866573\/1912010901\/0093\/007_0_96.jpg"
+ },
+ "id": 1345
+}

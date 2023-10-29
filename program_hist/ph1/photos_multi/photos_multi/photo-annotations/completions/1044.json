@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749192,
+   "id": 1044001,
+   "lead_time": 1.761,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oLTci5b3Nm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_nibali_ver01",
+  "box": [
+   0.0883626812930711,
+   0.2931968114709341,
+   0.2194914838632642,
+   0.45771321942729337
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_nibali_ver01\/data\/sn83045396\/print\/1908083001\/0686\/005_0_93.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_nibali_ver01%2Fdata%2Fsn83045396%2Fprint%2F1908083001%2F0686.jp2\/pct:8.83,29.32,13.12,16.46\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045396",
+  "name": "The Salt Lake tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 686,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_nibali_ver01\/data\/sn83045396\/print\/1908083001\/0686.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1908-08-30",
+  "publisher": "Tribune Pub. Co.",
+  "score": 0.9394447803497314,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_nibali_ver01\/data\/sn83045396\/print\/1908083001\/0686\/005_0_93.jpg"
+ },
+ "id": 1044
+}

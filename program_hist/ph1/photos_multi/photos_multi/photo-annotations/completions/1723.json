@@ -1,0 +1,102 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673429,
+   "id": 1723001,
+   "lead_time": 1.487,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LSWTF9R7b-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_elder_ver01",
+  "box": [
+   0.8128378106076182,
+   0.03711154697177647,
+   0.9391034870056444,
+   0.31381470276428775
+  ],
+  "edition_seq_num": 2,
+  "filepath": "njr_elder_ver01\/data\/sn85035720\/0038334041A\/1917120302\/0714\/010_0_91.jpg",
+  "geographic_coverage": [
+   "New Jersey--Middlesex--Perth Amboy"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_elder_ver01%2Fdata%2Fsn85035720%2F0038334041A%2F1917120302%2F0714.jp2\/pct:81.28,3.72,12.63,27.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn85035720",
+  "name": "Perth Amboy evening news. [volume]",
+  "ocr": [
+   "MRS.",
+   "DUKE",
+   "APPEARS",
+   "III",
+   "HIM",
+   "WAR",
+   "SPECTACLE",
+   "MPy.ANGlER",
+   "\u00a3>.",
+   "\"DUKE1.",
+   "\u00b7",
+   "Mrs.",
+   "Amgier",
+   "B.",
+   "Duko,",
+   "formerly",
+   "Misa",
+   "Biddle",
+   "or",
+   "Philadelphia,",
+   "is",
+   "one",
+   "the",
+   "New",
+   "York",
+   "society",
+   "women",
+   "who",
+   "helping:",
+   "to",
+   "make",
+   "\"Hero",
+   "Land\"",
+   "a",
+   "\"Hero",
+   "Land\"",
+   "Is",
+   "a",
+   "spectacle",
+   "held",
+   "in",
+   "Grand",
+   "Central",
+   "Palace,",
+   "York,",
+   "for",
+   "war",
+   "relief.",
+   "Mrs.",
+   "L>uke",
+   "as",
+   "a",
+   "\"Godmother.\""
+  ],
+  "page_seq_num": 714,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_elder_ver01\/data\/sn85035720\/0038334041A\/1917120302\/0714.jp2",
+  "place_of_publication": "Perth Amboy, N.J.",
+  "pub_date": "1917-12-03",
+  "publisher": "Perth Amboy Evening News Co.",
+  "score": 0.9147703647613525,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_elder_ver01\/data\/sn85035720\/0038334041A\/1917120302\/0714\/010_0_91.jpg"
+ },
+ "id": 1723
+}

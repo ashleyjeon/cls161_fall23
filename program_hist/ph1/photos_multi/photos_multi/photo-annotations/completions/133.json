@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749457,
+   "id": 133001,
+   "lead_time": 2.697,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "bXih0wQoyC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_kaiser_ver01",
+  "box": [
+   0.333720912594767,
+   0.29933394217977716,
+   0.6269282655132828,
+   0.5841819607481664
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_kaiser_ver01\/data\/sn83030214\/00175039016\/1896111501\/0286\/000_0_93.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_kaiser_ver01%2Fdata%2Fsn83030214%2F00175039016%2F1896111501%2F0286.jp2\/pct:33.37,29.94,29.33,28.49\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "11?",
+   "?N",
+   "WlI.I.IAM",
+   "1.",
+   "STRUNG,"
+  ],
+  "page_seq_num": 286,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_kaiser_ver01\/data\/sn83030214\/00175039016\/1896111501\/0286.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1896-11-15",
+  "publisher": "New York Tribune",
+  "score": 0.9388368725776672,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_kaiser_ver01\/data\/sn83030214\/00175039016\/1896111501\/0286\/000_0_93.jpg"
+ },
+ "id": 133
+}

@@ -1,0 +1,104 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747247,
+   "id": 447001,
+   "lead_time": 3.096,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cdKMWKkqiS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_gaines_ver01",
+  "box": [
+   0.31976044753502153,
+   0.07989675377869222,
+   0.6914232275951868,
+   0.4075049998094916
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_gaines_ver01\/data\/sn84020274\/00211109117\/1900120201\/0062\/002_0_94.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_gaines_ver01%2Fdata%2Fsn84020274%2F00211109117%2F1900120201%2F0062.jp2\/pct:31.97,7.99,37.17,32.77\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "m&w\"",
+   "w,m",
+   "f",
+   "J-'vifcfc'-",
+   ",m",
+   "rFT",
+   "V",
+   "JbibbbbbmI",
+   "c(idmsiidil",
+   "-F'",
+   "'",
+   "'?",
+   "'",
+   "'",
+   ".",
+   "'",
+   "WUIUWrumiM",
+   "i;I",
+   "Jsiif-S.:",
+   ":-:",
+   "f'V",
+   "SAli",
+   "\"r.4.",
+   ".ttV",
+   ".",
+   "il",
+   "amud",
+   "irans",
+   "IPtETT",
+   "VX",
+   "xc",
+   "nip",
+   "ftfcm",
+   "-'a.",
+   "sZi'-M'.",
+   "I",
+   "SilrJ\"",
+   ",",
+   ":;;",
+   "''!",
+   "klp",
+   "JfSSjJiaia",
+   "-",
+   "'",
+   "wJ\"",
+   "f7",
+   "K",
+   "'",
+   "-",
+   "-7",
+   "7,",
+   "1",
+   "vvu",
+   "''"
+  ],
+  "page_seq_num": 62,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_gaines_ver01\/data\/sn84020274\/00211109117\/1900120201\/0062.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1900-12-02",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9416338205337524,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_gaines_ver01\/data\/sn84020274\/00211109117\/1900120201\/0062\/002_0_94.jpg"
+ },
+ "id": 447
+}

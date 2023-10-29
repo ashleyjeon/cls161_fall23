@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746002,
+   "id": 1753001,
+   "lead_time": 3.822,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "q_qYmQ7o7-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_odum_ver01",
+  "box": [
+   0.17628966483819405,
+   0.7812097497888514,
+   0.8400471560021198,
+   0.9776588233741554
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_odum_ver01\/data\/sn83030431\/00200294166\/1917041501\/0337\/001_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_odum_ver01%2Fdata%2Fsn83030431%2F00200294166%2F1917041501%2F0337.jp2\/pct:17.62,78.13,66.38,19.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030431",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "CATHERINE,",
+   "RUSSIA'S",
+   "NEW",
+   "(CC",
+   "-FREE",
+   "PORT",
+   "ON",
+   "THE",
+   "ARCTIC",
+   "OCEAN",
+   ",",
+   "CONNECTED",
+   "BY",
+   "AN",
+   "()",
+   "tyf",
+   "Jb",
+   ".su",
+   "'",
+   "AMERICAN",
+   "BUILT",
+   "RAILROAD",
+   "WITH"
+  ],
+  "page_seq_num": 337,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_odum_ver01\/data\/sn83030431\/00200294166\/1917041501\/0337.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1917-04-15",
+  "publisher": "Sun Print. and Pub. Co.",
+  "score": 0.9639301896095276,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_odum_ver01\/data\/sn83030431\/00200294166\/1917041501\/0337\/001_0_96.jpg"
+ },
+ "id": 1753
+}

@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768984,
+   "id": 647001,
+   "lead_time": 2.324,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JRac1Hms6j",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_papa_ver01",
+  "box": [
+   0.35217678568859345,
+   0.4559053154401882,
+   0.6484178293695327,
+   0.6175992138496864
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_papa_ver01\/data\/sn84026749\/100492027\/1903111501\/0267\/001_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_papa_ver01%2Fdata%2Fsn84026749%2F100492027%2F1903111501%2F0267.jp2\/pct:35.21,45.6,29.63,16.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "WESTERN",
+   "HIGH",
+   "SCHOOL"
+  ],
+  "page_seq_num": 267,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_papa_ver01\/data\/sn84026749\/100492027\/1903111501\/0267.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1903-11-15",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9865056872367859,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_papa_ver01\/data\/sn84026749\/100492027\/1903111501\/0267\/001_0_98.jpg"
+ },
+ "id": 647
+}

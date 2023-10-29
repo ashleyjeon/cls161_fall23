@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767429,
+   "id": 1364001,
+   "lead_time": 5.662,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rr_i2FbM_q",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_grosbeak_ver01",
+  "box": [
+   0.10709505328527445,
+   0.08570628934138723,
+   0.4365961695954161,
+   0.31905830754769426
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_grosbeak_ver01\/data\/sn85033162\/00200298561\/1912053101\/0425\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Oregon--Lincoln--Toledo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_grosbeak_ver01%2Fdata%2Fsn85033162%2F00200298561%2F1912053101%2F0425.jp2\/pct:10.7,8.58,32.96,23.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033162",
+  "name": "Lincoln County leader. [volume]",
+  "ocr": [
+   "r-",
+   "SS5",
+   ",",
+   "sr.",
+   "fti",
+   ".rr",
+   "-v.",
+   "Ml"
+  ],
+  "page_seq_num": 425,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_grosbeak_ver01\/data\/sn85033162\/00200298561\/1912053101\/0425.jp2",
+  "place_of_publication": "Toledo, Lincoln County, Or.",
+  "pub_date": "1912-05-31",
+  "publisher": "J.F. Stewart",
+  "score": 0.9883868098258972,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_grosbeak_ver01\/data\/sn85033162\/00200298561\/1912053101\/0425\/000_0_98.jpg"
+ },
+ "id": 1364
+}

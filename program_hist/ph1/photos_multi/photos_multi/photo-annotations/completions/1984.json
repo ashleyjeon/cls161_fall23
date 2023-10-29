@@ -1,0 +1,114 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772474,
+   "id": 1984001,
+   "lead_time": 2.619,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JKoACN_YBu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_mission_ver01",
+  "box": [
+   0.045861157503995026,
+   0.6496218805727751,
+   0.3033378870800288,
+   0.9615193242612092
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_mission_ver01\/data\/sn84029386\/00295871581\/1920052001\/1056\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Kansas--Dickinson--Abilene"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_mission_ver01%2Fdata%2Fsn84029386%2F00295871581%2F1920052001%2F1056.jp2\/pct:4.58,64.97,25.75,31.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn84029386",
+  "name": "Abilene weekly reflector. [volume]",
+  "ocr": [
+   "\"1",
+   "'",
+   "-",
+   "'",
+   "-,r",
+   "-\"",
+   "1",
+   "J:",
+   "H",
+   "-",
+   ",",
+   "t",
+   "f",
+   "-",
+   ".",
+   "4",
+   "1",
+   "1",
+   ":",
+   "\"!",
+   "J'i-J''\"'",
+   "i",
+   "l",
+   "-",
+   ".",
+   "'",
+   "ft\".''",
+   "i\":-",
+   "'",
+   "'",
+   "!",
+   "ijsM-j",
+   "j",
+   ";",
+   "i",
+   "'U",
+   "r:i-i':j..",
+   ".",
+   "J",
+   "'1",
+   "i",
+   "'",
+   "'",
+   "j",
+   "i",
+   "Today's",
+   "Northciaft",
+   "Store",
+   "in",
+   "1920",
+   "customers",
+   "say:",
+   "\"My",
+   "father",
+   "here",
+   "In",
+   "the",
+   "or",
+   "began",
+   "at",
+   "the",
+   "bottom",
+   "and",
+   "developed",
+   "his"
+  ],
+  "page_seq_num": 1056,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_mission_ver01\/data\/sn84029386\/00295871581\/1920052001\/1056.jp2",
+  "place_of_publication": "Abilene, Kan.",
+  "pub_date": "1920-05-20",
+  "publisher": "Reflector Pub.",
+  "score": 0.965973973274231,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_mission_ver01\/data\/sn84029386\/00295871581\/1920052001\/1056\/005_0_96.jpg"
+ },
+ "id": 1984
+}

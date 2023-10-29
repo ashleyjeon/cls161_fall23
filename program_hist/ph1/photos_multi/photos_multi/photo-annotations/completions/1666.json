@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751320,
+   "id": 1666001,
+   "lead_time": 127.341,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "h0JeAlgQKZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_kryptonite_ver01",
+  "box": [
+   0.31164223026830995,
+   0.4613543332718176,
+   0.43814072347199434,
+   0.6081876179051837
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_kryptonite_ver01\/data\/sn85038022\/00280763305\/1916100301\/0450\/008_0_96.jpg",
+  "geographic_coverage": [
+   "Kentucky--Mason--Maysville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_kryptonite_ver01%2Fdata%2Fsn85038022%2F00280763305%2F1916100301%2F0450.jp2\/pct:31.16,46.14,12.65,14.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038022",
+  "name": "The public ledger. [volume]",
+  "ocr": [
+   "r",
+   "Pres.",
+   "W.",
+   "A.",
+   "Ganfleld,",
+   "Danville,"
+  ],
+  "page_seq_num": 450,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_kryptonite_ver01\/data\/sn85038022\/00280763305\/1916100301\/0450.jp2",
+  "place_of_publication": "Maysville, Ky.",
+  "pub_date": "1916-10-03",
+  "publisher": "A.F. Curran",
+  "score": 0.9614766836166382,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_kryptonite_ver01\/data\/sn85038022\/00280763305\/1916100301\/0450\/008_0_96.jpg"
+ },
+ "id": 1666
+}

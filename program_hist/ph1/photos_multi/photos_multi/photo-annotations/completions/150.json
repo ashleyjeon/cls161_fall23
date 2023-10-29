@@ -1,0 +1,46 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768037,
+   "id": 150001,
+   "lead_time": 10.1,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_fairplay_ver01",
+  "box": [
+   0.5463487601574556,
+   0.4581140093328829,
+   0.9315066867404513,
+   0.6496233465547245
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1896111901\/0185\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Colorado--Otero--Rocky Ford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_fairplay_ver01%2Fdata%2Fsn90051265%2F00383340974%2F1896111901%2F0185.jp2\/pct:54.63,45.82,38.52,19.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn90051265",
+  "name": "Rocky Ford enterprise.",
+  "ocr": [
+   "EXHIBIT",
+   "OF",
+   "OTERO",
+   "COUNTY",
+   "AT",
+   "STATE",
+   "FAIR."
+  ],
+  "page_seq_num": 185,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1896111901\/0185.jp2",
+  "place_of_publication": "Rocky Ford, Colo.",
+  "pub_date": "1896-11-19",
+  "publisher": "Enterprise Pub. Co.",
+  "score": 0.9874743223190308,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_fairplay_ver01\/data\/sn90051265\/00383340974\/1896111901\/0185\/000_0_98.jpg"
+ },
+ "id": 150
+}

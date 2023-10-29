@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741106,
+   "id": 1310001,
+   "lead_time": 4.204,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o5hLlIuS8x",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_fernico_ver01",
+  "box": [
+   0.4560942262530168,
+   0.6628807884811706,
+   0.604538634359916,
+   0.8372347463064315
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_fernico_ver01\/data\/sn86069313\/00280763020\/1912110101\/0365\/012_0_92.jpg",
+  "geographic_coverage": [
+   "Kentucky--Ohio--Hartford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_fernico_ver01%2Fdata%2Fsn86069313%2F00280763020%2F1912110101%2F0365.jp2\/pct:45.6,66.29,14.85,17.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069313",
+  "name": "The Hartford republican.",
+  "ocr": [
+   "B1I0ADWAV",
+   "M.",
+   "E.",
+   "CHUKCII.",
+   "I'ADUCAII.",
+   "KV."
+  ],
+  "page_seq_num": 365,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_fernico_ver01\/data\/sn86069313\/00280763020\/1912110101\/0365.jp2",
+  "place_of_publication": "Hartford, Ky.",
+  "pub_date": "1912-11-01",
+  "publisher": "Barnett & Milligan",
+  "score": 0.9216342568397522,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_fernico_ver01\/data\/sn86069313\/00280763020\/1912110101\/0365\/012_0_92.jpg"
+ },
+ "id": 1310
+}

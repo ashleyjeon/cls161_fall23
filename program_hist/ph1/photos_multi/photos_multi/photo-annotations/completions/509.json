@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767975,
+   "id": 509001,
+   "lead_time": 2.708,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QPzbiVkOOD",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_kestrel_ver02",
+  "box": [
+   0.04792319603686063,
+   0.6984794303162457,
+   0.3372147038297833,
+   0.8534715208288741
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_kestrel_ver02\/data\/sn83025294\/00295860327\/1901122101\/1203\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_kestrel_ver02%2Fdata%2Fsn83025294%2F00295860327%2F1901122101%2F1203.jp2\/pct:4.79,69.85,28.93,15.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025294",
+  "name": "The Butte inter mountain. [volume]",
+  "ocr": [
+   "~.r.",
+   "\u00ab*",
+   "ST.",
+   "MARK'S",
+   "EPISCOPAL",
+   "CHURCH",
+   "ANACONDA"
+  ],
+  "page_seq_num": 1203,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_kestrel_ver02\/data\/sn83025294\/00295860327\/1901122101\/1203.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1901-12-21",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.981479823589325,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_kestrel_ver02\/data\/sn83025294\/00295860327\/1901122101\/1203\/002_0_98.jpg"
+ },
+ "id": 509
+}

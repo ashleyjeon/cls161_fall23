@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763956,
+   "id": 703001,
+   "lead_time": 3.666,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VCV-GWh1Ui",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_merckx_ver01",
+  "box": [
+   0.47770097988964666,
+   0.5942119308997845,
+   0.7481938427104915,
+   0.8857542261584052
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_merckx_ver01\/data\/sn83045396\/print\/1904081401\/0335\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_merckx_ver01%2Fdata%2Fsn83045396%2Fprint%2F1904081401%2F0335.jp2\/pct:47.77,59.43,27.05,29.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045396",
+  "name": "The Salt Lake tribune. [volume]",
+  "ocr": [
+   "KID",
+   "M'COY",
+   "HOPES",
+   "TO",
+   "'",
+   "BECOME",
+   "A",
+   "CHAMPIOrSf",
+   "i",
+   "Charles",
+   "\"Kid\"",
+   "McCoy,",
+   "the",
+   "well-known'",
+   "middle-weight,",
+   "was",
+   "born",
+   "in",
+   "Rush",
+   "coun",
+   "round",
+   "Placke",
+   "weighed",
+   "103",
+   "pounds",
+   "more",
+   "than",
+   "his",
+   "opponent.",
+   "This",
+   "winter",
+   "on"
+  ],
+  "page_seq_num": 335,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_merckx_ver01\/data\/sn83045396\/print\/1904081401\/0335.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1904-08-14",
+  "publisher": "Tribune Pub. Co.",
+  "score": 0.979438304901123,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_merckx_ver01\/data\/sn83045396\/print\/1904081401\/0335\/002_0_97.jpg"
+ },
+ "id": 703
+}

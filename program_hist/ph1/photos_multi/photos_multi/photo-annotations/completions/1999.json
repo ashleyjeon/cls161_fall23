@@ -1,0 +1,66 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673636,
+   "id": 1999001,
+   "lead_time": 3.369,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qaNLqWgiPT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_ewok_ver01",
+  "box": [
+   0.2780115546785098,
+   0.7540303388816362,
+   0.42107114802844503,
+   0.9502296281753155
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_ewok_ver01\/data\/sn83045462\/00280656719\/1920022901\/0107\/001_0_96.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_ewok_ver01%2Fdata%2Fsn83045462%2F00280656719%2F1920022901%2F0107.jp2\/pct:27.8,75.41,14.31,19.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Admiral",
+   "Peary's",
+   "last",
+   "photo",
+   "graph,",
+   "made",
+   "at",
+   "Boiling",
+   "Field,",
+   "when",
+   "he",
+   "took",
+   "a",
+   "trip",
+   "in",
+   "a",
+   "hydro"
+  ],
+  "page_seq_num": 107,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_ewok_ver01\/data\/sn83045462\/00280656719\/1920022901\/0107.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1920-02-29",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9661146402359009,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_ewok_ver01\/data\/sn83045462\/00280656719\/1920022901\/0107\/001_0_96.jpg"
+ },
+ "id": 1999
+}

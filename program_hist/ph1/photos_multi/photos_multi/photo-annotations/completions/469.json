@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748000,
+   "id": 469001,
+   "lead_time": 1.764,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lJUYP05eiK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_kestrel_ver02",
+  "box": [
+   0.18496588395105154,
+   0.059644204719745776,
+   0.48629066503443424,
+   0.28489065047917556
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_kestrel_ver02\/data\/sn85053057\/00295860303\/1901040301\/0888\/006_0_91.jpg",
+  "geographic_coverage": [
+   "Montana--Silver Bow--Butte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_kestrel_ver02%2Fdata%2Fsn85053057%2F00295860303%2F1901040301%2F0888.jp2\/pct:18.49,5.97,30.14,22.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn85053057",
+  "name": "Daily inter mountain. [volume]",
+  "ocr": [
+   "-",
+   ";",
+   "-",
+   "~~",
+   "nv",
+   "H.",
+   "W.",
+   "STEPHENS,",
+   "MAYOR",
+   "OF",
+   "ANACONDA."
+  ],
+  "page_seq_num": 888,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_kestrel_ver02\/data\/sn85053057\/00295860303\/1901040301\/0888.jp2",
+  "place_of_publication": "Butte, Mont.",
+  "pub_date": "1901-04-03",
+  "publisher": "Inter Mountain Pub. Co.",
+  "score": 0.9157938957214355,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_kestrel_ver02\/data\/sn85053057\/00295860303\/1901040301\/0888\/006_0_91.jpg"
+ },
+ "id": 469
+}

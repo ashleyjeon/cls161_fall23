@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763765,
+   "id": 778001,
+   "lead_time": 1.946,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HOpJT1zgvj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_liberia_ver01",
+  "box": [
+   0.2647330563371353,
+   0.2346424965109405,
+   0.7285112412594958,
+   0.6838182471264368
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_liberia_ver01\/data\/sn83030214\/00175041333\/1905100801\/0175\/002_0_92.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_liberia_ver01%2Fdata%2Fsn83030214%2F00175041333%2F1905100801%2F0175.jp2\/pct:26.47,23.47,46.38,44.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "THE",
+   "DUKE",
+   "OF",
+   "REIfHSTADT.",
+   "(From",
+   "the",
+   "portrait",
+   "by",
+   "Daffinger.)"
+  ],
+  "page_seq_num": 175,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_liberia_ver01\/data\/sn83030214\/00175041333\/1905100801\/0175.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1905-10-08",
+  "publisher": "New York Tribune",
+  "score": 0.9202172756195068,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_liberia_ver01\/data\/sn83030214\/00175041333\/1905100801\/0175\/002_0_92.jpg"
+ },
+ "id": 778
+}

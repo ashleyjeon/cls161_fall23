@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757377,
+   "id": 1329001,
+   "lead_time": 4.544,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5fSBY4AaHk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_gibson_ver01",
+  "box": [
+   0.8161454993756749,
+   0.355623878966249,
+   0.9452216723052781,
+   0.5196980235069725
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_gibson_ver01\/data\/2010270500\/00211102640\/1912042601\/0471\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Nebraska--Dakota--Dakota City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_gibson_ver01%2Fdata%2F2010270500%2F00211102640%2F1912042601%2F0471.jp2\/pct:81.61,35.57,12.91,16.41\/!500,500\/0\/default.jpg",
+  "lccn": "2010270500",
+  "name": "Dakota County herald.",
+  "ocr": [
+   "JOHN",
+   "H.",
+   "MOREHEAD",
+   "Probable",
+   "Democratic",
+   "Nominee",
+   "for"
+  ],
+  "page_seq_num": 471,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_gibson_ver01\/data\/2010270500\/00211102640\/1912042601\/0471.jp2",
+  "place_of_publication": "Dakota City, Neb.",
+  "pub_date": "1912-04-26",
+  "publisher": "J.L. McKean",
+  "score": 0.9790592193603516,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_gibson_ver01\/data\/2010270500\/00211102640\/1912042601\/0471\/001_0_97.jpg"
+ },
+ "id": 1329
+}

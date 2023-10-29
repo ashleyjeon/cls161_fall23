@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768692,
+   "id": 1379001,
+   "lead_time": 4.563,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "f-EbajSDcZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_american_ver01",
+  "box": [
+   0.5816694903285305,
+   0.1805595866482155,
+   0.9645738825662469,
+   0.3162385571669483
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_american_ver01\/data\/sn83045433\/00294558081\/1912041101\/0019\/000_0_99.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_american_ver01%2Fdata%2Fsn83045433%2F00294558081%2F1912041101%2F0019.jp2\/pct:58.16,18.06,38.3,13.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "I.,",
+   "1",
+   ".ii",
+   "7",
+   "'",
+   ",--",
+   "''S'gg'",
+   "jj",
+   "?",
+   "-",
+   "if",
+   "LsBSSSSSBBBSSSBBSSSBSasHaHfBBjfHsBBBBBa",
+   "One",
+   "of",
+   "Beautiful",
+   "Eeiidences",
+   "The",
+   "Krise",
+   "Mansion."
+  ],
+  "page_seq_num": 19,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_american_ver01\/data\/sn83045433\/00294558081\/1912041101\/0019.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1912-04-11",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9937607645988464,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_american_ver01\/data\/sn83045433\/00294558081\/1912041101\/0019\/000_0_99.jpg"
+ },
+ "id": 1379
+}

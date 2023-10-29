@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675003,
+   "id": 513001,
+   "lead_time": 2.827,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rV-4uz50ZT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_dearfield_ver01",
+  "box": [
+   0.6608426220528114,
+   0.49428776041666667,
+   0.9622715228774642,
+   0.6427838541666666
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_dearfield_ver01\/data\/sn85067315\/00383341073\/1901072501\/0528\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Colorado--Fremont--Canon City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_dearfield_ver01%2Fdata%2Fsn85067315%2F00383341073%2F1901072501%2F0528.jp2\/pct:66.08,49.43,30.15,14.85\/!500,500\/0\/default.jpg",
+  "lccn": "sn85067315",
+  "name": "Can\u0303on City record. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 528,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_dearfield_ver01\/data\/sn85067315\/00383341073\/1901072501\/0528.jp2",
+  "place_of_publication": "Can\u0303on City, Colo.",
+  "pub_date": "1901-07-25",
+  "publisher": "W.B. Felton",
+  "score": 0.9622730016708374,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_dearfield_ver01\/data\/sn85067315\/00383341073\/1901072501\/0528\/001_0_96.jpg"
+ },
+ "id": 513
+}

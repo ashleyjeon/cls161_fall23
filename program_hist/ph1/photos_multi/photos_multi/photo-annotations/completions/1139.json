@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751333,
+   "id": 1139001,
+   "lead_time": 1.938,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4hq-DYkAdo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_mecca_ver01",
+  "box": [
+   0.8432475722838785,
+   0.46903627108683627,
+   0.9813138872663552,
+   0.6108321156771188
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_mecca_ver01\/data\/sn85066387\/0017504646A\/1909070301\/0042\/006_0_92.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_mecca_ver01%2Fdata%2Fsn85066387%2F0017504646A%2F1909070301%2F0042.jp2\/pct:84.32,46.91,13.81,14.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 42,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_mecca_ver01\/data\/sn85066387\/0017504646A\/1909070301\/0042.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1909-07-03",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9223570823669434,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_mecca_ver01\/data\/sn85066387\/0017504646A\/1909070301\/0042\/006_0_92.jpg"
+ },
+ "id": 1139
+}

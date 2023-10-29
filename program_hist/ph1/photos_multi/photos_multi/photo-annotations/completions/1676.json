@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752463,
+   "id": 1676001,
+   "lead_time": 190.294,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "FU-JJYXNeU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_abolitionist_ver02",
+  "box": [
+   0.053114147958914566,
+   0.13922922421443745,
+   0.17869107319875024,
+   0.2656835348782049
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_abolitionist_ver02\/data\/sn86074033\/00199916427\/1916012201\/0290\/007_0_96.jpg",
+  "geographic_coverage": [
+   "Mississippi--Hancock--Bay Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_abolitionist_ver02%2Fdata%2Fsn86074033%2F00199916427%2F1916012201%2F0290.jp2\/pct:5.31,13.93,12.56,12.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074033",
+  "name": "The sea coast echo. [volume]",
+  "ocr": [
+   "\"'",
+   "\/HKp",
+   "'",
+   "ik",
+   "\u25a0\u2019",
+   "ik",
+   "Ij;",
+   "1",
+   "|p",
+   "I",
+   "\u25a0JSr",
+   "i",
+   "r",
+   "\u25a0",
+   "<",
+   "*x;\u00b0",
+   "r",
+   "T&Wty",
+   "\u25a0",
+   "p",
+   "-",
+   ":",
+   "v",
+   "f",
+   ":vT",
+   "*#",
+   "k,",
+   "\/",
+   "|",
+   "\u2019",
+   "J",
+   "11",
+   "j",
+   "It",
+   "'",
+   "\/",
+   "j",
+   "j",
+   "Jmjk",
+   "||||||fe*,"
+  ],
+  "page_seq_num": 290,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_abolitionist_ver02\/data\/sn86074033\/00199916427\/1916012201\/0290.jp2",
+  "place_of_publication": "Bay Saint Louis, Miss.",
+  "pub_date": "1916-01-22",
+  "publisher": "Charles G. Moreau",
+  "score": 0.9686305522918701,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_abolitionist_ver02\/data\/sn86074033\/00199916427\/1916012201\/0290\/007_0_96.jpg"
+ },
+ "id": 1676
+}

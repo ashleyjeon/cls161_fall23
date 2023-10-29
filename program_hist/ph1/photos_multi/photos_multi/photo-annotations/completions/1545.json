@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673416,
+   "id": 1545001,
+   "lead_time": 2.39,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8o90upmFo2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_pipit_ver04",
+  "box": [
+   0.07132015166142865,
+   0.6944171395271447,
+   0.32277203123939674,
+   0.9503175771919785
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_pipit_ver04\/data\/sn88086023\/0020219431A\/1915021801\/0965\/010_0_92.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_pipit_ver04%2Fdata%2Fsn88086023%2F0020219431A%2F1915021801%2F0965.jp2\/pct:7.13,69.45,25.15,25.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   "1",
+   "Pastime",
+   "Theatre",
+   "I",
+   "I",
+   "TODAY",
+   "1",
+   "WILTON",
+   "LACKAYE",
+   "f",
+   "in",
+   "Israel",
+   "Zangwill's",
+   "Masterpiece",
+   "ita",
+   "of",
+   "tha",
+   "-Ghetto",
+   "I",
+   "iiii;!SJjni!iii:niiii:iii:iii;iini:i!i!i!i!i:!ii:i!iMiMniiiiiiiiiii!ui!iiiiiiii",
+   "iiiimm"
+  ],
+  "page_seq_num": 965,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_pipit_ver04\/data\/sn88086023\/0020219431A\/1915021801\/0965.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1915-02-18",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.9211181402206421,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_pipit_ver04\/data\/sn88086023\/0020219431A\/1915021801\/0965\/010_0_92.jpg"
+ },
+ "id": 1545
+}

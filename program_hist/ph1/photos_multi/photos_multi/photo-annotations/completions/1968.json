@@ -1,0 +1,92 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748906,
+   "id": 1968001,
+   "lead_time": 3.079,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "A8CJSkiJak",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_honda_ver02",
+  "box": [
+   0.40102371305053,
+   0.2403480659096928,
+   0.6626896016081871,
+   0.46479161149364406
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_honda_ver02\/data\/sn85042551\/00200294312\/1920101001\/0390\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Texas--Potter--Amarillo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_honda_ver02%2Fdata%2Fsn85042551%2F00200294312%2F1920101001%2F0390.jp2\/pct:40.1,24.04,26.17,22.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042551",
+  "name": "Amarillo daily news. [volume]",
+  "ocr": [
+   "(",
+   ",",
+   "i",
+   "jitT",
+   "''",
+   "w.n",
+   "L.",
+   "-.",
+   "t.",
+   "v",
+   ".",
+   ".",
+   "'",
+   ".-",
+   "Thl",
+   "m",
+   "l",
+   "v",
+   "In",
+   ".",
+   ".",
+   "f",
+   "ll.",
+   "ii",
+   "f.",
+   "i",
+   "!",
+   "Im-Mmt",
+   "I",
+   "Mh",
+   "a-i-l",
+   "li.lh",
+   "on",
+   "i",
+   "il",
+   "al",
+   "til\"",
+   "II.",
+   "I.",
+   "f..",
+   "1.",
+   "1",
+   "I'.iil,"
+  ],
+  "page_seq_num": 390,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_honda_ver02\/data\/sn85042551\/00200294312\/1920101001\/0390.jp2",
+  "place_of_publication": "Amarillo, Tex.",
+  "pub_date": "1920-10-10",
+  "publisher": "Amarillo Pub. Co.",
+  "score": 0.9744411110877991,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_honda_ver02\/data\/sn85042551\/00200294312\/1920101001\/0390\/002_0_97.jpg"
+ },
+ "id": 1968
+}

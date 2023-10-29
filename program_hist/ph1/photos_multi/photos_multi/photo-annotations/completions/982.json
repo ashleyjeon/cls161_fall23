@@ -1,0 +1,95 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674642,
+   "id": 982001,
+   "lead_time": 3.959,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "l_DDkss0EF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.36615851907169117,
+   0.20742160822051803,
+   0.6426063447840074,
+   0.4808285781760621
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761047\/1907021601\/0530\/001_0_92.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761047%2F1907021601%2F0530.jp2\/pct:36.61,20.75,27.65,27.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "K",
+   "1",
+   ".",
+   ",H1IijHm3biSBi",
+   "FREDERICK\"",
+   "DOUGLASS.",
+   "matchless",
+   "oratory",
+   "or",
+   "oloquence",
+   "swayed",
+   "the",
+   "people",
+   "on",
+   "continents",
+   "during",
+   "the",
+   "agitation",
+   "of",
+   "the",
+   "slavery",
+   "question",
+   "in",
+   "and",
+   "whose",
+   "labors",
+   "in",
+   "behalf",
+   "of",
+   "his",
+   "fellow",
+   "creatures",
+   "in",
+   "will",
+   "never",
+   "grew",
+   "dim",
+   "in",
+   "the",
+   "hearts",
+   "of",
+   "those",
+   "who",
+   "truly",
+   "love"
+  ],
+  "page_seq_num": 530,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761047\/1907021601\/0530.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1907-02-16",
+  "publisher": "Julius F. Taylor",
+  "score": 0.9242348670959473,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761047\/1907021601\/0530\/001_0_92.jpg"
+ },
+ "id": 982
+}

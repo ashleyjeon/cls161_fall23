@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766758,
+   "id": 981001,
+   "lead_time": 2.43,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ErThf6HBtF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_jacard_ver01",
+  "box": [
+   0.7618572396291814,
+   0.049483415019305456,
+   0.9101637289557658,
+   0.24534187978402727
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_jacard_ver01\/data\/sn87065072\/00199917602\/1907120701\/0467\/004_0_93.jpg",
+  "geographic_coverage": [
+   "Mississippi--Jones--Ellisville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_jacard_ver01%2Fdata%2Fsn87065072%2F00199917602%2F1907120701%2F0467.jp2\/pct:76.18,4.95,14.84,19.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn87065072",
+  "name": "The new South-news.",
+  "ocr": [
+   "NIGHT",
+   "SWF",
+   "ATS.",
+   "NO",
+   "APPSTli",
+   "E",
+   "USED",
+   "PE-RU-N",
+   "A",
+   "'",
+   "*",
+   "\/",
+   "^s.",
+   "liiaelsH*",
+   "KS",
+   "L",
+   "1",
+   "\/\/IK",
+   "I",
+   ".OH",
+   "It.",
+   "U\u00c4",
+   "5",
+   "W",
+   "KVwh",
+   "-",
+   "'"
+  ],
+  "page_seq_num": 467,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_jacard_ver01\/data\/sn87065072\/00199917602\/1907120701\/0467.jp2",
+  "place_of_publication": "Ellisville, Miss.",
+  "pub_date": "1907-12-07",
+  "publisher": "Jas. F. Parker",
+  "score": 0.9395636916160583,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_jacard_ver01\/data\/sn87065072\/00199917602\/1907120701\/0467\/004_0_93.jpg"
+ },
+ "id": 981
+}

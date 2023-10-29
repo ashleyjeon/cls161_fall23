@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675896,
+   "id": 93001,
+   "lead_time": 2.98,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cc8Ls1vJV6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_cardinal_ver01",
+  "box": [
+   0.7295542304606876,
+   0.07218577363508925,
+   0.8454409068829012,
+   0.2192535273339925
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_cardinal_ver01\/data\/sn83025121\/00294552418\/1896101301\/0271\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_cardinal_ver01%2Fdata%2Fsn83025121%2F00294552418%2F1896101301%2F0271.jp2\/pct:72.95,7.22,11.59,14.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025121",
+  "name": "The Hawaiian gazette. [volume]",
+  "ocr": [
+   "\"",
+   "...lJmffllWwilili",
+   "aner.",
+   "itK",
+   "nwWlifiiTiliiriiilmSiiBii",
+   "1giTji0ar5WBttTi",
+   "w",
+   "a.",
+   "y",
+   "!jBffjSsV",
+   "imBHBBSwJ'1",
+   "..",
+   "HTBTii",
+   "!!",
+   "HIT",
+   "iMllHajli",
+   "\"i",
+   "HBii",
+   "'i",
+   "VBBtlsu0S3SSB",
+   "Wam",
+   "Ftoi",
+   "is",
+   "mg",
+   "ceatpiete",
+   "leafr.",
+   "i"
+  ],
+  "page_seq_num": 271,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_cardinal_ver01\/data\/sn83025121\/00294552418\/1896101301\/0271.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1896-10-13",
+  "publisher": "Published ... by J.H. Black at the G.P.O.",
+  "score": 0.9649932384490967,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_cardinal_ver01\/data\/sn83025121\/00294552418\/1896101301\/0271\/000_0_96.jpg"
+ },
+ "id": 93
+}

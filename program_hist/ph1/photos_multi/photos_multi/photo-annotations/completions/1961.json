@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747239,
+   "id": 1961001,
+   "lead_time": 4.132,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "IoHSgXt1RE",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_daleacandida_ver01",
+  "box": [
+   0.15615752199862865,
+   0.5121586956555331,
+   0.2725516136656416,
+   0.7367571577241149
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_daleacandida_ver01\/data\/sn99021999\/00280778862\/1920122601\/0542\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_daleacandida_ver01%2Fdata%2Fsn99021999%2F00280778862%2F1920122601%2F0542.jp2\/pct:15.61,51.22,11.64,22.46\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "'",
+   "Prize",
+   "Winners",
+   "v-",
+   "Miss",
+   "Klizaiieth",
+   "Patton.",
+   "dauehter",
+   "-",
+   "l",
+   "1",
+   "I'",
+   "SSL'1",
+   "i",
+   "i",
+   "'",
+   ",",
+   "'",
+   "i"
+  ],
+  "page_seq_num": 542,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_daleacandida_ver01\/data\/sn99021999\/00280778862\/1920122601\/0542.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1920-12-26",
+  "publisher": "Edward Rosewater",
+  "score": 0.9450702667236328,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_daleacandida_ver01\/data\/sn99021999\/00280778862\/1920122601\/0542\/004_0_94.jpg"
+ },
+ "id": 1961
+}

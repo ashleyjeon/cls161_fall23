@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763907,
+   "id": 770001,
+   "lead_time": 1.899,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EUFcnFZlMx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_norris_ver01",
+  "box": [
+   0.8323671055144128,
+   0.5305875961801412,
+   0.9616001303467057,
+   0.6852016403453163
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_norris_ver01\/data\/sn99021999\/00280778436\/1905050701\/0295\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_norris_ver01%2Fdata%2Fsn99021999%2F00280778436%2F1905050701%2F0295.jp2\/pct:83.23,53.06,12.93,15.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "'-",
+   ".",
+   "-",
+   "5",
+   ".",
+   ".",
+   ".",
+   "....",
+   ".",
+   "...",
+   "Puuline",
+   "Chase,",
+   "known",
+   "In",
+   "Amerit'ii",
+   "hh",
+   "t)i",
+   "pajama",
+   "girl,",
+   "la",
+   "now",
+   "doing",
+   "a",
+   "pillow",
+   "case",
+   "dance",
+   "In",
+   "\"",
+   "Patsr",
+   "Pan",
+   "\"",
+   "in",
+   "London."
+  ],
+  "page_seq_num": 295,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_norris_ver01\/data\/sn99021999\/00280778436\/1905050701\/0295.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1905-05-07",
+  "publisher": "Edward Rosewater",
+  "score": 0.9474543333053589,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_norris_ver01\/data\/sn99021999\/00280778436\/1905050701\/0295\/003_0_94.jpg"
+ },
+ "id": 770
+}

@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752836,
+   "id": 1828001,
+   "lead_time": 4.43,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "e53Ev_ukD0",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_felwort_ver01",
+  "box": [
+   0.4491406368803224,
+   0.04083560541869321,
+   0.692302768827935,
+   0.3204122154043861
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918020101\/0229\/026_0_90.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_felwort_ver01%2Fdata%2Fsn92070582%2F00280774078%2F1918020101%2F0229.jp2\/pct:44.91,4.09,24.32,27.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070582",
+  "name": "The evening herald. [volume]",
+  "ocr": [
+   "r;",
+   "I",
+   "s",
+   "i",
+   ":",
+   "i",
+   "'si",
+   ".",
+   ".",
+   "t",
+   ";",
+   "'",
+   "-'",
+   ";f'::",
+   "1",
+   "\"",
+   "r-",
+   "MLLE.",
+   "DE",
+   "VIOLETTE",
+   "i",
+   "\"",
+   "V",
+   "i,,",
+   "-",
+   "i",
+   "vttin,",
+   "u",
+   ".",
+   "...",
+   "i",
+   "I",
+   "li"
+  ],
+  "page_seq_num": 229,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918020101\/0229.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1918-02-01",
+  "publisher": "The Evening Herald",
+  "score": 0.9071741700172424,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_felwort_ver01\/data\/sn92070582\/00280774078\/1918020101\/0229\/026_0_90.jpg"
+ },
+ "id": 1828
+}

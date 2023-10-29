@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750812,
+   "id": 838001,
+   "lead_time": 5.276,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EYp9L8_lI3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_oasis_ver01",
+  "box": [
+   0.17003048702417312,
+   0.30292981794022705,
+   0.6951702058812574,
+   0.5356586079245047
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_oasis_ver01\/data\/sn85042462\/00175047335\/1905110501\/0067\/013_0_91.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_oasis_ver01%2Fdata%2Fsn85042462%2F00175047335%2F1905110501%2F0067.jp2\/pct:17.0,30.3,52.52,23.28\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   ")lonrsts",
+   "Arriving",
+   "at",
+   "the",
+   "Railway",
+   "Stations.",
+   "Above",
+   "Is",
+   "a",
+   "Scene",
+   "at",
+   "the",
+   "Santa",
+   "Fe",
+   "Station",
+   "Yesterday",
+   "Morning.",
+   "Below",
+   "at",
+   "the",
+   "Left",
+   "Is",
+   "a",
+   "Group",
+   "Leaving",
+   "tr",
+   "Arcade",
+   "Station,",
+   "and",
+   "at",
+   "the",
+   "Right",
+   "Is",
+   "Shown",
+   "How",
+   "the",
+   "Baggage",
+   "Trucks",
+   "Look"
+  ],
+  "page_seq_num": 67,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_oasis_ver01\/data\/sn85042462\/00175047335\/1905110501\/0067.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1905-11-05",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9107075929641724,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_oasis_ver01\/data\/sn85042462\/00175047335\/1905110501\/0067\/013_0_91.jpg"
+ },
+ "id": 838
+}

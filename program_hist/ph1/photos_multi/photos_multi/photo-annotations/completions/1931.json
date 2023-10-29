@@ -1,0 +1,74 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675582,
+   "id": 1931001,
+   "lead_time": 3.595,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "tdipafFdz5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_hooloovoo_ver01",
+  "box": [
+   0.032426576356630064,
+   0.01869932755180027,
+   0.36178972578216806,
+   0.2572203528362772
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_hooloovoo_ver01\/data\/sn83045462\/00280656823\/1920102401\/0640\/003_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_hooloovoo_ver01%2Fdata%2Fsn83045462%2F00280656823%2F1920102401%2F0640.jp2\/pct:3.24,1.87,32.94,23.86\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "^",
+   "'",
+   "\"",
+   "^-..",
+   "~Sln?",
+   "j_\/*M",
+   "This",
+   "cannon",
+   "ball",
+   "has",
+   "see",
+   "H^\\",
+   "vl",
+   "MML",
+   "t?",
+   "n",
+   "many",
+   "wars.",
+   "It",
+   "has",
+   "been",
+   "xm-",
+   "?",
+   "l",
+   "I"
+  ],
+  "page_seq_num": 640,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_hooloovoo_ver01\/data\/sn83045462\/00280656823\/1920102401\/0640.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1920-10-24",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9822455644607544,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_hooloovoo_ver01\/data\/sn83045462\/00280656823\/1920102401\/0640\/003_0_98.jpg"
+ },
+ "id": 1931
+}

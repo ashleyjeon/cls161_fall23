@@ -1,0 +1,117 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772523,
+   "id": 1769001,
+   "lead_time": 3.751,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "sus8laT1LC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ak_jellymoss_ver01",
+  "box": [
+   0.17863828082417332,
+   0.7519578115296127,
+   0.5632180857103924,
+   0.9459494269421861
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ak_jellymoss_ver01\/data\/sn84020657\/00279527008\/1917090701\/0463\/007_0_95.jpg",
+  "geographic_coverage": [
+   "Alaska--Juneau"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ak_jellymoss_ver01%2Fdata%2Fsn84020657%2F00279527008%2F1917090701%2F0463.jp2\/pct:17.86,75.2,38.46,19.4\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020657",
+  "name": "The Alaska daily empire. [volume]",
+  "ocr": [
+   "FORTY",
+   "MORE",
+   "Among",
+   "the",
+   "one",
+   "hundred",
+   "American",
+   "motor",
+   "ambulance*",
+   "operated",
+   "on",
+   "the",
+   "French",
+   "battle",
+   "front",
+   "forty",
+   "represent",
+   "the",
+   "gift",
+   "of",
+   "Robert",
+   "W.",
+   "Goelet,",
+   "of",
+   "New",
+   "York.",
+   "The",
+   "gift",
+   "(*250,000)",
+   "was",
+   "made",
+   "last",
+   "March",
+   "a\u00ab",
+   "an",
+   "addition",
+   "to",
+   "the",
+   "Harjcs-Norton",
+   "Ambulance",
+   "corps.",
+   "The",
+   "picture",
+   "shows",
+   "the",
+   "two",
+   "sections",
+   "of",
+   "forty",
+   "men",
+   "\u2022ach",
+   "contributed",
+   "by",
+   "Mr.",
+   "Goelet",
+   "lined",
+   "up",
+   "outside",
+   "ut",
+   "fighting",
+   "lines",
+   "in",
+   "France",
+   "ready",
+   "for",
+   "the",
+   "calls",
+   "that"
+  ],
+  "page_seq_num": 463,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ak_jellymoss_ver01\/data\/sn84020657\/00279527008\/1917090701\/0463.jp2",
+  "place_of_publication": "Juneau, Alaska",
+  "pub_date": "1917-09-07",
+  "publisher": "J.F.A. Strong",
+  "score": 0.9534404277801514,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ak_jellymoss_ver01\/data\/sn84020657\/00279527008\/1917090701\/0463\/007_0_95.jpg"
+ },
+ "id": 1769
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749445,
+   "id": 1762001,
+   "lead_time": 1.983,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "UavjKwaxGS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ak_albatross_ver01",
+  "box": [
+   0.31552882320257036,
+   0.6166117350260417,
+   0.44150680944353765,
+   0.8432569873425387
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ak_albatross_ver01\/data\/sn84020657\/00279526685\/1917031301\/0497\/012_0_91.jpg",
+  "geographic_coverage": [
+   "Alaska--Juneau"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ak_albatross_ver01%2Fdata%2Fsn84020657%2F00279526685%2F1917031301%2F0497.jp2\/pct:31.55,61.67,12.6,22.67\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020657",
+  "name": "The Alaska daily empire. [volume]",
+  "ocr": [
+   "Miss",
+   "Talmadge,",
+   "and",
+   "is"
+  ],
+  "page_seq_num": 497,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ak_albatross_ver01\/data\/sn84020657\/00279526685\/1917031301\/0497.jp2",
+  "place_of_publication": "Juneau, Alaska",
+  "pub_date": "1917-03-13",
+  "publisher": "J.F.A. Strong",
+  "score": 0.9122934937477112,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ak_albatross_ver01\/data\/sn84020657\/00279526685\/1917031301\/0497\/012_0_91.jpg"
+ },
+ "id": 1762
+}

@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741114,
+   "id": 1412001,
+   "lead_time": 2.018,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "moLVmyZapo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_delta_ver01",
+  "box": [
+   0.08630586925305818,
+   0.22748316889223846,
+   0.8817044308311061,
+   0.9248325513756793
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_delta_ver01\/data\/sn83045487\/00280761205\/1913120601\/1154\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_delta_ver01%2Fdata%2Fsn83045487%2F00280761205%2F1913120601%2F1154.jp2\/pct:8.63,22.75,79.54,69.74\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045487",
+  "name": "The day book. [volume]",
+  "ocr": [
+   "It",
+   "may",
+   "be",
+   "difficult",
+   "for",
+   "present-day",
+   "to",
+   "visualize",
+   "a.",
+   "trio",
+   "better",
+   "than",
+   "Hooper",
+   "and",
+   "Lewis,",
+   "the",
+   "Red",
+   "wonders",
+   "of",
+   "1912;",
+   "or",
+   "Oldring,",
+   "Bb3Sh?",
+   "Greatest",
+   "outfield",
+   "gamehas",
+   "known",
+   "at",
+   "bat,",
+   "\"Wee",
+   "Willie\"",
+   "Keeler;",
+   "above",
+   "bat,",
+   "Joe",
+   "Kelley,",
+   "and,",
+   "below,",
+   "Walter",
+   "Brodie."
+  ],
+  "page_seq_num": 1154,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_delta_ver01\/data\/sn83045487\/00280761205\/1913120601\/1154.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1913-12-06",
+  "publisher": "N.D. Cochran",
+  "score": 0.9669771790504456,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_delta_ver01\/data\/sn83045487\/00280761205\/1913120601\/1154\/000_0_96.jpg"
+ },
+ "id": 1412
+}

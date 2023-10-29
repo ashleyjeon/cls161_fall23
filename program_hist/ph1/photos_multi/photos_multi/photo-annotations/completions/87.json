@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768979,
+   "id": 87001,
+   "lead_time": 1.549,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HOXStjYufM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_arbok_ver04",
+  "box": [
+   0.11175279372179085,
+   0.14147380224047137,
+   0.22323869870955096,
+   0.2503080139971075
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_arbok_ver04\/data\/sn88064122\/00295874168\/1896102401\/0242\/001_0_96.jpg",
+  "geographic_coverage": [
+   "Louisiana--Terrebonne--Houma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_arbok_ver04%2Fdata%2Fsn88064122%2F00295874168%2F1896102401%2F0242.jp2\/pct:11.17,14.15,11.15,10.89\/!500,500\/0\/default.jpg",
+  "lccn": "sn88064122",
+  "name": "The Houma courier.",
+  "ocr": [
+   "eonfusiomnent",
+   "yovf",
+   "tell",
+   "of,",
+   "white",
+   "i",
+   "last",
+   "bas",
+   "high",
+   "and",
+   "f",
+   "h",
+   "e",
+   "rout",
+   "of",
+   "a",
+   "dead",
+   "of",
+   "life",
+   "and",
+   "flesh",
+   "Whilst",
+   "I",
+   "in",
+   "the",
+   "thick",
+   "of"
+  ],
+  "page_seq_num": 242,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_arbok_ver04\/data\/sn88064122\/00295874168\/1896102401\/0242.jp2",
+  "place_of_publication": "Houma, La.",
+  "pub_date": "1896-10-24",
+  "publisher": "E.F. Bazet",
+  "score": 0.9692836403846741,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_arbok_ver04\/data\/sn88064122\/00295874168\/1896102401\/0242\/001_0_96.jpg"
+ },
+ "id": 87
+}

@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768876,
+   "id": 911001,
+   "lead_time": 8.111,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iS6GEwsjpa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_pomo_ver01",
+  "box": [
+   0.28627583437292464,
+   0.6088290774285635,
+   0.4192187096461777,
+   0.7521769026161187
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_pomo_ver01\/data\/sn85042462\/00175047384\/1906071501\/0301\/006_0_97.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_pomo_ver01%2Fdata%2Fsn85042462%2F00175047384%2F1906071501%2F0301.jp2\/pct:28.62,60.89,13.3,14.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   ".",
+   "on",
+   "mon",
+   "\\m",
+   "11",
+   "\\o",
+   "9",
+   "1",
+   "LAIM",
+   "Oreater",
+   "Mnnliumtn",
+   "1",
+   ".0,1,",
+   ",11.",
+   "!*!<\u00a6<)",
+   "11",
+   "<",
+   "n"
+  ],
+  "page_seq_num": 301,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_pomo_ver01\/data\/sn85042462\/00175047384\/1906071501\/0301.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1906-07-15",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9705243706703186,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_pomo_ver01\/data\/sn85042462\/00175047384\/1906071501\/0301\/006_0_97.jpg"
+ },
+ "id": 911
+}

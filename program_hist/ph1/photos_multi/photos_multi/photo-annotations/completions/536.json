@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673439,
+   "id": 536001,
+   "lead_time": 3.318,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wiozPNWY-y",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_austria_ver01",
+  "box": [
+   0.5039030930091595,
+   0.4157103225897951,
+   0.822851772966056,
+   0.6137572482413771
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_austria_ver01\/data\/sn83030214\/00175040997\/1901030301\/0049\/004_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_austria_ver01%2Fdata%2Fsn83030214%2F00175040997%2F1901030301%2F0049.jp2\/pct:50.39,41.58,31.9,19.81\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "IX",
+   "THK",
+   "TFMPI.E",
+   "OF",
+   "TnK",
+   "rTTIXESE",
+   "EMPEROR",
+   "AT",
+   "CANTON."
+  ],
+  "page_seq_num": 49,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_austria_ver01\/data\/sn83030214\/00175040997\/1901030301\/0049.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1901-03-03",
+  "publisher": "New York Tribune",
+  "score": 0.9762715101242065,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_austria_ver01\/data\/sn83030214\/00175040997\/1901030301\/0049\/004_0_97.jpg"
+ },
+ "id": 536
+}

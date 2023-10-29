@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746851,
+   "id": 1214001,
+   "lead_time": 1.64,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3_jgVprYFS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_american_ver02",
+  "box": [
+   0.3121316631188553,
+   0.0649879248006621,
+   0.560554075776861,
+   0.32124936197379944
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_american_ver02\/data\/sn88085620\/00211107601\/1910082601\/0379\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Washington--Snohomish--Everett"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_american_ver02%2Fdata%2Fsn88085620%2F00211107601%2F1910082601%2F0379.jp2\/pct:31.21,6.5,24.85,25.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085620",
+  "name": "The labor journal.",
+  "ocr": [
+   "CHARLES",
+   "LEMOYNE",
+   "Leading",
+   "man",
+   "in",
+   "\"Turning",
+   "Queen's",
+   "Evidence,\"",
+   "nt",
+   "the",
+   "Acme",
+   "tin-",
+   "week."
+  ],
+  "page_seq_num": 379,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_american_ver02\/data\/sn88085620\/00211107601\/1910082601\/0379.jp2",
+  "place_of_publication": "Everett, Wash.",
+  "pub_date": "1910-08-26",
+  "publisher": "Everett Trade Council",
+  "score": 0.9652170538902283,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_american_ver02\/data\/sn88085620\/00211107601\/1910082601\/0379\/005_0_96.jpg"
+ },
+ "id": 1214
+}

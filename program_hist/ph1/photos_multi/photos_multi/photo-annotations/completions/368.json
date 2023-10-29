@@ -1,0 +1,101 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749412,
+   "id": 368001,
+   "lead_time": 4.758,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "e3tYfVq3Uu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_diamond_ver01",
+  "box": [
+   0.10021434901569383,
+   0.34312681148907836,
+   0.4525766246644411,
+   0.5075982804406519
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_diamond_ver01\/data\/sn97071110\/00295868879\/1899101301\/0578\/002_0_92.jpg",
+  "geographic_coverage": [
+   "Oregon--Hood River--Hood River"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_diamond_ver01%2Fdata%2Fsn97071110%2F00295868879%2F1899101301%2F0578.jp2\/pct:10.02,34.32,35.24,16.45\/!500,500\/0\/default.jpg",
+  "lccn": "sn97071110",
+  "name": "The Hood River glacier.",
+  "ocr": [
+   "THE",
+   "FIRST",
+   "AND",
+   "THE",
+   "LATEST",
+   "OF",
+   "GREAT",
+   "ATLANTIC",
+   "STEAMSHIPS.",
+   "\"\"\"",
+   "\"\"",
+   "'",
+   "\"",
+   "\"'\"",
+   "\"\"'",
+   "'",
+   "''",
+   "'\"'\"\"\"\"\"M",
+   "Ji''j",
+   "H",
+   "\"",
+   "'",
+   ",\"",
+   "'",
+   "\"'jjeAaJ",
+   "1",
+   "r",
+   "-rr1",
+   "The",
+   "Oceanic,",
+   "the",
+   "monster",
+   "Iron",
+   "steamship,",
+   "on",
+   "her",
+   "maiden",
+   "voyage",
+   "to",
+   "New",
+   "York,",
+   "and",
+   "the",
+   "great",
+   "Britain,",
+   "the",
+   "first",
+   "Iron",
+   "to",
+   "cross",
+   "the",
+   "1845."
+  ],
+  "page_seq_num": 578,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_diamond_ver01\/data\/sn97071110\/00295868879\/1899101301\/0578.jp2",
+  "place_of_publication": "Hood River, Or.",
+  "pub_date": "1899-10-13",
+  "publisher": "Glacier Pub. Co.",
+  "score": 0.9266036748886108,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_diamond_ver01\/data\/sn97071110\/00295868879\/1899101301\/0578\/002_0_92.jpg"
+ },
+ "id": 368
+}

@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762861,
+   "id": 554001,
+   "lead_time": 1.657,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kcwLI62k0m",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_bravo_ver01",
+  "box": [
+   0.32110188802083334,
+   0.0434416108497559,
+   0.5830937056107954,
+   0.359682977041731
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_bravo_ver01\/data\/sn84028140\/00237283569\/1902110401\/0909\/011_0_93.jpg",
+  "geographic_coverage": [
+   "Ohio--Summit--Akron"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_bravo_ver01%2Fdata%2Fsn84028140%2F00237283569%2F1902110401%2F0909.jp2\/pct:32.11,4.35,26.2,31.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn84028140",
+  "name": "Akron daily Democrat. [volume]",
+  "ocr": [
+   "Princess",
+   "Cjementkje",
+   "May'.",
+   "fc",
+   "7",
+   "Spend",
+   "Her",
+   "Life",
+   "In",
+   "a",
+   "Convent",
+   "-H5!?3Baaji3WffiattalUalaa",
+   "J",
+   "V",
+   "w",
+   ",:'V'?iz?;ii'm3L-?rm,imMrss;",
+   "w",
+   ",&:fFi2'ii",
+   ".jiijiA'",
+   "ianm",
+   "u'aaratw-.-",
+   "inX3S",
+   "OLCHCNTW",
+   "Brussels",
+   "Nov.",
+   "-i.-rrlncoss.",
+   "Clementine,",
+   "daughter",
+   "of",
+   "King",
+   "POJd",
+   "'",
+   "Be",
+   "glum",
+   "inav",
+   "enter",
+   "n",
+   "coment",
+   "In",
+   "the",
+   "ncn",
+   "future.",
+   "Her",
+   "fthr'fl",
+   "libertinism",
+   "?",
+   "buital",
+   "t.eatment",
+   "of",
+   "her",
+   "sister,",
+   "the",
+   "Princess",
+   "Stephanie",
+   "have",
+   ".m",
+   "i.innt.ii",
+   "In",
+   "moduclug",
+   "this",
+   "icsolutlor,",
+   "In",
+   "tho",
+   "miuu",
+   "or",
+   "u",
+   "youmsi-",
+   "the",
+   "peoplo",
+   "and",
+   "tho",
+   "court",
+   "circles",
+   "of"
+  ],
+  "page_seq_num": 909,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_bravo_ver01\/data\/sn84028140\/00237283569\/1902110401\/0909.jp2",
+  "place_of_publication": "Akron, Ohio",
+  "pub_date": "1902-11-04",
+  "publisher": "William B. and Russell T. Dobson",
+  "score": 0.9336794018745422,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_bravo_ver01\/data\/sn84028140\/00237283569\/1902110401\/0909\/011_0_93.jpg"
+ },
+ "id": 554
+}

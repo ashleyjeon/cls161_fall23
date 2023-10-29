@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611758492,
+   "id": 1535001,
+   "lead_time": 6.36,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "a8aFUW2IuJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_lilac_ver02",
+  "box": [
+   0.7022809423942477,
+   0.06058117973245008,
+   0.8356087392052107,
+   0.24888451090788583
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_lilac_ver02\/data\/sn83025121\/00212474204\/1914051901\/0330\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_lilac_ver02%2Fdata%2Fsn83025121%2F00212474204%2F1914051901%2F0330.jp2\/pct:70.22,6.06,13.34,18.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn83025121",
+  "name": "The Hawaiian gazette. [volume]",
+  "ocr": [
+   "PROPY",
+   "L-",
+   "0.",
+   "'",
+   "BLACKMAIL-",
+   "\"",
+   "A.",
+   "Principal",
+   "of",
+   "Honolulu",
+   "School",
+   "for",
+   "to",
+   "Succeed"
+  ],
+  "page_seq_num": 330,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_lilac_ver02\/data\/sn83025121\/00212474204\/1914051901\/0330.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1914-05-19",
+  "publisher": "Published ... by J.H. Black at the G.P.O.",
+  "score": 0.9842145442962646,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_lilac_ver02\/data\/sn83025121\/00212474204\/1914051901\/0330\/006_0_98.jpg"
+ },
+ "id": 1535
+}

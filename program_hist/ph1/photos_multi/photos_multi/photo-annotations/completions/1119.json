@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767827,
+   "id": 1119001,
+   "lead_time": 4.105,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mVnmJoyjQS",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_juliet_ver01",
+  "box": [
+   0.3315865945496015,
+   0.15372540144970193,
+   0.690143081699175,
+   0.3284265072918935
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_juliet_ver01\/data\/sn88077573\/00237283545\/1909110601\/0298\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Ohio--Marion--Marion"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_juliet_ver01%2Fdata%2Fsn88077573%2F00237283545%2F1909110601%2F0298.jp2\/pct:33.15,15.38,35.86,17.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn88077573",
+  "name": "The Marion daily mirror.",
+  "ocr": [
+   "l2S-fesS&w,",
+   "J",
+   "it&M::",
+   "-\"kxk-",
+   "ff",
+   "nff-",
+   "IliBI",
+   "jiff",
+   "Wl",
+   "canvas",
+   "soAT.Tr\"",
+   "s,\"4s.",
+   ",",
+   "'",
+   "-2PL.",
+   "tv",
+   "a",
+   "sJW"
+  ],
+  "page_seq_num": 298,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_juliet_ver01\/data\/sn88077573\/00237283545\/1909110601\/0298.jp2",
+  "place_of_publication": "Marion, Ohio",
+  "pub_date": "1909-11-06",
+  "publisher": "Mirror Pub. Co.",
+  "score": 0.9341986775398254,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_juliet_ver01\/data\/sn88077573\/00237283545\/1909110601\/0298\/003_0_93.jpg"
+ },
+ "id": 1119
+}

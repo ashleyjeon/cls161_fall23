@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747772,
+   "id": 1285001,
+   "lead_time": 1.833,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "umDPXss3QQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_eastford_ver01",
+  "box": [
+   0.03516844815986101,
+   0.0892337563849646,
+   0.139972666295142,
+   0.18251262593205428
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_eastford_ver01\/data\/sn84022472\/00295866755\/1911102101\/0518\/004_0_96.jpg",
+  "geographic_coverage": [
+   "Connecticut--Fairfield--Bridgeport"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_eastford_ver01%2Fdata%2Fsn84022472%2F00295866755%2F1911102101%2F0518.jp2\/pct:3.51,8.93,10.49,9.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022472",
+  "name": "The Bridgeport evening farmer. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 518,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_eastford_ver01\/data\/sn84022472\/00295866755\/1911102101\/0518.jp2",
+  "place_of_publication": "Bridgeport, Conn.",
+  "pub_date": "1911-10-21",
+  "publisher": "Pomeroy, Gould & Co.",
+  "score": 0.96602463722229,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_eastford_ver01\/data\/sn84022472\/00295866755\/1911102101\/0518\/004_0_96.jpg"
+ },
+ "id": 1285
+}

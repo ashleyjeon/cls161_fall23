@@ -1,0 +1,115 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772530,
+   "id": 1027001,
+   "lead_time": 3.816,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LBvSkrJcIY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_edenville_ver01",
+  "box": [
+   0.4331913385555527,
+   0.08026477715449813,
+   0.6936395158525175,
+   0.2574495052007099
+  ],
+  "edition_seq_num": 2,
+  "filepath": "mimtptc_edenville_ver01\/data\/sn83016689\/00279551461\/1908062002\/0334\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_edenville_ver01%2Fdata%2Fsn83016689%2F00279551461%2F1908062002%2F0334.jp2\/pct:43.31,8.03,26.05,17.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "and",
+   "Will",
+   "\u2018Probably",
+   "Start",
+   "in",
+   "M.",
+   "3",
+   "M.",
+   "ULNt'OIIII.",
+   "Bay",
+   "Mnlllon",
+   "by",
+   "Iti-drhut*.",
+   "onard",
+   "by",
+   "W.",
+   "\\\\.",
+   "Collier",
+   "aad",
+   "Ur\u2014",
+   "1-.",
+   "Ur\u00ab-la*\u00ab-Urr.",
+   "(Is",
+   "h\u00abi\u00bb",
+   "br",
+   "ru",
+   "\u25a0",
+   "mil*",
+   "In",
+   "1:15",
+   "for",
+   "K\u00ab\u00bb",
+   "Urn>wu",
+   "du\u00abn",
+   "auiith.",
+   "and",
+   "la",
+   "anlti",
+   "lo",
+   "br",
+   "\u25a0<",
+   "Bound",
+   "aa",
+   "a",
+   "ur\u00bb-inlllrd",
+   "dollar.",
+   "Ilia",
+   "\\",
+   "lolory",
+   "In",
+   "thr",
+   "M.",
+   "\u00bbV",
+   "W.",
+   "alaltr",
+   "brrr",
+   "ur\\t",
+   "mouth",
+   "omild",
+   "br",
+   "Ihr",
+   "moat",
+   "popular",
+   "rrault",
+   "poaalblr."
+  ],
+  "page_seq_num": 334,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551461\/1908062002\/0334.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1908-06-20",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9889206886291504,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_edenville_ver01\/data\/sn83016689\/00279551461\/1908062002\/0334\/002_0_98.jpg"
+ },
+ "id": 1027
+}

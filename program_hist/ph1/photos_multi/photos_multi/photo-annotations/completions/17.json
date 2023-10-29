@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768536,
+   "id": 17001,
+   "lead_time": 1.738,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BzhCC7QNgf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_grace_ver02",
+  "box": [
+   0.17114937169629163,
+   0.30204284860508673,
+   0.3036721553016816,
+   0.42376812955934545
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_grace_ver02\/data\/sn83045604\/00202199355\/1895100301\/0100\/009_0_94.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_grace_ver02%2Fdata%2Fsn83045604%2F00202199355%2F1895100301%2F0100.jp2\/pct:17.11,30.21,13.26,12.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+   "A",
+   "N",
+   "1",
+   "\u00bbREW",
+   "P.",
+   "BCRLEIGH"
+  ],
+  "page_seq_num": 100,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_grace_ver02\/data\/sn83045604\/00202199355\/1895100301\/0100.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1895-10-03",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.944799542427063,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_grace_ver02\/data\/sn83045604\/00202199355\/1895100301\/0100\/009_0_94.jpg"
+ },
+ "id": 17
+}

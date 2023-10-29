@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772532,
+   "id": 1730001,
+   "lead_time": 1.567,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mqL94A7sKf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_geronimo_ver01",
+  "box": [
+   0.2006367805455036,
+   0.05328423244948875,
+   0.7088977645234641,
+   0.27111605467873373
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_geronimo_ver01\/data\/sn85042303\/00200296849\/1917101501\/0137\/002_0_99.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Carter--Ardmore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_geronimo_ver01%2Fdata%2Fsn85042303%2F00200296849%2F1917101501%2F0137.jp2\/pct:20.06,5.33,50.83,21.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042303",
+  "name": "The Daily Ardmoreite. [volume]",
+  "ocr": [
+   "lo",
+   "Leading",
+   "Factors",
+   "In-Giants'",
+   "First",
+   "Victory",
+   "and",
+   "Mayor",
+   "Who",
+   "Threw",
+   "Out",
+   "First",
+   "Ball",
+   "u",
+   ",15",
+   "'",
+   "-",
+   "'",
+   "Til",
+   ".Jfc,'j'",
+   ",",
+   "-",
+   "-v",
+   "V",
+   "At",
+   "the",
+   "left.",
+   "Rube",
+   "ttenton.",
+   "ho",
+   "hut",
+   "out",
+   "the",
+   "White",
+   "Mox.",
+   "A",
+   "t",
+   "the",
+   "riaht.",
+   "I!e",
+   "Kuliertmni.",
+   "wlio",
+   "bitr",
+   "ntii",
+   "k",
+   "liim-heil",
+   "the",
+   "k-anie.",
+   "S\"",
+   ".",
+   "1"
+  ],
+  "page_seq_num": 137,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_geronimo_ver01\/data\/sn85042303\/00200296849\/1917101501\/0137.jp2",
+  "place_of_publication": "Ardmore, Okla.",
+  "pub_date": "1917-10-15",
+  "publisher": "John F. Easley",
+  "score": 0.9926064014434814,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_geronimo_ver01\/data\/sn85042303\/00200296849\/1917101501\/0137\/002_0_99.jpg"
+ },
+ "id": 1730
+}

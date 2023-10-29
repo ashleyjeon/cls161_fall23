@@ -1,0 +1,45 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757539,
+   "id": 1069001,
+   "lead_time": 3.239,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_clabbert_ver01",
+  "box": [
+   0.32741670512405513,
+   0.29907791227528385,
+   0.6261027337188549,
+   0.39618843919194174
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_clabbert_ver01\/data\/sn85040451\/00414215166\/1908051301\/0999\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Vernon--Viroqua"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_clabbert_ver01%2Fdata%2Fsn85040451%2F00414215166%2F1908051301%2F0999.jp2\/pct:32.74,29.91,29.87,9.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040451",
+  "name": "Vernon County censor. [volume]",
+  "ocr": [
+   "-",
+   "'Jr-",
+   "IzrJznFlzr.~P",
+   "-",
+   "fzz&z.",
+   "lSiSEiF"
+  ],
+  "page_seq_num": 999,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_clabbert_ver01\/data\/sn85040451\/00414215166\/1908051301\/0999.jp2",
+  "place_of_publication": "Viroqua, Wis.",
+  "pub_date": "1908-05-13",
+  "publisher": "[publisher not identified]",
+  "score": 0.9646960496902466,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_clabbert_ver01\/data\/sn85040451\/00414215166\/1908051301\/0999\/003_0_96.jpg"
+ },
+ "id": 1069
+}

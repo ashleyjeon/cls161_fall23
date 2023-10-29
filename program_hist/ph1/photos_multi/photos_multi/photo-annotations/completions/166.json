@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768809,
+   "id": 166001,
+   "lead_time": 1.98,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zNqImnRorJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_willys_ver01",
+  "box": [
+   0.34755585159080615,
+   0.5720323575253519,
+   0.5054268215013586,
+   0.750972358754139
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_willys_ver01\/data\/sn83030214\/00175039119\/1897070201\/0022\/002_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_willys_ver01%2Fdata%2Fsn83030214%2F00175039119%2F1897070201%2F0022.jp2\/pct:34.75,57.21,15.79,17.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "R'lLBUR",
+   "P.",
+   "WAKEMAN,",
+   "newly",
+   "appointed",
+   "Appraiser",
+   "of",
+   "t!",
+   "New",
+   "V.rk.",
+   "P?.ft",
+   "of"
+  ],
+  "page_seq_num": 22,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_willys_ver01\/data\/sn83030214\/00175039119\/1897070201\/0022.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1897-07-02",
+  "publisher": "New York Tribune",
+  "score": 0.9790102243423462,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_willys_ver01\/data\/sn83030214\/00175039119\/1897070201\/0022\/002_0_97.jpg"
+ },
+ "id": 166
+}

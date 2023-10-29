@@ -1,0 +1,88 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768641,
+   "id": 1001001,
+   "lead_time": 2.021,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xr0vDQHW58",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_quarrie_ver01",
+  "box": [
+   0.2781571922833769,
+   0.1217589850041238,
+   0.7326092326500536,
+   0.36809891774470077
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_quarrie_ver01\/data\/sn99021999\/00280779027\/1908110801\/0054\/002_0_96.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_quarrie_ver01%2Fdata%2Fsn99021999%2F00280779027%2F1908110801%2F0054.jp2\/pct:27.81,12.18,45.45,24.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   ":!",
+   "-tec",
+   "vYvufc?",
+   "V",
+   "lAi-r",
+   "H,",
+   "t",
+   "v-;\"v.'..",
+   "...",
+   ".i",
+   ".",
+   "'",
+   "'",
+   ".",
+   "'.i-rti",
+   ".",
+   "-",
+   "-S.,'J.it-",
+   "X-",
+   "-",
+   "--",
+   "--",
+   "'",
+   "\"'",
+   "JUDGE",
+   "rLtT,",
+   "GOVERNOR",
+   "SHELDON",
+   "AND",
+   "NOTABLE",
+   "NEBRASKA",
+   "REPUBLICANS",
+   "ON",
+   "THE",
+   "STEPS",
+   "AT",
+   "THE",
+   "OMAHA.",
+   "CLUB."
+  ],
+  "page_seq_num": 54,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_quarrie_ver01\/data\/sn99021999\/00280779027\/1908110801\/0054.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1908-11-08",
+  "publisher": "Edward Rosewater",
+  "score": 0.9676921963691711,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_quarrie_ver01\/data\/sn99021999\/00280779027\/1908110801\/0054\/002_0_96.jpg"
+ },
+ "id": 1001
+}

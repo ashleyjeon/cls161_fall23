@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768040,
+   "id": 408001,
+   "lead_time": 2.636,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "D1ATXelL2a",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "me_baxter_ver01",
+  "box": [
+   0.43780495237291817,
+   0.2859638260891339,
+   0.5417183335668695,
+   0.47075249066985436
+  ],
+  "edition_seq_num": 1,
+  "filepath": "me_baxter_ver01\/data\/sn83009653\/00279524160\/1900062601\/0315\/001_0_95.jpg",
+  "geographic_coverage": [
+   "Maine--Oxford--Paris",
+   "Maine--Oxford--South Paris"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/me_baxter_ver01%2Fdata%2Fsn83009653%2F00279524160%2F1900062601%2F0315.jp2\/pct:43.78,28.6,10.4,18.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn83009653",
+  "name": "Oxford Democrat. [volume]",
+  "ocr": [
+   "PRESIDENT",
+   "M",
+   "KINLEY.",
+   "The",
+   "national",
+   "Republican",
+   "convention",
+   "amembled",
+   "Tuesday",
+   "In",
+   "the",
+   "great",
+   "export",
+   "exposition",
+   "building",
+   "In",
+   "West",
+   "Philadel",
+   "phia.",
+   "Here,",
+   "amid",
+   "the",
+   "swelling",
+   "memories",
+   "of",
+   "half",
+   "a",
+   "century,",
+   "and",
+   "In",
+   "the",
+   "presence",
+   "of",
+   "men",
+   "who",
+   "saw",
+   "the",
+   "bloud-etalned",
+   "cloud#"
+  ],
+  "page_seq_num": 315,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/me_baxter_ver01\/data\/sn83009653\/00279524160\/1900062601\/0315.jp2",
+  "place_of_publication": "Paris, Me.",
+  "pub_date": "1900-06-26",
+  "publisher": "Millett & King",
+  "score": 0.9599074125289917,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/me_baxter_ver01\/data\/sn83009653\/00279524160\/1900062601\/0315\/001_0_95.jpg"
+ },
+ "id": 408
+}

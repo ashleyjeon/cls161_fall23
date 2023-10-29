@@ -1,0 +1,104 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673476,
+   "id": 1812001,
+   "lead_time": 1.805,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "hkVR0JpCTF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_lenarian_ver01",
+  "box": [
+   0.49071590195564924,
+   0.10791533921003643,
+   0.605950572764161,
+   0.3026155537072243
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_lenarian_ver01\/data\/sn85042224\/00383346277\/1918031401\/0631\/005_0_98.jpg",
+  "geographic_coverage": [
+   "North Dakota--Cass--Fargo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_lenarian_ver01%2Fdata%2Fsn85042224%2F00383346277%2F1918031401%2F0631.jp2\/pct:49.07,10.8,11.53,19.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042224",
+  "name": "The Fargo forum and daily republican. [volume]",
+  "ocr": [
+   "wm",
+   "mpfe",
+   "\"Many",
+   "of",
+   "the",
+   "automobile",
+   "factories",
+   "are",
+   "behind",
+   "with",
+   "their",
+   "orders,",
+   "and",
+   "freights",
+   "are",
+   "slow,\"",
+   "said",
+   "Mr.",
+   "Schranz.",
+   "I",
+   "strongly",
+   "advise",
+   "anyone",
+   "who",
+   "in",
+   "tends",
+   "to",
+   "buy",
+   "a",
+   "machine",
+   "to",
+   "get",
+   "the",
+   "order",
+   "in",
+   "as",
+   "early",
+   "as",
+   "possible.\"",
+   "The",
+   "Schranz",
+   "Bros.",
+   "Auto",
+   "company",
+   "is",
+   "exhibiting",
+   "at",
+   "the",
+   "fifth",
+   "annual",
+   "auto-",
+   "|B",
+   "rAlilUillll|t",
+   "mobile",
+   "show."
+  ],
+  "page_seq_num": 631,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_lenarian_ver01\/data\/sn85042224\/00383346277\/1918031401\/0631.jp2",
+  "place_of_publication": "Fargo, N.D.",
+  "pub_date": "1918-03-14",
+  "publisher": "A.W. Edwards & H.C. Plumley",
+  "score": 0.9812999367713928,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_lenarian_ver01\/data\/sn85042224\/00383346277\/1918031401\/0631\/005_0_98.jpg"
+ },
+ "id": 1812
+}

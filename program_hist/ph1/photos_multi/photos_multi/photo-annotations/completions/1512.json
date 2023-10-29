@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747235,
+   "id": 1512001,
+   "lead_time": 7.885,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "izXgVKlk4m",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_elizabeth_ver01",
+  "box": [
+   0.3176221832324063,
+   0.5423161632959637,
+   0.4413482812032745,
+   0.7465900407237241
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_elizabeth_ver01\/data\/sn85040721\/00271769544\/1914120801\/0251\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Dodge--Watertown",
+   "Wisconsin--Jefferson--Watertown"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_elizabeth_ver01%2Fdata%2Fsn85040721%2F00271769544%2F1914120801%2F0251.jp2\/pct:31.76,54.24,12.38,20.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040721",
+  "name": "The Watertown weekly leader. [volume]",
+  "ocr": [
+   "JSL.",
+   "'*",
+   "tv",
+   "*",
+   "t-g",
+   ">..\/",
+   "\"",
+   "c",
+   ">\u25a0:",
+   "<",
+   "-",
+   "-",
+   "..",
+   "..",
+   "<",
+   "\u25a0>v-;",
+   "v",
+   ":",
+   "<v",
+   ">v",
+   "\u25a0",
+   "fW-sfnifX",
+   "-\u2022>",
+   "aBHWW",
+   "HhT",
+   "\u201cOh,",
+   "Come,",
+   "Come!\u201d",
+   "She",
+   "Cried",
+   "Wildly."
+  ],
+  "page_seq_num": 251,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_elizabeth_ver01\/data\/sn85040721\/00271769544\/1914120801\/0251.jp2",
+  "place_of_publication": "Watertown, Jefferson County, Wis.",
+  "pub_date": "1914-12-08",
+  "publisher": "W.L. Swift",
+  "score": 0.9859001040458679,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_elizabeth_ver01\/data\/sn85040721\/00271769544\/1914120801\/0251\/000_0_98.jpg"
+ },
+ "id": 1512
+}

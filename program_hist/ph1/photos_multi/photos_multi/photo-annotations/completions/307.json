@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748157,
+   "id": 307001,
+   "lead_time": 1.794,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KdzJ6SGqIk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_ibizanhound_ver01",
+  "box": [
+   0.2933313785861365,
+   0.2282359058386453,
+   0.42704027752543605,
+   0.3902004362141117
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_ibizanhound_ver01\/data\/sn83045462\/0028065520A\/1898051201\/0035\/004_0_90.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_ibizanhound_ver01%2Fdata%2Fsn83045462%2F0028065520A%2F1898051201%2F0035.jp2\/pct:29.33,22.83,13.38,16.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "Capt.",
+   "Charles",
+   "E.",
+   "Clark,",
+   "Commanding",
+   "the",
+   "U.",
+   "S.",
+   "Battleship",
+   "Orepnti."
+  ],
+  "page_seq_num": 35,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_ibizanhound_ver01\/data\/sn83045462\/0028065520A\/1898051201\/0035.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1898-05-12",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9061868786811829,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_ibizanhound_ver01\/data\/sn83045462\/0028065520A\/1898051201\/0035\/004_0_90.jpg"
+ },
+ "id": 307
+}

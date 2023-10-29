@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673446,
+   "id": 323001,
+   "lead_time": 1.818,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oaM5naxzEt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_emerson_ver01",
+  "box": [
+   0.054786764720457334,
+   0.31877906285419366,
+   0.39205499011544315,
+   0.5580195767891839
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899082701\/0531\/003_0_96.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_emerson_ver01%2Fdata%2Fsn99021999%2F00206539483%2F1899082701%2F0531.jp2\/pct:5.47,31.88,33.73,23.93\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "THE",
+   "FOUR",
+   "STORCH",
+   "BROTHEKS",
+   "Courtesy",
+   "of",
+   "W.",
+   "H.",
+   "Totten",
+   ",",
+   "Fullerton",
+   ",",
+   "Neb."
+  ],
+  "page_seq_num": 531,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899082701\/0531.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1899-08-27",
+  "publisher": "Edward Rosewater",
+  "score": 0.9629346132278442,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_emerson_ver01\/data\/sn99021999\/00206539483\/1899082701\/0531\/003_0_96.jpg"
+ },
+ "id": 323
+}

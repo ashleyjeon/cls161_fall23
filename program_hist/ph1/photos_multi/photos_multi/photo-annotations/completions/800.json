@@ -1,0 +1,95 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749252,
+   "id": 800001,
+   "lead_time": 2.225,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dqwlufAvFK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_jamaica_ver01",
+  "box": [
+   0.0,
+   0.019251425844447164,
+   0.9657199866347002,
+   0.18830572227041467
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_jamaica_ver01\/data\/sn83030214\/00175041229\/1905022701\/0556\/011_0_92.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_jamaica_ver01%2Fdata%2Fsn83030214%2F00175041229%2F1905022701%2F0556.jp2\/pct:0.0,1.93,96.58,16.91\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "BROOKI\/n*",
+   "PUBLTC",
+   "LIBRARY.",
+   "t.:ra!ior.",
+   "building,",
+   "Brevoort",
+   "FJace,",
+   "corner",
+   "of",
+   "Bedford",
+   "Place.",
+   "EDUCATIONAL",
+   "INSTITUTIONS",
+   "IN",
+   "BROOKLYN",
+   "THAT",
+   "MIGHT",
+   "FORM",
+   "THE",
+   "NUCLEUS",
+   "OF",
+   "THE",
+   "PROPOSED",
+   "rN7VF.RSITY.",
+   "PACKARD",
+   "SCHOOL.",
+   "Joralemon-st.",
+   "ADKLPHI",
+   "COLLEGE.",
+   "OXE",
+   "OF",
+   "THE",
+   "PRATT",
+   "BUILDINGS.",
+   "Ryeraon-ati",
+   "BROOKLYN",
+   "POLYTKCHNTC",
+   "INSTITUTE.",
+   "Llvingston-st.",
+   "LONG",
+   "ISLAND",
+   "MEDICAL",
+   "COLT.",
+   "CO?:.",
+   "Henry",
+   "-st."
+  ],
+  "page_seq_num": 556,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_jamaica_ver01\/data\/sn83030214\/00175041229\/1905022701\/0556.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1905-02-27",
+  "publisher": "New York Tribune",
+  "score": 0.9282152652740479,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_jamaica_ver01\/data\/sn83030214\/00175041229\/1905022701\/0556\/011_0_92.jpg"
+ },
+ "id": 800
+}

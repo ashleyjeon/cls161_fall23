@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747252,
+   "id": 1147001,
+   "lead_time": 4.568,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QJ8-9gO9qG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_flyingsquirrel_ver02",
+  "box": [
+   0.16818741264693235,
+   0.04572334995976201,
+   0.4287838017174957,
+   0.258328049271195
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_flyingsquirrel_ver02\/data\/sn85053089\/00294554671\/1909070901\/0224\/005_0_96.jpg",
+  "geographic_coverage": [
+   "Montana--Roosevelt--Culbertson"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_flyingsquirrel_ver02%2Fdata%2Fsn85053089%2F00294554671%2F1909070901%2F0224.jp2\/pct:16.81,4.58,26.06,21.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn85053089",
+  "name": "The searchlight. [volume]",
+  "ocr": [
+   "8Iw",
+   "-'",
+   "a1",
+   "O.\"-",
+   "am",
+   "a",
+   "tsd..",
+   "7a",
+   "Ji.",
+   "s..",
+   "\u00b7rwri",
+   "A",
+   "o",
+   "A",
+   "Hord",
+   "of",
+   "Pat",
+   "stout",
+   "Rssdy",
+   "for",
+   "Msrkst"
+  ],
+  "page_seq_num": 224,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_flyingsquirrel_ver02\/data\/sn85053089\/00294554671\/1909070901\/0224.jp2",
+  "place_of_publication": "Culbertson, Mont.",
+  "pub_date": "1909-07-09",
+  "publisher": "F.S. Reed",
+  "score": 0.9693370461463928,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_flyingsquirrel_ver02\/data\/sn85053089\/00294554671\/1909070901\/0224\/005_0_96.jpg"
+ },
+ "id": 1147
+}

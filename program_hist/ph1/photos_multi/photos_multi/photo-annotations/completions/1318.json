@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750821,
+   "id": 1318001,
+   "lead_time": 1.578,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "A4jmX6G_dl",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_dubnium_ver01",
+  "box": [
+   0.3487783699981437,
+   0.4158307218003547,
+   0.49363894501993477,
+   0.6362777797655127
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_dubnium_ver01\/data\/sn86069496\/0021110420A\/1912103001\/0346\/007_0_94.jpg",
+  "geographic_coverage": [
+   "Kentucky--Adair--Columbia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_dubnium_ver01%2Fdata%2Fsn86069496%2F0021110420A%2F1912103001%2F0346.jp2\/pct:34.87,41.59,14.49,22.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069496",
+  "name": "The Adair County news. [volume]",
+  "ocr": [
+   "8gwyi!W'.'.VFj.vaia.l..jiw.\"-.:i-.rinH",
+   "c",
+   "i",
+   "IM'V.",
+   "T.",
+   "1",
+   "Oct",
+   "129-Nov.",
+   "1.",
+   "With",
+   "his",
+   "bright",
+   "snide",
+   "he",
+   "has",
+   "brought",
+   "joy",
+   "to",
+   "many",
+   "lives",
+   "and",
+   "has",
+   "made",
+   "the",
+   "Uihle",
+   "an",
+   "open",
+   "book",
+   "in",
+   "I",
+   "?",
+   "1"
+  ],
+  "page_seq_num": 346,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_dubnium_ver01\/data\/sn86069496\/0021110420A\/1912103001\/0346.jp2",
+  "place_of_publication": "Columbia, Ky.",
+  "pub_date": "1912-10-30",
+  "publisher": "Chas. S. Harris",
+  "score": 0.9417681694030762,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_dubnium_ver01\/data\/sn86069496\/0021110420A\/1912103001\/0346\/007_0_94.jpg"
+ },
+ "id": 1318
+}

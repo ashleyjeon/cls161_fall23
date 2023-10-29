@@ -1,0 +1,100 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766705,
+   "id": 1367001,
+   "lead_time": 4.242,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oTotR404cb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_mateer_ver01",
+  "box": [
+   0.5340590631575358,
+   0.3249951018004858,
+   0.9364448223922616,
+   0.5297818223969275
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_mateer_ver01\/data\/sn86081889\/00212477941\/1912070201\/0723\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Fulton--McConnellsburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_mateer_ver01%2Fdata%2Fsn86081889%2F00212477941%2F1912070201%2F0723.jp2\/pct:53.4,32.5,40.24,20.48\/!500,500\/0\/default.jpg",
+  "lccn": "sn86081889",
+  "name": "The Fulton County news. [volume]",
+  "ocr": [
+   "FLYING",
+   "BOAT",
+   "AMERICA",
+   "STANDS",
+   "TESTS",
+   "WELL",
+   "h",
+   "Him",
+   "Uv",
+   "i",
+   "h",
+   "v",
+   "i",
+   "A\"",
+   "Tho",
+   "Wanamaker-Curtiss",
+   "hydroaeroplano",
+   "America,",
+   "built",
+   "for",
+   "the",
+   "transatlantic",
+   "flight",
+   "nnd",
+   "here",
+   "shown",
+   "Immediately",
+   "after",
+   "its",
+   "launching",
+   "at",
+   "Hummondsport,",
+   "N.",
+   "Y.,",
+   "la",
+   "being",
+   "given",
+   "severe",
+   "tests",
+   "and",
+   "is",
+   "proving",
+   "most",
+   "satisfactory",
+   "to",
+   "Lieu",
+   "tenant",
+   "Porte,",
+   "its",
+   "pilot."
+  ],
+  "page_seq_num": 723,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_mateer_ver01\/data\/sn86081889\/00212477941\/1912070201\/0723.jp2",
+  "place_of_publication": "McConnellsburg, Pa.",
+  "pub_date": "1912-07-02",
+  "publisher": "[publisher not identified]",
+  "score": 0.976091206073761,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_mateer_ver01\/data\/sn86081889\/00212477941\/1912070201\/0723\/001_0_97.jpg"
+ },
+ "id": 1367
+}

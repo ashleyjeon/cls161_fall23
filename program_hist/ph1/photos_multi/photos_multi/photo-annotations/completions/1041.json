@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748419,
+   "id": 1041001,
+   "lead_time": 2.058,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1D1bTMcYEj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.018497488641792893,
+   0.25898377141277706,
+   0.1264957069405613,
+   0.4028386394894235
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107443\/1908092801\/0617\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107443%2F1908092801%2F0617.jp2\/pct:1.84,25.9,10.8,14.39\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "S.",
+   "FULTON.",
+   "GENERAL",
+   "SECRETARY."
+  ],
+  "page_seq_num": 617,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107443\/1908092801\/0617.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1908-09-28",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9726129770278931,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107443\/1908092801\/0617\/005_0_97.jpg"
+ },
+ "id": 1041
+}

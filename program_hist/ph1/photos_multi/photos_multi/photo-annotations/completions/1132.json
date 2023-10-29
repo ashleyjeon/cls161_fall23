@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768837,
+   "id": 1132001,
+   "lead_time": 1.734,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "L9UrlhY2Vo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_twelve_ver01",
+  "box": [
+   0.13836595393085235,
+   0.06307844682173296,
+   0.8277070111664524,
+   0.4039546342329545
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_twelve_ver01\/data\/sn83045555\/00175049198\/1909011301\/0159\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_twelve_ver01%2Fdata%2Fsn83045555%2F00175049198%2F1909011301%2F0159.jp2\/pct:13.83,6.31,68.94,34.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "I",
+   "I",
+   "Hilla",
+   "Pint",
+   "TO",
+   "THE"
+  ],
+  "page_seq_num": 159,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_twelve_ver01\/data\/sn83045555\/00175049198\/1909011301\/0159.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1909-01-13",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9948979020118713,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_twelve_ver01\/data\/sn83045555\/00175049198\/1909011301\/0159\/000_0_99.jpg"
+ },
+ "id": 1132
+}

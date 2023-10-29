@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762873,
+   "id": 1991001,
+   "lead_time": 1.617,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "G6a7kcTERM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_austen_ver01",
+  "box": [
+   0.4279027736772246,
+   0.6705769230769231,
+   0.5519599618837815,
+   0.8697066556490385
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_austen_ver01\/data\/sn94056869\/00415626824\/1920121601\/0350\/002_0_94.jpg",
+  "geographic_coverage": [
+   "New Mexico--Santa Fe--Santa Fe"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_austen_ver01%2Fdata%2Fsn94056869%2F00415626824%2F1920121601%2F0350.jp2\/pct:42.79,67.06,12.41,19.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn94056869",
+  "name": "El Nuevo mexicano.",
+  "ocr": [
+   "I",
+   "'",
+   "1",
+   "1",
+   "'",
+   ":",
+   "!",
+   "G..-V",
+   "tve",
+   "1",
+   "i!r",
+   "t",
+   "I'.",
+   "1"
+  ],
+  "page_seq_num": 350,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_austen_ver01\/data\/sn94056869\/00415626824\/1920121601\/0350.jp2",
+  "place_of_publication": "Santa Fe, N.M.",
+  "pub_date": "1920-12-16",
+  "publisher": "La Ci\u0301a. Publicista de Nuevo Mexicano",
+  "score": 0.941926896572113,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_austen_ver01\/data\/sn94056869\/00415626824\/1920121601\/0350\/002_0_94.jpg"
+ },
+ "id": 1991
+}

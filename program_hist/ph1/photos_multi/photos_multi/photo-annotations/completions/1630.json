@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747993,
+   "id": 1630001,
+   "lead_time": 3.029,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "82mf9wjjJ9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_doxy_ver01",
+  "box": [
+   0.5543712114703682,
+   0.6905310403884152,
+   0.8109257279631821,
+   0.8774124627898815
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_doxy_ver01\/data\/sn85040451\/00414214617\/1916083001\/0282\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Vernon--Viroqua"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_doxy_ver01%2Fdata%2Fsn85040451%2F00414214617%2F1916083001%2F0282.jp2\/pct:55.43,69.06,25.66,18.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040451",
+  "name": "Vernon County censor. [volume]",
+  "ocr": [
+   "OUTDOOR",
+   "ARMY",
+   "BAKERY",
+   "AT",
+   "NOGALES",
+   "In",
+   "this",
+   "outdooi",
+   "bakery",
+   "of",
+   "the",
+   "United",
+   "States",
+   "army",
+   "ai",
+   "Nogales",
+   "5,000",
+   "loaves",
+   "of",
+   "bread",
+   "are",
+   "baked",
+   "daily",
+   "for",
+   "the",
+   "troops",
+   "stationed",
+   "at",
+   "that",
+   "piace."
+  ],
+  "page_seq_num": 282,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_doxy_ver01\/data\/sn85040451\/00414214617\/1916083001\/0282.jp2",
+  "place_of_publication": "Viroqua, Wis.",
+  "pub_date": "1916-08-30",
+  "publisher": "[publisher not identified]",
+  "score": 0.9515432119369507,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_doxy_ver01\/data\/sn85040451\/00414214617\/1916083001\/0282\/002_0_95.jpg"
+ },
+ "id": 1630
+}

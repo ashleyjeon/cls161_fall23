@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749657,
+   "id": 694001,
+   "lead_time": 3.364,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "mnaezfINf3",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_mill_ver01",
+  "box": [
+   0.25926574127812685,
+   0.6536276338279082,
+   0.6086929701401246,
+   0.8933185079823369
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_mill_ver01\/data\/sn83030193\/175044474\/1904070901\/0105\/000_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_mill_ver01%2Fdata%2Fsn83030193%2F175044474%2F1904070901%2F0105.jp2\/pct:25.92,65.37,34.95,23.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "The",
+   "Upside",
+   "Down",
+   "Ballet",
+   "Isnt",
+   "Downside",
+   "Up",
+   "pIffJltig",
+   "r1",
+   "1",
+   "ZtOl11l7tcrJfl",
+   "nfl",
+   "PCr",
+   "talk"
+  ],
+  "page_seq_num": 105,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_mill_ver01\/data\/sn83030193\/175044474\/1904070901\/0105.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1904-07-09",
+  "publisher": "[publisher not identified]",
+  "score": 0.9848078489303589,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_mill_ver01\/data\/sn83030193\/175044474\/1904070901\/0105\/000_0_98.jpg"
+ },
+ "id": 694
+}

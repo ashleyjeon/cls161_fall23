@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741289,
+   "id": 82001,
+   "lead_time": 4.839,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "onX3HsSZPz",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_tower_ver01",
+  "box": [
+   0.05155376865730048,
+   0.6010327008751192,
+   0.30837433866804875,
+   0.7526157813244994
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_tower_ver01\/data\/sn90059522\/00206536925\/1896051001\/0125\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_tower_ver01%2Fdata%2Fsn90059522%2F00206536925%2F1896051001%2F0125.jp2\/pct:5.15,60.11,25.69,15.16\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059522",
+  "name": "St. Paul daily globe. [volume]",
+  "ocr": [
+   "IN",
+   "THE",
+   "LINOTYPE",
+   "ROOM."
+  ],
+  "page_seq_num": 125,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_tower_ver01\/data\/sn90059522\/00206536925\/1896051001\/0125.jp2",
+  "place_of_publication": "Saint Paul, Minn.",
+  "pub_date": "1896-05-10",
+  "publisher": "St. Paul Globe Print. Co.",
+  "score": 0.9757702350616455,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_tower_ver01\/data\/sn90059522\/00206536925\/1896051001\/0125\/001_0_97.jpg"
+ },
+ "id": 82
+}

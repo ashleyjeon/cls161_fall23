@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772403,
+   "id": 1223001,
+   "lead_time": 2.427,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "y11UGyKjL6",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_canada_ver01",
+  "box": [
+   0.8438496907552083,
+   0.22542106104261092,
+   0.9823790954039977,
+   0.4180450051188772
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_canada_ver01\/data\/sn83030214\/00175039661\/1910052101\/0421\/005_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_canada_ver01%2Fdata%2Fsn83030214%2F00175039661%2F1910052101%2F0421.jp2\/pct:84.38,22.55,13.86,19.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "THE",
+   "HUMBLEST",
+   "MOUUI",
+   "Kin?",
+   "Edward's",
+   "favorite",
+   "terrier,",
+   "who",
+   "fol",
+   "lowed",
+   "his",
+   "masters",
+   "coffin",
+   "in",
+   "yesterday*",
+   "pageant.",
+   "On",
+   "his",
+   "collar",
+   "is",
+   "engraved.",
+   "\"My",
+   "is",
+   "<",
+   "\"cesar.",
+   "I",
+   "belong",
+   "to",
+   "th*?",
+   "King.\""
+  ],
+  "page_seq_num": 421,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_canada_ver01\/data\/sn83030214\/00175039661\/1910052101\/0421.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1910-05-21",
+  "publisher": "New York Tribune",
+  "score": 0.9800323247909546,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_canada_ver01\/data\/sn83030214\/00175039661\/1910052101\/0421\/005_0_98.jpg"
+ },
+ "id": 1223
+}

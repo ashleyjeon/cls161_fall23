@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674998,
+   "id": 1090001,
+   "lead_time": 1.811,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5WsIjLwLqT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_ironweed_ver01",
+  "box": [
+   0.6850970843890766,
+   0.521496014003336,
+   0.9347789867504223,
+   0.7894047089736828
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_ironweed_ver01\/data\/sn84020616\/00280774005\/1909070101\/0425\/004_0_98.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_ironweed_ver01%2Fdata%2Fsn84020616%2F00280774005%2F1909070101%2F0425.jp2\/pct:68.5,52.15,24.97,26.8\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020616",
+  "name": "Albuquerque citizen. [volume]",
+  "ocr": [
+   "fl",
+   "Ik-",
+   "vn",
+   "pj",
+   "r",
+   "l",
+   "Ml",
+   "t?7",
+   "n",
+   ".DAVENPORT,",
+   "CX)MSTOCK,",
+   "T1MBU.V,",
+   "M.VOLiE.",
+   "Chicago's",
+   "crack",
+   "one-mile",
+   "relay",
+   "team",
+   "which",
+   "won",
+   "the",
+   "college",
+   "national",
+   "at",
+   "the",
+   "University",
+   "of",
+   "Pennsylvania's",
+   "spring",
+   "games",
+   "In3:l,",
+   "4-i"
+  ],
+  "page_seq_num": 425,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_ironweed_ver01\/data\/sn84020616\/00280774005\/1909070101\/0425.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1909-07-01",
+  "publisher": "Citizen Pub. Co.",
+  "score": 0.9870185852050781,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_ironweed_ver01\/data\/sn84020616\/00280774005\/1909070101\/0425\/004_0_98.jpg"
+ },
+ "id": 1090
+}

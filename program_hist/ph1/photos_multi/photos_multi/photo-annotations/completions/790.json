@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768400,
+   "id": 790001,
+   "lead_time": 1.77,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "igqVnN_8Ws",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_hendrix_ver01",
+  "box": [
+   0.6578875676682007,
+   0.7147506597387882,
+   0.8068817696070563,
+   0.8644226540135973
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_hendrix_ver01\/data\/sn87060004\/00175046173\/1905082401\/0744\/006_0_92.jpg",
+  "geographic_coverage": [
+   "Kentucky--Hopkins--Earlington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_hendrix_ver01%2Fdata%2Fsn87060004%2F00175046173%2F1905082401%2F0744.jp2\/pct:65.78,71.48,14.9,14.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn87060004",
+  "name": "The bee.",
+  "ocr": [
+   "coUrt",
+   "SUCHAEIi",
+   "SlEUANSKV"
+  ],
+  "page_seq_num": 744,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_hendrix_ver01\/data\/sn87060004\/00175046173\/1905082401\/0744.jp2",
+  "place_of_publication": "Earlington, Ky.",
+  "pub_date": "1905-08-24",
+  "publisher": "Bee Pub. Co.",
+  "score": 0.9254395365715027,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_hendrix_ver01\/data\/sn87060004\/00175046173\/1905082401\/0744\/006_0_92.jpg"
+ },
+ "id": 790
+}

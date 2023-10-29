@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749385,
+   "id": 1197001,
+   "lead_time": 3.419,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "adC6UkE6r9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_rubidoux_ver01",
+  "box": [
+   0.0560506649819327,
+   0.05281578226292387,
+   0.9148362070812386,
+   0.5222903312520778
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_rubidoux_ver01\/data\/sn85042462\/00175035898\/1910091101\/0253\/000_0_96.jpg",
+  "geographic_coverage": [
+   "California--Los Angeles--Los Angeles"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_rubidoux_ver01%2Fdata%2Fsn85042462%2F00175035898%2F1910091101%2F0253.jp2\/pct:5.6,5.29,85.88,46.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042462",
+  "name": "Los Angeles herald. [microfilm reel]",
+  "ocr": [
+   "THE",
+   "SIMPLE",
+   "LIFE",
+   "IN",
+   "SWITZERLAND",
+   "a;",
+   "Game",
+   "op",
+   "Foot",
+   "ball",
+   "in",
+   "Which",
+   "Both",
+   "Sexes",
+   "Partici-",
+   "9"
+  ],
+  "page_seq_num": 253,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_rubidoux_ver01\/data\/sn85042462\/00175035898\/1910091101\/0253.jp2",
+  "place_of_publication": "Los Angeles [Calif.]",
+  "pub_date": "1910-09-11",
+  "publisher": "Herald Pub. Co.",
+  "score": 0.9613447785377502,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_rubidoux_ver01\/data\/sn85042462\/00175035898\/1910091101\/0253\/000_0_96.jpg"
+ },
+ "id": 1197
+}

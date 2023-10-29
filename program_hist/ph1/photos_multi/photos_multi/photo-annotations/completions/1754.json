@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766360,
+   "id": 1754001,
+   "lead_time": 3.023,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "woCKj3hM1c",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_dachshund_ver02",
+  "box": [
+   0.4989123863386284,
+   0.03509474489067012,
+   0.8631775449393806,
+   0.19721824785513414
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_dachshund_ver02\/data\/sn83045433\/00280763913\/1917080501\/0059\/005_0_94.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_dachshund_ver02%2Fdata%2Fsn83045433%2F00280763913%2F1917080501%2F0059.jp2\/pct:49.89,3.51,36.43,16.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 59,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_dachshund_ver02\/data\/sn83045433\/00280763913\/1917080501\/0059.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1917-08-05",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9435138702392578,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_dachshund_ver02\/data\/sn83045433\/00280763913\/1917080501\/0059\/005_0_94.jpg"
+ },
+ "id": 1754
+}

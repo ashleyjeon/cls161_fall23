@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768240,
+   "id": 6001,
+   "lead_time": 2.048,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ypV0XITxwN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_cayman_ver01",
+  "box": [
+   0.17280552875564759,
+   0.4538379739731508,
+   0.3515775014118976,
+   0.6042898945923719
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_cayman_ver01\/data\/sn00065154\/00279523398\/1895092701\/0227\/002_0_94.jpg",
+  "geographic_coverage": [
+   "South Dakota--Grant--Milbank"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_cayman_ver01%2Fdata%2Fsn00065154%2F00279523398%2F1895092701%2F0227.jp2\/pct:17.28,45.39,17.88,15.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn00065154",
+  "name": "The herald-advance.",
+  "ocr": [
+   "ra"
+  ],
+  "page_seq_num": 227,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_cayman_ver01\/data\/sn00065154\/00279523398\/1895092701\/0227.jp2",
+  "place_of_publication": "Milbank, S.D.",
+  "pub_date": "1895-09-27",
+  "publisher": "W.W. Downie",
+  "score": 0.9449887871742249,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_cayman_ver01\/data\/sn00065154\/00279523398\/1895092701\/0227\/002_0_94.jpg"
+ },
+ "id": 6
+}

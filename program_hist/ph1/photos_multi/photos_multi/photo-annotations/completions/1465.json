@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741403,
+   "id": 1465001,
+   "lead_time": 6.378,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WIFVfGaPTx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_parkins_ver01",
+  "box": [
+   0.26066130304738755,
+   0.39810645015038926,
+   0.5019157145106021,
+   0.5975421276483988
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_parkins_ver01\/data\/sn83030214\/00206531848\/1914122701\/0552\/007_0_93.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_parkins_ver01%2Fdata%2Fsn83030214%2F00206531848%2F1914122701%2F0552.jp2\/pct:26.06,39.82,24.13,19.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "MAPGF-",
+   "X^>^",
+   "-SAUeJDE?e3",
+   "\/^St,^^-*",
+   "\"",
+   "To",
+   "WIGHT'S",
+   "???^",
+   "?mm",
+   "VJrGHT1",
+   "Shubert"
+  ],
+  "page_seq_num": 552,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_parkins_ver01\/data\/sn83030214\/00206531848\/1914122701\/0552.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1914-12-27",
+  "publisher": "New York Tribune",
+  "score": 0.9395605325698853,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_parkins_ver01\/data\/sn83030214\/00206531848\/1914122701\/0552\/007_0_93.jpg"
+ },
+ "id": 1465
+}

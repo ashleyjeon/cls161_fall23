@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763670,
+   "id": 1698001,
+   "lead_time": 6.131,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zK4AVjtK5W",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_khaki_ver01",
+  "box": [
+   0.4304581886073119,
+   0.4989238858562589,
+   0.5597868943148373,
+   0.8211336923800303
+  ],
+  "edition_seq_num": 2,
+  "filepath": "hihouml_khaki_ver01\/data\/sn82014682\/00212471148\/1917070302\/0191\/021_0_94.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_khaki_ver01%2Fdata%2Fsn82014682%2F00212471148%2F1917070302%2F0191.jp2\/pct:43.04,49.9,12.94,32.23\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014682",
+  "name": "Honolulu star-bulletin. [volume]",
+  "ocr": [
+   "HAWAII",
+   "BOY",
+   "SCOUTS",
+   "R.",
+   "N.",
+   "BURNHAM",
+   "V",
+   ":",
+   "V-",
+   "-v"
+  ],
+  "page_seq_num": 191,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_khaki_ver01\/data\/sn82014682\/00212471148\/1917070302\/0191.jp2",
+  "place_of_publication": "Honolulu [Oahu, Hawaii]",
+  "pub_date": "1917-07-03",
+  "publisher": "[P.T. Gialanella]",
+  "score": 0.9484485387802124,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_khaki_ver01\/data\/sn82014682\/00212471148\/1917070302\/0191\/021_0_94.jpg"
+ },
+ "id": 1698
+}

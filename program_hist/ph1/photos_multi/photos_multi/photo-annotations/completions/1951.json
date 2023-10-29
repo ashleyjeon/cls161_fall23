@@ -1,0 +1,75 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747985,
+   "id": 1951001,
+   "lead_time": 2.73,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Hr8LrxUQbm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "cohi_aberdeen_ver01",
+  "box": [
+   0.18873645067214967,
+   0.08418843486521503,
+   0.47137722969055174,
+   0.3498706779857673
+  ],
+  "edition_seq_num": 1,
+  "filepath": "cohi_aberdeen_ver01\/data\/sn89052040\/00414214241\/1920051301\/1176\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Colorado--Weld--New Raymer",
+   "Colorado--Weld--Raymer"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/cohi_aberdeen_ver01%2Fdata%2Fsn89052040%2F00414214241%2F1920051301%2F1176.jp2\/pct:18.87,8.42,28.27,26.57\/!500,500\/0\/default.jpg",
+  "lccn": "sn89052040",
+  "name": "The Raymer enterprise.",
+  "ocr": [
+   "THE",
+   "ROMANTIC",
+   "ISLANDS",
+   "OF",
+   "THE",
+   "FAR",
+   "EAST.",
+   "PICTURES",
+   "OF",
+   "THEIR",
+   "NATURAL",
+   "BEAUTY",
+   "AND",
+   "HISTORIC",
+   "SFOTS\u2014BE",
+   "COMING",
+   "A",
+   "MECCA",
+   "FOR",
+   "TOURISTS",
+   "ANO",
+   "A",
+   "POPULAR",
+   "WINTER",
+   "RESORT."
+  ],
+  "page_seq_num": 1176,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/cohi_aberdeen_ver01\/data\/sn89052040\/00414214241\/1920051301\/1176.jp2",
+  "place_of_publication": "New Raymer, Weld County, Colo.",
+  "pub_date": "1920-05-13",
+  "publisher": "S.P. Majors",
+  "score": 0.9433531761169434,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/cohi_aberdeen_ver01\/data\/sn89052040\/00414214241\/1920051301\/1176\/004_0_94.jpg"
+ },
+ "id": 1951
+}

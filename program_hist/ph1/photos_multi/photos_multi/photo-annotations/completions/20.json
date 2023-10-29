@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768450,
+   "id": 20001,
+   "lead_time": 1.768,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LdRx1P6iza",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_bravo_ver01",
+  "box": [
+   0.30740564993682373,
+   0.21083892563642082,
+   0.6705952776863254,
+   0.5171378960043697
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895081001\/0954\/001_0_91.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_bravo_ver01%2Fdata%2Fsn84025828%2F00294555705%2F1895081001%2F0954.jp2\/pct:30.74,21.09,36.32,30.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "The",
+   "BSSSSSSSSSSSSSSSSSSSSSSSSm",
+   "..HON.",
+   "WM.",
+   "D..",
+   "KENT.",
+   "Popular",
+   "Commissioner",
+   "of",
+   "Public",
+   "Wcrka."
+  ],
+  "page_seq_num": 954,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895081001\/0954.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1895-08-10",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9155081510543823,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_bravo_ver01\/data\/sn84025828\/00294555705\/1895081001\/0954\/001_0_91.jpg"
+ },
+ "id": 20
+}

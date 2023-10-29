@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747256,
+   "id": 1012001,
+   "lead_time": 3.802,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "17D0Z6dGRG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_gilachub_ver01",
+  "box": [
+   0.3151477301039294,
+   0.08784559702028695,
+   0.5646759936912727,
+   0.2699647049379825
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_gilachub_ver01\/data\/sn84020558\/00211104478\/1908120601\/0561\/009_0_98.jpg",
+  "geographic_coverage": [
+   "Arizona--Maricopa--Phoenix"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_gilachub_ver01%2Fdata%2Fsn84020558%2F00211104478%2F1908120601%2F0561.jp2\/pct:31.51,8.79,24.96,18.22\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020558",
+  "name": "Arizona republican. [volume]",
+  "ocr": [
+   "New",
+   "Home",
+   "of",
+   "Charles",
+   "Donofrio",
+   "It",
+   "is",
+   "One",
+   "of",
+   "the",
+   "Prettiest",
+   "on",
+   "North",
+   "Center",
+   "KM",
+   "(KM"
+  ],
+  "page_seq_num": 561,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_gilachub_ver01\/data\/sn84020558\/00211104478\/1908120601\/0561.jp2",
+  "place_of_publication": "Phoenix, Ariz.",
+  "pub_date": "1908-12-06",
+  "publisher": "Republican Pub. Co.",
+  "score": 0.9897360801696777,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_gilachub_ver01\/data\/sn84020558\/00211104478\/1908120601\/0561\/009_0_98.jpg"
+ },
+ "id": 1012
+}

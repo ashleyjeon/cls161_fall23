@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741256,
+   "id": 1893001,
+   "lead_time": 2.841,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YxDSAyEKfm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_herringull_ver01",
+  "box": [
+   0.6224478199995683,
+   0.6031245181435033,
+   0.7614665163156077,
+   0.7546142042728893
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_herringull_ver01\/data\/sn85042399\/00200298688\/1919050901\/0478\/005_0_98.jpg",
+  "geographic_coverage": [
+   "Oregon--Jackson--Ashland"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_herringull_ver01%2Fdata%2Fsn85042399%2F00200298688%2F1919050901%2F0478.jp2\/pct:62.24,60.32,13.91,15.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042399",
+  "name": "Ashland tidings. [volume]",
+  "ocr": [
+   "A.",
+   "O.",
+   "CLARK",
+   "I:",
+   "'(",
+   "r"
+  ],
+  "page_seq_num": 478,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_herringull_ver01\/data\/sn85042399\/00200298688\/1919050901\/0478.jp2",
+  "place_of_publication": "Ashland, Or.",
+  "pub_date": "1919-05-09",
+  "publisher": "J.M. Sutton",
+  "score": 0.9865685701370239,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_herringull_ver01\/data\/sn85042399\/00200298688\/1919050901\/0478\/005_0_98.jpg"
+ },
+ "id": 1893
+}

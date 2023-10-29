@@ -1,0 +1,110 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752815,
+   "id": 1006001,
+   "lead_time": 5.347,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6xR8u950fQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_dogwood_ver01",
+  "box": [
+   0.024909717614570875,
+   0.04977896695791658,
+   0.41339020067424864,
+   0.39412140710677296
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908123001\/1136\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Connecticut--New Haven--New Haven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_dogwood_ver01%2Fdata%2Fsn92051397%2F00271764145%2F1908123001%2F1136.jp2\/pct:2.49,4.98,38.85,34.44\/!500,500\/0\/default.jpg",
+  "lccn": "sn92051397",
+  "name": "The morning journal-courier.",
+  "ocr": [
+   "Annual",
+   "New",
+   "Years",
+   "Day",
+   "f",
+   "II",
+   "ll",
+   "ll",
+   "il",
+   "I",
+   "1",
+   "V",
+   "L",
+   "1",
+   "V",
+   "i",
+   "L'Lir",
+   "S",
+   "IJUV",
+   "Vt'",
+   "U'",
+   "s",
+   ".",
+   "kJ\"3s",
+   ".rJfe.-",
+   "JUL",
+   ";",
+   "F",
+   "w",
+   "wJA!",
+   "m&r.",
+   "-:l.S.:Af",
+   "v?li",
+   "'",
+   "tests",
+   "J4r",
+   "lm&:",
+   "'",
+   "ifeS'i",
+   "aw,to",
+   "fewRl",
+   "41",
+   "mmMm",
+   ";;",
+   "':",
+   "CSW'",
+   "VS",
+   "M",
+   "C''",
+   "f",
+   ",",
+   "XWK'",
+   "V.F",
+   "..-:.,.,",
+   "i",
+   "w",
+   ";.viaiiiCi,i5ii4..i",
+   "T.l",
+   "if"
+  ],
+  "page_seq_num": 1136,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908123001\/1136.jp2",
+  "place_of_publication": "New Haven, Conn.",
+  "pub_date": "1908-12-30",
+  "publisher": "J.B. Carrington",
+  "score": 0.9727643132209778,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_dogwood_ver01\/data\/sn92051397\/00271764145\/1908123001\/1136\/002_0_97.jpg"
+ },
+ "id": 1006
+}

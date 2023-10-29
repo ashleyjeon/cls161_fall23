@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611742648,
+   "id": 1108001,
+   "lead_time": 579,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "hu2q5QexDq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_ferret_ver01",
+  "box": [
+   0.5174432927911932,
+   0.052992714216757365,
+   0.8086021522422889,
+   0.30387667720529626
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_ferret_ver01\/data\/sn92070566\/00296024892\/1909123001\/0055\/002_0_96.jpg",
+  "geographic_coverage": [
+   "New Mexico--Otero--Alamogordo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_ferret_ver01%2Fdata%2Fsn92070566%2F00296024892%2F1909123001%2F0055.jp2\/pct:51.74,5.3,29.12,25.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn92070566",
+  "name": "The Alamogordo news.",
+  "ocr": [
+   "A",
+   "Plain",
+   "Coiffure"
+  ],
+  "page_seq_num": 55,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_ferret_ver01\/data\/sn92070566\/00296024892\/1909123001\/0055.jp2",
+  "place_of_publication": "Alamogordo, N.M.",
+  "pub_date": "1909-12-30",
+  "publisher": "Alamogordo Print. Co.",
+  "score": 0.9648356437683105,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_ferret_ver01\/data\/sn92070566\/00296024892\/1909123001\/0055\/002_0_96.jpg"
+ },
+ "id": 1108
+}

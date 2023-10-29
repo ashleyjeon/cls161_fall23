@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766980,
+   "id": 1239001,
+   "lead_time": 1.908,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ZKOih0IK6E",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_betteravia_ver02",
+  "box": [
+   0.17569542305877026,
+   0.1199420075561265,
+   0.30342692616880523,
+   0.3651522768999206
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_betteravia_ver02\/data\/sn85066387\/00175035990\/1911061501\/0333\/009_0_95.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_betteravia_ver02%2Fdata%2Fsn85066387%2F00175035990%2F1911061501%2F0333.jp2\/pct:17.56,12.0,12.78,24.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066387",
+  "name": "The San Francisco call. [volume]",
+  "ocr": [
+   "Of",
+   "Chicago,",
+   "Who",
+   "Is",
+   "Sued",
+   "for",
+   "Divorce"
+  ],
+  "page_seq_num": 333,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_betteravia_ver02\/data\/sn85066387\/00175035990\/1911061501\/0333.jp2",
+  "place_of_publication": "San Francisco [Calif.]",
+  "pub_date": "1911-06-15",
+  "publisher": "Charles M. Shortridge",
+  "score": 0.9511933326721191,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_betteravia_ver02\/data\/sn85066387\/00175035990\/1911061501\/0333\/009_0_95.jpg"
+ },
+ "id": 1239
+}

@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747700,
+   "id": 253001,
+   "lead_time": 4.294,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "fsAe4o0ydg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_gilia_ver01",
+  "box": [
+   0.2731868441479594,
+   0.39120184142014075,
+   0.6925728788627868,
+   0.7007281862456223
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_gilia_ver01\/data\/2007252185\/00211107728\/1898012901\/1014\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle",
+   "Washington--Spokane--Spokane",
+   "Washington--Yakima--Yakima"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_gilia_ver01%2Fdata%2F2007252185%2F00211107728%2F1898012901%2F1014.jp2\/pct:27.31,39.13,41.94,30.96\/!500,500\/0\/default.jpg",
+  "lccn": "2007252185",
+  "name": "Ranche and range.",
+  "ocr": [
+   "Administration",
+   "Building,",
+   "Agricultural",
+   "College."
+  ],
+  "page_seq_num": 1014,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_gilia_ver01\/data\/2007252185\/00211107728\/1898012901\/1014.jp2",
+  "place_of_publication": "North Yakima, Wash.",
+  "pub_date": "1898-01-29",
+  "publisher": "[s.n.",
+  "score": 0.9514299035072327,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_gilia_ver01\/data\/2007252185\/00211107728\/1898012901\/1014\/000_0_95.jpg"
+ },
+ "id": 253
+}

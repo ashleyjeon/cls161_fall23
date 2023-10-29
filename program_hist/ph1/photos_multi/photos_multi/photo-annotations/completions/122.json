@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757423,
+   "id": 122001,
+   "lead_time": 5.853,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zTsaPb1_wd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_middlebury_ver01",
+  "box": [
+   0.3777919394237157,
+   0.6076162923177083,
+   0.6684960634756976,
+   0.8007334798177084
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_middlebury_ver01\/data\/sn84022871\/00202196445\/1896113001\/0389\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Vermont--Orleans--Barton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196445%2F1896113001%2F0389.jp2\/pct:37.77,60.77,29.08,19.32\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022871",
+  "name": "Orleans County monitor. [volume]",
+  "ocr": [
+   "1",
+   "\"I",
+   "w",
+   "igss",
+   "7",
+   "V-",
+   "1",
+   "rpVm",
+   "THE",
+   "PEERLESS",
+   "k",
+   "-",
+   "is.-",
+   "'",
+   ".",
+   "'A",
+   "FACTORY.",
+   "Iff:",
+   "1",
+   "tm",
+   "mi"
+  ],
+  "page_seq_num": 389,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_middlebury_ver01\/data\/sn84022871\/00202196445\/1896113001\/0389.jp2",
+  "place_of_publication": "Barton, Vt.",
+  "pub_date": "1896-11-30",
+  "publisher": "E.H. Webster",
+  "score": 0.9812248349189758,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_middlebury_ver01\/data\/sn84022871\/00202196445\/1896113001\/0389\/003_0_98.jpg"
+ },
+ "id": 122
+}

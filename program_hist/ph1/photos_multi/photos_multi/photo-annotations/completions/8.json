@@ -1,0 +1,40 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757180,
+   "id": 8001,
+   "lead_time": 2.43,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ndhi_almont_ver01",
+  "box": [
+   0.2573462554763035,
+   0.23409251131752665,
+   0.6709507726174033,
+   0.39874892123909883
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ndhi_almont_ver01\/data\/sn88076741\/00295863572\/1895122701\/0460\/000_0_96.jpg",
+  "geographic_coverage": [
+   "North Dakota--Pembina--Pembina"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ndhi_almont_ver01%2Fdata%2Fsn88076741%2F00295863572%2F1895122701%2F0460.jp2\/pct:25.73,23.41,41.37,16.47\/!500,500\/0\/default.jpg",
+  "lccn": "sn88076741",
+  "name": "The pioneer express. [volume]",
+  "ocr": [
+   "irTi"
+  ],
+  "page_seq_num": 460,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ndhi_almont_ver01\/data\/sn88076741\/00295863572\/1895122701\/0460.jp2",
+  "place_of_publication": "Pembina, Dakota [N.D.]",
+  "pub_date": "1895-12-27",
+  "publisher": "R.H. Young",
+  "score": 0.9603961706161499,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ndhi_almont_ver01\/data\/sn88076741\/00295863572\/1895122701\/0460\/000_0_96.jpg"
+ },
+ "id": 8
+}

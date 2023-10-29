@@ -1,0 +1,105 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766247,
+   "id": 1186001,
+   "lead_time": 2.875,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BhMDD87Hqa",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_evart_ver01",
+  "box": [
+   0.5206821492128426,
+   0.055160797925859324,
+   0.669706809723535,
+   0.2690446608916626
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_evart_ver01\/data\/sn97070614\/0029602367A\/1910042901\/0014\/006_0_95.jpg",
+  "geographic_coverage": [
+   "Michigan--Shiawassee--Owosso"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_evart_ver01%2Fdata%2Fsn97070614%2F0029602367A%2F1910042901%2F0014.jp2\/pct:52.06,5.52,14.91,21.39\/!500,500\/0\/default.jpg",
+  "lccn": "sn97070614",
+  "name": "The Owosso times.",
+  "ocr": [
+   "REV.",
+   "J.",
+   "G.",
+   "DUKES",
+   "Writes;",
+   "My",
+   "wife",
+   "has",
+   "been",
+   "in",
+   "a",
+   "very",
+   ".",
+   "tad",
+   "state",
+   "of",
+   "health.",
+   "Nothing",
+   "seemed",
+   "i",
+   "to",
+   "do",
+   "her",
+   "any",
+   "good",
+   "until",
+   "she",
+   "began",
+   "TO",
+   "USE",
+   "PERUNA",
+   "An",
+   "Si,",
+   "A",
+   "MRS.",
+   "J.",
+   "C.",
+   "DUKES.",
+   "Rev.",
+   "J.",
+   "O,",
+   "Dukes",
+   "j",
+   "Tastor",
+   "of",
+   "the",
+   "Unl",
+   "vWi",
+   "SU",
+   "V5,5",
+   "JT",
+   "ill",
+   ":",
+   ":",
+   ",",
+   "Mm"
+  ],
+  "page_seq_num": 14,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_evart_ver01\/data\/sn97070614\/0029602367A\/1910042901\/0014.jp2",
+  "place_of_publication": "Owosso, Mich.",
+  "pub_date": "1910-04-29",
+  "publisher": "Edmund O. Dewey",
+  "score": 0.9552355408668518,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_evart_ver01\/data\/sn97070614\/0029602367A\/1910042901\/0014\/006_0_95.jpg"
+ },
+ "id": 1186
+}

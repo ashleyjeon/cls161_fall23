@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768212,
+   "id": 1278001,
+   "lead_time": 4.05,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MknzVQsQf8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_iron_ver01",
+  "box": [
+   0.3686123460826307,
+   0.15160757211538461,
+   0.5163595747239519,
+   0.3213335607805823
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_iron_ver01\/data\/sn86069309\/00280763639\/1911012501\/0034\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Kentucky--Breckinridge--Cloverport",
+   "Kentucky--Breckinridge--Hardinsburg"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_iron_ver01%2Fdata%2Fsn86069309%2F00280763639%2F1911012501%2F0034.jp2\/pct:36.86,15.17,14.78,16.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069309",
+  "name": "The Breckenridge news.",
+  "ocr": [
+   "\"Mr",
+   "TIIUE",
+   "NAME",
+   "18",
+   "LEE",
+   "II",
+   "AND",
+   "ALL.\"",
+   "where",
+   "Handler",
+   "was"
+  ],
+  "page_seq_num": 34,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_iron_ver01\/data\/sn86069309\/00280763639\/1911012501\/0034.jp2",
+  "place_of_publication": "Cloverport, Ky.",
+  "pub_date": "1911-01-25",
+  "publisher": "John D. Babbage",
+  "score": 0.9380239844322205,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_iron_ver01\/data\/sn86069309\/00280763639\/1911012501\/0034\/006_0_93.jpg"
+ },
+ "id": 1278
+}

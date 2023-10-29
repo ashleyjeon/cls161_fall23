@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741132,
+   "id": 945001,
+   "lead_time": 2.029,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "h3Gi67sM9P",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_ten_ver01",
+  "box": [
+   0.1739790578848983,
+   0.7035167005093612,
+   0.4243643468554455,
+   0.9592372272508259
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_ten_ver01\/data\/sn83045555\/00175048996\/1907061501\/0535\/004_0_97.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_ten_ver01%2Fdata%2Fsn83045555%2F00175048996%2F1907061501%2F0535.jp2\/pct:17.39,70.36,25.04,25.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "T",
+   "fl",
+   "c",
+   "STEVE",
+   "ADAMS"
+  ],
+  "page_seq_num": 535,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_ten_ver01\/data\/sn83045555\/00175048996\/1907061501\/0535.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1907-06-15",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9772780537605286,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_ten_ver01\/data\/sn83045555\/00175048996\/1907061501\/0535\/004_0_97.jpg"
+ },
+ "id": 945
+}

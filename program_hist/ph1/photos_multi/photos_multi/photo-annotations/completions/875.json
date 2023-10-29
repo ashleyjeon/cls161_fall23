@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768077,
+   "id": 875001,
+   "lead_time": 2.991,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "cjvpB1669e",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_hancock_ver02",
+  "box": [
+   0.5079619442415313,
+   0.13775941496662214,
+   0.9347073756004853,
+   0.3183713677515395
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_hancock_ver02\/data\/sn85033781\/0029602384A\/1906011901\/0354\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Michigan--Van Buren--Paw Paw"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_hancock_ver02%2Fdata%2Fsn85033781%2F0029602384A%2F1906011901%2F0354.jp2\/pct:50.79,13.78,42.68,18.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033781",
+  "name": "The true northerner. [volume]",
+  "ocr": [
+   "A",
+   "r",
+   "-",
+   "X",
+   ".Kid",
+   ";WT,-",
+   ".",
+   ",",
+   ".",
+   "L\"A",
+   "mm",
+   "i",
+   "oua.",
+   "LJ,",
+   "jtJ",
+   "!",
+   "M",
+   "l",
+   "V",
+   "uvJrr'A",
+   "W",
+   "m",
+   "Fo5iJonce5",
+   "o",
+   "-.",
+   "arJ",
+   "-.",
+   "C.",
+   "JJ",
+   "a",
+   "j\"",
+   "e",
+   "p",
+   "5"
+  ],
+  "page_seq_num": 354,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_hancock_ver02\/data\/sn85033781\/0029602384A\/1906011901\/0354.jp2",
+  "place_of_publication": "Paw Paw, Mich.",
+  "pub_date": "1906-01-19",
+  "publisher": "John B. Butler",
+  "score": 0.9839375615119934,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_hancock_ver02\/data\/sn85033781\/0029602384A\/1906011901\/0354\/002_0_98.jpg"
+ },
+ "id": 875
+}

@@ -1,0 +1,96 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752784,
+   "id": 1599001,
+   "lead_time": 3.719,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3GBWj4C9Zu",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_mission_ver01",
+  "box": [
+   0.3371473875912753,
+   0.7520682296538821,
+   0.8038135008378462,
+   0.9617697249181478
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_mission_ver01\/data\/sn84029386\/00295871568\/1915031101\/0748\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Kansas--Dickinson--Abilene"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_mission_ver01%2Fdata%2Fsn84029386%2F00295871568%2F1915031101%2F0748.jp2\/pct:33.71,75.21,46.67,20.98\/!500,500\/0\/default.jpg",
+  "lccn": "sn84029386",
+  "name": "Abilene weekly reflector. [volume]",
+  "ocr": [
+   "EIGHT.COMRADES",
+   "OF",
+   "THESE",
+   "AGED",
+   "ODD",
+   "FELLOWS",
+   "REPORTED",
+   "MURDERED.",
+   "1",
+   "tf&LM",
+   "Xf",
+   "4",
+   "V",
+   "Photo",
+   "by",
+   "America",
+   "Press",
+   "Association.",
+   "Frederick",
+   "Mor",
+   "an",
+   "orderly",
+   "In",
+   "the",
+   "Germs.",
+   "Odd",
+   "F.lWkom.",
+   "si",
+   "Tonk.ra,",
+   "N.",
+   "Y,",
+   "declared",
+   "b.",
+   "a-tated",
+   "to",
+   "UU",
+   "to",
+   "off",
+   "eight",
+   "aged",
+   "inmates",
+   "to",
+   "make",
+   "room",
+   "for",
+   "others.",
+   "'"
+  ],
+  "page_seq_num": 748,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_mission_ver01\/data\/sn84029386\/00295871568\/1915031101\/0748.jp2",
+  "place_of_publication": "Abilene, Kan.",
+  "pub_date": "1915-03-11",
+  "publisher": "Reflector Pub.",
+  "score": 0.9874639511108398,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_mission_ver01\/data\/sn84029386\/00295871568\/1915031101\/0748\/001_0_98.jpg"
+ },
+ "id": 1599
+}

@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766763,
+   "id": 1001,
+   "lead_time": 1.917,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "l839W1VduK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_casablanca_ver01",
+  "box": [
+   0.6009916833021162,
+   0.13408096032326344,
+   0.7068759344604364,
+   0.2612375741827628
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_casablanca_ver01\/data\/sn86069457\/00206533262\/1895060601\/0792\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Kentucky--Crittenden--Marion"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_casablanca_ver01%2Fdata%2Fsn86069457%2F00206533262%2F1895060601%2F0792.jp2\/pct:60.09,13.41,10.59,12.72\/!500,500\/0\/default.jpg",
+  "lccn": "sn86069457",
+  "name": "Crittenden press. [volume]",
+  "ocr": [
+   "JULY",
+   "1S",
+   "Sii",
+   "fV",
+   "X",
+   "X",
+   "-all",
+   "SI",
+   "ji",
+   "-",
+   "Hon",
+   "W",
+   "M"
+  ],
+  "page_seq_num": 792,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_casablanca_ver01\/data\/sn86069457\/00206533262\/1895060601\/0792.jp2",
+  "place_of_publication": "Marion, Ky.",
+  "pub_date": "1895-06-06",
+  "publisher": "R.C. Walker",
+  "score": 0.9328897595405579,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_casablanca_ver01\/data\/sn86069457\/00206533262\/1895060601\/0792\/003_0_93.jpg"
+ },
+ "id": 1
+}

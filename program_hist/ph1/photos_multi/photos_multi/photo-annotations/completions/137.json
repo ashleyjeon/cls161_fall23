@@ -1,0 +1,101 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762867,
+   "id": 137001,
+   "lead_time": 1.482,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VR0iqgMjgg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_hairspray_ver01",
+  "box": [
+   0.4840022795790926,
+   0.2819662526569958,
+   0.6332069186989321,
+   0.46905333064526156
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1896062601\/0251\/007_0_90.jpg",
+  "geographic_coverage": [
+   "Kentucky--Lincoln--Stanford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_hairspray_ver01%2Fdata%2Fsn85052020%2F00206534175%2F1896062601%2F0251.jp2\/pct:48.4,28.2,14.93,18.71\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052020",
+  "name": "Semi-weekly interior journal. [volume]",
+  "ocr": [
+   "MS",
+   "'-if",
+   "--",
+   ",",
+   "hwi",
+   "l'i",
+   "4",
+   "?",
+   "MIIS.",
+   "DEBBIE",
+   "LYLK",
+   "ClISIlllY,",
+   "Winner",
+   "of",
+   "the",
+   "2d",
+   "prize,",
+   "b",
+   "banquet",
+   "lamp.",
+   "She",
+   "repreeented",
+   "Howling",
+   "Green",
+   "and",
+   "recited",
+   "\"Wild",
+   "Z'nuarelle.\"",
+   "Her",
+   "parents,",
+   "Dr.",
+   "and",
+   "Mrs.",
+   "T.",
+   "J.",
+   "Fayne,",
+   "livo",
+   "at",
+   "Crab",
+   "Orchard.",
+   "She",
+   "was",
+   "attending",
+   "school",
+   "when",
+   "l'rof",
+   "Cherry",
+   "won",
+   "and",
+   "married",
+   "her.",
+   "Her"
+  ],
+  "page_seq_num": 251,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1896062601\/0251.jp2",
+  "place_of_publication": "Stanford, Ky.",
+  "pub_date": "1896-06-26",
+  "publisher": "W.P. Walton",
+  "score": 0.9061841368675232,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_hairspray_ver01\/data\/sn85052020\/00206534175\/1896062601\/0251\/007_0_90.jpg"
+ },
+ "id": 137
+}

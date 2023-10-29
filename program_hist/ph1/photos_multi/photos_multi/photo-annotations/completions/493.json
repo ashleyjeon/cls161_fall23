@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763837,
+   "id": 493001,
+   "lead_time": 4.242,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eHNphuEbST",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_richfield_ver01",
+  "box": [
+   0.0375245604167823,
+   0.6828603962905534,
+   0.29248117341876667,
+   0.9204435469843353
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_richfield_ver01\/data\/sn83045366\/00206533900\/1901040601\/0093\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Minnesota--Hennepin--Minneapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_richfield_ver01%2Fdata%2Fsn83045366%2F00206533900%2F1901040601%2F0093.jp2\/pct:3.75,68.29,25.5,23.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045366",
+  "name": "The Minneapolis journal. [volume]",
+  "ocr": [
+   "\u0084",
+   "_",
+   ",",
+   "A",
+   "SCENB",
+   "FROM.",
+   "ACT",
+   "11.",
+   "OF",
+   "\"ZAZA.\"",
+   "Mn.",
+   "Leslie",
+   "Carter",
+   "as",
+   "Zaza,",
+   "Mr.",
+   "Stevenson",
+   "a",
+   "3",
+   "Dufresne.",
+   "At",
+   "the",
+   "Metropolitan",
+   "the",
+   "half",
+   "of",
+   "next",
+   "week."
+  ],
+  "page_seq_num": 93,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_richfield_ver01\/data\/sn83045366\/00206533900\/1901040601\/0093.jp2",
+  "place_of_publication": "Minneapolis, Minn.",
+  "pub_date": "1901-04-06",
+  "publisher": "Journal Print. Co.",
+  "score": 0.9944341778755188,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_richfield_ver01\/data\/sn83045366\/00206533900\/1901040601\/0093\/001_0_99.jpg"
+ },
+ "id": 493
+}

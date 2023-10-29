@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749469,
+   "id": 132001,
+   "lead_time": 4.12,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "6ysEKC9Enc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_eeyore_ver01",
+  "box": [
+   0.1569664260782368,
+   0.6594749188387519,
+   0.45337842146271246,
+   0.8061559930866966
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_eeyore_ver01\/data\/sn93060416\/00294556436\/1896061301\/0099\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Missouri--Lafayette--Lexington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_eeyore_ver01%2Fdata%2Fsn93060416%2F00294556436%2F1896061301%2F0099.jp2\/pct:15.69,65.95,29.65,14.67\/!500,500\/0\/default.jpg",
+  "lccn": "sn93060416",
+  "name": "The weekly intelligencer. [volume]",
+  "ocr": [
+   "1",
+   "mk",
+   "Wmttg&f",
+   "-.",
+   "-",
+   "-",
+   "-",
+   "-mmmi",
+   "&$&-.",
+   ".-.-:",
+   "Jiv:i'5",
+   "-",
+   "-.?!-St----",
+   ".,-:"
+  ],
+  "page_seq_num": 99,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_eeyore_ver01\/data\/sn93060416\/00294556436\/1896061301\/0099.jp2",
+  "place_of_publication": "Lexington, Mo.",
+  "pub_date": "1896-06-13",
+  "publisher": "James E. Payne",
+  "score": 0.9962939620018005,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_eeyore_ver01\/data\/sn93060416\/00294556436\/1896061301\/0099\/000_0_99.jpg"
+ },
+ "id": 132
+}

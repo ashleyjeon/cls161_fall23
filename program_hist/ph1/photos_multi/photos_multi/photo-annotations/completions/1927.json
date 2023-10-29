@@ -1,0 +1,111 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754414,
+   "id": 1927001,
+   "lead_time": 3.377,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ctUf2xIX5C",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_kloeden_ver01",
+  "box": [
+   0.17793175572628914,
+   0.07170264925846763,
+   0.7125015961311579,
+   0.3319322971261356
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_kloeden_ver01\/data\/sn85058393\/print\/1920121901\/1326\/008_0_93.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_kloeden_ver01%2Fdata%2Fsn85058393%2Fprint%2F1920121901%2F1326.jp2\/pct:17.79,7.18,53.46,26.03\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058393",
+  "name": "The Ogden standard-examiner. [volume]",
+  "ocr": [
+   "-ynmasium.",
+   "to",
+   "are.",
+   "Robert",
+   "Newman.",
+   ",",
+   "i",
+   "I",
+   "the",
+   "ip.",
+   "all",
+   "of",
+   "ber",
+   "J",
+   "1",
+   ".",
+   "niad",
+   "kins.",
+   "111",
+   "ed",
+   "in",
+   "the",
+   "vlted.",
+   "J1.",
+   "idai.s",
+   "i",
+   "I'.1.'",
+   "i",
+   "lie",
+   "d\"!",
+   "i.i",
+   "of",
+   "pageant,",
+   "1",
+   ".",
+   ",",
+   "I",
+   "\"t",
+   "Ogden",
+   "arrange",
+   "Burns'",
+   "Si",
+   "otch",
+   "aslon",
+   "igden",
+   "lte",
+   "j",
+   "of",
+   "th",
+   "Klve",
+   "1",
+   "1",
+   "th.",
+   "I",
+   "ISatH",
+   "the",
+   "ber",
+   "pt",
+   "a",
+   "Moore",
+   "He",
+   "Will"
+  ],
+  "page_seq_num": 1326,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_kloeden_ver01\/data\/sn85058393\/print\/1920121901\/1326.jp2",
+  "place_of_publication": "Ogden, Utah",
+  "pub_date": "1920-12-19",
+  "publisher": "Standard-Examiner Pub. Co.",
+  "score": 0.9307708740234375,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_kloeden_ver01\/data\/sn85058393\/print\/1920121901\/1326\/008_0_93.jpg"
+ },
+ "id": 1927
+}

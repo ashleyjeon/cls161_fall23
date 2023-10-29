@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772392,
+   "id": 1511001,
+   "lead_time": 2.118,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XK4HTGF5y_",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_evanovich_ver01",
+  "box": [
+   0.29318427803784575,
+   0.05370854774801648,
+   0.692410651773988,
+   0.3489246294192303
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_evanovich_ver01\/data\/sn88056024\/00415666792\/1914060101\/0204\/008_0_97.jpg",
+  "geographic_coverage": [
+   "Idaho--Ada--Boise"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_evanovich_ver01%2Fdata%2Fsn88056024%2F00415666792%2F1914060101%2F0204.jp2\/pct:29.31,5.38,39.93,29.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn88056024",
+  "name": "Evening capital news.",
+  "ocr": [
+   "I",
+   "MEXICAN",
+   "BEAUTIES",
+   "ATTRACT",
+   "MUCH",
+   "ATTENTION",
+   "AT",
+   "A",
+   "B",
+   "C",
+   "MEET",
+   "|",
+   "\u00cfjJr*",
+   "V",
+   ":rj",
+   ">",
+   "i",
+   "rSfc|",
+   ".",
+   "T--",
+   "\u25a0",
+   "'",
+   "..",
+   "a",
+   "\u00a7|gg",
+   "\u00eeSjjgfor",
+   "I\u00c4",
+   "<",
+   "\u25a0'",
+   ".",
+   ".",
+   ">",
+   "!",
+   "\/",
+   "\u25a0>",
+   ":\u25a0?",
+   "-",
+   "m",
+   ";",
+   ">\"\u25a0'",
+   "j",
+   "mm",
+   "\u25a0",
+   ">",
+   "m",
+   "v",
+   "Bj",
+   "ffim",
+   "K",
+   "\u25a0",
+   "\u00abj",
+   "\u00cf",
+   "?",
+   "k",
+   "r",
+   "\u25a0>\u25a01",
+   "H|",
+   "f",
+   "y",
+   ")'",
+   "m",
+   "kviiii",
+   "m",
+   ":oz",
+   "\u00ef",
+   "\u25a0",
+   "3",
+   "\/",
+   "Daughters",
+   "of",
+   "Senor",
+   "Rabasa.",
+   "Left",
+   "to"
+  ],
+  "page_seq_num": 204,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_evanovich_ver01\/data\/sn88056024\/00415666792\/1914060101\/0204.jp2",
+  "place_of_publication": "Boise, Idaho",
+  "pub_date": "1914-06-01",
+  "publisher": "Capital News Pub. Co.",
+  "score": 0.9760493040084839,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_evanovich_ver01\/data\/sn88056024\/00415666792\/1914060101\/0204\/008_0_97.jpg"
+ },
+ "id": 1511
+}

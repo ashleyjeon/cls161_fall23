@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768278,
+   "id": 727001,
+   "lead_time": 1.847,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5qfcN8QthX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_dogwood_ver01",
+  "box": [
+   0.19361327415288881,
+   0.49031899786444944,
+   0.44306807084517047,
+   0.6860332734174165
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_dogwood_ver01\/data\/sn88085187\/00211108149\/1904032801\/0342\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_dogwood_ver01%2Fdata%2Fsn88085187%2F00211108149%2F1904032801%2F0342.jp2\/pct:19.36,49.04,24.95,19.58\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "'",
+   "CULTURED",
+   "HAITIANS",
+   "ARE",
+   "SLIGHTED",
+   "AT",
+   "WASHINGTON",
+   "'",
+   "WASHINGTON,",
+   "I),",
+   "C,",
+   "starch",
+   "28.-Ma",
+   "dam",
+   "wife",
+   "of",
+   "J.",
+   "N.",
+   "the",
+   "They",
+   "ate",
+   "of",
+   "pure",
+   "African",
+   "blood",
+   "and",
+   "for",
+   "that",
+   "reason",
+   "receive",
+   "a",
+   "rather",
+   "limited",
+   "num"
+  ],
+  "page_seq_num": 342,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_dogwood_ver01\/data\/sn88085187\/00211108149\/1904032801\/0342.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1904-03-28",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.9116421937942505,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_dogwood_ver01\/data\/sn88085187\/00211108149\/1904032801\/0342\/008_0_91.jpg"
+ },
+ "id": 727
+}

@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752809,
+   "id": 67001,
+   "lead_time": 2.452,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "i8YvKfqMCZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_yes_ver01",
+  "box": [
+   0.13429523106039004,
+   0.44988027856231777,
+   0.25475969523408987,
+   0.5815137145818149
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_yes_ver01\/data\/sn84025841\/00175032290\/1895021601\/0310\/008_0_93.jpg",
+  "geographic_coverage": [
+   "Virginia--Richmond"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_yes_ver01%2Fdata%2Fsn84025841%2F00175032290%2F1895021601%2F0310.jp2\/pct:13.42,44.99,12.05,13.17\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025841",
+  "name": "Richmond planet. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 310,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_yes_ver01\/data\/sn84025841\/00175032290\/1895021601\/0310.jp2",
+  "place_of_publication": "Richmond, Va.",
+  "pub_date": "1895-02-16",
+  "publisher": "Planet Pub. Co.",
+  "score": 0.9398806691169739,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_yes_ver01\/data\/sn84025841\/00175032290\/1895021601\/0310\/008_0_93.jpg"
+ },
+ "id": 67
+}

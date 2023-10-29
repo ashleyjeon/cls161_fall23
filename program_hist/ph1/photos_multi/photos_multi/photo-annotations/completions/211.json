@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750930,
+   "id": 211001,
+   "lead_time": 2.025,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nzNehy6o7f",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_kastra_ver01",
+  "box": [
+   0.29183228056309585,
+   0.5975051623512367,
+   0.41729356151516156,
+   0.7450642422555616
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_kastra_ver01\/data\/sn83045299\/00199919325\/1897072801\/0817\/001_0_95.jpg",
+  "geographic_coverage": [
+   "Minnesota--Hennepin--Minneapolis",
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_kastra_ver01%2Fdata%2Fsn83045299%2F00199919325%2F1897072801%2F0817.jp2\/pct:29.18,59.76,12.55,14.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045299",
+  "name": "Minnesota stats tidning. [volume]",
+  "ocr": [
+   "Dr.",
+   "O.",
+   "J.",
+   "Veline"
+  ],
+  "page_seq_num": 817,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_kastra_ver01\/data\/sn83045299\/00199919325\/1897072801\/0817.jp2",
+  "place_of_publication": "St. Paul, Minn. ;",
+  "pub_date": "1897-07-28",
+  "publisher": "Skaffaren Pub. Co.",
+  "score": 0.9596807956695557,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_kastra_ver01\/data\/sn83045299\/00199919325\/1897072801\/0817\/001_0_95.jpg"
+ },
+ "id": 211
+}

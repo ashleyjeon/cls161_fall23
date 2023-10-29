@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763876,
+   "id": 313001,
+   "lead_time": 2.846,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "earQKJ2t4U",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_lotus_ver01",
+  "box": [
+   0.6685534181585581,
+   0.18877437972255945,
+   0.9769829841813957,
+   0.30820595395700773
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_lotus_ver01\/data\/sn83030214\/0017503710A\/1899122601\/0501\/008_0_93.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_lotus_ver01%2Fdata%2Fsn83030214%2F0017503710A%2F1899122601%2F0501.jp2\/pct:66.85,18.88,30.85,11.95\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "COLLEGE",
+   "CHESS",
+   "PLAYhrlS.",
+   "<x",
+   "t",
+   "Rica",
+   "r?",
+   "*?",
+   ">?",
+   "W*",
+   ":V**~",
+   "?",
+   "a",
+   "r-u\"*'",
+   "*",
+   "R",
+   "mnr*",
+   "-",
+   "THa",
+   "Columblv",
+   "Prtncston.",
+   "\"?\"",
+   "-"
+  ],
+  "page_seq_num": 501,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_lotus_ver01\/data\/sn83030214\/0017503710A\/1899122601\/0501.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1899-12-26",
+  "publisher": "New York Tribune",
+  "score": 0.9388375282287598,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_lotus_ver01\/data\/sn83030214\/0017503710A\/1899122601\/0501\/008_0_93.jpg"
+ },
+ "id": 313
+}

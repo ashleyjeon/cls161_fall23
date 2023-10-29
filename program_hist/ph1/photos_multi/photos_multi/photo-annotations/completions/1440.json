@@ -1,0 +1,104 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748173,
+   "id": 1440001,
+   "lead_time": 2.336,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xcUvdNsYhF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "az_kangaroorat_ver01",
+  "box": [
+   0.06446141377955744,
+   0.5549665178571429,
+   0.1842220509965016,
+   0.7736162180462353
+  ],
+  "edition_seq_num": 1,
+  "filepath": "az_kangaroorat_ver01\/data\/sn84024827\/00211105379\/1913061501\/0356\/006_0_97.jpg",
+  "geographic_coverage": [
+   "Arizona--Cochise--Bisbee"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/az_kangaroorat_ver01%2Fdata%2Fsn84024827%2F00211105379%2F1913061501%2F0356.jp2\/pct:6.44,55.5,11.98,21.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024827",
+  "name": "Bisbee daily review. [volume]",
+  "ocr": [
+   "HASN'T",
+   "RECOVERED",
+   "FROM",
+   "BIG",
+   "WEDDING",
+   "Empress",
+   "of",
+   "Germany.",
+   "it",
+   "is",
+   "an",
+   "open",
+   "secret",
+   "m",
+   "ineuernan",
+   "\"p'teiJ",
+   "\"rJf.",
+   "in",
+   "2L",
+   "IXT:",
+   "Ttai",
+   "shTliitifl\"",
+   "extremely",
+   "'tired",
+   "from",
+   "the",
+   "exertions",
+   "and",
+   "excitement",
+   "attendant",
+   "upon",
+   "tht",
+   "recent",
+   "weddinp",
+   "cf",
+   "her",
+   "daupitcr.",
+   "Princess",
+   "Lnise,",
+   "and",
+   "will",
+   "have",
+   "to",
+   "spare",
+   "herself",
+   "as",
+   "much",
+   "as",
+   "possible",
+   "-furinj?",
+   "the",
+   "coming",
+   "silver",
+   "j-buec",
+   "festivities."
+  ],
+  "page_seq_num": 356,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/az_kangaroorat_ver01\/data\/sn84024827\/00211105379\/1913061501\/0356.jp2",
+  "place_of_publication": "Bisbee, Ariz.",
+  "pub_date": "1913-06-15",
+  "publisher": "W.B. Kelly",
+  "score": 0.9768933057785034,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/az_kangaroorat_ver01\/data\/sn84024827\/00211105379\/1913061501\/0356\/006_0_97.jpg"
+ },
+ "id": 1440
+}

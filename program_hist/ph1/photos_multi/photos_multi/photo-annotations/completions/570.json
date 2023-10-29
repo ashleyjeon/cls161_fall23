@@ -1,0 +1,87 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751181,
+   "id": 570001,
+   "lead_time": 2.119,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "NDQvCIq7d-",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_abe_ver01",
+  "box": [
+   0.20094486608401962,
+   0.15187851783470865,
+   0.46028190456716306,
+   0.4180951110088972
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_abe_ver01\/data\/sn87062245\/100493081\/1902042601\/0040\/013_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_abe_ver01%2Fdata%2Fsn87062245%2F100493081%2F1902042601%2F0040.jp2\/pct:20.09,15.19,25.94,26.63\/!500,500\/0\/default.jpg",
+  "lccn": "sn87062245",
+  "name": "The Washington times.",
+  "ocr": [
+   "authorized",
+   "by",
+   "tho",
+   "Secretary",
+   "of",
+   "the",
+   "Navy",
+   "to",
+   "Inspect",
+   "the",
+   "vessels",
+   "of",
+   "the",
+   "North",
+   "UNCLE",
+   "SAM",
+   "JR",
+   "One",
+   "of",
+   "the",
+   "Striking",
+   "Tigurcs",
+   "at",
+   "the",
+   "Masonic",
+   "Fair",
+   "Without",
+   "a",
+   "moment",
+   "of",
+   "hesitation",
+   "Presi",
+   "dent",
+   "Roosevelt",
+   "returned",
+   "Well",
+   "I",
+   "havo"
+  ],
+  "page_seq_num": 40,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_abe_ver01\/data\/sn87062245\/100493081\/1902042601\/0040.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1902-04-26",
+  "publisher": "Times Co.",
+  "score": 0.9558937549591064,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_abe_ver01\/data\/sn87062245\/100493081\/1902042601\/0040\/013_0_95.jpg"
+ },
+ "id": 570
+}

@@ -1,0 +1,41 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748387,
+   "id": 147001,
+   "lead_time": 1.903,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_jerome_ver01",
+  "box": [
+   0.514814900560245,
+   0.5671616130405002,
+   0.6630171073046376,
+   0.6740236812167697
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_jerome_ver01\/data\/sn89066818\/00200292339\/1896041101\/0532\/002_0_90.jpg",
+  "geographic_coverage": [
+   "Missouri--Cape Girardeau--Cape Girardeau"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_jerome_ver01%2Fdata%2Fsn89066818%2F00200292339%2F1896041101%2F0532.jp2\/pct:51.48,56.72,14.83,10.69\/!500,500\/0\/default.jpg",
+  "lccn": "sn89066818",
+  "name": "The Cape Girardeau Democrat.",
+  "ocr": [
+   "No",
+   "Wvinan"
+  ],
+  "page_seq_num": 532,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_jerome_ver01\/data\/sn89066818\/00200292339\/1896041101\/0532.jp2",
+  "place_of_publication": "Cape Girardeau, Mo.",
+  "pub_date": "1896-04-11",
+  "publisher": "The Democrat Co.",
+  "score": 0.908163845539093,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_jerome_ver01\/data\/sn89066818\/00200292339\/1896041101\/0532\/002_0_90.jpg"
+ },
+ "id": 147
+}

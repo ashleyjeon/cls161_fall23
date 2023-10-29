@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749507,
+   "id": 127001,
+   "lead_time": 1.676,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Ly5MQ8lCrR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_kauai_ver01",
+  "box": [
+   0.15152151834680036,
+   0.3581172182334026,
+   0.30001441266306467,
+   0.48642477119154437
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545\/003_0_97.jpg",
+  "geographic_coverage": [
+   "South Dakota--Union--Elk Point"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_kauai_ver01%2Fdata%2Fsn84022137%2F00279523593%2F1896052101%2F0545.jp2\/pct:15.15,35.82,14.85,12.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022137",
+  "name": "Union County courier. [volume]",
+  "ocr": [
+   "CHAKLR8",
+   "II.",
+   "MAKTKU,"
+  ],
+  "page_seq_num": 545,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545.jp2",
+  "place_of_publication": "Elk Point, Union County, D.T. [S.D.]",
+  "pub_date": "1896-05-21",
+  "publisher": "C.F. Mallahan",
+  "score": 0.971886157989502,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_kauai_ver01\/data\/sn84022137\/00279523593\/1896052101\/0545\/003_0_97.jpg"
+ },
+ "id": 127
+}

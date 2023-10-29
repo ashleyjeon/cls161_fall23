@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768627,
+   "id": 101001,
+   "lead_time": 2.435,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WKCzlihCBT",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vtu_middlebury_ver01",
+  "box": [
+   0.23167381691005962,
+   0.35825994244445597,
+   0.6734460621756294,
+   0.4922950110958264
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vtu_middlebury_ver01\/data\/sn84022871\/00202196445\/1896113001\/0397\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Vermont--Orleans--Barton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vtu_middlebury_ver01%2Fdata%2Fsn84022871%2F00202196445%2F1896113001%2F0397.jp2\/pct:23.16,35.83,44.18,13.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn84022871",
+  "name": "Orleans County monitor. [volume]",
+  "ocr": [
+   "r",
+   "4",
+   "SsfiS!;!",
+   "0",
+   "\"4",
+   "x",
+   "(",
+   "CRYSTAL",
+   "LAKE",
+   "AND",
+   "SOUTH",
+   "END",
+   "OF",
+   "MAIN",
+   "STREET.",
+   "-3...",
+   "'",
+   "'"
+  ],
+  "page_seq_num": 397,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vtu_middlebury_ver01\/data\/sn84022871\/00202196445\/1896113001\/0397.jp2",
+  "place_of_publication": "Barton, Vt.",
+  "pub_date": "1896-11-30",
+  "publisher": "E.H. Webster",
+  "score": 0.9847826361656189,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vtu_middlebury_ver01\/data\/sn84022871\/00202196445\/1896113001\/0397\/003_0_98.jpg"
+ },
+ "id": 101
+}

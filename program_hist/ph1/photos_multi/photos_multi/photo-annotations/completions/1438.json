@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768218,
+   "id": 1438001,
+   "lead_time": 1.466,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "2W8yndRfax",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "lu_roulette_ver01",
+  "box": [
+   0.1758827908969383,
+   0.5151650499941698,
+   0.3102946657615938,
+   0.6771611000174906
+  ],
+  "edition_seq_num": 1,
+  "filepath": "lu_roulette_ver01\/data\/sn87090131\/00200299760\/1913082901\/0733\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Louisiana--Tensas--Saint Joseph"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/lu_roulette_ver01%2Fdata%2Fsn87090131%2F00200299760%2F1913082901%2F0733.jp2\/pct:17.58,51.52,13.45,16.2\/!500,500\/0\/default.jpg",
+  "lccn": "sn87090131",
+  "name": "Tensas gazette. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 733,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/lu_roulette_ver01\/data\/sn87090131\/00200299760\/1913082901\/0733.jp2",
+  "place_of_publication": "St. Joseph, La.",
+  "pub_date": "1913-08-29",
+  "publisher": "R.H. Snyder Jr.",
+  "score": 0.9876403212547302,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/lu_roulette_ver01\/data\/sn87090131\/00200299760\/1913082901\/0733\/006_0_98.jpg"
+ },
+ "id": 1438
+}

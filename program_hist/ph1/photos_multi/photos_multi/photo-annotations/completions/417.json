@@ -1,0 +1,81 @@
+{
+ "completions": [
+  {
+   "created_at": 1611750900,
+   "id": 417001,
+   "lead_time": 1.752,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "id2maoW7rx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.07076057681330929,
+   0.7005406834135119,
+   0.33020316229926217,
+   0.9494768181103188
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555729\/1900063001\/1088\/002_0_95.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555729%2F1900063001%2F1088.jp2\/pct:7.07,70.06,25.95,24.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "HON.",
+   "PETER",
+   "Democratic",
+   "Nominee",
+   "'KWft.",
+   ".",
+   "ggggglttgC",
+   ":",
+   "'!",
+   "!'-&kJnii",
+   "wt",
+   "5",
+   "HIggggggggggGggggCKi.",
+   ",",
+   ",",
+   "';JrV'fij",
+   "''ggg",
+   "I",
+   ":",
+   "-.",
+   "2iBaagSggaggV",
+   "flSggggggggaaggv",
+   "'wiggggggggggggVk",
+   ",zgegegegeggga",
+   "av",
+   "tgggggggggg",
+   "ggW",
+   "yjggggggggggggggggggggggggggggggggggggggKgV",
+   "KIOLBASSA.",
+   "for",
+   "County",
+   "Assessor."
+  ],
+  "page_seq_num": 1088,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555729\/1900063001\/1088.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1900-06-30",
+  "publisher": "Henry F. Donovan",
+  "score": 0.95329749584198,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555729\/1900063001\/1088\/002_0_95.jpg"
+ },
+ "id": 417
+}

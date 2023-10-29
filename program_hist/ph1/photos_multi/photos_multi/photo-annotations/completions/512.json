@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768593,
+   "id": 512001,
+   "lead_time": 3.332,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8DrGwpzb4G",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_richfield_ver01",
+  "box": [
+   0.6928011507601352,
+   0.11697200015139533,
+   0.9581381308065878,
+   0.29707974733869513
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901032301\/0308\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Minnesota--Hennepin--Minneapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_richfield_ver01%2Fdata%2Fsn83045366%2F00206533894%2F1901032301%2F0308.jp2\/pct:69.28,11.7,26.54,18.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045366",
+  "name": "The Minneapolis journal. [volume]",
+  "ocr": [
+   "A",
+   "Modern",
+   "Hospital",
+   "Which",
+   "is",
+   "Open",
+   "to",
+   "All",
+   "Needing",
+   "Care.",
+   "Special",
+   "to",
+   "The",
+   "Journal.",
+   "Mayville,",
+   "N.",
+   "D.,",
+   "March",
+   "23.\u2014The",
+   "Ladies'",
+   "The",
+   "hospital",
+   "has",
+   "the",
+   "modern",
+   "conveni",
+   "ences,",
+   "and",
+   "though",
+   "it",
+   "lacks",
+   "many",
+   "appli"
+  ],
+  "page_seq_num": 308,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901032301\/0308.jp2",
+  "place_of_publication": "Minneapolis, Minn.",
+  "pub_date": "1901-03-23",
+  "publisher": "Journal Print. Co.",
+  "score": 0.9896831512451172,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_richfield_ver01\/data\/sn83045366\/00206533894\/1901032301\/0308\/001_0_98.jpg"
+ },
+ "id": 512
+}

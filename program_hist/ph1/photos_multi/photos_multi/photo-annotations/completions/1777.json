@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611765082,
+   "id": 1777001,
+   "lead_time": 1.64,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "8fBb9wm93S",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_julich_ver01",
+  "box": [
+   0.45230362380760303,
+   0.04353233316948203,
+   0.5835992011471071,
+   0.23708942812185824
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_julich_ver01\/data\/sn85058396\/print\/1918011801\/0193\/011_0_94.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_julich_ver01%2Fdata%2Fsn85058396%2Fprint%2F1918011801%2F0193.jp2\/pct:45.23,4.36,13.13,19.36\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "RAINBOW",
+   "DIVISION'S",
+   "JSfEW,",
+   "COMMANDER",
+   "4",
+   "r",
+   "'mm",
+   "v",
+   "-",
+   "i",
+   ",",
+   "Maj.-Gcn.",
+   "Charlos",
+   "T.",
+   "Menoher",
+   "is",
+   "tho",
+   "new",
+   "com'mander",
+   "of",
+   "tho",
+   "Rain",
+   "bow",
+   "Division",
+   "of",
+   "National",
+   "Guards",
+   "men",
+   "In",
+   "France.",
+   "Ho",
+   "succeeds",
+   "Gen"
+  ],
+  "page_seq_num": 193,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_julich_ver01\/data\/sn85058396\/print\/1918011801\/0193.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1918-01-18",
+  "publisher": "W. Glasmann",
+  "score": 0.9434599280357361,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_julich_ver01\/data\/sn85058396\/print\/1918011801\/0193\/011_0_94.jpg"
+ },
+ "id": 1777
+}

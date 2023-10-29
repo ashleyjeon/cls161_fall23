@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767408,
+   "id": 1874001,
+   "lead_time": 1.769,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "socypE7fIt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_harriet_ver01",
+  "box": [
+   0.30460943101946036,
+   0.6493798013059249,
+   0.4286848493675794,
+   0.7998566242478649
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_harriet_ver01\/data\/sn85033139\/00271769970\/1919012301\/0842\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Manitowoc--Manitowoc"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_harriet_ver01%2Fdata%2Fsn85033139%2F00271769970%2F1919012301%2F0842.jp2\/pct:30.46,64.94,12.41,15.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn85033139",
+  "name": "The Manitowoc pilot. [volume]",
+  "ocr": [
+   "yit\u2019i",
+   "*",
+   "\u25a0\u25a0",
+   "\u25a0-<*%>",
+   ":",
+   "\u00a7",
+   "V;.",
+   "J",
+   ";",
+   "\u25a0i",
+   "Frances",
+   "E.",
+   "Willard."
+  ],
+  "page_seq_num": 842,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_harriet_ver01\/data\/sn85033139\/00271769970\/1919012301\/0842.jp2",
+  "place_of_publication": "Manitowoc, Wis.",
+  "pub_date": "1919-01-23",
+  "publisher": "Jeremiah Crowley",
+  "score": 0.9841585159301758,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_harriet_ver01\/data\/sn85033139\/00271769970\/1919012301\/0842\/004_0_98.jpg"
+ },
+ "id": 1874
+}

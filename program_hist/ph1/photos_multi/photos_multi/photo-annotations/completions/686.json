@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611742062,
+   "id": 686001,
+   "lead_time": 5.97,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PFYWF0wNn8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_ancientbison_ver01",
+  "box": [
+   0.07381833264174044,
+   0.7338398848429765,
+   0.32803514847305176,
+   0.8535019273411716
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_ancientbison_ver01\/data\/2018270203\/00279527434\/1903103001\/1012\/005_0_91.jpg",
+  "geographic_coverage": [
+   "Nebraska--Sherman--Loup City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_ancientbison_ver01%2Fdata%2F2018270203%2F00279527434%2F1903103001%2F1012.jp2\/pct:7.38,73.39,25.43,11.97\/!500,500\/0\/default.jpg",
+  "lccn": "2018270203",
+  "name": "The Loup City northwestern. [volume]",
+  "ocr": [
+   "1"
+  ],
+  "page_seq_num": 1012,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_ancientbison_ver01\/data\/2018270203\/00279527434\/1903103001\/1012.jp2",
+  "place_of_publication": "Loup City, Neb.",
+  "pub_date": "1903-10-30",
+  "publisher": null,
+  "score": 0.919338583946228,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_ancientbison_ver01\/data\/2018270203\/00279527434\/1903103001\/1012\/005_0_91.jpg"
+ },
+ "id": 686
+}

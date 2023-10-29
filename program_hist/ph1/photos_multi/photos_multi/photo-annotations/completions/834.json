@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749198,
+   "id": 834001,
+   "lead_time": 5.416,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "dTX1KP1hrn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ohi_bartleby_ver01",
+  "box": [
+   0.21419915845317225,
+   0.3635991985878248,
+   0.574189709078881,
+   0.5602260975355513
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ohi_bartleby_ver01\/data\/sn83045274\/00279556136\/1905071501\/0777\/001_0_94.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook--Chicago",
+   "Ohio--Lucas--Toledo"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ohi_bartleby_ver01%2Fdata%2Fsn83045274%2F00279556136%2F1905071501%2F0777.jp2\/pct:21.41,36.36,36.0,19.67\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045274",
+  "name": "Ameryka echo. [volume]",
+  "ocr": [
+   "mim",
+   "WIDOKI",
+   "WARSZAWY",
+   "KRAKOWSKIE",
+   "PRZEDMIE\u015aCIE."
+  ],
+  "page_seq_num": 777,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ohi_bartleby_ver01\/data\/sn83045274\/00279556136\/1905071501\/0777.jp2",
+  "place_of_publication": "Toledo, Ohio",
+  "pub_date": "1905-07-15",
+  "publisher": "A.A. Paryski",
+  "score": 0.9414687752723694,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ohi_bartleby_ver01\/data\/sn83045274\/00279556136\/1905071501\/0777\/001_0_94.jpg"
+ },
+ "id": 834
+}

@@ -1,0 +1,92 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747542,
+   "id": 1981001,
+   "lead_time": 1.912,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4zrjvAp2GZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "deu_ironhill_ver01",
+  "box": [
+   0.25316390991210935,
+   0.1607375871736321,
+   0.3686775384947311,
+   0.47165804724711025
+  ],
+  "edition_seq_num": 1,
+  "filepath": "deu_ironhill_ver01\/data\/sn85042354\/00383342703\/1920061001\/0827\/018_0_95.jpg",
+  "geographic_coverage": [
+   "Delaware--New Castle--Wilmington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/deu_ironhill_ver01%2Fdata%2Fsn85042354%2F00383342703%2F1920061001%2F0827.jp2\/pct:25.31,16.08,11.56,31.1\/!500,500\/0\/default.jpg",
+  "lccn": "sn85042354",
+  "name": "Evening journal. [volume]",
+  "ocr": [
+   "HUSBAND",
+   "HELD",
+   "ON",
+   "ARSON",
+   "r~",
+   "i",
+   "o",
+   "Sr",
+   "\u25a0",
+   "Af:",
+   "M",
+   "\/",
+   "t",
+   "XI",
+   "*9",
+   "*",
+   "J",
+   "s",
+   "i",
+   "Vs-",
+   "-",
+   ".",
+   "IP",
+   "9",
+   "wr",
+   "*",
+   "Mrs.",
+   "George",
+   "Leroy",
+   "Nelson",
+   "nod",
+   "Lieu",
+   "tenant",
+   "Nelson,",
+   "l",
+   ".",
+   "S.",
+   "A.",
+   "BANGOR,",
+   "Me.\u2014It's",
+   "a",
+   "far,",
+   "far"
+  ],
+  "page_seq_num": 827,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/deu_ironhill_ver01\/data\/sn85042354\/00383342703\/1920061001\/0827.jp2",
+  "place_of_publication": "Wilmington, Del.",
+  "pub_date": "1920-06-10",
+  "publisher": "J. Milton Davidson",
+  "score": 0.9593222141265869,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/deu_ironhill_ver01\/data\/sn85042354\/00383342703\/1920061001\/0827\/018_0_95.jpg"
+ },
+ "id": 1981
+}

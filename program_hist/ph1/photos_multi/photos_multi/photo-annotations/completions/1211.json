@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762881,
+   "id": 1211001,
+   "lead_time": 1.812,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vaFc0ZexZJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_edenville_ver01",
+  "box": [
+   0.1570253748642771,
+   0.2643857841779852,
+   0.4204751064902858,
+   0.4504205857786171
+  ],
+  "edition_seq_num": 2,
+  "filepath": "mimtptc_edenville_ver01\/data\/sn83016689\/0027955159A\/1910011302\/0910\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_edenville_ver01%2Fdata%2Fsn83016689%2F0027955159A%2F1910011302%2F0910.jp2\/pct:15.7,26.44,26.35,18.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "K*",
+   ".",
+   "Hi",
+   "H",
+   "11",
+   "\u25a0",
+   "\u25a0",
+   "\u25a0",
+   "I",
+   "IiMiTT^BB",
+   "w\u00dfm",
+   "4",
+   "'",
+   "flHf",
+   "*WSk",
+   "\u25a0L",
+   "'H",
+   "i",
+   ">4js\u00dfEl",
+   "\u25a0hi",
+   "I",
+   "818",
+   "J",
+   "\u25a0f",
+   "TIIB",
+   "<\u25a0",
+   "It",
+   "BAT",
+   "JOIIX",
+   "taXTOX."
+  ],
+  "page_seq_num": 910,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_edenville_ver01\/data\/sn83016689\/0027955159A\/1910011302\/0910.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1910-01-13",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.978654682636261,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_edenville_ver01\/data\/sn83016689\/0027955159A\/1910011302\/0910\/005_0_97.jpg"
+ },
+ "id": 1211
+}

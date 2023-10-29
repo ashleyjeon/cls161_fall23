@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757147,
+   "id": 575001,
+   "lead_time": 21.864,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "AZV_P1KYv5",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_haiti_ver01",
+  "box": [
+   0.1810105497186834,
+   0.02622809534715655,
+   0.4994303963401101,
+   0.23443616108848436
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_haiti_ver01\/data\/sn83030214\/00175042039\/1902090701\/0107\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_haiti_ver01%2Fdata%2Fsn83030214%2F00175042039%2F1902090701%2F0107.jp2\/pct:18.1,2.63,31.85,20.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "nOX\"^K",
+   "ON",
+   "MOT-NT",
+   "RAKER.",
+   "IN",
+   "THE",
+   "ADIRONDACKB,",
+   "IN",
+   "WTTTCII",
+   "ROBERT"
+  ],
+  "page_seq_num": 107,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_haiti_ver01\/data\/sn83030214\/00175042039\/1902090701\/0107.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1902-09-07",
+  "publisher": "New York Tribune",
+  "score": 0.9866966605186462,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_haiti_ver01\/data\/sn83030214\/00175042039\/1902090701\/0107\/001_0_98.jpg"
+ },
+ "id": 575
+}

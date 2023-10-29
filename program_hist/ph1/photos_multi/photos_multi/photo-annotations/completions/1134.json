@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752787,
+   "id": 1134001,
+   "lead_time": 2.056,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "q53z-9E3WF",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_sierra_ver01",
+  "box": [
+   0.5691542746803977,
+   0.10347592046929066,
+   0.8263295676491478,
+   0.43898938452908737
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_sierra_ver01\/data\/sn84026749\/100492465\/1909081101\/0488\/012_0_94.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_sierra_ver01%2Fdata%2Fsn84026749%2F100492465%2F1909081101%2F0488.jp2\/pct:56.91,10.35,25.72,33.56\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "MAY",
+   "TAKE",
+   "NEW",
+   "BERTH",
+   "V"
+  ],
+  "page_seq_num": 488,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_sierra_ver01\/data\/sn84026749\/100492465\/1909081101\/0488.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1909-08-11",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9414461255073547,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_sierra_ver01\/data\/sn84026749\/100492465\/1909081101\/0488\/012_0_94.jpg"
+ },
+ "id": 1134
+}

@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748391,
+   "id": 1410001,
+   "lead_time": 1.861,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wbqafb9pz9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_journal_ver01",
+  "box": [
+   0.18487438991880364,
+   0.7257550440797018,
+   0.3108075079595792,
+   0.8798417830288261
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_journal_ver01\/data\/sn92053934\/0020219882A\/1913053101\/0534\/000_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_journal_ver01%2Fdata%2Fsn92053934%2F0020219882A%2F1913053101%2F0534.jp2\/pct:18.48,72.58,12.6,15.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "crown.",
+   "mm?",
+   "BONNET",
+   "OF",
+   "FANCY",
+   "STRAW.",
+   "the",
+   "flowers",
+   "is",
+   "a",
+   "pale",
+   "blue",
+   "satin",
+   "ribbon,",
+   "which",
+   "ends",
+   "at",
+   "the",
+   "back",
+   "in",
+   "a",
+   "chou",
+   "from",
+   "which",
+   "depend",
+   "long",
+   "streamers",
+   "of",
+   "the",
+   "at"
+  ],
+  "page_seq_num": 534,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_journal_ver01\/data\/sn92053934\/0020219882A\/1913053101\/0534.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1913-05-31",
+  "publisher": "J.W. Potter",
+  "score": 0.9667114019393921,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_journal_ver01\/data\/sn92053934\/0020219882A\/1913053101\/0534\/000_0_96.jpg"
+ },
+ "id": 1410
+}

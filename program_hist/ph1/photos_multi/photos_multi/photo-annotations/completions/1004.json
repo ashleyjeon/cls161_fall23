@@ -1,0 +1,113 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763872,
+   "id": 1004001,
+   "lead_time": 2.025,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "LOqtOlA4L8",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_eleven_ver01",
+  "box": [
+   0.3240009279743166,
+   0.6890693491940045,
+   0.7222874896825092,
+   0.9723924455599547
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_eleven_ver01\/data\/sn83045555\/00175049150\/1908121901\/1455\/004_0_92.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_eleven_ver01%2Fdata%2Fsn83045555%2F00175049150%2F1908121901%2F1455.jp2\/pct:32.4,68.91,39.83,28.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045555",
+  "name": "Deseret evening news. [volume]",
+  "ocr": [
+   "0",
+   "no",
+   "j",
+   "iiof",
+   "C",
+   "c",
+   "r",
+   "This",
+   "picture",
+   "shows",
+   "HUGH",
+   "ilr",
+   "tfft",
+   "vooalTpaclusr",
+   "r",
+   "his",
+   "qUintct",
+   "of",
+   "r",
+   "uplls",
+   "ivhq",
+   "I",
+   "lit",
+   "flic1",
+   "recent",
+   "Etatedd",
+   "tod",
+   "Mr",
+   "Dougalls",
+   "face",
+   "appears",
+   "in",
+   "thu",
+   "center",
+   "nlli1thQothq",
+   "1llS1",
+   "f1W",
+   "1",
+   "otiiocsubjectsiare",
+   "31",
+   "Us",
+   "Uiiaef",
+   "BjirrwsJ",
+   "qmuralto",
+   "Lon",
+   "C",
+   "the",
+   "i",
+   "loft",
+   "Miss",
+   "Edna",
+   "Evanp",
+   "soprano",
+   "on",
+   "thp",
+   "right",
+   "Mr",
+   "LouiIIalscttibafitqnc",
+   "lower",
+   "lethand",
+   "cornerr",
+   "Mr",
+   "J",
+   "Summerlviys"
+  ],
+  "page_seq_num": 1455,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_eleven_ver01\/data\/sn83045555\/00175049150\/1908121901\/1455.jp2",
+  "place_of_publication": "Great Salt Lake City [Utah]",
+  "pub_date": "1908-12-19",
+  "publisher": "G.Q. Cannon",
+  "score": 0.9299371838569641,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_eleven_ver01\/data\/sn83045555\/00175049150\/1908121901\/1455\/004_0_92.jpg"
+ },
+ "id": 1004
+}

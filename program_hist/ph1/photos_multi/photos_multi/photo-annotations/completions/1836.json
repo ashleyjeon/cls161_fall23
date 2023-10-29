@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749511,
+   "id": 1836001,
+   "lead_time": 1.941,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "KlPjY8X1sm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_belknap_ver01",
+  "box": [
+   0.32375353810655094,
+   0.4189650781043974,
+   0.4516197748108715,
+   0.6585751304143592
+  ],
+  "edition_seq_num": 2,
+  "filepath": "oru_belknap_ver01\/data\/sn88086023\/00202194850\/1918060702\/0445\/012_0_95.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_belknap_ver01%2Fdata%2Fsn88086023%2F00202194850%2F1918060702%2F0445.jp2\/pct:32.37,41.9,12.79,23.97\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   ".",
+   ".",
+   "-",
+   "?",
+   "sit",
+   "\"",
+   "'",
+   "-a-;--",
+   "-",
+   "Of",
+   "a-",
+   ",",
+   "If",
+   "McAdoo",
+   "attempts",
+   "to",
+   "remove",
+   "th"
+  ],
+  "page_seq_num": 445,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_belknap_ver01\/data\/sn88086023\/00202194850\/1918060702\/0445.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1918-06-07",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.9573540687561035,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_belknap_ver01\/data\/sn88086023\/00202194850\/1918060702\/0445\/012_0_95.jpg"
+ },
+ "id": 1836
+}

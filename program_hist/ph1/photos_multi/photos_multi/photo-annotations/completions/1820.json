@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675028,
+   "id": 1820001,
+   "lead_time": 3.962,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "a-5I8LHLXJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_dogbane_ver01",
+  "box": [
+   0.048741344245054385,
+   0.15896598357615116,
+   0.4803836240443726,
+   0.3972429201375469
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_dogbane_ver01\/data\/sn93061711\/0028077375A\/1918022801\/0610\/004_0_93.jpg",
+  "geographic_coverage": [
+   "New Mexico--Quay--Tucumcari"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_dogbane_ver01%2Fdata%2Fsn93061711%2F0028077375A%2F1918022801%2F0610.jp2\/pct:4.87,15.9,43.17,23.83\/!500,500\/0\/default.jpg",
+  "lccn": "sn93061711",
+  "name": "The Tucumcari news and Tucumcari times. [volume]",
+  "ocr": [
+   "CHILDREN",
+   "GREET",
+   "AMERICAN",
+   "MARINES",
+   "Truekloud",
+   "nf",
+   "American",
+   "marines",
+   "on",
+   "n",
+   "rimil",
+   "In",
+   "France,",
+   "greeted",
+   "liy",
+   "the",
+   "ijhlldreu",
+   "wltii",
+   "cheers",
+   "mill",
+   "louii'tM.",
+   "IN",
+   "FRANCE"
+  ],
+  "page_seq_num": 610,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_dogbane_ver01\/data\/sn93061711\/0028077375A\/1918022801\/0610.jp2",
+  "place_of_publication": "Tucumcari, N.M.",
+  "pub_date": "1918-02-28",
+  "publisher": "The Tucumcari Print. Co.",
+  "score": 0.9338268041610718,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_dogbane_ver01\/data\/sn93061711\/0028077375A\/1918022801\/0610\/004_0_93.jpg"
+ },
+ "id": 1820
+}

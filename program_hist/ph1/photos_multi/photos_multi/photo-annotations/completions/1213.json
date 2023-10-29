@@ -1,0 +1,120 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675503,
+   "id": 1213001,
+   "lead_time": 3.096,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "VqD3NH4-yH",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_seven_ver01",
+  "box": [
+   0.7139373904883616,
+   0.07121402114184934,
+   0.9742542156957305,
+   0.35812261527648215
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_seven_ver01\/data\/sn85058140\/00175049897\/1910073001\/0491\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Utah--Salt Lake--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_seven_ver01%2Fdata%2Fsn85058140%2F00175049897%2F1910073001%2F0491.jp2\/pct:71.39,7.13,26.04,28.7\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058140",
+  "name": "The Salt Lake herald-Republican. [volume]",
+  "ocr": [
+   "RIDES",
+   "DE",
+   "ROSIER",
+   "TONIGH1",
+   "<",
+   "fi",
+   "0",
+   "<",
+   "<",
+   "1",
+   "r",
+   "r",
+   "1",
+   "r",
+   "yk",
+   "1",
+   "bM",
+   "i",
+   "4",
+   "f",
+   "+",
+   "F",
+   "c",
+   "+",
+   "+",
+   "<",
+   "4",
+   "s",
+   "i",
+   "is",
+   "r",
+   "+",
+   "f",
+   "1Are",
+   "wt",
+   "+",
+   "SQL",
+   "y",
+   "+",
+   "F3",
+   "ttM",
+   "\u00b5",
+   "X",
+   "Y",
+   "n",
+   "l",
+   "\u00b1",
+   "t",
+   "+",
+   "x",
+   "a",
+   "r",
+   "va",
+   "\u00b0",
+   "ki",
+   "x",
+   "F",
+   "r",
+   "lC",
+   "HUBERT",
+   "KETTLE",
+   "Los",
+   "Angeles",
+   "Motorcycle",
+   "Flyer",
+   "Who",
+   "Rides",
+   "Worlds",
+   "Champion",
+   "Jake",
+   "Do"
+  ],
+  "page_seq_num": 491,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_seven_ver01\/data\/sn85058140\/00175049897\/1910073001\/0491.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1910-07-30",
+  "publisher": "[Herald-Republican Pub. Co.]",
+  "score": 0.9889888167381287,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_seven_ver01\/data\/sn85058140\/00175049897\/1910073001\/0491\/006_0_98.jpg"
+ },
+ "id": 1213
+}

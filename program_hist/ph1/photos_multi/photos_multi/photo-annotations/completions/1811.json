@@ -1,0 +1,50 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673430,
+   "id": 1811001,
+   "lead_time": 1.026,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "HCwvn5agyK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "arhi_electabuzz_ver01",
+  "box": [
+   0.01582197152103814,
+   0.36751220703125,
+   0.15086944615115527,
+   0.5536936483577806
+  ],
+  "edition_seq_num": 1,
+  "filepath": "arhi_electabuzz_ver01\/data\/sn89051213\/00414212803\/1918030701\/0760\/009_0_93.jpg",
+  "geographic_coverage": [
+   "Arkansas--Polk--Mena"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/arhi_electabuzz_ver01%2Fdata%2Fsn89051213%2F00414212803%2F1918030701%2F0760.jp2\/pct:1.58,36.76,13.51,18.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn89051213",
+  "name": "The Mena weekly star.",
+  "ocr": [
+
+  ],
+  "page_seq_num": 760,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/arhi_electabuzz_ver01\/data\/sn89051213\/00414212803\/1918030701\/0760.jp2",
+  "place_of_publication": "Mena, Ark.",
+  "pub_date": "1918-03-07",
+  "publisher": "A.W. St. John & Sons",
+  "score": 0.9301373362541199,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/arhi_electabuzz_ver01\/data\/sn89051213\/00414212803\/1918030701\/0760\/009_0_93.jpg"
+ },
+ "id": 1811
+}

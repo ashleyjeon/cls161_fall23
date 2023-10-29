@@ -1,0 +1,42 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768053,
+   "id": 26001,
+   "lead_time": 1.966,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_cessna_ver01",
+  "box": [
+   0.6387756409495314,
+   0.16053316135058732,
+   0.7828367903843718,
+   0.25970060929008154
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_cessna_ver01\/data\/sn84029853\/00237283041\/1895081501\/0503\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Kansas--Ford--Dodge City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_cessna_ver01%2Fdata%2Fsn84029853%2F00237283041%2F1895081501%2F0503.jp2\/pct:63.87,16.06,14.41,9.92\/!500,500\/0\/default.jpg",
+  "lccn": "sn84029853",
+  "name": "The Globe-republican. [volume]",
+  "ocr": [
+   ".rvumM",
+   "a",
+   "nu"
+  ],
+  "page_seq_num": 503,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_cessna_ver01\/data\/sn84029853\/00237283041\/1895081501\/0503.jp2",
+  "place_of_publication": "Dodge City, Kan.",
+  "pub_date": "1895-08-15",
+  "publisher": "Globe-Republican Pub. Co.",
+  "score": 0.989284098148346,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_cessna_ver01\/data\/sn84029853\/00237283041\/1895081501\/0503\/000_0_98.jpg"
+ },
+ "id": 26
+}

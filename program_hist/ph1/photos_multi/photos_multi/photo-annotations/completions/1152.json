@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748917,
+   "id": 1152001,
+   "lead_time": 4.927,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "NTcmlw-ZPs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_kilo_ver01",
+  "box": [
+   0.17669152345020464,
+   0.2301022407843998,
+   0.43349200709426494,
+   0.5027891985148136
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_kilo_ver01\/data\/sn83045433\/100493378\/1909060601\/0097\/001_0_98.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_kilo_ver01%2Fdata%2Fsn83045433%2F100493378%2F1909060601%2F0097.jp2\/pct:17.66,23.02,25.69,27.27\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045433",
+  "name": "The Washington herald. [volume]",
+  "ocr": [
+   "CHRISTIAN",
+   "ENDEAVOR",
+   "LEADER",
+   "DR",
+   "FRANCIS",
+   "EDWARD",
+   "QLARK"
+  ],
+  "page_seq_num": 97,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_kilo_ver01\/data\/sn83045433\/100493378\/1909060601\/0097.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1909-06-06",
+  "publisher": "Washington Herald Co.",
+  "score": 0.9858323335647583,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_kilo_ver01\/data\/sn83045433\/100493378\/1909060601\/0097\/001_0_98.jpg"
+ },
+ "id": 1152
+}

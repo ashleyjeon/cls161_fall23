@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611763898,
+   "id": 299001,
+   "lead_time": 1.667,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rxznLt02rt",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mnhi_hallock_ver01",
+  "box": [
+   0.2999656772105351,
+   0.6171155168336603,
+   0.5559089077937667,
+   0.8606111085391976
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mnhi_hallock_ver01\/data\/sn90059523\/00206536998\/1898111301\/0150\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Minnesota--Ramsey--Saint Paul"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mnhi_hallock_ver01%2Fdata%2Fsn90059523%2F00206536998%2F1898111301%2F0150.jp2\/pct:29.99,61.72,25.6,24.35\/!500,500\/0\/default.jpg",
+  "lccn": "sn90059523",
+  "name": "The Saint Paul globe.",
+  "ocr": [
+   "t.EOIK.K",
+   "S.",
+   "l",
+   "A\\KIEI.n.",
+   "Manager",
+   "of",
+   "the",
+   "E*",
+   "farm",
+   "Prect",
+   "Bureau."
+  ],
+  "page_seq_num": 150,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mnhi_hallock_ver01\/data\/sn90059523\/00206536998\/1898111301\/0150.jp2",
+  "place_of_publication": "St. Paul, Minn.",
+  "pub_date": "1898-11-13",
+  "publisher": "[s.n.]",
+  "score": 0.9830809235572815,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mnhi_hallock_ver01\/data\/sn90059523\/00206536998\/1898111301\/0150\/002_0_98.jpg"
+ },
+ "id": 299
+}

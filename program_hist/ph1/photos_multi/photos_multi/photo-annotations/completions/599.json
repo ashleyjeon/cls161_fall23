@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748167,
+   "id": 599001,
+   "lead_time": 1.731,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Yg4wh5bAIL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_dubois_ver01",
+  "box": [
+   0.05883080618722098,
+   0.28030298031518736,
+   0.34745352608816965,
+   0.4080847038000358
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_dubois_ver01\/data\/sn83032040\/00296026025\/1902082101\/0768\/006_0_90.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Cameron--Emporium"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_dubois_ver01%2Fdata%2Fsn83032040%2F00296026025%2F1902082101%2F0768.jp2\/pct:5.88,28.04,28.87,12.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn83032040",
+  "name": "Cameron County press. [volume]",
+  "ocr": [
+   "CLEARING",
+   "THi",
+   "RIGHT",
+   "OF",
+   "WAY",
+   "IN",
+   "EASTERN",
+   "CUBA."
+  ],
+  "page_seq_num": 768,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_dubois_ver01\/data\/sn83032040\/00296026025\/1902082101\/0768.jp2",
+  "place_of_publication": "Emporium, Cameron County, Pa.",
+  "pub_date": "1902-08-21",
+  "publisher": "C.B. Gould",
+  "score": 0.9013141989707947,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_dubois_ver01\/data\/sn83032040\/00296026025\/1902082101\/0768\/006_0_90.jpg"
+ },
+ "id": 599
+}

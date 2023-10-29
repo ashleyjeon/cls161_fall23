@@ -1,0 +1,9 @@
+<View>
+  <Choices name="choice" toName="image" showInLine="true" choice="multiple">
+        <Choice value="human"/>
+    	<Choice value="animal"/>
+    	<Choice value="human-structure"/>
+     	<Choice value="landscape"/>
+  </Choices>
+<Image name="image" value="$image"/>
+</View>

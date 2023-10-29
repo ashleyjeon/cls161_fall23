@@ -1,0 +1,98 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675910,
+   "id": 1869001,
+   "lead_time": 5.433,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-l5CQqZHkm",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_fitzgerald_ver02",
+  "box": [
+   0.1993373524058949,
+   0.7431173340667159,
+   0.6643487858899775,
+   0.933102586820194
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_fitzgerald_ver02\/data\/sn86091188\/0029586915A\/1919022101\/0259\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Idaho--Lemhi--Salmon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_fitzgerald_ver02%2Fdata%2Fsn86091188%2F0029586915A%2F1919022101%2F0259.jp2\/pct:19.93,74.32,46.51,19.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn86091188",
+  "name": "The Idaho recorder. [volume]",
+  "ocr": [
+   "BRITISH",
+   "PRISONERS",
+   "STARVED",
+   "BY",
+   "THE",
+   "GERMANS",
+   "fis",
+   "~",
+   "N",
+   "?4",
+   ">",
+   "Tht*",
+   "photograph",
+   "\u00bb\u00bbf",
+   "a",
+   "group",
+   "of",
+   "British",
+   "prisoners",
+   "of",
+   "war",
+   "ft",
+   "Hg\u00ab",
+   "\u00bb\u00bbpH\u00bb",
+   "\u00ab-*",
+   "by",
+   "th.",
+   "Huit\u00bb.",
+   "Such",
+   "evidence",
+   "doe*",
+   "not",
+   "h.",
+   "ft?",
+   "J\u00cfP?",
+   "German*",
+   ">h",
+   "S",
+   "\u00bbhe",
+   "food",
+   "for",
+   "\u00bb\u00bbhi",
+   "ggdPlUaM",
+   "3",
+   "ameful",
+   "(rant",
+   "<ht*",
+   "is",
+   "pleading"
+  ],
+  "page_seq_num": 259,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_fitzgerald_ver02\/data\/sn86091188\/0029586915A\/1919022101\/0259.jp2",
+  "place_of_publication": "Salmon City, Idaho",
+  "pub_date": "1919-02-21",
+  "publisher": "J.E. Booth",
+  "score": 0.9752843379974365,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_fitzgerald_ver02\/data\/sn86091188\/0029586915A\/1919022101\/0259\/002_0_97.jpg"
+ },
+ "id": 1869
+}

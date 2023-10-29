@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748873,
+   "id": 1306001,
+   "lead_time": 411.175,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "uUT5i2MqmM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_carmela_ver01",
+  "box": [
+   0.05128831129807692,
+   0.03021120664166852,
+   0.5575915885058952,
+   0.39040208308694624
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_carmela_ver01\/data\/sn91064011\/00332896167\/1911090201\/0017\/012_0_96.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_carmela_ver01%2Fdata%2Fsn91064011%2F00332896167%2F1911090201%2F0017.jp2\/pct:5.12,3.03,50.64,36.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn91064011",
+  "name": "Newark evening star and Newark advertiser. [volume]",
+  "ocr": [
+   "=\u2014\\",
+   "Mlnricl",
+   "Price",
+   "In",
+   "\"The",
+   "Traitor,\"",
+   "at",
+   "Colun",
+   "bin."
+  ],
+  "page_seq_num": 17,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_carmela_ver01\/data\/sn91064011\/00332896167\/1911090201\/0017.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1911-09-02",
+  "publisher": "Newark Daily Advertiser Pub. Co.",
+  "score": 0.961887776851654,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_carmela_ver01\/data\/sn91064011\/00332896167\/1911090201\/0017\/012_0_96.jpg"
+ },
+ "id": 1306
+}

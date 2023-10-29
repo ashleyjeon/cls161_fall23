@@ -1,0 +1,43 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675537,
+   "id": 666001,
+   "lead_time": 2.371,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.1941310034857856,
+   0.3277624700743684,
+   0.33759382035997176,
+   0.42529366515765077
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761035\/1903060601\/0506\/004_0_96.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761035%2F1903060601%2F0506.jp2\/pct:19.41,32.78,14.35,9.76\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "DTjilB-WATTEK",
+   "AND",
+   "SHELVES."
+  ],
+  "page_seq_num": 506,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761035\/1903060601\/0506.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1903-06-06",
+  "publisher": "Julius F. Taylor",
+  "score": 0.9657447934150696,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761035\/1903060601\/0506\/004_0_96.jpg"
+ },
+ "id": 666
+}

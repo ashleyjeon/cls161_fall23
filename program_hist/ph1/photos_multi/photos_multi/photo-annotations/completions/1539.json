@@ -1,0 +1,99 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747469,
+   "id": 1539001,
+   "lead_time": 1.734,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "M6uSK-gYiq",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_fir_ver01",
+  "box": [
+   0.6198854308197463,
+   0.228607427878458,
+   0.8527323064729655,
+   0.4439543565982895
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_fir_ver01\/data\/sn88085187\/0021110837A\/1914021401\/0317\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Washington--Pierce--Tacoma"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_fir_ver01%2Fdata%2Fsn88085187%2F0021110837A%2F1914021401%2F0317.jp2\/pct:61.98,22.87,23.29,21.54\/!500,500\/0\/default.jpg",
+  "lccn": "sn88085187",
+  "name": "The Tacoma times. [volume]",
+  "ocr": [
+   "FLYNN",
+   "ABOUT",
+   "ALL",
+   "IN",
+   "Jim",
+   "Flynn",
+   "has",
+   "lieen",
+   "sick",
+   "foV",
+   "the",
+   "last",
+   "couple",
+   "of",
+   "weeks.",
+   "Tlie",
+   "effects",
+   "of",
+   "the",
+   "heutings",
+   "he",
+   "has",
+   "received",
+   "during",
+   "his",
+   "fighting",
+   "career",
+   "are",
+   "beginning",
+   "to",
+   "tell",
+   "on",
+   "the",
+   "Pueblo",
+   "fireman.",
+   "On",
+   "account",
+   "of",
+   "his",
+   "Ill",
+   "ness",
+   "a",
+   "return",
+   "bout",
+   "with",
+   "Battling",
+   "Levlnsky",
+   "was",
+   "postponed",
+   "this"
+  ],
+  "page_seq_num": 317,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_fir_ver01\/data\/sn88085187\/0021110837A\/1914021401\/0317.jp2",
+  "place_of_publication": "Tacoma, Wash.",
+  "pub_date": "1914-02-14",
+  "publisher": "Tacoma Times Pub. Co.",
+  "score": 0.979444682598114,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_fir_ver01\/data\/sn88085187\/0021110837A\/1914021401\/0317\/003_0_97.jpg"
+ },
+ "id": 1539
+}

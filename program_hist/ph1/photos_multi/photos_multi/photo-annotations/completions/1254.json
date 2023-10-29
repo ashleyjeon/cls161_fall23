@@ -1,0 +1,102 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749299,
+   "id": 1254001,
+   "lead_time": 1.735,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WtxLNT9H20",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_erkling_ver02",
+  "box": [
+   0.567815850949755,
+   0.06559333147321429,
+   0.817959654564951,
+   0.40069576590401784
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_erkling_ver02\/data\/sn85040437\/00414215324\/1911062201\/0079\/005_0_94.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Bayfield--Washburn"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_erkling_ver02%2Fdata%2Fsn85040437%2F00414215324%2F1911062201%2F0079.jp2\/pct:56.78,6.56,25.02,33.52\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040437",
+  "name": "The Washburn times. [volume]",
+  "ocr": [
+   "\u2019.",
+   "\u2022'dj^",
+   "f-fJU'\/P.YZ.",
+   "<$T\/MSOir",
+   "HENRY",
+   "L.",
+   "STIMSON,",
+   "who",
+   "has",
+   "been",
+   "appointed",
+   "secretary",
+   "of",
+   "war",
+   "to",
+   "suc",
+   "ceed",
+   "Jacob",
+   "M.",
+   "Dickinson,",
+   "resigned,",
+   "was",
+   "the",
+   "Republican",
+   "candidate",
+   "for",
+   "governor",
+   "of",
+   "New",
+   "York",
+   "last",
+   "fall",
+   "and",
+   "was",
+   "defeated",
+   "by",
+   "Mr.",
+   "Dix.",
+   "Mr.",
+   "Stimson",
+   "was",
+   "born",
+   "in",
+   "New",
+   "York",
+   "city",
+   "in",
+   "1867,",
+   "was",
+   "graduated",
+   "from",
+   "Philips",
+   "Academy"
+  ],
+  "page_seq_num": 79,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_erkling_ver02\/data\/sn85040437\/00414215324\/1911062201\/0079.jp2",
+  "place_of_publication": "Washburn, Wis.",
+  "pub_date": "1911-06-22",
+  "publisher": "J.E. Jones",
+  "score": 0.9431113004684448,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_erkling_ver02\/data\/sn85040437\/00414215324\/1911062201\/0079\/005_0_94.jpg"
+ },
+ "id": 1254
+}

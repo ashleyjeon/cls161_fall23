@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766715,
+   "id": 1817001,
+   "lead_time": 2.216,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "YzJJY_kLGn",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_pielou_ver01",
+  "box": [
+   0.8700461734716195,
+   0.049156195850578885,
+   0.9864580553830137,
+   0.26457528344990977
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_pielou_ver01\/data\/sn83030431\/00200294099\/1918120101\/0354\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_pielou_ver01%2Fdata%2Fsn83030431%2F00200294099%2F1918120101%2F0354.jp2\/pct:87.0,4.92,11.65,21.55\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030431",
+  "name": "The sun. [volume]",
+  "ocr": [
+   "TCQXSNCD",
+   "HASH",
+   "uCEEMlJANT"
+  ],
+  "page_seq_num": 354,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_pielou_ver01\/data\/sn83030431\/00200294099\/1918120101\/0354.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1918-12-01",
+  "publisher": "Sun Print. and Pub. Co.",
+  "score": 0.9886914491653442,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_pielou_ver01\/data\/sn83030431\/00200294099\/1918120101\/0354\/001_0_98.jpg"
+ },
+ "id": 1817
+}

@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675630,
+   "id": 804001,
+   "lead_time": 2.682,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9plcz7z7JJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_delaware_ver01",
+  "box": [
+   0.3125029397667001,
+   0.40907181199209136,
+   0.4484809385527165,
+   0.5764334399353979
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_delaware_ver01\/data\/sn86063952\/0023728429A\/1905060901\/1104\/011_0_96.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_delaware_ver01%2Fdata%2Fsn86063952%2F0023728429A%2F1905060901%2F1104.jp2\/pct:31.25,40.91,13.6,16.74\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   "FR4.NK",
+   "PROX'TY",
+   "National",
+   "Ct,mmitteemin",
+   "for",
+   "Oklahoma",
+   "of",
+   "the",
+   "N.",
+   "E.",
+   "A.",
+   "The",
+   "Man",
+   "Who"
+  ],
+  "page_seq_num": 1104,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_delaware_ver01\/data\/sn86063952\/0023728429A\/1905060901\/1104.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1905-06-09",
+  "publisher": "Roy Hoffman",
+  "score": 0.9609102606773376,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_delaware_ver01\/data\/sn86063952\/0023728429A\/1905060901\/1104\/011_0_96.jpg"
+ },
+ "id": 804
+}

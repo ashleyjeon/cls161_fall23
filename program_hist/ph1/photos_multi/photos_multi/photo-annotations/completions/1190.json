@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611741130,
+   "id": 1190001,
+   "lead_time": 4.587,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "o4mzU0ulpZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mthi_harrier_ver01",
+  "box": [
+   0.645662532775809,
+   0.1767393018378586,
+   0.9254078378928623,
+   0.3263298660028176
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mthi_harrier_ver01\/data\/sn84036207\/00295860194\/1910100701\/0821\/001_0_93.jpg",
+  "geographic_coverage": [
+   "Montana--Ravalli--Hamilton",
+   "Montana--Ravalli--Stevensville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mthi_harrier_ver01%2Fdata%2Fsn84036207%2F00295860194%2F1910100701%2F0821.jp2\/pct:64.56,17.68,27.98,14.96\/!500,500\/0\/default.jpg",
+  "lccn": "sn84036207",
+  "name": "The Western news. [volume]",
+  "ocr": [
+   "-A",
+   "-'\u2022>",
+   "\"",
+   "-",
+   "i",
+   "\u25a0",
+   ",:.",
+   "r",
+   ",",
+   "_",
+   "*L",
+   "NO.",
+   "*2.",
+   "From",
+   "across",
+   "Canyon",
+   "Lake."
+  ],
+  "page_seq_num": 821,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mthi_harrier_ver01\/data\/sn84036207\/00295860194\/1910100701\/0821.jp2",
+  "place_of_publication": "Stevensville, Mont.",
+  "pub_date": "1910-10-07",
+  "publisher": "Farris & Davis",
+  "score": 0.935941755771637,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mthi_harrier_ver01\/data\/sn84036207\/00295860194\/1910100701\/0821\/001_0_93.jpg"
+ },
+ "id": 1190
+}

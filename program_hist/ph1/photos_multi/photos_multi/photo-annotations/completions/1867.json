@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749178,
+   "id": 1867001,
+   "lead_time": 222.127,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "qIyuthznWJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_jefferson_ver01",
+  "box": [
+   0.5556326237876271,
+   0.5820609909762311,
+   0.8112103319543553,
+   0.873408196221872
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_jefferson_ver01\/data\/sn99063957\/00295867607\/1919070101\/0862\/005_0_97.jpg",
+  "geographic_coverage": [
+   "Oregon--Marion--Salem"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_jefferson_ver01%2Fdata%2Fsn99063957%2F00295867607%2F1919070101%2F0862.jp2\/pct:55.56,58.21,25.56,29.14\/!500,500\/0\/default.jpg",
+  "lccn": "sn99063957",
+  "name": "Daily capital journal.",
+  "ocr": [
+   "s",
+   "0",
+   "t",
+   "Mm",
+   "MAROA",
+   "KKT",
+   "WHITB"
+  ],
+  "page_seq_num": 862,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_jefferson_ver01\/data\/sn99063957\/00295867607\/1919070101\/0862.jp2",
+  "place_of_publication": "Salem, Oregon",
+  "pub_date": "1919-07-01",
+  "publisher": null,
+  "score": 0.9722918272018433,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_jefferson_ver01\/data\/sn99063957\/00295867607\/1919070101\/0862\/005_0_97.jpg"
+ },
+ "id": 1867
+}

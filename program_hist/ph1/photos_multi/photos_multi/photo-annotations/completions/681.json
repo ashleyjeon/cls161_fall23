@@ -1,0 +1,80 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755301,
+   "id": 681001,
+   "lead_time": 161.327,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "llkA71zusc",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_ockham_ver01",
+  "box": [
+   0.39673647061076267,
+   0.09300077068271921,
+   0.7520576661845805,
+   0.43703995889692165
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_ockham_ver01\/data\/sn83030193\/175044437\/1903122301\/1346\/006_0_96.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_ockham_ver01%2Fdata%2Fsn83030193%2F175044437%2F1903122301%2F1346.jp2\/pct:39.67,9.31,35.54,34.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "suis",
+   "QjJQJY",
+   "AND",
+   "SHA",
+   "TTERED",
+   "WALLS",
+   "A11TI",
+   "COLLAPSE",
+   "Off",
+   "THE",
+   "BIG",
+   "STEEL",
+   "I",
+   "Spteially",
+   "Phoopraplvd",
+   "for",
+   "Tht",
+   "Eitning",
+   "World",
+   "r",
+   "i",
+   "S",
+   "L",
+   "n",
+   "1",
+   "I",
+   "GREAT",
+   "fUNERAl",
+   "I",
+   "II"
+  ],
+  "page_seq_num": 1346,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_ockham_ver01\/data\/sn83030193\/175044437\/1903122301\/1346.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1903-12-23",
+  "publisher": "[publisher not identified]",
+  "score": 0.9682161211967468,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_ockham_ver01\/data\/sn83030193\/175044437\/1903122301\/1346\/006_0_96.jpg"
+ },
+ "id": 681
+}

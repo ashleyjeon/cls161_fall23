@@ -1,0 +1,61 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755070,
+   "id": 775001,
+   "lead_time": 5.04,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "wtKAfaJ1tI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_iceland_ver01",
+  "box": [
+   0.17784783705225532,
+   0.02147181937534734,
+   0.8109218381485849,
+   0.23324054764983757
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_iceland_ver01\/data\/sn83030214\/00175041230\/1905031301\/0274\/001_0_97.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_iceland_ver01%2Fdata%2Fsn83030214%2F00175041230%2F1905031301%2F0274.jp2\/pct:17.78,2.15,63.31,21.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "OmO",
+   "CENTRE",
+   "AT",
+   "THE",
+   "CITY",
+   "HALL.",
+   "PROPOSED",
+   "BY",
+   "THE",
+   "MUNICIPAL",
+   "ART",
+   "SOCIETY."
+  ],
+  "page_seq_num": 274,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_iceland_ver01\/data\/sn83030214\/00175041230\/1905031301\/0274.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1905-03-13",
+  "publisher": "New York Tribune",
+  "score": 0.9742576479911804,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_iceland_ver01\/data\/sn83030214\/00175041230\/1905031301\/0274\/001_0_97.jpg"
+ },
+ "id": 775
+}

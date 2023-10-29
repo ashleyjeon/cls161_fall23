@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749185,
+   "id": 1028001,
+   "lead_time": 1.692,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "C6cyWXvoQ7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_bowtruckle_ver02",
+  "box": [
+   0.7079945191287325,
+   0.12547798023822002,
+   0.8391231921015077,
+   0.25362925247032886
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_bowtruckle_ver02\/data\/sn86086186\/00414215129\/1908030601\/0492\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Wisconsin--La Crosse--La Crosse"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_bowtruckle_ver02%2Fdata%2Fsn86086186%2F00414215129%2F1908030601%2F0492.jp2\/pct:70.79,12.55,13.12,12.82\/!500,500\/0\/default.jpg",
+  "lccn": "sn86086186",
+  "name": "Nord stern. [volume]",
+  "ocr": [
+   ">-",
+   "L.",
+   "-",
+   "Atz",
+   "W",
+   "Doktor",
+   "Turbin,"
+  ],
+  "page_seq_num": 492,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_bowtruckle_ver02\/data\/sn86086186\/00414215129\/1908030601\/0492.jp2",
+  "place_of_publication": "La Crosse, Wis.",
+  "pub_date": "1908-03-06",
+  "publisher": "C. Halbwachs",
+  "score": 0.9738976359367371,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_bowtruckle_ver02\/data\/sn86086186\/00414215129\/1908030601\/0492\/003_0_97.jpg"
+ },
+ "id": 1028
+}

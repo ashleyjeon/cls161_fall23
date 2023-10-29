@@ -1,0 +1,112 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749404,
+   "id": 1366001,
+   "lead_time": 3.595,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "iey__1k5DL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_beardtongue_ver01",
+  "box": [
+   0.1682596968317193,
+   0.044295048020715704,
+   0.29845137537129146,
+   0.24026146444483995
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_beardtongue_ver01\/data\/sn99021999\/00212470545\/1912092901\/0817\/009_0_93.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_beardtongue_ver01%2Fdata%2Fsn99021999%2F00212470545%2F1912092901%2F0817.jp2\/pct:16.82,4.43,13.02,19.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "FROM",
+   "HIS",
+   "AUTOMOBILE.",
+   ".5",
+   "ifs",
+   "r",
+   "ill",
+   "I",
+   "CISCO.",
+   "Tex..",
+   "Sent.",
+   "28.",
+   "\"Is",
+   "It",
+   "coming",
+   "to",
+   "this?\"",
+   "This",
+   "question",
+   "is",
+   "really",
+   "a",
+   "perplex",
+   "ing",
+   "one",
+   "with",
+   "the",
+   "boys",
+   "of",
+   "the",
+   "plains",
+   "in",
+   "this",
+   "section",
+   "of",
+   "the",
+   "country.",
+   "They",
+   "have",
+   "marveled",
+   "at",
+   "the",
+   "stunts",
+   "that",
+   "Bob",
+   "wed",
+   "dlngton",
+   "has",
+   "pulled\"",
+   "off",
+   "with",
+   "his",
+   "28,000",
+   "mile",
+   "Cole.",
+   "Not",
+   "only",
+   "does",
+   "he",
+   "use",
+   "it",
+   "in",
+   "the"
+  ],
+  "page_seq_num": 817,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_beardtongue_ver01\/data\/sn99021999\/00212470545\/1912092901\/0817.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1912-09-29",
+  "publisher": "Edward Rosewater",
+  "score": 0.9335489869117737,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_beardtongue_ver01\/data\/sn99021999\/00212470545\/1912092901\/0817\/009_0_93.jpg"
+ },
+ "id": 1366
+}

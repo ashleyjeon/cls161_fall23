@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673665,
+   "id": 1352001,
+   "lead_time": 1.703,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1pMGIUOQHM",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_charlie_ver01",
+  "box": [
+   0.02769943917861007,
+   0.6551376817269333,
+   0.31605193088871775,
+   0.9766372206168167
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_charlie_ver01\/data\/sn84024055\/00280761060\/1912110901\/0204\/000_0_98.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago",
+   "Utah--Salt Lake County--Salt Lake City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_charlie_ver01%2Fdata%2Fsn84024055%2F00280761060%2F1912110901%2F0204.jp2\/pct:2.76,65.52,28.84,32.15\/!500,500\/0\/default.jpg",
+  "lccn": "sn84024055",
+  "name": "The broad ax. [volume]",
+  "ocr": [
+   "BBHHMHGr",
+   "'",
+   "fljfflBHHHHHQBBHH",
+   "ifififiriilB",
+   "y",
+   "-",
+   "BHliBBHHi9iflHS;",
+   "BHHHiiilBiliiKr'w",
+   "'",
+   "MHlDiifliliilllliiliilillfliiiiHBal&aBBSlK",
+   "HOK.",
+   "EDWARD",
+   "PDUHHE.",
+   "newly",
+   "elected",
+   "Governor",
+   "of",
+   "minds,",
+   "who",
+   "-was",
+   "loyany",
+   "supported",
+   "by",
+   "thousand",
+   "Aftp-Aaericatt",
+   "voters",
+   "throagaoot",
+   "this",
+   "state."
+  ],
+  "page_seq_num": 204,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_charlie_ver01\/data\/sn84024055\/00280761060\/1912110901\/0204.jp2",
+  "place_of_publication": "Salt Lake City, Utah",
+  "pub_date": "1912-11-09",
+  "publisher": "Julius F. Taylor",
+  "score": 0.989890456199646,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_charlie_ver01\/data\/sn84024055\/00280761060\/1912110901\/0204\/000_0_98.jpg"
+ },
+ "id": 1352
+}

@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611762874,
+   "id": 900001,
+   "lead_time": 1.468,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "R_KfmxlXIO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_horseradish_ver01",
+  "box": [
+   0.05039740418793796,
+   0.15356572804580998,
+   0.3054845859618311,
+   0.4100485124814479
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_horseradish_ver01\/data\/sn83045081\/00296025811\/1906090901\/0094\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Maryland--Baltimore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_horseradish_ver01%2Fdata%2Fsn83045081%2F00296025811%2F1906090901%2F0094.jp2\/pct:5.03,15.36,25.51,25.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045081",
+  "name": "Der Deutsche correspondent. [volume]",
+  "ocr": [
+   "-",
+   "..",
+   "-",
+   "-",
+   "zc.",
+   ".",
+   "-",
+   "...i",
+   "Irl.",
+   "Irances",
+   "Ring",
+   "in",
+   "\u201eMan",
+   "and",
+   "bis",
+   "Angel\"",
+   "in",
+   "der",
+   "..Mufik-Atademie"
+  ],
+  "page_seq_num": 94,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_horseradish_ver01\/data\/sn83045081\/00296025811\/1906090901\/0094.jp2",
+  "place_of_publication": "Baltimore, Md.",
+  "pub_date": "1906-09-09",
+  "publisher": "F. Raine",
+  "score": 0.9897966980934143,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_horseradish_ver01\/data\/sn83045081\/00296025811\/1906090901\/0094\/001_0_98.jpg"
+ },
+ "id": 900
+}

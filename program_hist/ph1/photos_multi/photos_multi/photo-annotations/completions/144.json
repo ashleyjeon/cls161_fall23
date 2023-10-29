@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748105,
+   "id": 144001,
+   "lead_time": 1.743,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "izCKjRKh7K",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_jennison_ver01",
+  "box": [
+   0.8196513588595433,
+   0.530747545644506,
+   0.9462405192787814,
+   0.641167960222449
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_jennison_ver01\/data\/sn82014635\/00280760547\/1896011901\/0088\/003_0_98.jpg",
+  "geographic_coverage": [
+   "Kansas--Sedgwick--Wichita"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_jennison_ver01%2Fdata%2Fsn82014635%2F00280760547%2F1896011901%2F0088.jp2\/pct:81.96,53.08,12.66,11.05\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014635",
+  "name": "The Wichita daily eagle. [volume]",
+  "ocr": [
+   ".",
+   ".cilHL",
+   "anBKj",
+   "fc\"",
+   "p"
+  ],
+  "page_seq_num": 88,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_jennison_ver01\/data\/sn82014635\/00280760547\/1896011901\/0088.jp2",
+  "place_of_publication": "Wichita, Kan.",
+  "pub_date": "1896-01-19",
+  "publisher": "M.M. Murdock & R.P. Murdock",
+  "score": 0.980749785900116,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_jennison_ver01\/data\/sn82014635\/00280760547\/1896011901\/0088\/003_0_98.jpg"
+ },
+ "id": 144
+}

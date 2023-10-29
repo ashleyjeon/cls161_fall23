@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611764566,
+   "id": 1973001,
+   "lead_time": 5.287,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "j56jIwt37r",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_irons_ver01",
+  "box": [
+   0.2374592812408304,
+   0.5012358728302231,
+   0.37932067297993693,
+   0.7049072876485613
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_irons_ver01\/data\/2010270504\/0023728477A\/1920100801\/1213\/008_0_91.jpg",
+  "geographic_coverage": [
+   "Nebraska--Lincoln--North Platte"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_irons_ver01%2Fdata%2F2010270504%2F0023728477A%2F1920100801%2F1213.jp2\/pct:23.74,50.13,14.19,20.37\/!500,500\/0\/default.jpg",
+  "lccn": "2010270504",
+  "name": "The North Platte semi-weekly tribune.",
+  "ocr": [
+   "A",
+   "Woman",
+   "of"
+  ],
+  "page_seq_num": 1213,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_irons_ver01\/data\/2010270504\/0023728477A\/1920100801\/1213.jp2",
+  "place_of_publication": "North Platte, Neb.",
+  "pub_date": "1920-10-08",
+  "publisher": "I.L. Bare",
+  "score": 0.9134058356285095,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_irons_ver01\/data\/2010270504\/0023728477A\/1920100801\/1213\/008_0_91.jpg"
+ },
+ "id": 1973
+}

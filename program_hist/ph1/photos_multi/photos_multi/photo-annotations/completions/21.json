@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757117,
+   "id": 21001,
+   "lead_time": 4.492,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "BpijSnsyaN",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_kensington_ver02",
+  "box": [
+   0.5452823400726465,
+   0.21859113846091027,
+   0.681499323629623,
+   0.3516727035469294
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_kensington_ver02\/data\/sn88065721\/00279521730\/1895061901\/0475\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Maryland--Anne Arundel--Annapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_kensington_ver02%2Fdata%2Fsn88065721%2F00279521730%2F1895061901%2F0475.jp2\/pct:54.52,21.86,13.63,13.31\/!500,500\/0\/default.jpg",
+  "lccn": "sn88065721",
+  "name": "Evening capital.",
+  "ocr": [
+   "president",
+   "ritoMAS",
+   "feta.",
+   "\u201cGent",
+   "lemen,",
+   "aim",
+   "first",
+   "fora",
+   "lofty",
+   "scliol-"
+  ],
+  "page_seq_num": 475,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_kensington_ver02\/data\/sn88065721\/00279521730\/1895061901\/0475.jp2",
+  "place_of_publication": "Annapolis, Md.",
+  "pub_date": "1895-06-19",
+  "publisher": "W.M. Abbott",
+  "score": 0.9804162383079529,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_kensington_ver02\/data\/sn88065721\/00279521730\/1895061901\/0475\/002_0_98.jpg"
+ },
+ "id": 21
+}

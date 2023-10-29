@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611752484,
+   "id": 606001,
+   "lead_time": 2.597,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9IJzrkT6Tx",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_damascus_ver01",
+  "box": [
+   0.037254987444196426,
+   0.35266925676588157,
+   0.4713014280641234,
+   0.5577946484037382
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_damascus_ver01\/data\/sn89055091\/00414211823\/1902020601\/0257\/002_0_91.jpg",
+  "geographic_coverage": [
+   "Idaho--Washington--Weiser"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_damascus_ver01%2Fdata%2Fsn89055091%2F00414211823%2F1902020601%2F0257.jp2\/pct:3.72,35.27,43.41,20.52\/!500,500\/0\/default.jpg",
+  "lccn": "sn89055091",
+  "name": "The Weiser signal.",
+  "ocr": [
+   "i",
+   "\u00fc",
+   "y",
+   "-",
+   "m",
+   "f",
+   ".4",
+   "ry",
+   ":",
+   "-Yx",
+   "\/",
+   "i",
+   "m",
+   "If",
+   "m.",
+   ";",
+   "?",
+   "\u25a0f",
+   "I",
+   "m",
+   ":",
+   ":",
+   ":",
+   "1"
+  ],
+  "page_seq_num": 257,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_damascus_ver01\/data\/sn89055091\/00414211823\/1902020601\/0257.jp2",
+  "place_of_publication": "Weiser, Idaho",
+  "pub_date": "1902-02-06",
+  "publisher": "R.E. Lockwood",
+  "score": 0.9129914045333862,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_damascus_ver01\/data\/sn89055091\/00414211823\/1902020601\/0257\/002_0_91.jpg"
+ },
+ "id": 606
+}

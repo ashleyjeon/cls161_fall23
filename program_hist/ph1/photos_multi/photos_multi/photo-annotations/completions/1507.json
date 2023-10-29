@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772484,
+   "id": 1507001,
+   "lead_time": 1.668,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "skTHydHU7O",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ncu_kings_ver01",
+  "box": [
+   0.2285868895120461,
+   0.5883641717717512,
+   0.5296846528293034,
+   0.826231135565804
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ncu_kings_ver01\/data\/sn91068476\/00415667346\/1914110601\/1276\/000_0_98.jpg",
+  "geographic_coverage": [
+   "North Carolina--Union--Monroe"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ncu_kings_ver01%2Fdata%2Fsn91068476%2F00415667346%2F1914110601%2F1276.jp2\/pct:22.85,58.84,30.11,23.79\/!500,500\/0\/default.jpg",
+  "lccn": "sn91068476",
+  "name": "The Monroe journal. [volume]",
+  "ocr": [
+   "-",
+   "-",
+   "n",
+   "ly",
+   "\"",
+   "-",
+   "k-W&i",
+   "-",
+   "-''T'",
+   "ill",
+   "K",
+   "KIM",
+   "r",
+   "A",
+   "Elbow",
+   "to",
+   "Her",
+   "On."
+  ],
+  "page_seq_num": 1276,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ncu_kings_ver01\/data\/sn91068476\/00415667346\/1914110601\/1276.jp2",
+  "place_of_publication": "Monroe, N.C.",
+  "pub_date": "1914-11-06",
+  "publisher": "R.F. Beasley",
+  "score": 0.9818851351737976,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ncu_kings_ver01\/data\/sn91068476\/00415667346\/1914110601\/1276\/000_0_98.jpg"
+ },
+ "id": 1507
+}

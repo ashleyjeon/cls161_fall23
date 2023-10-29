@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768975,
+   "id": 114001,
+   "lead_time": 1.985,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MmtsPibT12",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_infiniti_ver03",
+  "box": [
+   0.18395809098785998,
+   0.3627568822707573,
+   0.43679166307636336,
+   0.5086532370017393
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896032401\/0334\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Texas--Brazos--Bryan"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_infiniti_ver03%2Fdata%2Fsn88083938%2F00200294269%2F1896032401%2F0334.jp2\/pct:18.39,36.28,25.29,14.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn88083938",
+  "name": "The Bryan daily eagle.",
+  "ocr": [
+   ")",
+   "--.",
+   "i",
+   ";",
+   "....",
+   "e",
+   "'.",
+   ":iXTUW",
+   "-.",
+   "t.",
+   "....",
+   "\"",
+   "iaa",
+   "AN",
+   "EXPERIMENT",
+   "WITH",
+   "THE",
+   "CATHODE",
+   "RAYS",
+   "IN",
+   "CHICAGO."
+  ],
+  "page_seq_num": 334,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896032401\/0334.jp2",
+  "place_of_publication": "Bryan, Tex.",
+  "pub_date": "1896-03-24",
+  "publisher": "Connelly, Palmer & Carnes",
+  "score": 0.9791843891143799,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_infiniti_ver03\/data\/sn88083938\/00200294269\/1896032401\/0334\/003_0_97.jpg"
+ },
+ "id": 114
+}

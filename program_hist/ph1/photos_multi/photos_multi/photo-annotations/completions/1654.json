@@ -1,0 +1,89 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749438,
+   "id": 1654001,
+   "lead_time": 4.608,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "nCyrIFzvYk",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_curtin_ver01",
+  "box": [
+   0.2773919055218713,
+   0.04426095183466522,
+   0.5390341648043669,
+   0.28013820379552706
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_curtin_ver01\/data\/sn83045211\/00237280088\/1916061201\/0584\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_curtin_ver01%2Fdata%2Fsn83045211%2F00237280088%2F1916061201%2F0584.jp2\/pct:27.73,4.43,26.17,23.59\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "MIMI",
+   "GOES",
+   "TO",
+   "ZOO",
+   "Tho",
+   "\"nenr-human",
+   "ctiimpanscc\"",
+   "of",
+   "Dr.",
+   "William",
+   "Henry",
+   "Furncss",
+   "will",
+   "Bojourn",
+   "for",
+   "the",
+   "summer",
+   "In",
+   "tho",
+   "Zoological",
+   "Gnrdens",
+   "while",
+   "its",
+   "mas",
+   "ter",
+   "Is",
+   "abroad.",
+   "1",
+   "xiOTi,",
+   "1",
+   "f",
+   "mmdM?K",
+   "JH(",
+   "Tt",
+   "&&&",
+   "rf.",
+   "Xr",
+   "s",
+   ".",
+   "C"
+  ],
+  "page_seq_num": 584,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_curtin_ver01\/data\/sn83045211\/00237280088\/1916061201\/0584.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1916-06-12",
+  "publisher": "Public Ledger Co.",
+  "score": 0.942901074886322,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_curtin_ver01\/data\/sn83045211\/00237280088\/1916061201\/0584\/003_0_94.jpg"
+ },
+ "id": 1654
+}

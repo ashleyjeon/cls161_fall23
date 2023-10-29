@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766699,
+   "id": 887001,
+   "lead_time": 1.786,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "51hJzfKHzY",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_ironweed_ver01",
+  "box": [
+   0.03210737478679122,
+   0.2573984430533251,
+   0.15866530750671662,
+   0.40979407550712144
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_ironweed_ver01\/data\/sn84020615\/00280774194\/1906121801\/1189\/002_0_97.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_ironweed_ver01%2Fdata%2Fsn84020615%2F00280774194%2F1906121801%2F1189.jp2\/pct:3.21,25.74,12.66,15.24\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020615",
+  "name": "Albuquerque evening citizen. [volume]",
+  "ocr": [
+   "1",
+   "..k",
+   "MRS.",
+   "MARGARET",
+   "E.",
+   "President.",
+   "MEDLER"
+  ],
+  "page_seq_num": 1189,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_ironweed_ver01\/data\/sn84020615\/00280774194\/1906121801\/1189.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1906-12-18",
+  "publisher": "Citizen Pub. Co.",
+  "score": 0.9778621196746826,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_ironweed_ver01\/data\/sn84020615\/00280774194\/1906121801\/1189\/002_0_97.jpg"
+ },
+ "id": 887
+}

@@ -1,0 +1,53 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749330,
+   "id": 463001,
+   "lead_time": 1.849,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1tBLI2l2d7",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_austen_ver01",
+  "box": [
+   0.6407679615404782,
+   0.4861491181703833,
+   0.9247787441449944,
+   0.7451403472801629
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_austen_ver01\/data\/sn94056869\/00296025641\/1901022301\/0035\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New Mexico--Santa Fe--Santa Fe"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_austen_ver01%2Fdata%2Fsn94056869%2F00296025641%2F1901022301%2F0035.jp2\/pct:64.07,48.62,28.41,25.9\/!500,500\/0\/default.jpg",
+  "lccn": "sn94056869",
+  "name": "El Nuevo mexicano.",
+  "ocr": [
+   "EL",
+   "HON.",
+   "VENCESLAO",
+   "CHAVES,"
+  ],
+  "page_seq_num": 35,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_austen_ver01\/data\/sn94056869\/00296025641\/1901022301\/0035.jp2",
+  "place_of_publication": "Santa Fe, N.M.",
+  "pub_date": "1901-02-23",
+  "publisher": "La Ci\u0301a. Publicista de Nuevo Mexicano",
+  "score": 0.9885779619216919,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_austen_ver01\/data\/sn94056869\/00296025641\/1901022301\/0035\/001_0_98.jpg"
+ },
+ "id": 463
+}

@@ -1,0 +1,93 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768435,
+   "id": 1656001,
+   "lead_time": 2.49,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "oLqY86PFMG",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "uuml_indurain_ver01",
+  "box": [
+   0.44747015887649483,
+   0.05991745734877485,
+   0.5750225080910142,
+   0.28095855416986504
+  ],
+  "edition_seq_num": 1,
+  "filepath": "uuml_indurain_ver01\/data\/sn85058396\/print\/1916041801\/1127\/002_0_93.jpg",
+  "geographic_coverage": [
+   "Utah--Weber--Ogden"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/uuml_indurain_ver01%2Fdata%2Fsn85058396%2Fprint%2F1916041801%2F1127.jp2\/pct:44.74,6.0,12.76,22.11\/!500,500\/0\/default.jpg",
+  "lccn": "sn85058396",
+  "name": "The Ogden standard. [volume]",
+  "ocr": [
+   "WHO",
+   "f",
+   "V",
+   "SHE",
+   "IS",
+   "VOLA",
+   "SMITH,",
+   "popular",
+   "on",
+   "and",
+   "off",
+   "the",
+   "Bcreeru",
+   "Vola",
+   "has",
+   "won",
+   "a",
+   "dozen",
+   "popularity",
+   "contests",
+   "conducted",
+   "by",
+   "various",
+   "magazines",
+   "and",
+   "newspapers.",
+   "Buffalo,",
+   "N.",
+   "Y.,",
+   "Is",
+   "proud",
+   "of",
+   "tho",
+   "fact",
+   "that",
+   "she",
+   "was",
+   "born",
+   "thore,",
+   "only",
+   "18",
+   "years",
+   "ago.",
+   "Her"
+  ],
+  "page_seq_num": 1127,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/uuml_indurain_ver01\/data\/sn85058396\/print\/1916041801\/1127.jp2",
+  "place_of_publication": "Ogden City, Utah",
+  "pub_date": "1916-04-18",
+  "publisher": "W. Glasmann",
+  "score": 0.9350972771644592,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/uuml_indurain_ver01\/data\/sn85058396\/print\/1916041801\/1127\/002_0_93.jpg"
+ },
+ "id": 1656
+}

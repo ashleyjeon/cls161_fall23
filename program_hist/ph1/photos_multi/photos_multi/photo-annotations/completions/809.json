@@ -1,0 +1,55 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673503,
+   "id": 809001,
+   "lead_time": 1.843,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "5wTXaaa7Xw",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "hihouml_carmine_ver01",
+  "box": [
+   0.3549407798787115,
+   0.3962790136179213,
+   0.6409458350634637,
+   0.5992865518531307
+  ],
+  "edition_seq_num": 1,
+  "filepath": "hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905012701\/0188\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Hawaii--Honolulu--Honolulu"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/hihouml_carmine_ver01%2Fdata%2Fsn82015415%2F00237284008%2F1905012701%2F0188.jp2\/pct:35.49,39.63,28.61,20.31\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015415",
+  "name": "The Hawaiian star. [volume]",
+  "ocr": [
+   "FIELD",
+   "MARSHAL",
+   "OYAMA.",
+   "(Associated",
+   "Press",
+   "Cable)."
+  ],
+  "page_seq_num": 188,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905012701\/0188.jp2",
+  "place_of_publication": "Honolulu [Oahu]",
+  "pub_date": "1905-01-27",
+  "publisher": "Hawaiian Star Newspaper Association",
+  "score": 0.9818136692047119,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/hihouml_carmine_ver01\/data\/sn82015415\/00237284008\/1905012701\/0188\/002_0_98.jpg"
+ },
+ "id": 809
+}

@@ -1,0 +1,57 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675592,
+   "id": 401001,
+   "lead_time": 1.795,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "yMu88SYDar",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_douglass_ver01",
+  "box": [
+   0.2754508517435844,
+   0.15366117906706286,
+   0.38443873756430347,
+   0.2666385139834847
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_douglass_ver01\/data\/sn85038292\/00415623999\/1900060901\/0322\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Maryland--Carroll--Westminster"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_douglass_ver01%2Fdata%2Fsn85038292%2F00415623999%2F1900060901%2F0322.jp2\/pct:27.54,15.37,10.9,11.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn85038292",
+  "name": "The Democratic advocate. [volume]",
+  "ocr": [
+   ",",
+   "\"",
+   ".V",
+   "j",
+   "'",
+   "PROF.",
+   "S.",
+   "SIMPSON."
+  ],
+  "page_seq_num": 322,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_douglass_ver01\/data\/sn85038292\/00415623999\/1900060901\/0322.jp2",
+  "place_of_publication": "Westminster, Md.",
+  "pub_date": "1900-06-09",
+  "publisher": "William H. Davis",
+  "score": 0.9315075874328613,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_douglass_ver01\/data\/sn85038292\/00415623999\/1900060901\/0322\/006_0_93.jpg"
+ },
+ "id": 401
+}

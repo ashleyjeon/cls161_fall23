@@ -1,0 +1,98 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768646,
+   "id": 585001,
+   "lead_time": 1.678,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "lAVlPgKJSO",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_ittenbach_ver01",
+  "box": [
+   0.4436083297834148,
+   0.6411327572133942,
+   0.6888096604000558,
+   0.9171789054458311
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_ittenbach_ver01\/data\/sn82015679\/00202191800\/1902022201\/0284\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Indiana--Marion--Indianapolis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_ittenbach_ver01%2Fdata%2Fsn82015679%2F00202191800%2F1902022201%2F0284.jp2\/pct:44.36,64.12,24.53,27.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn82015679",
+  "name": "The Indianapolis journal. [volume]",
+  "ocr": [
+   "AZMI3U",
+   "XCdLEr",
+   "\u00df-Vm7-",
+   ".",
+   ",S.",
+   "-.",
+   "r",
+   ".",
+   "-",
+   ",",
+   ":",
+   "v.'iV",
+   ":",
+   ";.-",
+   "-",
+   "nl",
+   ":",
+   "'",
+   ".-.",
+   "'",
+   ".f",
+   ".",
+   "-",
+   "'s",
+   "'V-",
+   ".-V-",
+   "yflr'V",
+   "'",
+   "'",
+   ":",
+   "&i",
+   "-",
+   "U:v-.v.",
+   "7",
+   ".",
+   "':$$i",
+   ":",
+   "\"",
+   "-",
+   "mi.",
+   ":",
+   ".",
+   "z,",
+   "-",
+   "\"",
+   "x..S:.",
+   "...",
+   "'",
+   "oik"
+  ],
+  "page_seq_num": 284,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_ittenbach_ver01\/data\/sn82015679\/00202191800\/1902022201\/0284.jp2",
+  "place_of_publication": "Indianapolis [Ind.]",
+  "pub_date": "1902-02-22",
+  "publisher": "Douglass & Conner",
+  "score": 0.9960857629776001,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_ittenbach_ver01\/data\/sn82015679\/00202191800\/1902022201\/0284\/000_0_99.jpg"
+ },
+ "id": 585
+}

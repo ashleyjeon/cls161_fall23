@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673413,
+   "id": 1084001,
+   "lead_time": 1.122,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "1hZo-At-dh",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "vi_berlioz_ver01",
+  "box": [
+   0.014813510442184189,
+   0.39869079191961376,
+   0.1522721112784693,
+   0.5819170577585153
+  ],
+  "edition_seq_num": 1,
+  "filepath": "vi_berlioz_ver01\/data\/sn95067647\/0017503318A\/1909022501\/0745\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Virginia--Mathews--Mathews"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/vi_berlioz_ver01%2Fdata%2Fsn95067647%2F0017503318A%2F1909022501%2F0745.jp2\/pct:1.48,39.87,13.75,18.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn95067647",
+  "name": "The Mathews journal.",
+  "ocr": [
+   "Mistress",
+   "of",
+   "the",
+   "White",
+   "WILLIAM",
+   "HOWARD",
+   "TAFT."
+  ],
+  "page_seq_num": 745,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/vi_berlioz_ver01\/data\/sn95067647\/0017503318A\/1909022501\/0745.jp2",
+  "place_of_publication": "Mathews C.H. [Court House]",
+  "pub_date": "1909-02-25",
+  "publisher": "Journal Pub. Co.",
+  "score": 0.9794877171516418,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/vi_berlioz_ver01\/data\/sn95067647\/0017503318A\/1909022501\/0745\/001_0_97.jpg"
+ },
+ "id": 1084
+}

@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749345,
+   "id": 1655001,
+   "lead_time": 2.969,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zBxnvK5G-K",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_inola_ver02",
+  "box": [
+   0.6854588934715758,
+   0.1557272061434659,
+   0.8207640952252327,
+   0.3856543523615057
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_inola_ver02\/data\/sn86064187\/00200295237\/1916050201\/0324\/022_0_90.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Oklahoma--Oklahoma City"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_inola_ver02%2Fdata%2Fsn86064187%2F00200295237%2F1916050201%2F0324.jp2\/pct:68.54,15.58,13.54,23.0\/!500,500\/0\/default.jpg",
+  "lccn": "sn86064187",
+  "name": "The Oklahoma City times. [volume]",
+  "ocr": [
+   "rfsitto",
+   "Pass",
+   "on",
+   "Dispute",
+   "2EJS",
+   "I",
+   "1",
+   "in",
+   "\"",
+   ".am",
+   "1",
+   "is",
+   "i.;:i'",
+   "MM",
+   "Hi",
+   "lull",
+   "i-.f",
+   "'",
+   "In\",",
+   "mil",
+   "II",
+   "Ih",
+   "Kn...",
+   "A.",
+   "f.",
+   "ii'n",
+   "i",
+   "f",
+   "M'.iih",
+   "Mil",
+   "!.",
+   "n",
+   "-U",
+   "it"
+  ],
+  "page_seq_num": 324,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_inola_ver02\/data\/sn86064187\/00200295237\/1916050201\/0324.jp2",
+  "place_of_publication": "Oklahoma City, Okla.",
+  "pub_date": "1916-05-02",
+  "publisher": "Oklahoma City Times Co.",
+  "score": 0.907368004322052,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_inola_ver02\/data\/sn86064187\/00200295237\/1916050201\/0324\/022_0_90.jpg"
+ },
+ "id": 1655
+}

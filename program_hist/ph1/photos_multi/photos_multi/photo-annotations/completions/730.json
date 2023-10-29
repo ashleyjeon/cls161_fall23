@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757513,
+   "id": 730001,
+   "lead_time": 44.95,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EIpE5pJuuL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wvu_floyd_ver01",
+  "box": [
+   0.3906243058552498,
+   0.1295277677624431,
+   0.7236672222469029,
+   0.35019353399213576
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wvu_floyd_ver01\/data\/sn86092245\/00279550341\/1904041401\/0481\/005_0_95.jpg",
+  "geographic_coverage": [
+   "West Virginia--Preston--Kingwood"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wvu_floyd_ver01%2Fdata%2Fsn86092245%2F00279550341%2F1904041401%2F0481.jp2\/pct:39.06,12.96,33.31,22.07\/!500,500\/0\/default.jpg",
+  "lccn": "sn86092245",
+  "name": "West Virginia argus. [volume]",
+  "ocr": [
+   "j",
+   ">",
+   "i",
+   "j",
+   "THE",
+   "NEW",
+   "B.",
+   "4.",
+   "O.",
+   "DEPOT",
+   "AT",
+   "TUNNELTON,",
+   "WEST",
+   "VA."
+  ],
+  "page_seq_num": 481,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wvu_floyd_ver01\/data\/sn86092245\/00279550341\/1904041401\/0481.jp2",
+  "place_of_publication": "Kingwood, W. Va.",
+  "pub_date": "1904-04-14",
+  "publisher": "H. Clyde Hyde",
+  "score": 0.9515990018844604,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wvu_floyd_ver01\/data\/sn86092245\/00279550341\/1904041401\/0481\/005_0_95.jpg"
+ },
+ "id": 730
+}

@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748011,
+   "id": 1684001,
+   "lead_time": 2.264,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "PkBKZ9dh5B",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "in_eugenedebs_ver01",
+  "box": [
+   0.25624890677002293,
+   0.08971304665899665,
+   0.37256311018272387,
+   0.3490704679655668
+  ],
+  "edition_seq_num": 1,
+  "filepath": "in_eugenedebs_ver01\/data\/sn87055779\/00295872159\/1916111601\/0350\/013_0_98.jpg",
+  "geographic_coverage": [
+   "Indiana--Saint Joseph--South Bend"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/in_eugenedebs_ver01%2Fdata%2Fsn87055779%2F00295872159%2F1916111601%2F0350.jp2\/pct:25.62,8.98,11.64,25.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn87055779",
+  "name": "South Bend news-times.",
+  "ocr": [
+   "J",
+   "NOTED",
+   "SURGEON",
+   "TO",
+   "SPEAK",
+   "HERE",
+   "I",
+   "!",
+   "1",
+   "::.",
+   ".w",
+   "xn",
+   "I",
+   ".?'.",
+   "w",
+   "rat",
+   "-",
+   "ft",
+   "Fred",
+   "II.",
+   "Albee.",
+   "M.",
+   "D.,",
+   "professor"
+  ],
+  "page_seq_num": 350,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/in_eugenedebs_ver01\/data\/sn87055779\/00295872159\/1916111601\/0350.jp2",
+  "place_of_publication": "South Bend, Ind.",
+  "pub_date": "1916-11-16",
+  "publisher": "News-Times Print. Co.",
+  "score": 0.9851507544517517,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/in_eugenedebs_ver01\/data\/sn87055779\/00295872159\/1916111601\/0350\/013_0_98.jpg"
+ },
+ "id": 1684
+}

@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748111,
+   "id": 1104001,
+   "lead_time": 1.858,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "zvgTBbSacr",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_bacala_ver01",
+  "box": [
+   0.695316987879136,
+   0.1016125355955708,
+   0.8257519591088388,
+   0.2999955946621641
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_bacala_ver01\/data\/sn91064010\/00332896040\/1909101401\/0538\/008_0_96.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_bacala_ver01%2Fdata%2Fsn91064010%2F00332896040%2F1909101401%2F0538.jp2\/pct:69.53,10.17,13.05,19.84\/!500,500\/0\/default.jpg",
+  "lccn": "sn91064010",
+  "name": "The Newark star and Newark advertiser.",
+  "ocr": [
+   "MRS.",
+   "CLARENCE",
+   "MACKAY,",
+   "WHO",
+   "HAS",
+   "CAUSED",
+   "BREAK",
+   "IN",
+   "SUFFRAGISTS\u2019",
+   "MRS.",
+   "MACKAY",
+   "REFUSES",
+   "TO"
+  ],
+  "page_seq_num": 538,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_bacala_ver01\/data\/sn91064010\/00332896040\/1909101401\/0538.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1909-10-14",
+  "publisher": "Newark Daily Advertiser Pub. Co.",
+  "score": 0.9689822196960449,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_bacala_ver01\/data\/sn91064010\/00332896040\/1909101401\/0538\/008_0_96.jpg"
+ },
+ "id": 1104
+}

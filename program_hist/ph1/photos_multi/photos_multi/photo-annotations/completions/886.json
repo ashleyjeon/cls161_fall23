@@ -1,0 +1,114 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673633,
+   "id": 886001,
+   "lead_time": 1.681,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "kWCWezGBzb",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_beryl_ver01",
+  "box": [
+   0.4890696920407046,
+   0.09454118275766356,
+   0.6398426225990247,
+   0.3688026044769552
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_beryl_ver01\/data\/sn86074065\/00383343665\/1906032801\/0270\/003_0_92.jpg",
+  "geographic_coverage": [
+   "Mississippi--Lincoln--Brookhaven"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_beryl_ver01%2Fdata%2Fsn86074065%2F00383343665%2F1906032801%2F0270.jp2\/pct:48.9,9.46,15.08,27.43\/!500,500\/0\/default.jpg",
+  "lccn": "sn86074065",
+  "name": "The Semi-weekly leader.",
+  "ocr": [
+   "MRS.",
+   "M.",
+   "e.",
+   "DACGETT.1",
+   "The",
+   "entire",
+   "life",
+   "of",
+   "Mrs.",
+   "Daggett",
+   "has",
+   "been",
+   "devoted",
+   "to",
+   "charity.",
+   "She",
+   "is",
+   "the",
+   "daughter",
+   "of",
+   "a",
+   "Methodist",
+   "clergyman",
+   "and",
+   "was",
+   "bom",
+   "in",
+   "Kentucky.",
+   "When",
+   "a",
+   "young",
+   "girl",
+   "she",
+   "went",
+   "to",
+   "Kansas",
+   "with",
+   "her",
+   "parents",
+   "and",
+   "wds",
+   "in",
+   "that",
+   "state",
+   "in",
+   "the",
+   "days",
+   "when",
+   "It",
+   "was",
+   "known",
+   "as",
+   "\u201cBleed,",
+   "ing",
+   "Kansas\u201d",
+   "Mrs.",
+   "Daggett",
+   "began",
+   "her",
+   "charitable",
+   "work",
+   "when",
+   "quite",
+   "young",
+   "and"
+  ],
+  "page_seq_num": 270,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_beryl_ver01\/data\/sn86074065\/00383343665\/1906032801\/0270.jp2",
+  "place_of_publication": "Brookhaven, Miss.",
+  "pub_date": "1906-03-28",
+  "publisher": "B.T. Hobbs",
+  "score": 0.9280794858932495,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_beryl_ver01\/data\/sn86074065\/00383343665\/1906032801\/0270\/003_0_92.jpg"
+ },
+ "id": 886
+}

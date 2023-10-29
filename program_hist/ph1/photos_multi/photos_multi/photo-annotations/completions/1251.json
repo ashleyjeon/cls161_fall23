@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749352,
+   "id": 1251001,
+   "lead_time": 1.863,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9-3ubF_4vA",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "txdn_eastland_ver01",
+  "box": [
+   0.059759510097218985,
+   0.06536020275061803,
+   0.3141267880871521,
+   0.35057275242060726
+  ],
+  "edition_seq_num": 1,
+  "filepath": "txdn_eastland_ver01\/data\/sn86090369\/00279520786\/1911042901\/0441\/003_0_94.jpg",
+  "geographic_coverage": [
+   "Texas--Ellis--Waxahachie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/txdn_eastland_ver01%2Fdata%2Fsn86090369%2F00279520786%2F1911042901%2F0441.jp2\/pct:5.97,6.54,25.44,28.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn86090369",
+  "name": "The Waxahachie daily light. [volume]",
+  "ocr": [
+   "IJTTLE",
+   "KXTSSTAN",
+   "PRINCE"
+  ],
+  "page_seq_num": 441,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/txdn_eastland_ver01\/data\/sn86090369\/00279520786\/1911042901\/0441.jp2",
+  "place_of_publication": "Waxahachie, Tex.",
+  "pub_date": "1911-04-29",
+  "publisher": "Jas. O. Jones and W.K. Stokes",
+  "score": 0.9488323926925659,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/txdn_eastland_ver01\/data\/sn86090369\/00279520786\/1911042901\/0441\/003_0_94.jpg"
+ },
+ "id": 1251
+}

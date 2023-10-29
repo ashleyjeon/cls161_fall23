@@ -1,0 +1,40 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768485,
+   "id": 572001,
+   "lead_time": 2.247,
+   "result": [
+
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_greece_ver01",
+  "box": [
+   0.03927476527327198,
+   0.7110231470448046,
+   0.7177402474785929,
+   0.9697068962628098
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_greece_ver01\/data\/sn83030214\/0017504114A\/1902022301\/0442\/001_0_98.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_greece_ver01%2Fdata%2Fsn83030214%2F0017504114A%2F1902022301%2F0442.jp2\/pct:3.92,71.11,67.85,25.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+
+  ],
+  "page_seq_num": 442,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_greece_ver01\/data\/sn83030214\/0017504114A\/1902022301\/0442.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1902-02-23",
+  "publisher": "New York Tribune",
+  "score": 0.9804700016975403,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_greece_ver01\/data\/sn83030214\/0017504114A\/1902022301\/0442\/001_0_98.jpg"
+ },
+ "id": 572
+}

@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754298,
+   "id": 316001,
+   "lead_time": 2.657,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "NvwrCzCXKd",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_entiat_ver01",
+  "box": [
+   0.5351554911259436,
+   0.1325947423817297,
+   0.807197096504496,
+   0.39291506613283955
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_entiat_ver01\/data\/sn83045604\/00202199653\/1899092701\/0691\/003_0_93.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_entiat_ver01%2Fdata%2Fsn83045604%2F00202199653%2F1899092701%2F0691.jp2\/pct:53.51,13.26,27.21,26.04\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045604",
+  "name": "The Seattle post-intelligencer. [volume]",
+  "ocr": [
+   "ADMIRAL",
+   "DEWEY."
+  ],
+  "page_seq_num": 691,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_entiat_ver01\/data\/sn83045604\/00202199653\/1899092701\/0691.jp2",
+  "place_of_publication": "Seattle, Wash. Terr. [Wash.]",
+  "pub_date": "1899-09-27",
+  "publisher": "Post-Intelligencer Pub. Co.",
+  "score": 0.9308162331581116,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_entiat_ver01\/data\/sn83045604\/00202199653\/1899092701\/0691\/003_0_93.jpg"
+ },
+ "id": 316
+}

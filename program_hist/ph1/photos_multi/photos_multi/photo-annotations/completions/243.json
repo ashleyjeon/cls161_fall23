@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768657,
+   "id": 243001,
+   "lead_time": 1.669,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "XcYCKABGHs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_triumph_ver01",
+  "box": [
+   0.5008193325832617,
+   0.1911102870725236,
+   0.6631545196922535,
+   0.38520409925928656
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_triumph_ver01\/data\/sn83030214\/00175036817\/1898022201\/0409\/000_0_99.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_triumph_ver01%2Fdata%2Fsn83030214%2F00175036817%2F1898022201%2F0409.jp2\/pct:50.08,19.12,16.24,19.41\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "__C^",
+   "Jr",
+   ".",
+   "*",
+   "I",
+   "<Bbb\\",
+   "itt.",
+   "?*-*>",
+   "AMOS",
+   "R.",
+   "ENO.",
+   "Who",
+   "dl^d",
+   "yesterday."
+  ],
+  "page_seq_num": 409,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_triumph_ver01\/data\/sn83030214\/00175036817\/1898022201\/0409.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1898-02-22",
+  "publisher": "New York Tribune",
+  "score": 0.9901586174964905,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_triumph_ver01\/data\/sn83030214\/00175036817\/1898022201\/0409\/000_0_99.jpg"
+ },
+ "id": 243
+}

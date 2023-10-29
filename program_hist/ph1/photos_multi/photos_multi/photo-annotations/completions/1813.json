@@ -1,0 +1,76 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749309,
+   "id": 1813001,
+   "lead_time": 1.702,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "C2c6Wx7Z9p",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_jetblue_ver01",
+  "box": [
+   0.13990951079969868,
+   0.04371015546856056,
+   0.2595724233578865,
+   0.24871530172087172
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_jetblue_ver01\/data\/sn84026749\/00280764498\/1918071401\/0464\/005_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_jetblue_ver01%2Fdata%2Fsn84026749%2F00280764498%2F1918071401%2F0464.jp2\/pct:13.99,4.38,11.97,20.51\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "p.",
+   "C.",
+   "Boy",
+   "Wlio",
+   "May",
+   "Fly",
+   "Here",
+   "Today.",
+   "'HHi",
+   "'sbbPhhLLV'.'-pLLLLLLLLLLLLLLLLI",
+   "stUIIHiK",
+   ".",
+   "PSSHRPlUslisiSSiSSH",
+   "LIEUT.",
+   "ANDREW",
+   "HUTTERLY,",
+   "Washington",
+   "aviator,",
+   "who",
+   "\"wants-,",
+   "to",
+   "demonstrate",
+   "to",
+   "his",
+   "mother",
+   "that",
+   "fly-"
+  ],
+  "page_seq_num": 464,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_jetblue_ver01\/data\/sn84026749\/00280764498\/1918071401\/0464.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1918-07-14",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9741646647453308,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_jetblue_ver01\/data\/sn84026749\/00280764498\/1918071401\/0464\/005_0_97.jpg"
+ },
+ "id": 1813
+}

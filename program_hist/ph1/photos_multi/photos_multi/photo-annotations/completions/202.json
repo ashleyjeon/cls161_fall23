@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754325,
+   "id": 202001,
+   "lead_time": 10.156,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WZ3sEz7Y3B",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "idhi_hurston_ver02",
+  "box": [
+   0.03133590133101852,
+   0.3196713546821974,
+   0.4834404597206721,
+   0.6864708533653846
+  ],
+  "edition_seq_num": 1,
+  "filepath": "idhi_hurston_ver02\/data\/sn82007023\/0029586784A\/1897021801\/0797\/001_0_97.jpg",
+  "geographic_coverage": [
+   "Idaho--Nez Perce--Lewiston"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/idhi_hurston_ver02%2Fdata%2Fsn82007023%2F0029586784A%2F1897021801%2F0797.jp2\/pct:3.13,31.97,45.22,36.68\/!500,500\/0\/default.jpg",
+  "lccn": "sn82007023",
+  "name": "Lewiston teller. [volume]",
+  "ocr": [
+   ".......",
+   "lii!|",
+   "ill",
+   "*",
+   "III!!!!!",
+   "Hin;;.",
+   "iiini(ii\u00fcituM\u00eftautaiwiiiMiiiiiii\u00c9iii\u00fcniiiii\u00f9\u00fbHuiiMHiiiiMfiBMiiHiiininiwHnl",
+   "\"THE",
+   "BALLOON",
+   "ROSE,",
+   "CARRYING",
+   "AWAY",
+   "ITS",
+   "FRIGHTFUL",
+   "CARGO",
+   "OF",
+   "DISEASED",
+   "BODIES.\""
+  ],
+  "page_seq_num": 797,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/idhi_hurston_ver02\/data\/sn82007023\/0029586784A\/1897021801\/0797.jp2",
+  "place_of_publication": "Lewiston, North Idaho",
+  "pub_date": "1897-02-18",
+  "publisher": "A. Leland & Son",
+  "score": 0.9724997878074646,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/idhi_hurston_ver02\/data\/sn82007023\/0029586784A\/1897021801\/0797\/001_0_97.jpg"
+ },
+ "id": 202
+}

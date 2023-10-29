@@ -1,0 +1,77 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746456,
+   "id": 374001,
+   "lead_time": 142.934,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "t_CM76xlkX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "khi_kurtis_ver01",
+  "box": [
+   0.8120210503472223,
+   0.7481386674012189,
+   0.9390158420138889,
+   0.8967985782323707
+  ],
+  "edition_seq_num": 1,
+  "filepath": "khi_kurtis_ver01\/data\/sn82014635\/00280760687\/1899072301\/0291\/008_0_90.jpg",
+  "geographic_coverage": [
+   "Kansas--Sedgwick--Wichita"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/khi_kurtis_ver01%2Fdata%2Fsn82014635%2F00280760687%2F1899072301%2F0291.jp2\/pct:81.2,74.82,12.7,14.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn82014635",
+  "name": "The Wichita daily eagle. [volume]",
+  "ocr": [
+   "MARTHA",
+   "WASHINGTON",
+   "HOME",
+   "This",
+   "lar;",
+   "four-story",
+   "feu&Va?",
+   "Is",
+   "-rslraUy",
+   "fitted",
+   "od",
+   "fursifc4",
+   "fer",
+   "tin",
+   "r",
+   "of",
+   "tb",
+   "siek.",
+   "Ko",
+   "l&ttbjKroe",
+   "or",
+   "ettuxv",
+   "disc!",
+   "&4ci!tUjL",
+   "bat",
+   "aM",
+   "hf",
+   "'IfcMM"
+  ],
+  "page_seq_num": 291,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/khi_kurtis_ver01\/data\/sn82014635\/00280760687\/1899072301\/0291.jp2",
+  "place_of_publication": "Wichita, Kan.",
+  "pub_date": "1899-07-23",
+  "publisher": "M.M. Murdock & R.P. Murdock",
+  "score": 0.9019573926925659,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/khi_kurtis_ver01\/data\/sn82014635\/00280760687\/1899072301\/0291\/008_0_90.jpg"
+ },
+ "id": 374
+}

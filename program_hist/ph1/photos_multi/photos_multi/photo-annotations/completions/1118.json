@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673750,
+   "id": 1118001,
+   "lead_time": 4.284,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "T2ODilsLp2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "njr_bacala_ver01",
+  "box": [
+   0.41496234925701914,
+   0.10077578104779111,
+   0.5483173110579077,
+   0.298548358361827
+  ],
+  "edition_seq_num": 1,
+  "filepath": "njr_bacala_ver01\/data\/sn91064010\/00332896015\/1909040601\/0468\/016_0_93.jpg",
+  "geographic_coverage": [
+   "New Jersey--Essex--Newark"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/njr_bacala_ver01%2Fdata%2Fsn91064010%2F00332896015%2F1909040601%2F0468.jp2\/pct:41.49,10.08,13.34,19.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn91064010",
+  "name": "The Newark star and Newark advertiser.",
+  "ocr": [
+   "J",
+   "AMES",
+   "N.",
+   "NUGENT,",
+   "PRINCIPAL",
+   "OF",
+   "E.",
+   "NEWARK",
+   "SCHOOL,",
+   "WHO",
+   "IS",
+   "PRAISED",
+   "FOR",
+   "HIS",
+   "SUCCESS."
+  ],
+  "page_seq_num": 468,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/njr_bacala_ver01\/data\/sn91064010\/00332896015\/1909040601\/0468.jp2",
+  "place_of_publication": "Newark, N.J.",
+  "pub_date": "1909-04-06",
+  "publisher": "Newark Daily Advertiser Pub. Co.",
+  "score": 0.937881588935852,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/njr_bacala_ver01\/data\/sn91064010\/00332896015\/1909040601\/0468\/016_0_93.jpg"
+ },
+ "id": 1118
+}

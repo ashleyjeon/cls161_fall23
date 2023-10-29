@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772517,
+   "id": 1122001,
+   "lead_time": 1.473,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "c53SVsjU3r",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mdu_iceberg_ver01",
+  "box": [
+   0.30784059533089264,
+   0.7279639056348425,
+   0.4327330311317615,
+   0.889759614398786
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mdu_iceberg_ver01\/data\/sn83045081\/00296025914\/1909101001\/0363\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Maryland--Baltimore"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mdu_iceberg_ver01%2Fdata%2Fsn83045081%2F00296025914%2F1909101001%2F0363.jp2\/pct:30.78,72.8,12.49,16.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045081",
+  "name": "Der Deutsche correspondent. [volume]",
+  "ocr": [
+   "Wni.",
+   "H.",
+   "Turner",
+   "in",
+   "\u201eTbe",
+   "Sportiii.;",
+   "Teocon\"",
+   "im",
+   "Hollidohsir.-Theoter."
+  ],
+  "page_seq_num": 363,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mdu_iceberg_ver01\/data\/sn83045081\/00296025914\/1909101001\/0363.jp2",
+  "place_of_publication": "Baltimore, Md.",
+  "pub_date": "1909-10-10",
+  "publisher": "F. Raine",
+  "score": 0.9949393272399902,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mdu_iceberg_ver01\/data\/sn83045081\/00296025914\/1909101001\/0363\/000_0_99.jpg"
+ },
+ "id": 1122
+}

@@ -1,0 +1,123 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746821,
+   "id": 1986001,
+   "lead_time": 1.789,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "szPVT8laqv",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "okhi_dillpickle_ver01",
+  "box": [
+   0.41467461676167966,
+   0.0963338770390756,
+   0.6663408968949874,
+   0.3023667315525461
+  ],
+  "edition_seq_num": 1,
+  "filepath": "okhi_dillpickle_ver01\/data\/sn86063952\/00295864412\/1920120201\/0652\/014_0_92.jpg",
+  "geographic_coverage": [
+   "Oklahoma--Logan--Guthrie"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/okhi_dillpickle_ver01%2Fdata%2Fsn86063952%2F00295864412%2F1920120201%2F0652.jp2\/pct:41.46,9.64,25.17,20.61\/!500,500\/0\/default.jpg",
+  "lccn": "sn86063952",
+  "name": "The Guthrie daily leader. [volume]",
+  "ocr": [
+   ",",
+   "RULERS",
+   "OF",
+   "Si",
+   "'",
+   ".",
+   ";",
+   ".:",
+   "1",
+   "IjiH'cn",
+   "Mother",
+   "Oltra",
+   "of",
+   "(Sreccc,",
+   "wiUw",
+   "of",
+   "the",
+   "llc",
+   "K",
+   "itij",
+   "wl'O",
+   "HssinilCil",
+   "t?Ht",
+   "rii",
+   "l",
+   "V,",
+   "pint",
+   "OelU-rnl",
+   "I",
+   "iHi",
+   "V!",
+   "it,",
+   "lic.nl",
+   "of",
+   "lti",
+   "Army",
+   "who",
+   "lia",
+   "Tsuh",
+   "oritcr-",
+   "rnllihit",
+   "nil",
+   "itrtny",
+   "of",
+   "!int,itiil",
+   "ctili,t.",
+   "men",
+   "leave",
+   "to",
+   "rHttVti",
+   "to",
+   "their",
+   "rev'ii'X'tils,",
+   "hct-iMwc",
+   "o",
+   "Ihc",
+   "GREECE",
+   "'",
+   "M",
+   "-,",
+   "1",
+   "'",
+   "i.",
+   "\"",
+   "r",
+   "-,S",
+   "I'",
+   "k",
+   "f",
+   "'",
+   "'.-7,s",
+   "Iff",
+   "itt",
+   "U"
+  ],
+  "page_seq_num": 652,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864412\/1920120201\/0652.jp2",
+  "place_of_publication": "Guthrie, Okla.",
+  "pub_date": "1920-12-02",
+  "publisher": "Roy Hoffman",
+  "score": 0.9213985800743103,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/okhi_dillpickle_ver01\/data\/sn86063952\/00295864412\/1920120201\/0652\/014_0_92.jpg"
+ },
+ "id": 1986
+}

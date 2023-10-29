@@ -1,0 +1,107 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749502,
+   "id": 1663001,
+   "lead_time": 2.741,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "P7y3kr7GuC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_ashland_ver01",
+  "box": [
+   0.6873796161852385,
+   0.41926528987813083,
+   0.8141470658151727,
+   0.6722389821256145
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_ashland_ver01\/data\/sn88086023\/00202194795\/1916080701\/0988\/009_0_94.jpg",
+  "geographic_coverage": [
+   "Oregon--Umatilla--Pendleton"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_ashland_ver01%2Fdata%2Fsn88086023%2F00202194795%2F1916080701%2F0988.jp2\/pct:68.73,41.93,12.68,25.3\/!500,500\/0\/default.jpg",
+  "lccn": "sn88086023",
+  "name": "East Oregonian : E.O.",
+  "ocr": [
+   ",",
+   "\"NO",
+   "OTHER",
+   "WOMAN",
+   "SHALT,",
+   "PAN",
+   "MY",
+   "HUSBAND\"",
+   "SAYS",
+   "MRS",
+   "CLARK",
+   "BAYONNE,",
+   "N.",
+   "J",
+   "Aug.",
+   "r.",
+   "The",
+   "sight",
+   "of",
+   "another",
+   "woman",
+   "fanning",
+   "her",
+   "huband",
+   "with",
+   "a",
+   "palm",
+   "leaf",
+   "fan",
+   "cuuseu",
+   "Mrs.",
+   "Ourey",
+   "to",
+   "have",
+   "the",
+   "young",
+   "woman",
+   "arrested.",
+   "But",
+   "she",
+   "did",
+   "not",
+   "press",
+   "the",
+   "charge",
+   "against",
+   "her",
+   "prisoner.",
+   "Indeeo",
+   "noil",
+   "Instead,",
+   "she",
+   "had",
+   "a",
+   "warrant",
+   "is",
+   "for",
+   "the"
+  ],
+  "page_seq_num": 988,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_ashland_ver01\/data\/sn88086023\/00202194795\/1916080701\/0988.jp2",
+  "place_of_publication": "Pendleton, OR",
+  "pub_date": "1916-08-07",
+  "publisher": "East Oregonian Pub. Co.",
+  "score": 0.943691611289978,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_ashland_ver01\/data\/sn88086023\/00202194795\/1916080701\/0988\/009_0_94.jpg"
+ },
+ "id": 1663
+}

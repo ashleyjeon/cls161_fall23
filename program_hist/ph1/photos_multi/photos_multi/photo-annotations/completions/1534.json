@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748018,
+   "id": 1534001,
+   "lead_time": 1.815,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "7TusRjAKgg",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "curiv_elodia_ver01",
+  "box": [
+   0.44170674817965855,
+   0.14123695401897218,
+   0.5729527797628244,
+   0.32900359993973627
+  ],
+  "edition_seq_num": 1,
+  "filepath": "curiv_elodia_ver01\/data\/sn85066408\/00271767158\/1914070301\/0557\/004_0_97.jpg",
+  "geographic_coverage": [
+   "California--San Francisco--San Francisco"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/curiv_elodia_ver01%2Fdata%2Fsn85066408%2F00271767158%2F1914070301%2F0557.jp2\/pct:44.17,14.13,13.13,18.78\/!500,500\/0\/default.jpg",
+  "lccn": "sn85066408",
+  "name": "L'Italia. [volume]",
+  "ocr": [
+   "la",
+   "\u201cMilanese",
+   "Sausage",
+   "Factory\"",
+   "A.",
+   "C.",
+   "Itoocanelll"
+  ],
+  "page_seq_num": 557,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/curiv_elodia_ver01\/data\/sn85066408\/00271767158\/1914070301\/0557.jp2",
+  "place_of_publication": "San Francisco, Calif.",
+  "pub_date": "1914-07-03",
+  "publisher": "Italian Pub. Co.",
+  "score": 0.9727963805198669,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/curiv_elodia_ver01\/data\/sn85066408\/00271767158\/1914070301\/0557\/004_0_97.jpg"
+ },
+ "id": 1534
+}

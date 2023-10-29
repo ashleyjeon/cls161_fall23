@@ -1,0 +1,72 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674643,
+   "id": 1939001,
+   "lead_time": 1.472,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "K4jEARTlaR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "tu_carla_ver01",
+  "box": [
+   0.2671621037625718,
+   0.06705937357533388,
+   0.6227278084590517,
+   0.24686260847961272
+  ],
+  "edition_seq_num": 1,
+  "filepath": "tu_carla_ver01\/data\/sn98069867\/00415621693\/1920031701\/1265\/005_0_94.jpg",
+  "geographic_coverage": [
+   "Tennessee--Shelby--Memphis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/tu_carla_ver01%2Fdata%2Fsn98069867%2F00415621693%2F1920031701%2F1265.jp2\/pct:26.71,6.71,35.56,17.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn98069867",
+  "name": "The news scimitar.",
+  "ocr": [
+   "MEMPHIS",
+   "GIRL",
+   "AtfD",
+   "BOY",
+   "CELEBRATE",
+   "THEIR",
+   "NATAL",
+   "DAY",
+   "ALONG",
+   "WITH",
+   "CELEBRATED",
+   "SAINT",
+   "OF",
+   "TRELAND",
+   "MISS",
+   "IONE",
+   "AGEE",
+   "ADAMS",
+   "AND",
+   "MASTER",
+   "JOHN",
+   "M'CALL",
+   "HEISKELL."
+  ],
+  "page_seq_num": 1265,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/tu_carla_ver01\/data\/sn98069867\/00415621693\/1920031701\/1265.jp2",
+  "place_of_publication": "Memphis, Tenn.",
+  "pub_date": "1920-03-17",
+  "publisher": "Gilbert D. Raine",
+  "score": 0.9440302848815918,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/tu_carla_ver01\/data\/sn98069867\/00415621693\/1920031701\/1265\/005_0_94.jpg"
+ },
+ "id": 1939
+}

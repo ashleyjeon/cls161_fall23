@@ -1,0 +1,58 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755042,
+   "id": 623001,
+   "lead_time": 1.731,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ia6g3oxGoJ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "whi_florence_ver01",
+  "box": [
+   0.3818401127905395,
+   0.6215881564477409,
+   0.5265214455068408,
+   0.7568153936951876
+  ],
+  "edition_seq_num": 1,
+  "filepath": "whi_florence_ver01\/data\/sn85040344\/0027176926A\/1903121201\/0718\/004_0_94.jpg",
+  "geographic_coverage": [
+   "Wisconsin--Douglas--Superior"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/whi_florence_ver01%2Fdata%2Fsn85040344%2F0027176926A%2F1903121201%2F0718.jp2\/pct:38.18,62.16,14.47,13.53\/!500,500\/0\/default.jpg",
+  "lccn": "sn85040344",
+  "name": "The Superior times. [volume]",
+  "ocr": [
+   "son",
+   "\u201cHr.",
+   "Syntax,\u201d",
+   "which",
+   "was",
+   "sim-",
+   "DE",
+   "WOLF",
+   "HOPPER"
+  ],
+  "page_seq_num": 718,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/whi_florence_ver01\/data\/sn85040344\/0027176926A\/1903121201\/0718.jp2",
+  "place_of_publication": "Superior, Wis.",
+  "pub_date": "1903-12-12",
+  "publisher": "Superior Times Printing",
+  "score": 0.9418260455131531,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/whi_florence_ver01\/data\/sn85040344\/0027176926A\/1903121201\/0718\/004_0_94.jpg"
+ },
+ "id": 623
+}

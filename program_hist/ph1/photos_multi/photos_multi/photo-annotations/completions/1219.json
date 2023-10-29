@@ -1,0 +1,54 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757822,
+   "id": 1219001,
+   "lead_time": 129.451,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "jssNxBuixL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "wa_indianplum_ver02",
+  "box": [
+   0.2376957554971018,
+   0.20741790640507646,
+   0.4739809168099258,
+   0.45389215690383583
+  ],
+  "edition_seq_num": 1,
+  "filepath": "wa_indianplum_ver02\/data\/sn87093407\/00211107492\/1910080201\/0791\/004_0_98.jpg",
+  "geographic_coverage": [
+   "Washington--King--Seattle"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/wa_indianplum_ver02%2Fdata%2Fsn87093407%2F00211107492%2F1910080201%2F0791.jp2\/pct:23.76,20.75,23.63,24.65\/!500,500\/0\/default.jpg",
+  "lccn": "sn87093407",
+  "name": "The Seattle star.",
+  "ocr": [
+   "He'll",
+   "Quit",
+   "RICHARD",
+   "A.",
+   "BALLINOEH."
+  ],
+  "page_seq_num": 791,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/wa_indianplum_ver02\/data\/sn87093407\/00211107492\/1910080201\/0791.jp2",
+  "place_of_publication": "Seattle, Wash.",
+  "pub_date": "1910-08-02",
+  "publisher": "E.H. Wells & Co.",
+  "score": 0.9838230013847351,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/wa_indianplum_ver02\/data\/sn87093407\/00211107492\/1910080201\/0791\/004_0_98.jpg"
+ },
+ "id": 1219
+}

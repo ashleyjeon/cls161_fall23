@@ -1,0 +1,71 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675097,
+   "id": 362001,
+   "lead_time": 2.21,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "JqUcoda5w1",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_alpha_ver01",
+  "box": [
+   0.45169995170203925,
+   0.24250611167404187,
+   0.701661746742671,
+   0.5249953497023809
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_alpha_ver01\/data\/sn84025828\/00294555729\/1899092301\/0597\/002_0_92.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook County--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_alpha_ver01%2Fdata%2Fsn84025828%2F00294555729%2F1899092301%2F0597.jp2\/pct:45.16,24.26,25.0,28.25\/!500,500\/0\/default.jpg",
+  "lccn": "sn84025828",
+  "name": "Chicago eagle. [volume]",
+  "ocr": [
+   "-'",
+   "''",
+   "I",
+   "4",
+   "k",
+   "T",
+   ",",
+   "v.",
+   "f",
+   "HON.",
+   "ROGER",
+   "C.",
+   "SULLIVAN.",
+   "Talked",
+   "Of",
+   "for",
+   "Congress",
+   "in",
+   "the",
+   "Fifth",
+   "District.",
+   "k."
+  ],
+  "page_seq_num": 597,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_alpha_ver01\/data\/sn84025828\/00294555729\/1899092301\/0597.jp2",
+  "place_of_publication": "Chicago, Ill.",
+  "pub_date": "1899-09-23",
+  "publisher": "Henry F. Donovan",
+  "score": 0.9298838973045349,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_alpha_ver01\/data\/sn84025828\/00294555729\/1899092301\/0597\/002_0_92.jpg"
+ },
+ "id": 362
+}

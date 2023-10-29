@@ -1,0 +1,79 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747567,
+   "id": 1810001,
+   "lead_time": 2.11,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QA7KfiVrtZ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_ghana_ver01",
+  "box": [
+   0.5016026856034546,
+   0.2897117430461202,
+   0.6200922925115875,
+   0.5356244810537439
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_ghana_ver01\/data\/sn84026749\/0028076453A\/1918122801\/0934\/010_0_97.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_ghana_ver01%2Fdata%2Fsn84026749%2F0028076453A%2F1918122801%2F0934.jp2\/pct:50.16,28.98,11.85,24.6\/!500,500\/0\/default.jpg",
+  "lccn": "sn84026749",
+  "name": "The Washington times. [volume]",
+  "ocr": [
+   "'Treat",
+   "'Em",
+   "Bouffli\"",
+   "Come",
+   "Home",
+   "ppllB8BM",
+   "L1KTJX;",
+   "TIOBBRT",
+   "F.",
+   "KOHIt",
+   "Of",
+   "Washington,",
+   "a",
+   "tank",
+   "commande",
+   "wounded",
+   "at",
+   "St",
+   "Quentln.",
+   "He",
+   "ar",
+   "rived",
+   "at",
+   "Walter",
+   "Reed",
+   "Hojpltal",
+   "last",
+   "night",
+   "Bssssss",
+   "r."
+  ],
+  "page_seq_num": 934,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_ghana_ver01\/data\/sn84026749\/0028076453A\/1918122801\/0934.jp2",
+  "place_of_publication": "Washington [D.C.]",
+  "pub_date": "1918-12-28",
+  "publisher": "Times Pub. Co.",
+  "score": 0.9731532335281372,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_ghana_ver01\/data\/sn84026749\/0028076453A\/1918122801\/0934\/010_0_97.jpg"
+ },
+ "id": 1810
+}

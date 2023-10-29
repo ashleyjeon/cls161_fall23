@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611755038,
+   "id": 1841001,
+   "lead_time": 1.611,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "gi601WdgFs",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "arhi_gyarados_ver01",
+  "box": [
+   0.5552759465064231,
+   0.41791200435938824,
+   0.6832499641199081,
+   0.5597426166582875
+  ],
+  "edition_seq_num": 1,
+  "filepath": "arhi_gyarados_ver01\/data\/sn89051285\/00414212839\/1918072001\/0150\/010_0_96.jpg",
+  "geographic_coverage": [
+   "Arkansas--Garland--Hot Springs"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/arhi_gyarados_ver01%2Fdata%2Fsn89051285%2F00414212839%2F1918072001%2F0150.jp2\/pct:55.52,41.8,12.8,14.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn89051285",
+  "name": "The Sentinel=record.",
+  "ocr": [
+   "HEDDA",
+   "NOVA"
+  ],
+  "page_seq_num": 150,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/arhi_gyarados_ver01\/data\/sn89051285\/00414212839\/1918072001\/0150.jp2",
+  "place_of_publication": "Hot Springs, Ark.",
+  "pub_date": "1918-07-20",
+  "publisher": "John G. Higgins",
+  "score": 0.9664905071258545,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/arhi_gyarados_ver01\/data\/sn89051285\/00414212839\/1918072001\/0150\/010_0_96.jpg"
+ },
+ "id": 1841
+}

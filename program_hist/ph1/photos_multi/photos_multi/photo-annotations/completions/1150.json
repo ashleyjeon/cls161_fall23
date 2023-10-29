@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768079,
+   "id": 1150001,
+   "lead_time": 1.622,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "m76M71VDBo",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "sdhi_grenada_ver01",
+  "box": [
+   0.3232217508860261,
+   0.3461000927838783,
+   0.44377283187303107,
+   0.5068610389149367
+  ],
+  "edition_seq_num": 1,
+  "filepath": "sdhi_grenada_ver01\/data\/sn99062034\/00279523064\/1909100901\/0039\/014_0_91.jpg",
+  "geographic_coverage": [
+   "South Dakota--Lake--Madison"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/sdhi_grenada_ver01%2Fdata%2Fsn99062034%2F00279523064%2F1909100901%2F0039.jp2\/pct:32.32,34.62,12.06,16.08\/!500,500\/0\/default.jpg",
+  "lccn": "sn99062034",
+  "name": "The Madison daily leader. [volume]",
+  "ocr": [
+   "GOVERNOR",
+   "COMER."
+  ],
+  "page_seq_num": 39,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/sdhi_grenada_ver01\/data\/sn99062034\/00279523064\/1909100901\/0039.jp2",
+  "place_of_publication": "Madison, S.D.",
+  "pub_date": "1909-10-09",
+  "publisher": "J.F. Stahl",
+  "score": 0.9157944917678833,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/sdhi_grenada_ver01\/data\/sn99062034\/00279523064\/1909100901\/0039\/014_0_91.jpg"
+ },
+ "id": 1150
+}

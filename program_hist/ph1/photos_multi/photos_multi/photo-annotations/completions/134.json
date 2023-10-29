@@ -1,0 +1,56 @@
+{
+ "completions": [
+  {
+   "created_at": 1611751498,
+   "id": 134001,
+   "lead_time": 3.585,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "WKl0egsREW",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_beetlebailey_ver01",
+  "box": [
+   0.3484447418697297,
+   0.43611419458183454,
+   0.6497175428602431,
+   0.6748384105215828
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_beetlebailey_ver01\/data\/sn88068010\/00294556047\/1896052901\/0374\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Missouri--Chariton--Keytesville"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_beetlebailey_ver01%2Fdata%2Fsn88068010%2F00294556047%2F1896052901%2F0374.jp2\/pct:34.84,43.62,30.13,23.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn88068010",
+  "name": "Chariton courier.",
+  "ocr": [
+   "j",
+   "i",
+   ".",
+   "CHARITON",
+   "COUNTY'S",
+   "COURT",
+   "HOUSE."
+  ],
+  "page_seq_num": 374,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_beetlebailey_ver01\/data\/sn88068010\/00294556047\/1896052901\/0374.jp2",
+  "place_of_publication": "Keytesville, Chariton County, Mo.",
+  "pub_date": "1896-05-29",
+  "publisher": "J.A. Hudson",
+  "score": 0.994561493396759,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_beetlebailey_ver01\/data\/sn88068010\/00294556047\/1896052901\/0374\/000_0_99.jpg"
+ },
+ "id": 134
+}

@@ -1,0 +1,60 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767938,
+   "id": 1046001,
+   "lead_time": 5.444,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Gxph4bMX80",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "animal",
+       "human-structure",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nvln_aurora_ver02",
+  "box": [
+   0.1761647242323643,
+   0.05021817430352167,
+   0.6199438182022872,
+   0.27222190627843496
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nvln_aurora_ver02\/data\/sn86076142\/00415626940\/1908041701\/0383\/006_0_98.jpg",
+  "geographic_coverage": [
+   "Nevada--Nye--Tonopah"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nvln_aurora_ver02%2Fdata%2Fsn86076142%2F00415626940%2F1908041701%2F0383.jp2\/pct:17.61,5.03,44.38,22.21\/!500,500\/0\/default.jpg",
+  "lccn": "sn86076142",
+  "name": "Tonopah daily bonanza. [volume]",
+  "ocr": [
+   "m",
+   "\"",
+   "t",
+   "v.",
+   "r",
+   "i",
+   ";",
+   "5'",
+   "."
+  ],
+  "page_seq_num": 383,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nvln_aurora_ver02\/data\/sn86076142\/00415626940\/1908041701\/0383.jp2",
+  "place_of_publication": "Tonopah, Nev.",
+  "pub_date": "1908-04-17",
+  "publisher": "W.W. Booth",
+  "score": 0.981747031211853,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nvln_aurora_ver02\/data\/sn86076142\/00415626940\/1908041701\/0383\/006_0_98.jpg"
+ },
+ "id": 1046
+}

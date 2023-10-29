@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611746004,
+   "id": 1824001,
+   "lead_time": 1.904,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xOgSlfQDn2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_freesia_ver02",
+  "box": [
+   0.18026395216055796,
+   0.029766904817077784,
+   0.45119203066994956,
+   0.4215739991416654
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_freesia_ver02\/data\/sn83045747\/00279553573\/1918033001\/0625\/001_0_98.jpg",
+  "geographic_coverage": [
+   "Illinois--Cook--Chicago"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_freesia_ver02%2Fdata%2Fsn83045747%2F00279553573%2F1918033001%2F0625.jp2\/pct:18.02,2.98,27.1,39.19\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045747",
+  "name": "Dziennik Chicagoski. [volume]",
+  "ocr": [
+   "\u2022",
+   "\u2022'X'.vXV.v.",
+   "W\u00f3dz",
+   "Naczelny",
+   "Aliant\u00f3w,",
+   "genera\u0142",
+   "Ferdynad",
+   "Foch.",
+   "Gen.",
+   "Foch,",
+   "pierwszy",
+   "na",
+   "rycinie",
+   "ze",
+   "strony",
+   "lewej."
+  ],
+  "page_seq_num": 625,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_freesia_ver02\/data\/sn83045747\/00279553573\/1918033001\/0625.jp2",
+  "place_of_publication": "Chicago [Ill.]",
+  "pub_date": "1918-03-30",
+  "publisher": "Spo\u0142ka Nak\u0142ad. Wydawn. Polsk.",
+  "score": 0.9894344210624695,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_freesia_ver02\/data\/sn83045747\/00279553573\/1918033001\/0625\/001_0_98.jpg"
+ },
+ "id": 1824
+}

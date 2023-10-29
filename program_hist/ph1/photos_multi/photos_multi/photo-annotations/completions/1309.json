@@ -1,0 +1,51 @@
+{
+ "completions": [
+  {
+   "created_at": 1611754442,
+   "id": 1309001,
+   "lead_time": 6.82,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "ttB0lBg_WX",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_dagwood_ver01",
+  "box": [
+   0.6428638200614447,
+   0.4304900221283291,
+   0.9220439437168096,
+   0.5954604556734788
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_dagwood_ver01\/data\/sn90061308\/0029455581A\/1912100901\/0331\/000_0_99.jpg",
+  "geographic_coverage": [
+   "Missouri--Barry--Monett"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_dagwood_ver01%2Fdata%2Fsn90061308%2F0029455581A%2F1912100901%2F0331.jp2\/pct:64.28,43.05,27.92,16.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn90061308",
+  "name": "The Monett times.",
+  "ocr": [
+   "j",
+   "!"
+  ],
+  "page_seq_num": 331,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_dagwood_ver01\/data\/sn90061308\/0029455581A\/1912100901\/0331.jp2",
+  "place_of_publication": "Monett, Mo.",
+  "pub_date": "1912-10-09",
+  "publisher": "D.A. Peters",
+  "score": 0.9943271279335022,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_dagwood_ver01\/data\/sn90061308\/0029455581A\/1912100901\/0331\/000_0_99.jpg"
+ },
+ "id": 1309
+}

@@ -1,0 +1,114 @@
+{
+ "completions": [
+  {
+   "created_at": 1611675715,
+   "id": 646001,
+   "lead_time": 2.333,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "rjHWRcm6c9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mohi_hayden_ver01",
+  "box": [
+   0.07777976769752018,
+   0.04859349968728055,
+   0.21141675269314986,
+   0.2579164496762235
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mohi_hayden_ver01\/data\/sn84020274\/00294559590\/1903041201\/0233\/003_0_91.jpg",
+  "geographic_coverage": [
+   "Missouri--Saint Louis--Saint Louis"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mohi_hayden_ver01%2Fdata%2Fsn84020274%2F00294559590%2F1903041201%2F0233.jp2\/pct:7.77,4.86,13.37,20.94\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020274",
+  "name": "The St. Louis Republic. [volume]",
+  "ocr": [
+   "Orankards",
+   "Cured",
+   "Secretly.",
+   "A",
+   "Bocve",
+   "Care",
+   "Which",
+   "Any",
+   "Lady",
+   "Can",
+   "Giro",
+   "Secretly",
+   "That",
+   "Will",
+   "Positively",
+   "Stop",
+   "Drinking.",
+   "TRIAL",
+   "PACKAGE",
+   "MAILED",
+   "FREE.",
+   "An",
+   "odorless",
+   "and",
+   "tasteless",
+   "remedy",
+   "when",
+   "put",
+   "In",
+   "the",
+   "drunkard's",
+   "coffee",
+   "or",
+   "food",
+   "wl.l",
+   "destroy",
+   "all",
+   "desire",
+   "for",
+   "drink.",
+   "This",
+   "remedy",
+   "Tlie-",
+   "Aoled",
+   "Salvation",
+   "Armr",
+   "\"Worker",
+   "Mlt",
+   "\"I",
+   "Think",
+   "the",
+   "\"World",
+   "Oiren",
+   "a",
+   "Debt",
+   "of",
+   "Cratltnrie-",
+   "to",
+   "Ir.",
+   "Hnlnea,",
+   "the",
+   "DUcoierer",
+   "of",
+   "Golden",
+   "Specinc\""
+  ],
+  "page_seq_num": 233,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mohi_hayden_ver01\/data\/sn84020274\/00294559590\/1903041201\/0233.jp2",
+  "place_of_publication": "St. Louis, Mo.",
+  "pub_date": "1903-04-12",
+  "publisher": "G. Knapp & Co.",
+  "score": 0.9150597453117371,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mohi_hayden_ver01\/data\/sn84020274\/00294559590\/1903041201\/0233\/003_0_91.jpg"
+ },
+ "id": 646
+}

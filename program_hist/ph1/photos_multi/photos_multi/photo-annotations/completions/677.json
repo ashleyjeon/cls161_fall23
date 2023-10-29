@@ -1,0 +1,67 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748402,
+   "id": 677001,
+   "lead_time": 4.821,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "aGmbat-Wh2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_norris_ver01",
+  "box": [
+   0.697100187602796,
+   0.6631304887089416,
+   0.9403251067936769,
+   0.9418488344385427
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_norris_ver01\/data\/sn99021999\/00211102779\/1903062801\/0093\/002_0_97.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_norris_ver01%2Fdata%2Fsn99021999%2F00211102779%2F1903062801%2F0093.jp2\/pct:69.71,66.32,24.33,27.88\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "t",
+   "-",
+   "i",
+   "NJV,",
+   "...",
+   "x",
+   "-",
+   ".",
+   "...",
+   "r",
+   "'",
+   "-",
+   "PATH",
+   "OP",
+   "THE",
+   "\"NIGGER",
+   "CHASER."
+  ],
+  "page_seq_num": 93,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_norris_ver01\/data\/sn99021999\/00211102779\/1903062801\/0093.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1903-06-28",
+  "publisher": "Edward Rosewater",
+  "score": 0.9769541621208191,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_norris_ver01\/data\/sn99021999\/00211102779\/1903062801\/0093\/002_0_97.jpg"
+ },
+ "id": 677
+}

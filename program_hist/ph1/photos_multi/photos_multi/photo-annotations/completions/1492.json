@@ -1,0 +1,68 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767569,
+   "id": 1492001,
+   "lead_time": 1.632,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "pWr48GLzos",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "fu_graham_ver01",
+  "box": [
+   0.1750935591836841,
+   0.11028087590478843,
+   0.3046036581127669,
+   0.30203521207428546
+  ],
+  "edition_seq_num": 1,
+  "filepath": "fu_graham_ver01\/data\/sn87062268\/00415662804\/1914050301\/0041\/011_0_97.jpg",
+  "geographic_coverage": [
+   "Florida--Escambia--Pensacola"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/fu_graham_ver01%2Fdata%2Fsn87062268%2F00415662804%2F1914050301%2F0041.jp2\/pct:17.5,11.03,12.96,19.18\/!500,500\/0\/default.jpg",
+  "lccn": "sn87062268",
+  "name": "The Pensacola journal.",
+  "ocr": [
+   "J",
+   "j",
+   ";",
+   "j",
+   ":",
+   "i",
+   "i",
+   ";",
+   ";",
+   "j",
+   "'",
+   "'",
+   "'':3a,",
+   "a9B",
+   "V",
+   "SSSa",
+   "B",
+   "GILFILLAN",
+   "SCOTT."
+  ],
+  "page_seq_num": 41,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/fu_graham_ver01\/data\/sn87062268\/00415662804\/1914050301\/0041.jp2",
+  "place_of_publication": "Pensacola, Fla.",
+  "pub_date": "1914-05-03",
+  "publisher": "Mayes & Co.",
+  "score": 0.9792470335960388,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/fu_graham_ver01\/data\/sn87062268\/00415662804\/1914050301\/0041\/011_0_97.jpg"
+ },
+ "id": 1492
+}

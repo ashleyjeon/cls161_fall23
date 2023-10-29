@@ -1,0 +1,59 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673735,
+   "id": 427001,
+   "lead_time": 1.752,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "QiEKU_7v1j",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nmu_hollyhock_ver01",
+  "box": [
+   0.059234505025749534,
+   0.2952302863175228,
+   0.16996442354642427,
+   0.4360938618201336
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nmu_hollyhock_ver01\/data\/sn84020613\/00280774170\/1900102201\/1028\/003_0_95.jpg",
+  "geographic_coverage": [
+   "New Mexico--Bernalillo--Albuquerque"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nmu_hollyhock_ver01%2Fdata%2Fsn84020613%2F00280774170%2F1900102201%2F1028.jp2\/pct:5.92,29.53,11.08,14.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn84020613",
+  "name": "Albuquerque daily citizen. [volume]",
+  "ocr": [
+   "Pur",
+   "IV'lo(faUs",
+   "to",
+   "Cunffreaa",
+   "UEKNAUD",
+   "S.",
+   "UOUEY.",
+   "o",
+   ",",
+   "."
+  ],
+  "page_seq_num": 1028,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nmu_hollyhock_ver01\/data\/sn84020613\/00280774170\/1900102201\/1028.jp2",
+  "place_of_publication": "Albuquerque, N.M.",
+  "pub_date": "1900-10-22",
+  "publisher": "Hughes & McCreight",
+  "score": 0.9513828754425049,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nmu_hollyhock_ver01\/data\/sn84020613\/00280774170\/1900102201\/1028\/003_0_95.jpg"
+ },
+ "id": 427
+}

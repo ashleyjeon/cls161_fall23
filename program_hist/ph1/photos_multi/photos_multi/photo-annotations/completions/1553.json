@@ -1,0 +1,119 @@
+{
+ "completions": [
+  {
+   "created_at": 1611772602,
+   "id": 1553001,
+   "lead_time": 3.042,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "4L3vbXpjgQ",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_hoarypuccoon_ver01",
+  "box": [
+   0.2890465915058071,
+   0.21174456443621484,
+   0.7899818884485249,
+   0.361871337890625
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_hoarypuccoon_ver01\/data\/sn83045652\/00280778539\/1915041201\/0294\/000_0_95.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_hoarypuccoon_ver01%2Fdata%2Fsn83045652%2F00280778539%2F1915041201%2F0294.jp2\/pct:28.9,21.18,50.1,15.02\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045652",
+  "name": "Ta\u0308gliche Omaha tribu\u0308ne. [volume]",
+  "ocr": [
+   "i.i",
+   ".",
+   ".",
+   "r",
+   "JLm",
+   ".",
+   "h",
+   "'",
+   "i",
+   ",",
+   ",",
+   "kiv",
+   "'V-!",
+   "-",
+   "....",
+   ",",
+   "(",
+   "f",
+   ".,",
+   ".",
+   ".\"",
+   "'",
+   "if",
+   ".",
+   ",",
+   "O",
+   "4",
+   "jl",
+   "ww.e-",
+   "Zare",
+   "'.'",
+   "r",
+   "\"nStrrtfn",
+   ".",
+   "\"",
+   "'",
+   ",",
+   "X",
+   "0",
+   ".",
+   "-",
+   "K",
+   "\"",
+   "'",
+   ",",
+   ".",
+   "\"",
+   "-v",
+   "r-.",
+   "v",
+   "ir.",
+   ":",
+   "i.",
+   ",",
+   "jfcsp",
+   "H",
+   ".",
+   "t",
+   "A",
+   "-N",
+   ".",
+   "fr,n",
+   "v",
+   ".r",
+   "1-",
+   "0",
+   "f",
+   "-t",
+   "'",
+   "r"
+  ],
+  "page_seq_num": 294,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_hoarypuccoon_ver01\/data\/sn83045652\/00280778539\/1915041201\/0294.jp2",
+  "place_of_publication": "Omaha, Nebr.",
+  "pub_date": "1915-04-12",
+  "publisher": "Tribune Pub. Co.",
+  "score": 0.957564651966095,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_hoarypuccoon_ver01\/data\/sn83045652\/00280778539\/1915041201\/0294\/000_0_95.jpg"
+ },
+ "id": 1553
+}

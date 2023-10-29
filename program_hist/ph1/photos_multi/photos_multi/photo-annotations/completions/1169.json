@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611757213,
+   "id": 1169001,
+   "lead_time": 4.566,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "vwJwkbCHKf",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "mimtptc_edenville_ver01",
+  "box": [
+   0.17183850678006649,
+   0.6427702845495201,
+   0.42800768069160455,
+   0.7960112051883362
+  ],
+  "edition_seq_num": 1,
+  "filepath": "mimtptc_edenville_ver01\/data\/sn83016689\/0027955159A\/1910010301\/0420\/012_0_94.jpg",
+  "geographic_coverage": [
+   "Michigan--Wayne--Detroit"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/mimtptc_edenville_ver01%2Fdata%2Fsn83016689%2F0027955159A%2F1910010301%2F0420.jp2\/pct:17.18,64.28,25.62,15.33\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016689",
+  "name": "The Detroit times. [volume]",
+  "ocr": [
+   "\u2022Good",
+   "Intentions",
+   "For",
+   "1910",
+   "Kw",
+   ":^nHSiaMf9",
+   "Bl>\u00bb",
+   "aW^mHT",
+   "of",
+   "his",
+   "first",
+   "of",
+   "the",
+   "twentieth"
+  ],
+  "page_seq_num": 420,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/mimtptc_edenville_ver01\/data\/sn83016689\/0027955159A\/1910010301\/0420.jp2",
+  "place_of_publication": "Detroit, Mich.",
+  "pub_date": "1910-01-03",
+  "publisher": "Detroit To-Day Co.",
+  "score": 0.9424946904182434,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/mimtptc_edenville_ver01\/data\/sn83016689\/0027955159A\/1910010301\/0420\/012_0_94.jpg"
+ },
+ "id": 1169
+}

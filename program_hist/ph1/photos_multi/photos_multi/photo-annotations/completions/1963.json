@@ -1,0 +1,83 @@
+{
+ "completions": [
+  {
+   "created_at": 1611749629,
+   "id": 1963001,
+   "lead_time": 2.735,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "xFRvTKw9CC",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_carril_ver02",
+  "box": [
+   0.5766885072657835,
+   0.4416271954463953,
+   0.9850851372337728,
+   0.6745187955535116
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_carril_ver02\/data\/sn83030214\/00206532476\/1920011801\/0561\/003_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_carril_ver02%2Fdata%2Fsn83030214%2F00206532476%2F1920011801%2F0561.jp2\/pct:57.66,44.17,40.84,23.29\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030214",
+  "name": "New-York tribune. [volume]",
+  "ocr": [
+   "_?__;_",
+   "__=:",
+   "??",
+   "?.'",
+   ".",
+   "___?____:______",
+   "1\"",
+   "Mothers",
+   "will",
+   "no",
+   "longer",
+   "have",
+   "to",
+   "coax",
+   "sonny",
+   "to",
+   "be",
+   "barbered.",
+   "At",
+   "the",
+   "new",
+   "children's",
+   "shop",
+   "at",
+   "Lord",
+   "&",
+   "Taylor's,",
+   "instead",
+   "of",
+   "the",
+   "familiar",
+   "stiff-backed",
+   "\"dentist's\"",
+   "chair,"
+  ],
+  "page_seq_num": 561,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_carril_ver02\/data\/sn83030214\/00206532476\/1920011801\/0561.jp2",
+  "place_of_publication": "New York [N.Y.]",
+  "pub_date": "1920-01-18",
+  "publisher": "New York Tribune",
+  "score": 0.9040725231170654,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_carril_ver02\/data\/sn83030214\/00206532476\/1920011801\/0561\/003_0_90.jpg"
+ },
+ "id": 1963
+}

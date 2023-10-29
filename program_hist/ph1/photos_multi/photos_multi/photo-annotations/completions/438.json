@@ -1,0 +1,63 @@
+{
+ "completions": [
+  {
+   "created_at": 1611743387,
+   "id": 438001,
+   "lead_time": 4.532,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "bSfUCn61GK",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human",
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "dlc_yorkie_ver01",
+  "box": [
+   0.15516206077424693,
+   0.02276748590594296,
+   0.4249533674353354,
+   0.277886882931905
+  ],
+  "edition_seq_num": 1,
+  "filepath": "dlc_yorkie_ver01\/data\/sn83045462\/00280655363\/1900111701\/0450\/003_0_95.jpg",
+  "geographic_coverage": [
+   "District of Columbia--Washington"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/dlc_yorkie_ver01%2Fdata%2Fsn83045462%2F00280655363%2F1900111701%2F0450.jp2\/pct:15.51,2.28,26.98,25.52\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045462",
+  "name": "Evening star. [volume]",
+  "ocr": [
+   "w.th",
+   "j6",
+   "A",
+   "STRI:ET",
+   "I",
+   "lBY",
+   "Car",
+   ".~.",
+   "s",
+   "i",
+   "GEORGETOWN.",
+   "I",
+   "W\"itb-r."
+  ],
+  "page_seq_num": 450,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/dlc_yorkie_ver01\/data\/sn83045462\/00280655363\/1900111701\/0450.jp2",
+  "place_of_publication": "Washington, D.C.",
+  "pub_date": "1900-11-17",
+  "publisher": "W.D. Wallach & Hope",
+  "score": 0.9543675184249878,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/dlc_yorkie_ver01\/data\/sn83045462\/00280655363\/1900111701\/0450\/003_0_95.jpg"
+ },
+ "id": 438
+}

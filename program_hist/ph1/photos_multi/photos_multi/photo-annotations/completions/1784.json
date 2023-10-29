@@ -1,0 +1,91 @@
+{
+ "completions": [
+  {
+   "created_at": 1611767715,
+   "id": 1784001,
+   "lead_time": 1.508,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "e7HLOAXuA4",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_davey_ver01",
+  "box": [
+   0.755856659149956,
+   0.09879932332128175,
+   0.8722231147998389,
+   0.2949929398097349
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_davey_ver01\/data\/sn83045211\/00237287654\/1918011901\/0039\/010_0_98.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_davey_ver01%2Fdata%2Fsn83045211%2F00237287654%2F1918011901%2F0039.jp2\/pct:75.58,9.88,11.64,19.62\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "THOMAS",
+   "U1I.UX&SKELT",
+   "Exemption",
+   "of",
+   "Baldwin's",
+   "from",
+   "the",
+   "coal",
+   "shutdown",
+   "edict",
+   "permitted",
+   "him",
+   "to",
+   "mark",
+   "his",
+   "ciRhty-third",
+   "birthday",
+   "by",
+   "workinc",
+   "n",
+   "usual",
+   "at",
+   "the",
+   "plant",
+   "where",
+   "he",
+   "has",
+   "been",
+   "employed",
+   "for",
+   "the",
+   "last",
+   "fifty-six",
+   "Hi",
+   "u!",
+   "mt4,",
+   "ms",
+   "-M",
+   "JggJBV.",
+   "r",
+   "t",
+   "-Ml"
+  ],
+  "page_seq_num": 39,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_davey_ver01\/data\/sn83045211\/00237287654\/1918011901\/0039.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1918-01-19",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9857819080352783,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_davey_ver01\/data\/sn83045211\/00237287654\/1918011901\/0039\/010_0_98.jpg"
+ },
+ "id": 1784
+}

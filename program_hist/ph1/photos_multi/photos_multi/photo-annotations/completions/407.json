@@ -1,0 +1,82 @@
+{
+ "completions": [
+  {
+   "created_at": 1611673432,
+   "id": 407001,
+   "lead_time": 0.87,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "3xJNO22VTI",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nn_leibniz_ver01",
+  "box": [
+   0.3884910446206218,
+   0.05883214114839256,
+   0.618767510343027,
+   0.3696532500898849
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nn_leibniz_ver01\/data\/sn83030193\/100481534\/1900090601\/0054\/012_0_90.jpg",
+  "geographic_coverage": [
+   "New York--New York--New York"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nn_leibniz_ver01%2Fdata%2Fsn83030193%2F100481534%2F1900090601%2F0054.jp2\/pct:38.84,5.89,23.03,31.09\/!500,500\/0\/default.jpg",
+  "lccn": "sn83030193",
+  "name": "The evening world. [volume]",
+  "ocr": [
+   "WEDS",
+   "BLACKSMITH",
+   "t",
+   "Pretty",
+   "Julia",
+   "Schreiber",
+   "Repeats",
+   "What",
+   "She",
+   "Calls",
+   "a",
+   "and",
+   "Appeals",
+   "to",
+   "the",
+   "Courts",
+   "for",
+   "Her",
+   "Freedom",
+   "JIMi",
+   "A",
+   "srnnEinEn",
+   "MOIMI",
+   "Marry",
+   "In",
+   "HUMP",
+   "nnti",
+   "r",
+   "cm",
+   "rti",
+   "1110",
+   "lut",
+   "r"
+  ],
+  "page_seq_num": 54,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nn_leibniz_ver01\/data\/sn83030193\/100481534\/1900090601\/0054.jp2",
+  "place_of_publication": "New York, N.Y.",
+  "pub_date": "1900-09-06",
+  "publisher": "[publisher not identified]",
+  "score": 0.9010032415390015,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nn_leibniz_ver01\/data\/sn83030193\/100481534\/1900090601\/0054\/012_0_90.jpg"
+ },
+ "id": 407
+}

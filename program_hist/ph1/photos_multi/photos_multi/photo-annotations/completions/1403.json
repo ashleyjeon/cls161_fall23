@@ -1,0 +1,64 @@
+{
+ "completions": [
+  {
+   "created_at": 1611674823,
+   "id": 1403001,
+   "lead_time": 95.27,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "MinQ2NImWL",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "landscape"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_applejack_ver01",
+  "box": [
+   0.028179653884371353,
+   0.4074933870570866,
+   0.1692348021748742,
+   0.537373412124754
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_applejack_ver01\/data\/sn83016943\/00295877790\/1913050901\/0678\/008_0_90.jpg",
+  "geographic_coverage": [
+   "Mississippi--Noxubee--Macon"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_applejack_ver01%2Fdata%2Fsn83016943%2F00295877790%2F1913050901%2F0678.jp2\/pct:2.81,40.75,14.11,12.99\/!500,500\/0\/default.jpg",
+  "lccn": "sn83016943",
+  "name": "Macon beacon. [volume]",
+  "ocr": [
+   ".ig.MW)",
+   "vm,",
+   "'\"mm'''",
+   "83-",
+   "The",
+   "Best",
+   "Way",
+   "to",
+   "Finish",
+   "Land",
+   "It",
+   "ft",
+   "g",
+   "l",
+   "\""
+  ],
+  "page_seq_num": 678,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_applejack_ver01\/data\/sn83016943\/00295877790\/1913050901\/0678.jp2",
+  "place_of_publication": "Macon, Miss.",
+  "pub_date": "1913-05-09",
+  "publisher": "Henry C. Ferris",
+  "score": 0.9005841612815857,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_applejack_ver01\/data\/sn83016943\/00295877790\/1913050901\/0678\/008_0_90.jpg"
+ },
+ "id": 1403
+}

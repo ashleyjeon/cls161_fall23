@@ -1,0 +1,105 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747467,
+   "id": 1415001,
+   "lead_time": 1.45,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "-ECs8JyBUj",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "oru_iraryan_ver01",
+  "box": [
+   0.051018591438020976,
+   0.7083455439401637,
+   0.1802943093436105,
+   0.9536008382304482
+  ],
+  "edition_seq_num": 1,
+  "filepath": "oru_iraryan_ver01\/data\/97071090\/00200298275\/1913052801\/1016\/015_0_94.jpg",
+  "geographic_coverage": [
+
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/oru_iraryan_ver01%2Fdata%2F97071090%2F00200298275%2F1913052801%2F1016.jp2\/pct:5.1,70.84,12.93,24.53\/!500,500\/0\/default.jpg",
+  "lccn": "97071090",
+  "name": "Medford mail tribune. (Medford, Or.) 1909-1989. [online resource]",
+  "ocr": [
+   "DR.",
+   "VAN",
+   "DYKE",
+   "CHALLENGES",
+   "PRESBYTERIAN",
+   "CHURCH",
+   "A",
+   "'HVPBPrTlJlJ",
+   "f",
+   "JJV",
+   "mmmWkllW'",
+   "vr'm.",
+   "Dr.",
+   "Ilonri'",
+   "Vnn",
+   "Dyke,",
+   "professor",
+   "of",
+   "litornturo",
+   "nt",
+   "Princeton",
+   "University,",
+   "mid",
+   "long",
+   "ft",
+   "prominent",
+   "Presbyterian,",
+   "has",
+   "challenged",
+   "his",
+   "church",
+   "organiza",
+   "tion",
+   "to",
+   "\"ry",
+   "ft",
+   "prown",
+   "man\"",
+   "for",
+   "what",
+   "some",
+   "members",
+   "cull",
+   "heresy,",
+   "rather",
+   "than",
+   "hia",
+   "son,",
+   "who",
+   "has",
+   "just",
+   "been",
+   "or-",
+   "tfaiued.",
+   ".",
+   "."
+  ],
+  "page_seq_num": 1016,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/oru_iraryan_ver01\/data\/97071090\/00200298275\/1913052801\/1016.jp2",
+  "place_of_publication": "Oregon.",
+  "pub_date": "1913-05-28",
+  "publisher": null,
+  "score": 0.9475303888320923,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/oru_iraryan_ver01\/data\/97071090\/00200298275\/1913052801\/1016\/015_0_94.jpg"
+ },
+ "id": 1415
+}

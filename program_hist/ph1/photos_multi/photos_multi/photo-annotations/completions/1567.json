@@ -1,0 +1,70 @@
+{
+ "completions": [
+  {
+   "created_at": 1611747941,
+   "id": 1567001,
+   "lead_time": 1.955,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "EkzwLhTbC2",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "ct_beatles_ver01",
+  "box": [
+   0.22049574160664498,
+   0.06260145933402445,
+   0.3690420951985072,
+   0.2989941438565106
+  ],
+  "edition_seq_num": 1,
+  "filepath": "ct_beatles_ver01\/data\/sn84027718\/00414219500\/1915012801\/0037\/006_0_93.jpg",
+  "geographic_coverage": [
+   "Connecticut--Litchfield--Canaan",
+   "Connecticut--Litchfield--North Canaan",
+   "Connecticut--Litchfield--Salisbury"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/ct_beatles_ver01%2Fdata%2Fsn84027718%2F00414219500%2F1915012801%2F0037.jp2\/pct:22.04,6.27,14.86,23.64\/!500,500\/0\/default.jpg",
+  "lccn": "sn84027718",
+  "name": "Connecticut western news. [volume]",
+  "ocr": [
+   "J.",
+   "D.",
+   "ROCKEFELLER,",
+   "JR.",
+   "Witness",
+   "at",
+   "Industrial",
+   "Hearing",
+   "Tells",
+   "Committee",
+   "About",
+   "Foundation",
+   "Fund.",
+   "::-",
+   "I'Sff",
+   "1",
+   "!",
+   ".'",
+   "':-"
+  ],
+  "page_seq_num": 37,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/ct_beatles_ver01\/data\/sn84027718\/00414219500\/1915012801\/0037.jp2",
+  "place_of_publication": "Salisbury, Litchfield Co., Conn.",
+  "pub_date": "1915-01-28",
+  "publisher": "J.L. Pease",
+  "score": 0.9306344985961914,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/ct_beatles_ver01\/data\/sn84027718\/00414219500\/1915012801\/0037\/006_0_93.jpg"
+ },
+ "id": 1567
+}

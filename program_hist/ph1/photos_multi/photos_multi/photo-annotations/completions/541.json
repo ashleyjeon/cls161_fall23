@@ -1,0 +1,96 @@
+{
+ "completions": [
+  {
+   "created_at": 1611769018,
+   "id": 541001,
+   "lead_time": 4.525,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "eoKGocg_49",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human-structure"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "iune_folio_ver01",
+  "box": [
+   0.341069862024108,
+   0.1998155246527431,
+   0.6792065634656308,
+   0.40849404136974593
+  ],
+  "edition_seq_num": 1,
+  "filepath": "iune_folio_ver01\/data\/sn92053934\/00212471914\/1902042601\/0238\/001_0_99.jpg",
+  "geographic_coverage": [
+   "Illinois--Rock Island County--Rock Island"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/iune_folio_ver01%2Fdata%2Fsn92053934%2F00212471914%2F1902042601%2F0238.jp2\/pct:34.1,19.99,33.82,20.87\/!500,500\/0\/default.jpg",
+  "lccn": "sn92053934",
+  "name": "Rock Island Argus.",
+  "ocr": [
+   "!",
+   "'I'l",
+   "11",
+   "\"",
+   "\"",
+   ".)",
+   "ii'",
+   ":'j:",
+   "i",
+   "t",
+   "Tr1",
+   "-'",
+   "iVj'",
+   "ret-:.--",
+   "'",
+   "K.",
+   "ROCK",
+   "\"",
+   ".",
+   "'J'V'.1",
+   "'",
+   "Ji",
+   "-ii",
+   ".iiii",
+   "V",
+   "\"-4m3fl;",
+   ":",
+   "Ifi.",
+   "-",
+   "'",
+   "-",
+   "-a--,---.-?:",
+   ".",
+   "-..--..r-",
+   "'",
+   "ISLAND",
+   "CoTNTY",
+   "COURT",
+   "t",
+   "mm',",
+   "i'.p.ii",
+   "r-",
+   "v",
+   "'",
+   "''-",
+   "-x",
+   "HOl'SK."
+  ],
+  "page_seq_num": 238,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/iune_folio_ver01\/data\/sn92053934\/00212471914\/1902042601\/0238.jp2",
+  "place_of_publication": "Rock Island, Ill.",
+  "pub_date": "1902-04-26",
+  "publisher": "J.W. Potter",
+  "score": 0.9915470480918884,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/iune_folio_ver01\/data\/sn92053934\/00212471914\/1902042601\/0238\/001_0_99.jpg"
+ },
+ "id": 541
+}

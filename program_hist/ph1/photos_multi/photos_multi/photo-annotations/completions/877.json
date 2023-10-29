@@ -1,0 +1,65 @@
+{
+ "completions": [
+  {
+   "created_at": 1611766343,
+   "id": 877001,
+   "lead_time": 2.257,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "57rNsWcGhV",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "msar_diamond_ver01",
+  "box": [
+   0.28598002431500785,
+   0.053669305327526715,
+   0.4003122916938581,
+   0.21702348771948743
+  ],
+  "edition_seq_num": 1,
+  "filepath": "msar_diamond_ver01\/data\/sn87065469\/00383344049\/1906092701\/1432\/002_0_98.jpg",
+  "geographic_coverage": [
+   "Mississippi--Lafayette--Oxford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/msar_diamond_ver01%2Fdata%2Fsn87065469%2F00383344049%2F1906092701%2F1432.jp2\/pct:28.59,5.37,11.44,16.34\/!500,500\/0\/default.jpg",
+  "lccn": "sn87065469",
+  "name": "Oxford eagle.",
+  "ocr": [
+   "\/PERUNA",
+   "PRAISED.",
+   "Bn*",
+   "331,",
+   "IMirxff.",
+   "Oh",
+   "MX",
+   "Dr.",
+   "S",
+   "|l",
+   "liar",
+   "man.",
+   "ColumkA.",
+   "Oh;^",
+   "Iw-ar",
+   "Sir:\u2014"
+  ],
+  "page_seq_num": 1432,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/msar_diamond_ver01\/data\/sn87065469\/00383344049\/1906092701\/1432.jp2",
+  "place_of_publication": "Oxford, Lafayette Co., Miss.",
+  "pub_date": "1906-09-27",
+  "publisher": "J.E. Herndon",
+  "score": 0.9882434606552124,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/msar_diamond_ver01\/data\/sn87065469\/00383344049\/1906092701\/1432\/002_0_98.jpg"
+ },
+ "id": 877
+}

@@ -1,0 +1,52 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768074,
+   "id": 642001,
+   "lead_time": 1.911,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "Lhq14wwnX9",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "kyu_gratefuldead_ver01",
+  "box": [
+   0.476103206423153,
+   0.11432934419263076,
+   0.6248217258101089,
+   0.21486319062034545
+  ],
+  "edition_seq_num": 1,
+  "filepath": "kyu_gratefuldead_ver01\/data\/sn85052020\/00175045533\/1903010201\/0425\/003_0_97.jpg",
+  "geographic_coverage": [
+   "Kentucky--Lincoln--Stanford"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/kyu_gratefuldead_ver01%2Fdata%2Fsn85052020%2F00175045533%2F1903010201%2F0425.jp2\/pct:47.61,11.44,14.88,10.06\/!500,500\/0\/default.jpg",
+  "lccn": "sn85052020",
+  "name": "Semi-weekly interior journal. [volume]",
+  "ocr": [
+   "JESSE",
+   "F",
+   "COOK"
+  ],
+  "page_seq_num": 425,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/kyu_gratefuldead_ver01\/data\/sn85052020\/00175045533\/1903010201\/0425.jp2",
+  "place_of_publication": "Stanford, Ky.",
+  "pub_date": "1903-01-02",
+  "publisher": "W.P. Walton",
+  "score": 0.9790235757827759,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/kyu_gratefuldead_ver01\/data\/sn85052020\/00175045533\/1903010201\/0425\/003_0_97.jpg"
+ },
+ "id": 642
+}

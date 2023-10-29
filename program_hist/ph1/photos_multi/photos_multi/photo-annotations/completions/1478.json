@@ -1,0 +1,73 @@
+{
+ "completions": [
+  {
+   "created_at": 1611748409,
+   "id": 1478001,
+   "lead_time": 1.674,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "X4fUlct6uU",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "pst_beaver_ver01",
+  "box": [
+   0.45080881356344527,
+   0.8183779649331536,
+   0.5847788818648985,
+   0.9833717883472711
+  ],
+  "edition_seq_num": 1,
+  "filepath": "pst_beaver_ver01\/data\/sn83045211\/00237282048\/1914091801\/0300\/011_0_91.jpg",
+  "geographic_coverage": [
+   "Pennsylvania--Philadelphia--Philadelphia"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/pst_beaver_ver01%2Fdata%2Fsn83045211%2F00237282048%2F1914091801%2F0300.jp2\/pct:45.08,81.84,13.4,16.5\/!500,500\/0\/default.jpg",
+  "lccn": "sn83045211",
+  "name": "Evening public ledger. [volume]",
+  "ocr": [
+   "POLICEMAN",
+   "KILLED",
+   "BY",
+   "NEGRO",
+   "Frank",
+   "A.",
+   "Sankey,",
+   "of",
+   "the",
+   "61st",
+   "and",
+   "Thompson",
+   "streets",
+   "station,",
+   "who",
+   "died",
+   "this",
+   "mornine",
+   "as",
+   "the",
+   "result",
+   "of",
+   "a",
+   "bullet"
+  ],
+  "page_seq_num": 300,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/pst_beaver_ver01\/data\/sn83045211\/00237282048\/1914091801\/0300.jp2",
+  "place_of_publication": "Philadelphia [Pa.]",
+  "pub_date": "1914-09-18",
+  "publisher": "Public Ledger Co.",
+  "score": 0.9190868735313416,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/pst_beaver_ver01\/data\/sn83045211\/00237282048\/1914091801\/0300\/011_0_91.jpg"
+ },
+ "id": 1478
+}

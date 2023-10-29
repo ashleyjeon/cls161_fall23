@@ -1,0 +1,62 @@
+{
+ "completions": [
+  {
+   "created_at": 1611768523,
+   "id": 1233001,
+   "lead_time": 4.44,
+   "result": [
+    {
+     "from_name": "choice",
+     "id": "9wOFr-iwpR",
+     "to_name": "image",
+     "type": "choices",
+     "value": {
+      "choices": [
+       "human"
+      ]
+     }
+    }
+   ]
+  }
+ ],
+ "data": {
+  "batch": "nbu_rosewater_ver01",
+  "box": [
+   0.1669007378655511,
+   0.2427496877657313,
+   0.701297107043567,
+   0.41582904218816436
+  ],
+  "edition_seq_num": 1,
+  "filepath": "nbu_rosewater_ver01\/data\/sn99021999\/00280778710\/1911102901\/1122\/015_0_92.jpg",
+  "geographic_coverage": [
+   "Nebraska--Douglas--Omaha"
+  ],
+  "image": "https:\/\/chroniclingamerica.loc.gov\/iiif\/2\/nbu_rosewater_ver01%2Fdata%2Fsn99021999%2F00280778710%2F1911102901%2F1122.jp2\/pct:16.69,24.28,53.44,17.31\/!500,500\/0\/default.jpg",
+  "lccn": "sn99021999",
+  "name": "Omaha daily bee.",
+  "ocr": [
+   "the",
+   "at",
+   "pin",
+   "f",
+   ",2",
+   "2",
+   "?",
+   "DISPLAY",
+   "OF",
+   "WILLAMETTE",
+   "VALLEY",
+   "FRUIT",
+   "GROWERS."
+  ],
+  "page_seq_num": 1122,
+  "page_url": "https:\/\/chroniclingamerica.loc.gov\/data\/batches\/nbu_rosewater_ver01\/data\/sn99021999\/00280778710\/1911102901\/1122.jp2",
+  "place_of_publication": "Omaha [Neb.]",
+  "pub_date": "1911-10-29",
+  "publisher": "Edward Rosewater",
+  "score": 0.9285091757774353,
+  "url": "https:\/\/news-navigator.labs.loc.gov\/data\/nbu_rosewater_ver01\/data\/sn99021999\/00280778710\/1911102901\/1122\/015_0_92.jpg"
+ },
+ "id": 1233
+}
